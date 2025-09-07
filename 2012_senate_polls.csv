@@ -1,0 +1,614 @@
+pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state
+PPP (D),2012/11/03,2012/11/04,955,LV,46,51,,2012,florida
+TBT/Herald/Mason-Dixon,2012/10/30,2012/11/01,800,LV,43,49,,2012,florida
+NBC/WSJ/Marist,2012/10/30,2012/11/01,1545,LV,43,52,,2012,florida
+Gravis Marketing,2012/10/30,2012/10/30,549,LV,46,49,,2012,florida
+SurveyUSA,2012/10/25,2012/10/27,595,LV,41,49,,2012,florida
+PPP (D),2012/10/26,2012/10/28,687,LV,42,50,,2012,florida
+CBS/NYT/Quinnipiac,2012/10/23,2012/10/28,1073,LV,39,52,,2012,florida
+Rasmussen Reports,2012/10/25,2012/10/25,750,LV,46,49,,2012,florida
+Sunshine State News/VSS,2012/10/22,2012/10/24,1001,LV,44,49,,2012,florida
+Rasmussen Reports,2012/10/18,2012/10/18,750,LV,43,48,,2012,florida
+PPP (D),2012/10/17,2012/10/18,800,LV,41,45,,2012,florida
+SurveyUSA,2012/10/17,2012/10/18,600,LV,40,48,,2012,florida
+PPP (D),2012/10/12,2012/10/14,791,LV,37,45,,2012,florida
+Rasmussen Reports,2012/10/11,2012/10/11,750,LV,45,46,,2012,florida
+TBT/Herald/Mason-Dixon,2012/10/08,2012/10/10,800,LV,42,47,,2012,florida
+NBC/WSJ/Marist,2012/10/07,2012/10/09,988,LV,39,52,,2012,florida
+UNF,2012/10/01,2012/10/09,683,LV,40,50,,2012,florida
+Rasmussen Reports,2012/10/04,2012/10/04,500,LV,41,52,,2012,florida
+WeAskAmerica,2012/10/04,2012/10/04,1200,LV,44,44,,2012,florida
+NBC/WSJ/Marist,2012/09/30,2012/10/01,890,LV,41,52,,2012,florida
+Gravis Marketing,2012/09/29,2012/09/30,914,LV,43,43,,2012,florida
+Suffolk/WSVN*,2012/09/27,2012/09/30,600,LV,34,40,,2012,florida
+PPP (D),2012/09/20,2012/09/23,861,LV,37,46,,2012,florida
+Washington Post,2012/09/19,2012/09/23,769,LV,40,54,,2012,florida
+CBS/NYT/Quinnipiac,2012/09/18,2012/09/24,1196,LV,39,53,,2012,florida
+TBT/Herald/Mason-Dixon,2012/09/17,2012/09/19,800,LV,40,48,,2012,florida
+WeAskAmerica,2012/09/18,2012/09/18,1230,LV,42,47,,2012,florida
+FOX News,2012/09/16,2012/09/18,829,LV,35,49,,2012,florida
+Gravis Marketing,2012/09/15,2012/09/16,1728,LV,43,42,,2012,florida
+Rasmussen Reports,2012/09/12,2012/09/12,500,LV,40,47,,2012,florida
+NBC/WSJ/Marist,2012/09/09,2012/09/11,980,LV,37,51,,2012,florida
+SurveyUSA,2012/09/07,2012/09/09,596,LV,36,47,,2012,florida
+Gravis Marketing,2012/09/02,2012/09/02,1288,LV,42,43,,2012,florida
+PPP (D),2012/08/31,2012/09/02,1548,LV,38,45,,2012,florida
+Gravis Marketing,2012/08/20,2012/08/20,728,LV,39,46,,2012,florida
+CBS/NYT/Quinnipiac,2012/08/15,2012/08/21,1241,LV,41,50,,2012,florida
+Rasmussen Reports,2012/08/15,2012/08/15,500,LV,40,47,,2012,florida
+PPP (D),2012/07/26,2012/07/29,871,LV,43,45,,2012,florida
+CBS/NYT/Quinnipiac,2012/07/24,2012/07/30,1177,LV,40,47,,2012,florida
+SurveyUSA,2012/07/17,2012/07/19,647,LV,48,42,,2012,florida
+Mason-Dixon,2012/07/09,2012/07/11,800,LV,42,47,,2012,florida
+Rasmussen Reports,2012/07/09,2012/07/09,500,LV,46,37,,2012,florida
+Quinnipiac,2012/06/19,2012/06/25,1200,RV,40,41,,2012,florida
+Quinnipiac,2012/06/12,2012/06/18,1697,RV,39,43,,2012,florida
+PPP (D),2012/05/31,2012/06/03,642,RV,36,49,,2012,florida
+NBC News/Marist,2012/05/17,2012/05/20,1078,RV,42,46,,2012,florida
+Quinnipiac,2012/05/15,2012/05/21,1722,RV,42,41,,2012,florida
+Rasmussen Reports,2012/04/25,2012/04/25,500,LV,36,47,,2012,florida
+PPP (D),2012/04/12,2012/04/15,700,RV,37,47,,2012,florida
+Quinnipiac,2012/03/20,2012/03/26,1228,RV,36,44,,2012,florida
+Rasmussen Reports,2012/03/13,2012/03/13,500,LV,43,36,,2012,florida
+Rasmussen Reports,2012/02/13,2012/02/13,500,LV,41,41,,2012,florida
+TBT/Herald/Mason-Dixon,2012/01/24,2012/01/26,800,LV,42,45,,2012,florida
+Suffolk/WSVN,2012/01/22,2012/01/24,600,LV,32,42,,2012,florida
+Quinnipiac,2012/01/04,2012/01/08,1412,RV,40,41,,2012,florida
+PPP (D),2011/11/28,2011/12/01,700,RV,35,46,,2012,florida
+Rasmussen Reports,2011/11/17,2011/11/17,500,LV,43,39,,2012,florida
+Quinnipiac,2011/10/31,2011/11/07,1185,RV,40,42,,2012,florida
+PPP (D),2011/03/24,2011/03/27,500,RV,34,47,,2012,florida
+Mason-Dixon,2011/02/09,2011/02/10,625,RV,40,45,,2012,florida
+PPP (D),2010/12/17,2010/12/20,1034,RV,36,44,,2012,florida
+PPP (D),2010/10/09,2010/10/10,448,LV,33,42,,2012,florida
+PPP (D),2012/11/02,2012/11/03,1080,LV,51,46,,2012,arizona
+Rasmussen Reports,2012/10/21,2012/10/21,500,LV,50,44,,2012,arizona
+Behavior Research Center,2012/10/04,2012/10/10,,LV,40,44,,2012,arizona
+PPP (D),2012/10/01,2012/10/03,595,LV,43,45,,2012,arizona
+HighGround/Moore (R)*,2012/09/25,2012/09/26,500,LV,43,40,,2012,arizona
+Rasmussen Reports,2012/09/25,2012/09/25,500,LV,47,41,,2012,arizona
+PPP (D),2012/09/07,2012/09/09,993,LV,44,43,,2012,arizona
+PPP (D),2012/07/23,2012/07/25,833,RV,38,38,,2012,arizona
+Rasmussen Reports,2012/06/26,2012/06/26,500,LV,47,31,,2012,arizona
+Project New America/PPP (D),2012/06/04,2012/06/05,791,LV,43,41,,2012,arizona
+PPP (D),2012/05/17,2012/05/20,500,RV,48,35,,2012,arizona
+Magellan (R),2012/04/30,2012/05/02,909,LV,44,40,,2012,arizona
+Rasmussen Reports,2012/03/13,2012/03/13,500,LV,47,34,,2012,arizona
+NBC News/Marist,2012/02/19,2012/02/20,2487,RV,42,29,,2012,arizona
+PPP (D),2012/02/17,2012/02/19,743,RV,46,35,,2012,arizona
+PPP (D),2011/11/17,2011/11/20,500,RV,40,36,,2012,arizona
+Mitchell Research,2012/11/04,2012/11/04,1305,LV,41,55,,2012,michigan
+Baydoun/Foster (D),2012/11/02,2012/11/02,1913,LV,44,50,,2012,michigan
+PPP (D),2012/11/01,2012/11/03,700,LV,42,55,,2012,michigan
+Detroit News,2012/10/27,2012/10/29,600,LV,38,52,,2012,michigan
+EPIC-MRA,2012/10/26,2012/10/29,600,LV,33,54,,2012,michigan
+Rasmussen Reports,2012/10/11,2012/10/11,500,LV,39,51,,2012,michigan
+Detroit News,2012/10/06,2012/10/08,600,LV,38,50,,2012,michigan
+EPIC-MRA,2012/10/04,2012/10/06,600,LV,35,55,,2012,michigan
+Baydoun/Foster (D),2012/10/05,2012/10/05,1122,LV,43,51,,2012,michigan
+Gravis Marketing,2012/09/21,2012/09/22,804,LV,40,54,,2012,michigan
+Rasmussen Reports,2012/09/20,2012/09/20,500,LV,37,53,,2012,michigan
+Detroit News,2012/09/15,2012/09/17,600,LV,34,50,,2012,michigan
+MRG,2012/09/10,2012/09/15,600,LV,40,46,,2012,michigan
+Baydoun/Foster (D),2012/09/12,2012/09/12,1156,LV,42,47,,2012,michigan
+EPIC-MRA,2012/09/08,2012/09/11,600,LV,38,49,,2012,michigan
+PPP (D),2012/08/31,2012/09/02,815,LV,41,50,,2012,michigan
+EPIC-MRA,2012/08/28,2012/08/28,1200,LV,44,51,,2012,michigan
+Mitchell Research,2012/08/23,2012/08/23,1277,LV,45,44,,2012,michigan
+Detroit News,2012/08/18,2012/08/20,600,LV,40,48,,2012,michigan
+Baydoun/Foster (D),2012/08/16,2012/08/16,1733,LV,48,46,,2012,michigan
+Baydoun/Foster (D),2012/07/28,2012/07/28,1046,LV,43,53,,2012,michigan
+EPIC-MRA,2012/07/24,2012/07/31,600,LV,35,49,,2012,michigan
+Rasmussen Reports,2012/07/23,2012/07/23,500,LV,40,46,,2012,michigan
+PPP (D),2012/07/21,2012/07/23,579,RV,38,52,,2012,michigan
+NBC News/Marist,2012/06/24,2012/06/25,1078,RV,37,49,,2012,michigan
+Rasmussen Reports,2012/06/14,2012/06/14,500,LV,39,48,,2012,michigan
+EPIC-MRA,2012/06/02,2012/06/05,600,LV,38,49,,2012,michigan
+PPP (D),2012/05/24,2012/05/27,500,RV,37,53,,2012,michigan
+MRG,2012/03/14,2012/03/19,600,LV,40,45,,2012,michigan
+NBC News/Marist,2012/02/19,2012/02/20,3149,RV,32,53,,2012,michigan
+PPP (D),2012/02/10,2012/02/12,560,RV,37,51,,2012,michigan
+EPIC-MRA,2011/11/13,2011/11/16,600,LV,42,48,,2012,michigan
+EPIC-MRA,2011/08/13,2011/08/16,600,LV,38,47,,2012,michigan
+PPP (D),2011/07/21,2011/07/24,593,RV,41,50,,2012,michigan
+PPP (D),2011/03/18,2011/03/20,502,RV,38,50,,2012,michigan
+EPIC-MRA,2011/02/12,2011/02/17,600,LV,42,44,,2012,michigan
+Wilson Research (R),2011/01/09,2011/01/11,601,LV,41,47,,2012,michigan
+PPP (D),2010/12/03,2010/12/06,1224,RV,44,45,,2012,michigan
+PPP (D)*,2012/11/02,2012/11/03,835,LV,44,48,,2012,missouri
+WeAskAmerica*,2012/10/30,2012/10/30,1217,LV,45,49,,2012,missouri
+SurveyUSA*,2012/10/28,2012/11/03,589,LV,36,51,,2012,missouri
+Post-Dispatch/Mason-Dixon*,2012/10/23,2012/10/25,625,LV,43,45,,2012,missouri
+PPP (D)*,2012/10/19,2012/10/21,582,LV,40,46,,2012,missouri
+Rasmussen Reports,2012/10/17,2012/10/17,500,LV,43,51,,2012,missouri
+Rasmussen Reports,2012/10/02,2012/10/02,500,LV,45,51,,2012,missouri
+PPP (D)*,2012/10/01,2012/10/03,700,LV,40,46,,2012,missouri
+WeAskAmerica,2012/09/25,2012/09/27,1145,LV,45,46,,2012,missouri
+Gravis Marketing,2012/09/16,2012/09/17,1959,LV,44,40,,2012,missouri
+Rasmussen Reports,2012/09/11,2012/09/11,500,LV,43,49,,2012,missouri
+PPP (D),2012/08/28,2012/08/29,621,LV,44,45,,2012,missouri
+Post-Dispatch/Mason-Dixon,2012/08/22,2012/08/23,625,LV,41,50,,2012,missouri
+Gravis Marketing,2012/08/23,2012/08/23,1057,RV,37,39,,2012,missouri
+Rasmussen Reports,2012/08/22,2012/08/22,500,LV,38,48,,2012,missouri
+PPP (D),2012/08/20,2012/08/20,500,LV,44,43,,2012,missouri
+SurveyUSA*,2012/08/09,2012/08/12,585,LV,51,40,,2012,missouri
+Rasmussen Reports,2012/07/30,2012/07/30,500,LV,47,44,,2012,missouri
+Post-Dispatch/Mason-Dixon,2012/07/23,2012/07/25,625,LV,49,44,,2012,missouri
+Rasmussen Reports,2012/06/07,2012/06/07,500,LV,50,42,,2012,missouri
+PPP (D),2012/05/24,2012/05/27,602,RV,45,44,,2012,missouri
+Rasmussen Reports,2012/04/17,2012/04/17,500,LV,48,43,,2012,missouri
+Rasmussen Reports,2012/03/14,2012/03/15,500,LV,50,43,,2012,missouri
+PPP (D),2012/01/27,2012/01/29,582,RV,43,43,,2012,missouri
+Rasmussen Reports,2011/11/09,2011/11/09,500,LV,45,47,,2012,missouri
+PPP (D),2011/09/09,2011/09/12,632,RV,43,45,,2012,missouri
+PPP (D),2011/04/28,2011/05/01,555,RV,45,46,,2012,missouri
+PPP (D),2011/03/03,2011/03/06,612,RV,44,45,,2012,missouri
+Baselice \u0026amp; Associates (R)*,2012/10/10,2012/10/14,851,LV,51,33,,2012,texas
+Texas Lyceum,2012/09/10,2012/09/26,443,LV,50,24,,2012,texas
+PPP (D),2012/04/19,2012/04/22,591,RV,44,34,,2012,texas
+PPP (D),2012/01/12,2012/01/15,700,RV,41,31,,2012,texas
+UMass Lowell/Boston Herald,2012/10/31,2012/11/03,800,LV,49,48,,2012,massachusetts
+PPP (D),2012/11/01,2012/11/02,1089,LV,46,52,,2012,massachusetts
+Western NE University,2012/10/26,2012/11/01,535,LV,46,50,,2012,massachusetts
+Suffolk/7News,2012/10/25,2012/10/28,600,LV,46,53,,2012,massachusetts
+Boston Globe,2012/10/24,2012/10/28,583,LV,47,47,,2012,massachusetts
+Rasmussen Reports,2012/10/25,2012/10/25,500,LV,47,52,,2012,massachusetts
+WBUR/MassINC,2012/10/21,2012/10/22,516,LV,44,50,,2012,massachusetts
+Rasmussen Reports,2012/10/10,2012/10/10,500,LV,47,49,,2012,massachusetts
+PPP (D),2012/10/09,2012/10/11,1051,LV,44,50,,2012,massachusetts
+WBUR/MassINC,2012/10/05,2012/10/07,501,LV,48,45,,2012,massachusetts
+Western NE University,2012/09/28,2012/10/04,440,LV,45,50,,2012,massachusetts
+WBUR/MassINC,2012/09/26,2012/09/28,504,LV,45,49,,2012,massachusetts
+Rasmussen Reports,2012/09/24,2012/09/24,500,LV,48,48,,2012,massachusetts
+Boston Globe,2012/09/21,2012/09/27,502,LV,38,43,,2012,massachusetts
+WBUR/MassINC,2012/09/15,2012/09/17,507,LV,42,47,,2012,massachusetts
+UMass Lowell/Boston Herald,2012/09/13,2012/09/17,497,LV,49,45,,2012,massachusetts
+Suffolk/7News,2012/09/13,2012/09/16,600,LV,44,48,,2012,massachusetts
+PPP (D),2012/09/13,2012/09/16,876,LV,46,48,,2012,massachusetts
+Western NE University,2012/09/06,2012/09/13,444,LV,44,50,,2012,massachusetts
+PPP (D),2012/08/16,2012/08/19,1115,LV,49,44,,2012,massachusetts
+MassINC,2012/07/19,2012/07/22,445,RV,38,40,,2012,massachusetts
+PPP (D),2012/06/22,2012/06/24,902,RV,46,46,,2012,massachusetts
+Boston Globe,2012/05/25,2012/05/31,651,LV,39,37,,2012,massachusetts
+Western NE University,2012/05/29,2012/05/31,504,RV,43,45,,2012,massachusetts
+Suffolk/7News,2012/05/20,2012/05/22,600,LV,48,47,,2012,massachusetts
+Rasmussen Reports,2012/05/07,2012/05/07,500,LV,45,45,,2012,massachusetts
+MassINC,2012/04/25,2012/04/28,438,RV,41,43,,2012,massachusetts
+Rasmussen Reports,2012/04/09,2012/04/09,500,LV,45,46,,2012,massachusetts
+Boston Globe,2012/03/21,2012/03/27,544,LV,37,35,,2012,massachusetts
+PPP (D),2012/03/16,2012/03/18,936,RV,41,46,,2012,massachusetts
+Western NE University,2012/02/23,2012/03/01,527,RV,49,41,,2012,massachusetts
+Rasmussen Reports,2012/02/29,2012/02/29,500,LV,49,44,,2012,massachusetts
+Suffolk/7News,2012/02/11,2012/02/15,600,LV,49,40,,2012,massachusetts
+WBUR/MassINC,2012/02/06,2012/02/09,503,LV,43,46,,2012,massachusetts
+Mass Insight/Opinion Dynamics,2012/01/31,2012/02/04,456,RV,52,42,,2012,massachusetts
+UMass Lowell/Boston Herald,2011/12/01,2011/12/06,505,RV,42,49,,2012,massachusetts
+Western NE University,2011/09/29,2011/10/05,475,RV,47,42,,2012,massachusetts
+UMass Lowell/Boston Herald,2011/09/22,2011/09/28,1005,RV,41,38,,2012,massachusetts
+PPP (D),2011/09/16,2011/09/18,791,RV,44,46,,2012,massachusetts
+WBUR/MassINC,2011/08/30,2011/09/01,500,LV,44,35,,2012,massachusetts
+PPP (D),2011/06/02,2011/06/05,957,RV,47,32,,2012,massachusetts
+Western NE University,2011/03/06,2011/03/10,472,RV,51,34,,2012,massachusetts
+PPP (D)*,2012/11/02,2012/11/03,836,LV,46,48,,2012,montana
+Mason-Dixon,2012/10/29,2012/10/31,625,LV,49,45,,2012,montana
+Rasmussen Reports,2012/10/29,2012/10/29,500,LV,48,49,,2012,montana
+Rasmussen Reports,2012/10/14,2012/10/14,500,LV,48,48,,2012,montana
+PPP (D)*,2012/10/08,2012/10/10,737,LV,43,45,,2012,montana
+Montana State U.*,2012/09/27,2012/09/30,477,LV,43,40,,2012,montana
+Mason-Dixon,2012/09/17,2012/09/19,625,LV,48,45,,2012,montana
+PPP (D)*,2012/09/10,2012/09/11,656,LV,43,45,,2012,montana
+Rasmussen Reports,2012/08/20,2012/08/20,500,LV,47,43,,2012,montana
+Rasmussen Reports,2012/06/18,2012/06/18,500,LV,49,47,,2012,montana
+Rasmussen Reports,2012/05/02,2012/05/02,450,LV,53,43,,2012,montana
+PPP (D),2012/04/26,2012/04/29,934,RV,43,48,,2012,montana
+Rasmussen Reports,2012/04/02,2012/04/02,500,LV,47,44,,2012,montana
+Rasmussen Reports,2012/02/22,2012/02/22,500,LV,47,44,,2012,montana
+POS/FM3,2012/01/02,2012/01/07,400,RV,46,43,,2012,montana
+PPP (D),2011/11/28,2011/11/30,1625,RV,47,45,,2012,montana
+PPP (D),2011/06/16,2011/06/19,819,RV,47,45,,2012,montana
+Billings Gazette,2011/03/14,2011/03/16,625,LV,45,46,,2012,montana
+PPP (D),2010/11/10,2010/11/13,1176,RV,48,46,,2012,montana
+PPP (D),2012/11/02,2012/11/03,1256,LV,48,51,,2012,wisconsin
+WeAskAmerica,2012/10/30,2012/11/01,1210,LV,46,49,,2012,wisconsin
+Rasmussen Reports,2012/10/29,2012/10/29,750,LV,48,48,,2012,wisconsin
+NBC/WSJ/Marist,2012/10/28,2012/10/29,1065,LV,47,48,,2012,wisconsin
+Marquette University,2012/10/25,2012/10/28,1243,LV,43,47,,2012,wisconsin
+WPR/St. Norbert*,2012/10/25,2012/10/29,402,LV,46,43,,2012,wisconsin
+Rasmussen Reports,2012/10/25,2012/10/25,500,LV,48,47,,2012,wisconsin
+Rasmussen Reports,2012/10/18,2012/10/18,500,LV,48,46,,2012,wisconsin
+Mason-Dixon,2012/10/15,2012/10/17,625,LV,45,47,,2012,wisconsin
+NBC/WSJ/Marist,2012/10/15,2012/10/17,1013,LV,45,49,,2012,wisconsin
+Marquette University,2012/10/11,2012/10/14,870,LV,46,45,,2012,wisconsin
+Rasmussen Reports,2012/10/09,2012/10/09,500,LV,47,51,,2012,wisconsin
+CBS/NYT/Quinnipiac,2012/10/04,2012/10/09,1327,LV,46,48,,2012,wisconsin
+PPP (D),2012/10/04,2012/10/06,979,LV,46,49,,2012,wisconsin
+Marquette University,2012/09/27,2012/09/30,894,LV,44,48,,2012,wisconsin
+WeAskAmerica,2012/09/20,2012/09/23,1238,LV,40,52,,2012,wisconsin
+PPP (D),2012/09/18,2012/09/19,842,LV,45,49,,2012,wisconsin
+Rasmussen Reports,2012/09/17,2012/09/17,500,LV,46,49,,2012,wisconsin
+NBC/WSJ/Marist,2012/09/16,2012/09/18,968,LV,46,48,,2012,wisconsin
+Marquette University,2012/09/13,2012/09/16,601,LV,41,50,,2012,wisconsin
+CBS/NYT/Quinnipiac,2012/09/11,2012/09/17,1485,LV,47,47,,2012,wisconsin
+CBS/NYT/Quinnipiac,2012/08/15,2012/08/21,1190,LV,50,44,,2012,wisconsin
+Marquette University,2012/08/16,2012/08/19,576,LV,50,41,,2012,wisconsin
+PPP (D),2012/08/16,2012/08/19,1308,LV,49,44,,2012,wisconsin
+Rasmussen Reports,2012/08/15,2012/08/15,500,LV,54,43,,2012,wisconsin
+Marquette University,2012/08/02,2012/08/05,1188,LV,48,43,,2012,wisconsin
+CBS/NYT/Quinnipiac,2012/07/31,2012/08/06,1428,LV,47,47,,2012,wisconsin
+Rasmussen Reports,2012/07/25,2012/07/25,500,LV,41,48,,2012,wisconsin
+Marquette University,2012/07/05,2012/07/08,810,LV,45,41,,2012,wisconsin
+PPP (D),2012/07/05,2012/07/08,1057,RV,45,45,,2012,wisconsin
+Marquette University,2012/06/13,2012/06/16,594,LV,49,41,,2012,wisconsin
+Rasmussen Reports,2012/06/12,2012/06/12,500,LV,52,36,,2012,wisconsin
+Daily Kos/PPP (D),2012/05/11,2012/05/13,,LV,47,43,,2012,wisconsin
+Rasmussen Reports,2012/05/09,2012/05/09,500,LV,50,38,,2012,wisconsin
+Daily Kos/PPP (D),2012/04/13,2012/04/15,1136,LV,47,45,,2012,wisconsin
+Rasmussen Reports,2012/03/27,2012/03/27,500,LV,48,44,,2012,wisconsin
+Rasmussen Reports,2012/02/27,2012/02/27,500,LV,50,36,,2012,wisconsin
+PPP (D),2012/02/23,2012/02/26,900,RV,45,46,,2012,wisconsin
+Marquette University,2012/02/16,2012/02/19,716,RV,48,42,,2012,wisconsin
+Rasmussen Reports,2011/10/26,2011/10/26,500,LV,49,42,,2012,wisconsin
+PPP (D),2011/10/20,2011/10/23,1170,RV,46,44,,2012,wisconsin
+PPP (D),2011/08/12,2011/08/14,830,RV,50,42,,2012,wisconsin
+PPP (D),2011/05/19,2011/05/22,1636,RV,45,44,,2012,wisconsin
+Rasmussen Reports,2012/11/01,2012/11/01,600,LV,42,45,,2012,indiana
+Howey/DePauw*,2012/10/28,2012/10/30,800,LV,36,47,,2012,indiana
+Rasmussen Reports,2012/10/10,2012/10/11,600,LV,47,42,,2012,indiana
+Howey/DePauw*,2012/09/19,2012/09/23,800,LV,38,40,,2012,indiana
+Rasmussen Reports,2012/07/31,2012/08/01,400,LV,42,40,,2012,indiana
+Howey/DePauw,2012/03/26,2012/03/27,503,LV,35,35,,2012,indiana
+PPP (D),2012/11/02,2012/11/03,1164,LV,32,62,,2012,minnesota
+KSTP/SurveyUSA,2012/11/01,2012/11/03,556,LV,30,60,,2012,minnesota
+Star Tribune/Mason-Dixon,2012/10/23,2012/10/25,800,LV,22,65,,2012,minnesota
+Rasmussen Reports,2012/10/21,2012/10/21,500,LV,33,56,,2012,minnesota
+KSTP/SurveyUSA,2012/10/26,2012/10/28,574,LV,29,60,,2012,minnesota
+St. Cloud State U.,2012/10/15,2012/10/21,600,LV,36,63,,2012,minnesota
+KSTP/SurveyUSA,2012/10/12,2012/10/14,550,LV,30,58,,2012,minnesota
+PPP (D),2012/10/05,2012/10/08,937,LV,31,57,,2012,minnesota
+Star Tribune/Mason-Dixon,2012/09/17,2012/09/19,800,LV,28,57,,2012,minnesota
+PPP (D),2012/09/10,2012/09/11,824,LV,36,55,,2012,minnesota
+KSTP/SurveyUSA,2012/09/06,2012/09/09,551,LV,34,55,,2012,minnesota
+KSTP/SurveyUSA,2012/07/17,2012/07/19,552,LV,31,55,,2012,minnesota
+PPP (D),2012/05/31,2012/06/03,973,RV,29,55,,2012,minnesota
+WeAskAmerica,2012/11/01,2012/11/01,1178,LV,54,41,,2012,nebraska
+Omaha World-Herald,2012/10/23,2012/10/25,679,LV,49,46,,2012,nebraska
+Omaha World-Herald,2012/09/17,2012/09/20,656,LV,56,40,,2012,nebraska
+Rasmussen Reports,2012/05/16,2012/05/16,500,LV,56,38,,2012,nebraska
+PPP (D),2012/03/22,2012/03/25,1028,RV,48,38,,2012,nebraska
+Rasmussen Reports,2012/03/05,2012/03/05,500,LV,46,34,,2012,nebraska
+Middle Tn. State U.,2012/10/16,2012/10/21,609,LV,59,21,,2012,tennessee
+PPP (D),2012/11/01,2012/11/03,932,LV,39,57,,2012,washington
+The Washington Poll,2012/10/18,2012/10/31,632,LV,33,61,,2012,washington
+Rasmussen Reports,2012/10/14,2012/10/14,500,LV,37,52,,2012,washington
+The Washington Poll,2012/10/01,2012/10/16,644,LV,35,58,,2012,washington
+SurveyUSA,2012/09/28,2012/09/30,540,LV,40,53,,2012,washington
+Rasmussen Reports,2012/09/26,2012/09/26,500,LV,37,57,,2012,washington
+SurveyUSA,2012/07/16,2012/07/18,630,RV,40,51,,2012,washington
+PPP (D),2012/06/14,2012/06/17,1073,RV,35,51,,2012,washington
+PPP (D),2012/02/16,2012/02/19,1264,RV,36,51,,2012,washington
+SurveyUSA,2012/01/12,2012/01/16,617,RV,41,50,,2012,washington
+SurveyUSA,2011/11/21,2011/11/23,549,LV,39,51,,2012,washington
+Rasmussen Reports,2012/11/04,2012/11/04,750,LV,47,49,,2012,virginia
+NBC/WSJ/Marist,2012/11/01,2012/11/02,1165,LV,46,49,,2012,virginia
+PPP (D),2012/11/03,2012/11/04,975,LV,46,52,,2012,virginia
+WeAskAmerica,2012/10/30,2012/11/01,1069,LV,50,50,,2012,virginia
+CBS/NYT/Quinnipiac,2012/10/23,2012/10/28,1074,LV,46,50,,2012,virginia
+Gravis Marketing,2012/10/26,2012/10/26,645,LV,48,46,,2012,virginia
+Roanoke College,2012/10/23,2012/10/26,638,LV,47,42,,2012,virginia
+Washington Post,2012/10/22,2012/10/26,1228,LV,44,51,,2012,virginia
+Rasmussen Reports,2012/10/24,2012/10/24,750,LV,48,49,,2012,virginia
+Rasmussen Reports,2012/10/18,2012/10/18,500,LV,48,49,,2012,virginia
+Rasmussen Reports,2012/10/11,2012/10/11,750,LV,47,48,,2012,virginia
+WeAskAmerica,2012/10/07,2012/10/09,1296,LV,46,41,,2012,virginia
+NBC/WSJ/Marist,2012/10/07,2012/10/09,981,LV,46,47,,2012,virginia
+CBS/NYT/Quinnipiac,2012/10/04,2012/10/09,1288,LV,44,51,,2012,virginia
+PPP (D),2012/10/04,2012/10/07,725,LV,44,51,,2012,virginia
+Rasmussen Reports,2012/10/04,2012/10/04,500,LV,45,52,,2012,virginia
+Old Dominion University,2012/09/19,2012/10/17,465,LV,43,50,,2012,virginia
+NBC/WSJ/Marist,2012/09/30,2012/10/01,969,LV,44,49,,2012,virginia
+Suffolk/WWBT,2012/09/24,2012/09/26,600,LV,44,44,,2012,virginia
+Roanoke College,2012/09/19,2012/09/28,589,LV,37,47,,2012,virginia
+FOX News,2012/09/16,2012/09/18,1006,LV,43,47,,2012,virginia
+PPP (D),2012/09/13,2012/09/16,1021,LV,46,47,,2012,virginia
+Rasmussen Reports,2012/09/13,2012/09/13,500,LV,45,47,,2012,virginia
+Washington Post,2012/09/12,2012/09/16,847,LV,43,51,,2012,virginia
+CBS/NYT/Quinnipiac,2012/09/11,2012/09/17,1474,LV,44,51,,2012,virginia
+NBC/WSJ/Marist,2012/09/09,2012/09/11,996,LV,46,46,,2012,virginia
+Gravis Marketing,2012/09/08,2012/09/09,2238,LV,48,43,,2012,virginia
+Rasmussen Reports,2012/08/23,2012/08/23,500,LV,45,45,,2012,virginia
+PPP (D),2012/08/16,2012/08/19,855,LV,46,46,,2012,virginia
+Rasmussen Reports,2012/08/07,2012/08/07,500,LV,46,46,,2012,virginia
+CBS/NYT/Quinnipiac,2012/07/31,2012/08/06,1412,LV,46,48,,2012,virginia
+Rasmussen Reports,2012/07/16,2012/07/17,500,LV,45,46,,2012,virginia
+Quinnipiac,2012/07/10,2012/07/16,1673,RV,46,44,,2012,virginia
+PPP (D),2012/07/05,2012/07/08,647,RV,44,46,,2012,virginia
+WeAskAmerica,2012/06/25,2012/06/25,1106,LV,44,35,,2012,virginia
+Rasmussen Reports,2012/06/03,2012/06/03,500,LV,44,46,,2012,virginia
+Quinnipiac,2012/05/30,2012/06/04,1282,RV,43,44,,2012,virginia
+NBC News/Marist,2012/05/17,2012/05/20,1076,RV,43,49,,2012,virginia
+Washington Post,2012/04/28,2012/05/02,964,RV,46,46,,2012,virginia
+PPP (D),2012/04/26,2012/04/29,680,RV,45,46,,2012,virginia
+Rasmussen Reports,2012/04/23,2012/04/23,500,LV,46,45,,2012,virginia
+Roanoke College,2012/03/26,2012/04/05,537,RV,46,39,,2012,virginia
+Rasmussen Reports,2012/03/20,2012/03/20,500,LV,46,44,,2012,virginia
+Quinnipiac,2012/03/13,2012/03/18,1034,RV,44,47,,2012,virginia
+NBC News/Marist,2012/02/29,2012/03/02,2518,RV,39,48,,2012,virginia
+Roanoke College,2012/02/13,2012/02/26,607,A,45,37,,2012,virginia
+Rasmussen Reports,2012/02/21,2012/02/21,500,LV,46,46,,2012,virginia
+CNU/Times-Dispatch,2012/02/04,2012/02/13,1018,RV,42,40,,2012,virginia
+Quinnipiac,2012/02/01,2012/02/06,1544,RV,44,45,,2012,virginia
+Mason-Dixon,2012/01/16,2012/01/18,625,LV,46,46,,2012,virginia
+Quinnipiac,2011/12/13,2011/12/19,1135,RV,44,42,,2012,virginia
+PPP (D),2011/12/10,2011/12/12,600,RV,42,47,,2012,virginia
+Quinnipiac,2011/10/03,2011/10/09,1459,RV,44,45,,2012,virginia
+CNU/Times-Dispatch,2011/10/03,2011/10/08,1027,RV,42,44,,2012,virginia
+Rasmussen Reports,2011/09/28,2011/09/28,500,LV,45,46,,2012,virginia
+Roanoke College,2011/09/06,2011/09/17,601,LV,42,39,,2012,virginia
+Quinnipiac,2011/09/07,2011/09/12,1368,RV,45,44,,2012,virginia
+PPP (D),2011/07/21,2011/07/24,500,RV,43,46,,2012,virginia
+Quinnipiac,2011/06/21,2011/06/27,1434,RV,42,43,,2012,virginia
+PPP (D),2011/05/05,2011/05/08,547,RV,44,46,,2012,virginia
+Washington Post,2011/04/28,2011/05/04,1040,RV,46,46,,2012,virginia
+Roanoke College,2011/03/17,2011/03/30,360,RV,45,32,,2012,virginia
+PPP (D),2011/02/24,2011/02/27,524,RV,47,47,,2012,virginia
+PPP (D),2010/11/10,2010/11/13,551,RV,44,50,,2012,virginia
+PPP (D),2012/11/01,2012/11/02,1220,LV,43,52,,2012,connecticut
+Rasmussen Reports,2012/10/28,2012/10/28,500,LV,45,51,,2012,connecticut
+Quinnipiac,2012/10/19,2012/10/22,1412,LV,43,49,,2012,connecticut
+SurveyUSA,2012/10/19,2012/10/21,575,LV,43,47,,2012,connecticut
+Mason-Dixon,2012/10/15,2012/10/17,625,LV,44,44,,2012,connecticut
+Rasmussen Reports,2012/10/21,2012/10/21,500,LV,47,48,,2012,connecticut
+Hartford Courant/UConn,2012/10/11,2012/10/16,574,LV,38,44,,2012,connecticut
+Siena,2012/10/04,2012/10/14,552,LV,44,46,,2012,connecticut
+Rasmussen Reports,2012/10/07,2012/10/07,500,LV,46,51,,2012,connecticut
+Quinnipiac,2012/09/28,2012/10/02,1696,LV,48,47,,2012,connecticut
+PPP (D),2012/09/24,2012/09/26,801,LV,42,48,,2012,connecticut
+Hartford Courant/UConn,2012/09/11,2012/09/16,517,LV,33,37,,2012,connecticut
+Quinnipiac,2012/08/22,2012/08/26,1472,LV,49,46,,2012,connecticut
+PPP (D),2012/08/22,2012/08/23,881,RV,44,48,,2012,connecticut
+Rasmussen Reports,2012/08/21,2012/08/21,500,LV,49,46,,2012,connecticut
+PPP (D),2012/07/26,2012/07/29,771,LV,42,50,,2012,connecticut
+Quinnipiac,2012/05/29,2012/06/03,1408,RV,43,46,,2012,connecticut
+Quinnipiac,2012/03/14,2012/03/19,1622,RV,37,52,,2012,connecticut
+PPP (D),2011/09/22,2011/09/25,592,RV,43,50,,2012,connecticut
+Quinnipiac,2011/09/08,2011/09/13,1230,RV,38,49,,2012,connecticut
+Daily Kos/PPP (D),2011/03/17,2011/03/20,822,RV,38,54,,2012,connecticut
+Morning Call,2012/11/01,2012/11/03,430,LV,42,48,,2012,pennsylvania
+PPP (D),2012/11/02,2012/11/03,790,LV,44,52,,2012,pennsylvania
+Tribune-Review/Susquehanna,2012/10/29,2012/10/31,800,LV,45,46,,2012,pennsylvania
+Franklin \u0026amp; Marshall,2012/10/23,2012/10/28,547,LV,39,48,,2012,pennsylvania
+Rasmussen Reports,2012/10/24,2012/10/24,500,LV,45,46,,2012,pennsylvania
+Philadelphia Inquirer,2012/10/23,2012/10/25,600,LV,42,49,,2012,pennsylvania
+Morning Call,2012/10/17,2012/10/21,444,LV,37,45,,2012,pennsylvania
+Quinnipiac,2012/10/12,2012/10/14,1519,LV,45,48,,2012,pennsylvania
+PPP (D),2012/10/12,2012/10/14,500,LV,39,50,,2012,pennsylvania
+Morning Call,2012/10/10,2012/10/14,438,LV,39,41,,2012,pennsylvania
+Rasmussen Reports,2012/10/09,2012/10/09,500,LV,45,49,,2012,pennsylvania
+Philadelphia Inquirer,2012/10/04,2012/10/08,600,LV,38,48,,2012,pennsylvania
+Susquehanna,2012/10/04,2012/10/06,725,LV,44,46,,2012,pennsylvania
+Siena,2012/10/01,2012/10/05,545,LV,35,44,,2012,pennsylvania
+Morning Call,2012/09/22,2012/09/26,427,LV,36,44,,2012,pennsylvania
+CBS/NYT/Quinnipiac,2012/09/18,2012/09/24,1180,LV,43,49,,2012,pennsylvania
+Franklin \u0026amp; Marshall,2012/09/18,2012/09/23,392,LV,38,48,,2012,pennsylvania
+Rasmussen Reports,2012/09/19,2012/09/19,500,LV,42,49,,2012,pennsylvania
+Tribune-Review/Susquehanna,2012/09/18,2012/09/20,800,LV,41,46,,2012,pennsylvania
+Morning Call,2012/09/10,2012/09/16,640,LV,33,45,,2012,pennsylvania
+Philadelphia Inquirer,2012/08/21,2012/08/23,601,LV,34,53,,2012,pennsylvania
+Morning Call,2012/08/20,2012/08/22,422,LV,30,49,,2012,pennsylvania
+Franklin \u0026amp; Marshall,2012/08/07,2012/08/12,681,RV,28,43,,2012,pennsylvania
+CBS/NYT/Quinnipiac,2012/07/24,2012/07/30,1168,LV,37,55,,2012,pennsylvania
+PPP (D),2012/07/21,2012/07/23,758,RV,36,46,,2012,pennsylvania
+Rasmussen Reports,2012/07/18,2012/07/18,500,LV,38,49,,2012,pennsylvania
+WeAskAmerica,2012/07/09,2012/07/10,1227,LV,39,53,,2012,pennsylvania
+Quinnipiac,2012/06/19,2012/06/25,1252,RV,32,49,,2012,pennsylvania
+Quinnipiac,2012/06/05,2012/06/10,997,RV,32,51,,2012,pennsylvania
+Franklin \u0026amp; Marshall,2012/05/29,2012/06/04,412,RV,21,42,,2012,pennsylvania
+Rasmussen Reports,2012/05/21,2012/05/21,500,LV,41,48,,2012,pennsylvania
+PPP (D),2012/05/17,2012/05/20,671,RV,33,49,,2012,pennsylvania
+PPP (D),2012/03/08,2012/03/11,689,RV,31,49,,2012,pennsylvania
+PPP (D),2011/11/17,2011/11/20,500,RV,32,48,,2012,pennsylvania
+Deseret News/KSL,2012/06/15,2012/06/21,1222,RV,63,29,,2012,utah
+Field,2012/10/25,2012/10/30,751,LV,33,54,,2012,california
+LA Times/USC,2012/10/15,2012/10/21,1440,LV,38,55,,2012,california
+Reason-Rupe,2012/10/11,2012/10/15,508,LV,34,60,,2012,california
+SurveyUSA,2012/10/07,2012/10/09,539,LV,35,54,,2012,california
+Field,2012/10/17,2012/10/24,815,LV,32,56,,2012,california
+Field,2012/09/06,2012/09/18,902,LV,31,57,,2012,california
+SurveyUSA,2012/09/09,2012/09/11,524,LV,37,55,,2012,california
+Field,2012/06/21,2012/07/02,848,LV,32,51,,2012,california
+SurveyUSA,2012/05/27,2012/05/29,1575,RV,34,50,,2012,california
+Rasmussen Reports,2012/11/04,2012/11/04,750,LV,48,50,,2012,ohio
+Ohio Poll/Univ of Cin.,2012/10/31,2012/11/04,901,LV,47,51,,2012,ohio
+PPP (D),2012/11/03,2012/11/04,1000,LV,44,54,,2012,ohio
+SurveyUSA*,2012/11/01,2012/11/04,803,LV,41,44,,2012,ohio
+Columbus Dispatch*,2012/10/24,2012/11/03,1501,LV,45,51,,2012,ohio
+NBC/WSJ/Marist,2012/10/31,2012/11/01,971,LV,45,50,,2012,ohio
+Rasmussen Reports,2012/11/01,2012/11/01,750,LV,48,48,,2012,ohio
+Ohio Poll/Univ of Cin.,2012/10/25,2012/10/30,1182,LV,44,49,,2012,ohio
+Rasmussen Reports,2012/10/28,2012/10/28,750,LV,48,50,,2012,ohio
+SurveyUSA,2012/10/26,2012/10/29,603,LV,41,46,,2012,ohio
+Gravis Marketing,2012/10/27,2012/10/27,730,LV,47,48,,2012,ohio
+PPP (D),2012/10/26,2012/10/28,718,LV,42,53,,2012,ohio
+CBS/NYT/Quinnipiac,2012/10/23,2012/10/28,1110,LV,42,51,,2012,ohio
+Rasmussen Reports,2012/10/23,2012/10/23,750,LV,44,48,,2012,ohio
+Cincinnati Enquirer/Ohio News,2012/10/18,2012/10/23,1015,LV,47,51,,2012,ohio
+SurveyUSA,2012/10/20,2012/10/22,609,LV,42,43,,2012,ohio
+Suffolk*,2012/10/18,2012/10/21,600,LV,39,46,,2012,ohio
+PPP (D),2012/10/18,2012/10/20,532,LV,44,49,,2012,ohio
+CBS News/Quinnipiac,2012/10/17,2012/10/20,1548,LV,42,51,,2012,ohio
+Rasmussen Reports,2012/10/17,2012/10/17,750,LV,44,49,,2012,ohio
+SurveyUSA*,2012/10/12,2012/10/15,613,LV,38,43,,2012,ohio
+PPP (D),2012/10/12,2012/10/13,880,LV,42,49,,2012,ohio
+Rasmussen Reports,2012/10/10,2012/10/10,750,LV,46,47,,2012,ohio
+NBC/WSJ/Marist,2012/10/07,2012/10/09,994,LV,41,52,,2012,ohio
+SurveyUSA*,2012/10/05,2012/10/08,808,LV,38,42,,2012,ohio
+WeAskAmerica,2012/10/04,2012/10/04,1200,LV,44,46,,2012,ohio
+Rasmussen Reports,2012/10/04,2012/10/04,500,LV,46,46,,2012,ohio
+NBC/WSJ/Marist,2012/09/30,2012/10/01,931,LV,41,50,,2012,ohio
+PPP (D),2012/09/27,2012/09/30,897,LV,41,49,,2012,ohio
+Columbus Dispatch*,2012/09/19,2012/09/29,1662,LV,39,49,,2012,ohio
+Gravis Marketing,2012/09/21,2012/09/22,594,LV,43,44,,2012,ohio
+Washington Post,2012/09/19,2012/09/23,759,LV,41,53,,2012,ohio
+CBS/NYT/Quinnipiac,2012/09/18,2012/09/24,1162,LV,40,50,,2012,ohio
+FOX News,2012/09/16,2012/09/18,1009,LV,40,47,,2012,ohio
+Ohio Newspapers/Univ of Cin.,2012/09/13,2012/09/18,861,LV,45,52,,2012,ohio
+Rasmussen Reports,2012/09/12,2012/09/12,500,LV,41,49,,2012,ohio
+NBC/WSJ/Marist,2012/09/09,2012/09/11,979,LV,42,49,,2012,ohio
+PPP (D),2012/09/07,2012/09/09,1072,LV,40,48,,2012,ohio
+Gravis Marketing,2012/09/07,2012/09/08,1548,LV,42,48,,2012,ohio
+Gravis Marketing,2012/09/02,2012/09/02,1381,RV,44,44,,2012,ohio
+Gravis Marketing,2012/08/27,2012/08/27,1397,RV,41,44,,2012,ohio
+Columbus Dispatch*,2012/08/15,2012/08/25,1758,LV,44,44,,2012,ohio
+Ohio Poll/Univ of Cin.,2012/08/16,2012/08/21,847,LV,47,48,,2012,ohio
+CBS/NYT/Quinnipiac,2012/08/15,2012/08/21,1253,LV,41,48,,2012,ohio
+Rasmussen Reports,2012/08/13,2012/08/13,500,LV,44,44,,2012,ohio
+PPP (D),2012/08/09,2012/08/12,961,LV,37,47,,2012,ohio
+CBS/NYT/Quinnipiac,2012/07/24,2012/07/30,1193,LV,39,51,,2012,ohio
+Rasmussen Reports,2012/07/18,2012/07/18,500,LV,42,46,,2012,ohio
+Quinnipiac,2012/06/19,2012/06/25,1237,RV,34,50,,2012,ohio
+PPP (D),2012/06/21,2012/06/24,673,RV,39,46,,2012,ohio
+Rasmussen Reports,2012/05/29,2012/05/29,500,LV,42,47,,2012,ohio
+NBC News/Marist,2012/05/17,2012/05/20,1103,RV,37,51,,2012,ohio
+Quinnipiac,2012/05/02,2012/05/07,1069,RV,40,46,,2012,ohio
+PPP (D),2012/05/03,2012/05/06,875,RV,37,45,,2012,ohio
+Rasmussen Reports,2012/04/18,2012/04/18,500,LV,41,44,,2012,ohio
+Rasmussen Reports,2012/03/26,2012/03/26,500,LV,43,43,,2012,ohio
+Quinnipiac,2012/03/20,2012/03/26,1246,RV,36,46,,2012,ohio
+NBC News/Marist,2012/02/29,2012/03/02,3079,RV,37,47,,2012,ohio
+Quinnipiac,2012/02/07,2012/02/12,1421,RV,35,48,,2012,ohio
+Rasmussen Reports,2012/02/08,2012/02/08,500,LV,40,44,,2012,ohio
+PPP (D),2012/01/28,2012/01/29,820,RV,36,47,,2012,ohio
+Quinnipiac,2012/01/09,2012/01/16,1610,RV,32,47,,2012,ohio
+PPP (D),2011/11/04,2011/11/06,1022,LV,34,49,,2012,ohio
+Quinnipiac,2011/10/17,2011/10/23,1668,RV,34,49,,2012,ohio
+PPP (D),2011/10/13,2011/10/16,581,RV,40,48,,2012,ohio
+Quinnipiac,2011/09/20,2011/09/25,1301,RV,36,49,,2012,ohio
+PPP (D),2011/08/11,2011/08/14,792,RV,33,48,,2012,ohio
+Quinnipiac,2011/07/12,2011/07/18,1659,RV,34,49,,2012,ohio
+PPP (D),2011/05/19,2011/05/22,565,RV,31,48,,2012,ohio
+Quinnipiac,2011/05/10,2011/05/16,1379,RV,31,45,,2012,ohio
+PPP (D),2011/03/10,2011/03/13,559,RV,32,48,,2012,ohio
+PPP (D)*,2012/11/03,2012/11/04,750,LV,48,46,,2012,nevada
+LVRJ/SurveyUSA*,2012/10/23,2012/10/29,1212,LV,46,40,,2012,nevada
+NBC/WSJ/Marist,2012/10/23,2012/10/24,1042,LV,48,45,,2012,nevada
+Rasmussen Reports,2012/10/23,2012/10/23,500,LV,50,45,,2012,nevada
+PPP (D)*,2012/10/22,2012/10/24,636,LV,44,44,,2012,nevada
+Rasmussen Reports,2012/10/15,2012/10/15,500,LV,50,43,,2012,nevada
+LVRJ/SurveyUSA,2012/10/11,2012/10/15,806,LV,46,40,,2012,nevada
+PPP (D)*,2012/10/08,2012/10/10,594,LV,47,44,,2012,nevada
+Suffolk/KSNV*,2012/10/06,2012/10/09,500,LV,40,37,,2012,nevada
+Rasmussen Reports,2012/10/08,2012/10/08,500,LV,48,45,,2012,nevada
+LVRJ/SurveyUSA,2012/10/03,2012/10/08,1222,LV,47,39,,2012,nevada
+Gravis Marketing,2012/10/03,2012/10/03,1006,LV,53,36,,2012,nevada
+WeAskAmerica,2012/09/25,2012/09/27,1078,LV,45,45,,2012,nevada
+NBC/WSJ/Marist,2012/09/23,2012/09/25,984,LV,49,43,,2012,nevada
+Retail Assoc. of Nevada/POS (R),2012/09/19,2012/09/20,500,LV,44,39,,2012,nevada
+PPP (D),2012/09/18,2012/09/20,501,LV,44,48,,2012,nevada
+Rasmussen Reports,2012/09/18,2012/09/18,500,LV,42,41,,2012,nevada
+PPP (D),2012/08/23,2012/08/26,831,LV,47,45,,2012,nevada
+LVRJ/SurveyUSA,2012/08/16,2012/08/21,869,LV,44,39,,2012,nevada
+Rasmussen Reports,2012/07/24,2012/07/24,500,LV,51,42,,2012,nevada
+AFP/Magellan (R),2012/07/16,2012/07/17,665,LV,45,42,,2012,nevada
+PPP (D),2012/06/07,2012/06/10,500,RV,44,43,,2012,nevada
+NBC News/Marist,2012/05/22,2012/05/24,1040,RV,46,44,,2012,nevada
+Rasmussen Reports,2012/04/30,2012/04/30,500,LV,51,40,,2012,nevada
+PPP (D),2012/03/29,2012/04/01,553,RV,46,43,,2012,nevada
+Rasmussen Reports,2012/03/19,2012/03/19,500,LV,47,40,,2012,nevada
+Retail Assoc. of Nevada/POS (R),2012/02/21,2012/02/23,500,LV,47,44,,2012,nevada
+Las Vegas Review-Journal,2011/12/12,2011/12/20,600,RV,43,44,,2012,nevada
+PPP (D),2011/10/20,2011/10/23,500,RV,45,45,,2012,nevada
+PPP (D),2011/07/28,2011/07/31,601,RV,46,43,,2012,nevada
+Magellan Strategies (R),2011/06/21,2011/06/22,720,LV,44,46,,2012,nevada
+PPP (D),2011/04/21,2011/04/24,491,RV,47,43,,2012,nevada
+PPP (D),2011/01/03,2011/01/05,932,RV,51,38,,2012,nevada
+Honolulu Civil Beat/MRG,2012/10/24,2012/10/26,1218,LV,40,55,,2012,hawaii
+Honolulu Star-Advertiser,2012/10/15,2012/10/22,786,LV,35,57,,2012,hawaii
+Honolulu Civil Beat/MRG,2012/09/26,2012/09/28,1684,LV,39,55,,2012,hawaii
+Honolulu Star-Advertiser,2012/07/12,2012/07/21,756,LV,39,58,,2012,hawaii
+Honolulu Civil Beat/MRG*,2012/06/05,2012/06/07,1105,LV,44,49,,2012,hawaii
+Honolulu Star-Advertiser,2012/01/26,2012/02/05,771,RV,37,57,,2012,hawaii
+Honolulu Civil Beat/MRG,2012/01/18,2012/01/19,1358,LV,39,46,,2012,hawaii
+PPP (D),2011/10/13,2011/10/16,568,RV,42,48,,2012,hawaii
+Honolulu Star-Advertiser,2011/05/04,2011/05/10,614,RV,35,57,,2012,hawaii
+Daily Kos/PPP (D),2011/03/24,2011/03/27,898,RV,40,52,,2012,hawaii
+Mason-Dixon,2012/10/26,2012/10/28,625,LV,47,45,,2012,north-dakota
+Rasmussen Reports,2012/10/17,2012/10/18,600,LV,50,45,,2012,north-dakota
+Forum/Essman,2012/10/12,2012/10/15,500,LV,50,40,,2012,north-dakota
+Mason-Dixon,2012/10/03,2012/10/05,625,LV,47,47,,2012,north-dakota
+Rasmussen Reports,2012/07/10,2012/07/11,400,LV,49,40,,2012,north-dakota
+Mason-Dixon,2012/06/04,2012/06/06,625,LV,46,47,,2012,north-dakota
+Forum/Essman*,2012/05/03,2012/05/08,500,LV,51,44,,2012,north-dakota
+Albuquerque Journal,2012/10/23,2012/10/25,662,LV,42,50,,2012,new-mexico
+Rasmussen Reports,2012/10/08,2012/10/08,500,LV,39,52,,2012,new-mexico
+WeAskAmerica,2012/09/25,2012/09/27,1258,LV,41,52,,2012,new-mexico
+Albuquerque Journal*,2012/10/09,2012/10/11,658,LV,39,48,,2012,new-mexico
+Rasmussen Reports,2012/09/27,2012/09/27,500,LV,39,52,,2012,new-mexico
+PPP (D),2012/09/07,2012/09/09,1122,LV,41,50,,2012,new-mexico
+Albuquerque Journal,2012/09/03,2012/09/06,667,LV,42,49,,2012,new-mexico
+Rasmussen Reports,2012/08/21,2012/08/21,500,LV,41,48,,2012,new-mexico
+FM3 Research (D),2012/08/05,2012/08/07,502,LV,41,50,,2012,new-mexico
+PPP (D),2012/07/13,2012/07/16,724,RV,43,48,,2012,new-mexico
+WeAskAmerica,2012/07/09,2012/07/10,1295,LV,42,51,,2012,new-mexico
+FM3 Research (D),2012/06/28,2012/07/01,503,LV,45,49,,2012,new-mexico
+PPP (D),2012/04/19,2012/04/22,526,RV,43,48,,2012,new-mexico
+Rasmussen Reports,2012/04/03,2012/04/03,500,LV,42,46,,2012,new-mexico
+Rasmussen Reports,2012/02/14,2012/02/14,500,LV,43,45,,2012,new-mexico
+POS/FM3,2012/01/02,2012/01/07,400,RV,44,45,,2012,new-mexico
+PPP (D),2011/12/10,2011/12/12,500,RV,40,47,,2012,new-mexico
+PPP (D),2011/06/23,2011/06/26,732,RV,42,47,,2012,new-mexico
+PPP (D),2011/02/04,2011/02/06,545,RV,39,50,,2012,new-mexico
+WPRI/Fleming,2012/10/24,2012/10/27,601,LV,33,55,,2012,rhode-island
+Brown University,2012/09/26,2012/10/05,471,LV,30,59,,2012,rhode-island
+WPRI/Fleming,2012/09/26,2012/09/29,501,LV,30,56,,2012,rhode-island
+WPRI/Fleming,2012/02/20,2012/02/23,511,RV,28,50,,2012,rhode-island
+SurveyUSA,2012/10/23,2012/10/25,554,LV,22,64,,2012,new-york
+Siena,2012/10/22,2012/10/24,750,LV,24,67,,2012,new-york
+Marist,2012/10/18,2012/10/21,565,LV,24,68,,2012,new-york
+Quinnipiac,2012/09/04,2012/09/09,1486,LV,27,64,,2012,new-york
+Siena,2012/08/14,2012/08/19,671,LV,22,65,,2012,new-york
+Quinnipiac,2012/07/17,2012/07/23,1779,RV,24,57,,2012,new-york
+Siena,2012/07/10,2012/07/15,758,RV,25,62,,2012,new-york
+Siena,2012/06/03,2012/06/06,807,RV,22,65,,2012,new-york
+Quinnipiac,2012/05/22,2012/05/28,1504,RV,24,58,,2012,new-york
+Siena,2012/05/06,2012/05/10,766,RV,26,60,,2012,new-york
+Siena,2012/04/01,2012/04/04,808,RV,23,63,,2012,new-york
+Quinnipiac,2012/03/28,2012/04/02,1597,RV,25,58,,2012,new-york
+PPP (D),2011/09/01,2011/09/04,708,LV,23,62,,2012,west-virginia
+PPP (D),2011/04/21,2011/04/24,850,RV,29,61,,2012,west-virginia
+PPP (D),2011/01/20,2011/01/23,1105,RV,31,60,,2012,west-virginia
+Philadelphia Inquirer,2012/10/23,2012/10/25,601,LV,32,50,,2012,new-jersey
+SurveyUSA,2012/10/17,2012/10/18,577,LV,33,53,,2012,new-jersey
+Richard Stockton College,2012/10/12,2012/10/18,811,LV,30,52,,2012,new-jersey
+Quinnipiac,2012/10/10,2012/10/14,1319,LV,37,55,,2012,new-jersey
+Philadelphia Inquirer,2012/10/04,2012/10/08,604,LV,35,49,,2012,new-jersey
+Monmouth University,2012/09/19,2012/09/23,613,LV,34,49,,2012,new-jersey
+Philadelphia Inquirer,2012/09/09,2012/09/12,600,LV,32,43,,2012,new-jersey
+Fairleigh Dickinson,2012/09/06,2012/09/12,706,LV,36,50,,2012,new-jersey
+Quinnipiac,2012/08/27,2012/09/02,1471,LV,40,50,,2012,new-jersey
+Rutgers-Eagleton,2012/08/23,2012/08/25,688,LV,35,47,,2012,new-jersey
+Fairleigh Dickinson,2012/07/23,2012/07/29,849,RV,33,45,,2012,new-jersey
+Monmouth University,2012/07/18,2012/07/22,535,LV,35,44,,2012,new-jersey
+Quinnipiac,2012/07/09,2012/07/15,1623,RV,34,47,,2012,new-jersey
+Quinnipiac,2012/05/09,2012/05/14,1582,RV,35,45,,2012,new-jersey
+Fairleigh Dickinson,2012/04/30,2012/05/06,397,RV,33,42,,2012,new-jersey
+Quinnipiac,2012/04/03,2012/04/09,1607,RV,35,44,,2012,new-jersey
+Fairleigh Dickinson,2012/03/05,2012/03/11,396,RV,33,43,,2012,new-jersey
+SurveyUSA,2012/02/24,2012/02/26,533,RV,31,46,,2012,new-jersey
+Quinnipiac,2012/02/21,2012/02/27,1396,RV,34,49,,2012,new-jersey
+Fairleigh Dickinson,2012/01/02,2012/01/08,800,RV,31,43,,2012,new-jersey
+Fairleigh Dickinson,2011/09/19,2011/09/25,800,RV,28,49,,2012,new-jersey
+PPP (D),2011/07/15,2011/07/18,480,RV,29,48,,2012,new-jersey
+Fairleigh Dickinson,2011/01/03,2011/01/09,395,RV,29,41,,2012,new-jersey
+MPRC (D),2012/11/01,2012/11/03,905,LV,34,11,48,2012,maine
+PPP (D),2012/11/01,2012/11/02,1633,LV,36,12,50,2012,maine
+Critical Insights,2012/10/30,2012/10/31,613,LV,33,11,49,2012,maine
+Pan Atlantic SMS,2012/09/24,2012/09/28,400,LV,24,12,50,2012,maine
+Rasmussen Reports,2012/09/25,2012/09/25,500,LV,33,14,45,2012,maine
+PPP (D),2012/09/17,2012/09/18,804,LV,35,14,43,2012,maine
+MPRC (D),2012/09/15,2012/09/17,856,LV,28,15,44,2012,maine
+Critical Insights,2012/09/12,2012/09/16,618,LV,28,12,50,2012,maine
+Critical Insights,2012/06/20,2012/06/25,615,RV,27,7,55,2012,maine
+WBUR/MassINC,2012/06/13,2012/06/14,506,LV,23,9,50,2012,maine
+Baltimore Sun,2012/10/20,2012/10/23,801,LV,24,50,14,2012,maryland
+Washington Post,2012/10/11,2012/10/15,843,LV,22,53,14,2012,maryland
+Gonzales Research,2012/09/17,2012/09/23,813,LV,22,50,21,2012,maryland

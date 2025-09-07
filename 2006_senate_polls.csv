@@ -1,0 +1,387 @@
+pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state
+Deseret News,2006/09/25,2006/09/28,922,RV,62,25,,2006,utah
+Fairleigh Dickinson,2006/09/14,2006/09/19,651,RV,23,63,,2006,delaware
+Fairleigh Dickinson,2006/10/18,2006/10/24,502,LV,26,60,,2006,delaware
+Rasmussen,2006/10/31,2006/10/31,500,LV,45,50,,2006,maryland
+Mason-Dixon,2006/11/01,2006/11/03,625,LV,44,47,,2006,maryland
+SurveyUSA,2006/11/03,2006/11/05,663,LV,46,49,,2006,maryland
+Potomac,2005/04/11,2005/04/13,1000,LV,37,41,,2006,maryland
+Rasmussen,2005/07/18,2005/07/18,500,LV,40,45,,2006,maryland
+Gonzales Res.,2005/10/17,2005/10/21,815,RV,38,47,,2006,maryland
+Potomac,2005/10/27,2005/11/01,1008,LV,32,43,,2006,maryland
+Rasmussen,2005/11/16,2005/11/16,500,LV,41,49,,2006,maryland
+Rasmussen,2006/01/10,2006/01/10,500,LV,45,40,,2006,maryland
+Rasmussen,2006/02/19,2006/02/19,500,LV,35,49,,2006,maryland
+Gonzales Res.,2006/04/04,2006/04/13,819,RV,35,49,,2006,maryland
+Rasmussen,2006/04/18,2006/04/18,500,LV,35,45,,2006,maryland
+Washington Post,2006/06/19,2006/06/25,902,RV,40,52,,2006,maryland
+Potomac,2006/07/06,2006/07/10,1200,LV,36,47,,2006,maryland
+Rasmussen,2006/07/10,2006/07/10,500,LV,41,47,,2006,maryland
+Pub Op Str (R),2006/08/01,2006/08/02,500,RV,35,43,,2006,maryland
+Rasmussen,2006/08/09,2006/08/09,500,LV,42,47,,2006,maryland
+Gonzales Res.,2006/08/18,2006/08/25,625,LV,39,44,,2006,maryland
+Zogby Interactive*,2006/08/29,2006/09/05,n/a,,40,49,,2006,maryland
+Rasmussen,2006/09/13,2006/09/13,500,LV,43,50,,2006,maryland
+Potomac,2006/09/15,2006/09/18,815,LV,40,51,,2006,maryland
+SurveyUSA,2006/09/17,2006/09/19,522,LV,48,47,,2006,maryland
+Zogby Interactive*,2006/09/19,2006/09/25,,,39,52,,2006,maryland
+Mason-Dixon,2006/09/22,2006/09/26,625,LV,41,47,,2006,maryland
+VC Research (R),2006/09/27,2006/09/28,602,LV,39,44,,2006,maryland
+USA Today/Gallup,2006/09/27,2006/10/01,678,LV,39,54,,2006,maryland
+Reuters/Zogby,2006/09/25,2006/10/02,600,LV,37,45,,2006,maryland
+Pub Op Str (R),2006/10/02,2006/10/04,800,RV,43,47,,2006,maryland
+Rasmussen,2006/10/10,2006/10/10,500,LV,44,53,,2006,maryland
+Zogby Interactive *,2006/10/10,2006/10/16,664,LV,43,51,,2006,maryland
+SurveyUSA,2006/10/15,2006/10/17,698,LV,46,46,,2006,maryland
+VC Research (R),2006/10/22,2006/10/23,602,LV,39,41,,2006,maryland
+Garin Hart Yang (D),2006/10/23,2006/10/24,,LV,40,52,,2006,maryland
+Washington Post,2006/10/22,2006/10/26,1003,LV,43,54,,2006,maryland
+Rasmussen,2006/10/26,2006/10/26,500,LV,45,50,,2006,maryland
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,44,53,,2006,maryland
+Baltimore Sun,2006/10/28,2006/10/30,800,LV,43,49,,2006,maryland
+Reuters/Zogby,2006/10/24,2006/10/31,600,LV,44,49,,2006,maryland
+SurveyUSA,2006/10/31,2006/11/02,694,LV,47,47,,2006,maryland
+Rasmussen,2006/10/26,2006/10/26,500,LV,42,54,,2006,washington
+SurveyUSA,2006/10/27,2006/10/29,774,LV,41,54,,2006,washington
+U. of Washington,2006/10/25,2006/10/31,700,RV,41,53,,2006,washington
+Mason-Dixon,2006/10/31,2006/11/02,625,LV,38,54,,2006,washington
+Strategic Vision (R),2005/05/15,2005/05/17,800,LV,36,49,,2006,washington
+Strategic Vision (R),2005/08/05,2005/08/07,800,RV,38,46,,2006,washington
+Strategic Vision (R),2005/09/19,2005/09/21,800,RV,39,46,,2006,washington
+Strategic Vision (R),2005/10/23,2005/10/25,800,RV,39,48,,2006,washington
+Rasmussen,2005/11/10,2005/11/10,500,LV,37,52,,2006,washington
+Rasmussen,2005/11/30,2005/11/30,500,LV,37,52,,2006,washington
+Strategic Vision (R),2005/12/02,2005/12/04,800,RV,39,50,,2006,washington
+Rasmussen,2006/01/02,2006/01/02,500,LV,36,51,,2006,washington
+Rasmussen,2006/01/24,2006/01/24,500,LV,36,50,,2006,washington
+Elway Poll,2006/02/06,2006/02/09,405,RV,25,55,,2006,washington
+Strategic Vision (R),2006/02/10,2006/02/12,800,LV,40,48,,2006,washington
+Rasmussen,2006/03/07,2006/03/07,500,LV,36,49,,2006,washington
+Strategic Vision (R),2006/03/24,2006/03/26,800,LV,39,49,,2006,washington
+Rasmussen,2006/04/04,2006/04/04,500,LV,40,48,,2006,washington
+Elway Poll,2006/04/20,2006/04/23,405,RV,23,52,,2006,washington
+Strategic Vision (R),2006/04/21,2006/04/23,800,LV,40,48,,2006,washington
+Rasmussen,2006/05/08,2006/05/08,500,LV,41,46,,2006,washington
+Strategic Vision (R),2006/05/19,2006/05/21,800,LV,42,47,,2006,washington
+Rasmussen,2006/06/13,2006/06/13,500,LV,40,44,,2006,washington
+Strategic Vision (R),2006/06/23,2006/06/25,800,LV,43,47,,2006,washington
+Elway Poll,2006/07/11,2006/07/13,400,RV,33,47,,2006,washington
+Rasmussen,2006/07/17,2006/07/17,500,LV,37,48,,2006,washington
+Zogby Interactive*,2006/07/11,2006/07/19,n/a,,42,49,,2006,washington
+Strategic Vision (R),2006/07/21,2006/07/23,800,LV,44,48,,2006,washington
+Rasmussen,2006/08/15,2006/08/15,500,LV,40,46,,2006,washington
+Zogby Interactive*,2006/08/15,2006/08/21,n/a,,43,51,,2006,washington
+SurveyUSA,2006/08/25,2006/08/27,808,RV,39,56,,2006,washington
+Strategic Vision (R),2006/08/25,2006/08/27,800,LV,43,48,,2006,washington
+SurveyUSA,2006/08/28,2006/08/29,669,RV,36,53,,2006,washington
+Zogby Interactive*,2006/08/29,2006/09/05,n/a,,42,50,,2006,washington
+Rasmussen,2006/09/06,2006/09/06,500,LV,35,52,,2006,washington
+Rasmussen,2006/09/20,2006/09/20,500,LV,42,48,,2006,washington
+Strategic Vision (R),2006/09/22,2006/09/24,800,LV,40,49,,2006,washington
+Zogby Interactive*,2006/09/19,2006/09/25,,,43,50,,2006,washington
+SurveyUSA,2006/09/21,2006/09/25,481,LV,42,54,,2006,washington
+Mason-Dixon,2006/09/24,2006/09/27,625,LV,40,50,,2006,washington
+SurveyUSA,2006/10/13,2006/10/15,848,LV,43,51,,2006,washington
+Zogby Interactive *,2006/10/10,2006/10/16,1245,LV,45,52,,2006,washington
+Rasmussen,2006/10/17,2006/10/17,500,LV,38,53,,2006,washington
+Strategic Vision (R),2006/10/16,2006/10/18,800,LV,42,51,,2006,washington
+Mason-Dixon,2006/10/17,2006/10/19,625,LV,37,52,,2006,washington
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,46,50,,2006,washington
+Strategic Vision (R),2006/10/27,2006/10/29,800,LV,44,52,,2006,washington
+Strategic Vision (R),2006/11/02,2006/11/04,800,LV,42,53,,2006,washington
+Mason-Dixon,2006/11/01,2006/11/03,625,LV,50,38,,2006,tennessee
+USA Today/Gallup,2006/11/01,2006/11/04,877,LV,49,46,,2006,tennessee
+Rasmussen,2006/11/04,2006/11/04,500,LV,51,47,,2006,tennessee
+SurveyUSA,2006/11/03,2006/11/05,679,LV,51,46,,2006,tennessee
+Decision Research (D),2005/02/22,2005/02/26,400,LV,37,39,,2006,tennessee
+Global Strat. (D),2005/03/22,2005/03/24,600,LV,24,28,,2006,tennessee
+Global Strat. (D),2005/10/13,2005/10/20,1500,LV,36,39,,2006,tennessee
+Rasmussen,2005/12/12,2005/12/12,500,LV,36,42,,2006,tennessee
+Rasmussen,2006/01/17,2006/01/17,500,LV,42,40,,2006,tennessee
+Rasmussen,2006/02/27,2006/02/27,500,LV,39,35,,2006,tennessee
+Rasmussen,2006/05/01,2006/05/01,500,LV,43,39,,2006,tennessee
+Zogby,2006/06/12,2006/06/12,502,LV,46,42,,2006,tennessee
+Univ. of TN,2006/07/05,2006/07/16,501,RV,42,35,,2006,tennessee
+Rasmussen,2006/07/16,2006/07/16,500,LV,49,37,,2006,tennessee
+Zogby Interactive*,2006/07/11,2006/07/19,n/a,,43,44,,2006,tennessee
+Mason-Dixon,2006/07/17,2006/07/19,625,LV,49,36,,2006,tennessee
+Voter/Consumer Res.,2006/07/23,2006/07/25,500,LV,54,39,,2006,tennessee
+Rasmussen,2006/08/10,2006/08/10,500,LV,48,42,,2006,tennessee
+Benenson Strat. (D),2006/08/10,2006/08/15,1118,LV,42,44,,2006,tennessee
+Zogby Interactive*,2006/08/15,2006/08/21,n/a,,48,44,,2006,tennessee
+Zogby Interactive*,2006/08/29,2006/09/05,n/a,,45,43,,2006,tennessee
+Rasmussen,2006/09/05,2006/09/05,500,LV,45,44,,2006,tennessee
+SurveyUSA,2006/09/09,2006/09/11,638,LV,45,48,,2006,tennessee
+Benenson Strat (D),2006/09/21,2006/09/23,605,LV,39,45,,2006,tennessee
+Zogby Interactive*,2006/09/19,2006/09/25,,,48,42,,2006,tennessee
+Mason-Dixon,2006/09/25,2006/09/27,625,LV,42,43,,2006,tennessee
+Middle Tn. State U.,2006/09/19,2006/09/30,549,LV,43,42,,2006,tennessee
+USA Today/Gallup,2006/09/27,2006/10/01,598,LV,45,50,,2006,tennessee
+Rasmussen,2006/09/28,2006/10/01,500,LV,43,48,,2006,tennessee
+Reuters/Zogby,2006/09/25,2006/10/02,604,LV,40,40,,2006,tennessee
+Hamilton Beattie (D),2006/10/02,2006/10/04,800,LV,44,51,,2006,tennessee
+SurveyUSA,2006/10/07,2006/10/09,539,LV,48,46,,2006,tennessee
+Rasmussen,2006/10/11,2006/10/11,500,LV,46,48,,2006,tennessee
+Zogby Interactive*,2006/10/10,2006/10/16,906,LV,49,42,,2006,tennessee
+Mason-Dixon,2006/10/18,2006/10/20,625,LV,45,43,,2006,tennessee
+LA Times/Bloomberg,2006/10/20,2006/10/23,515,LV,49,44,,2006,tennessee
+Rasmussen,2006/10/23,2006/10/23,500,LV,49,47,,2006,tennessee
+Hamilton Beattie (D),2006/10/21,2006/10/24,800,LV,45,47,,2006,tennessee
+SurveyUSA,2006/10/22,2006/10/24,780,LV,48,48,,2006,tennessee
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,49,48,,2006,tennessee
+Benenson Strat (D),2006/10/26,2006/10/28,560,LV,43,48,,2006,tennessee
+CNN,2006/10/26,2006/10/29,541,LV,52,44,,2006,tennessee
+Rasmussen,2006/10/30,2006/10/30,500,LV,49,47,,2006,tennessee
+Reuters/Zogby,2006/10/24,2006/10/31,600,LV,53,43,,2006,tennessee
+Hamilton Beattie (D),2006/10/31,2006/11/01,600,LV,40,46,,2006,tennessee
+Rasmussen,2006/11/02,2006/11/02,500,LV,53,45,,2006,tennessee
+Mason-Dixon,2006/10/31,2006/11/02,625,LV,44,50,,2006,ohio
+Univ. of Cinci,2006/11/01,2006/11/05,1074,LV,44,56,,2006,ohio
+SurveyUSA,2006/11/03,2006/11/05,436,LV,42,54,,2006,ohio
+Columbus Dispatch*,2005/10/24,2005/11/03,1872,RV,31,35,,2006,ohio
+Rasmussen,2005/11/30,2005/11/30,500,LV,43,41,,2006,ohio
+Rasmussen,2006/01/03,2006/01/03,500,LV,45,40,,2006,ohio
+Hart Research (D),2006/02/02,2006/02/07,502,RV,47,36,,2006,ohio
+Rasmussen,2006/02/16,2006/02/16,500,LV,46,37,,2006,ohio
+Rasmussen,2006/03/28,2006/03/28,500,LV,45,42,,2006,ohio
+Rasmussen,2006/04/19,2006/04/19,500,LV,43,41,,2006,ohio
+Mason-Dixon,2006/04/24,2006/04/26,625,LV,47,36,,2006,ohio
+Feldman Group,2006/04/04,2006/04/27,800,LV,44,45,,2006,ohio
+Rasmussen,2006/05/08,2006/05/08,500,LV,41,44,,2006,ohio
+Battleground,2006/05/12,2006/05/14,650,LV,55,40,,2006,ohio
+University of Cincinnati,2006/05/09,2006/05/21,643,RV,52,42,,2006,ohio
+SurveyUSA,2006/06/10,2006/06/12,507,LV,39,48,,2006,ohio
+Zogby Interactive*,2006/06/13,2006/06/19,785,RV,34,46,,2006,ohio
+Rasmussen,2006/06/20,2006/06/20,500,LV,46,39,,2006,ohio
+Zogby Interactive*,2006/07/11,2006/07/19,953,LV,37,45,,2006,ohio
+Columbus Dispatch*,2006/07/11,2006/07/20,1654,RV,37,45,,2006,ohio
+Rasmussen,2006/07/27,2006/07/27,500,LV,42,44,,2006,ohio
+SurveyUSA,2006/08/05,2006/08/07,503,LV,41,49,,2006,ohio
+Zogby Interactive*,2006/08/15,2006/08/21,1045,LV,39,47,,2006,ohio
+Rasmussen,2006/08/22,2006/08/22,500,LV,42,45,,2006,ohio
+USA Today/Gallup,2006/08/23,2006/08/27,584,LV,40,46,,2006,ohio
+Zogby Interactive*,2006/08/29,2006/09/05,807,LV,41,45,,2006,ohio
+Rasmussen,2006/09/13,2006/09/13,500,LV,41,47,,2006,ohio
+University of Cincinnati,2006/09/07,2006/09/17,671,LV,47,51,,2006,ohio
+Quinnipiac,2006/09/11,2006/09/17,876,LV,44,45,,2006,ohio
+SurveyUSA,2006/09/18,2006/09/20,490,LV,42,52,,2006,ohio
+Columbus Dispatch*,2006/09/09,2006/09/22,1791,RV,42,47,,2006,ohio
+Zogby Interactive*,2006/09/19,2006/09/25,963,LV,41,45,,2006,ohio
+Mason-Dixon,2006/09/25,2006/09/27,625,LV,43,45,,2006,ohio
+Univ. of Akron,2006/08/20,2006/09/29,477,LV,42,42,,2006,ohio
+Reuters/Zogby,2006/09/25,2006/10/02,601,LV,41,41,,2006,ohio
+Rasmussen,2006/10/03,2006/10/03,500,LV,43,50,,2006,ohio
+SurveyUSA,2006/10/09,2006/10/11,515,LV,40,54,,2006,ohio
+Rasmussen,2006/10/12,2006/10/12,500,LV,42,48,,2006,ohio
+Univ. of Cinci,2006/10/09,2006/10/14,526,LV,45,52,,2006,ohio
+Quinnipiac,2006/10/10,2006/10/15,901,LV,41,53,,2006,ohio
+CBS News/NY Times,2006/10/11,2006/10/15,689,LV,35,49,,2006,ohio
+Zogby Interactive*,2006/10/10,2006/10/16,750,LV,45,49,,2006,ohio
+Mason-Dixon,2006/10/18,2006/10/20,625,LV,40,48,,2006,ohio
+LA Times/Bloomberg,2006/10/20,2006/10/23,507,LV,39,47,,2006,ohio
+Rasmussen,2006/10/24,2006/10/24,500,LV,43,54,,2006,ohio
+SurveyUSA,2006/10/23,2006/10/25,563,LV,37,57,,2006,ohio
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,47,49,,2006,ohio
+CNN,2006/10/26,2006/10/29,542,LV,43,54,,2006,ohio
+Opinion Consultants,2006/10/22,2006/10/30,800,LV,44,51,,2006,ohio
+Reuters/Zogby,2006/10/24,2006/10/31,600,LV,42,49,,2006,ohio
+Columbus Dispatch*,2006/10/24,2006/11/03,1541,RV,38,62,,2006,ohio
+USA Today/Gallup,2006/11/01,2006/11/04,874,LV,41,50,,2006,montana
+Reuters/Zogby,2006/10/24,2006/10/31,600,LV,46,47,,2006,montana
+Mason-Dixon,2006/10/31,2006/11/02,625,LV,47,47,,2006,montana
+Rasmussen,2006/11/04,2006/11/04,500,LV,48,50,,2006,montana
+Mason-Dixon,2005/12/13,2005/12/15,625,RV,49,36,,2006,montana
+Mason-Dixon,2005/05/23,2005/05/25,625,LV,50,26,,2006,montana
+Rasmussen,2006/01/09,2006/01/09,500,LV,45,45,,2006,montana
+Rasmussen,2005/09/08,2005/09/08,500,LV,51,38,,2006,montana
+Rasmussen,2006/05/11,2006/05/11,500,LV,44,48,,2006,montana
+Rasmussen,2006/02/07,2006/02/07,500,LV,46,46,,2006,montana
+Rasmussen,2006/03/14,2006/03/14,500,LV,43,46,,2006,montana
+Rasmussen,2006/04/11,2006/04/11,500,LV,47,44,,2006,montana
+Rasmussen,2006/08/08,2006/08/08,500,LV,47,47,,2006,montana
+Ayres McHenry (R),2006/04/25,2006/04/27,600,,42,48,,2006,montana
+Rasmussen,2006/09/20,2006/09/20,500,LV,43,50,,2006,montana
+Mason-Dixon,2006/05/22,2006/05/24,625,LV,42,45,,2006,montana
+Rasmussen,2006/09/12,2006/09/12,500,LV,43,52,,2006,montana
+Lake Research (D),2006/08/08,2006/08/10,600,LV,37,44,,2006,montana
+Reuters/Zogby,2006/09/25,2006/10/02,607,LV,42,46,,2006,montana
+Rasmussen,2006/10/18,2006/10/18,500,LV,46,49,,2006,montana
+USA Today/Gallup,2006/08/23,2006/08/27,641,LV,45,48,,2006,montana
+Mason-Dixon,2006/09/26,2006/09/28,625,LV,40,47,,2006,montana
+Rasmussen,2006/10/11,2006/10/11,500,LV,44,50,,2006,montana
+Mason-Dixon,2006/10/17,2006/10/19,625,LV,43,46,,2006,montana
+Rasmussen,2006/10/26,2006/10/26,500,LV,48,51,,2006,montana
+Harstad Strategic Res. (D),2006/10/24,2006/10/25,662,LV,42,48,,2006,montana
+Rasmussen,2006/11/01,2006/11/01,500,LV,46,50,,2006,montana
+Rasmussen,2006/09/06,2006/09/06,500,LV,50,41,,2006,nevada
+Research 2000,2006/09/05,2006/09/07,600,LV,56,35,,2006,nevada
+Zogby Interactive*,2006/10/10,2006/10/16,547,LV,52,43,,2006,nevada
+Mason-Dixon,2006/09/19,2006/09/21,625,LV,58,35,,2006,nevada
+Zogby Interactive*,2006/09/19,2006/09/25,,,49,42,,2006,nevada
+Research 2000,2006/10/23,2006/10/25,600,LV,55,41,,2006,nevada
+Rasmussen,2006/10/17,2006/10/17,500,LV,52,43,,2006,nevada
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,58,37,,2006,nevada
+Rasmussen,2006/11/02,2006/11/02,500,LV,49,49,,2006,virginia
+USA Today/Gallup,2006/11/01,2006/11/03,916,LV,49,46,,2006,virginia
+Mason-Dixon,2006/11/01,2006/11/03,625,LV,45,46,,2006,virginia
+SurveyUSA,2006/11/03,2006/11/05,741,LV,44,52,,2006,virginia
+Rasmussen,2005/12/07,2005/12/07,500,LV,57,26,,2006,virginia
+Rasmussen,2006/02/08,2006/02/08,500,LV,49,37,,2006,virginia
+Rasmussen,2006/04/11,2006/04/11,500,LV,50,30,,2006,virginia
+Rasmussen,2006/06/14,2006/06/14,500,LV,51,41,,2006,virginia
+Benenson Strategy (D),2006/06/22,2006/06/27,601,LV,46,39,,2006,virginia
+SurveyUSA,2006/06/25,2006/06/27,533,LV,56,37,,2006,virginia
+Zogby,2006/07/12,2006/07/15,501,LV,47,37,,2006,virginia
+Rasmussen,2006/07/18,2006/07/18,500,LV,50,39,,2006,virginia
+Mason-Dixon,2006/07/25,2006/07/27,625,RV,48,32,,2006,virginia
+Rasmussen,2006/08/16,2006/08/16,500,LV,47,42,,2006,virginia
+SurveyUSA,2006/08/18,2006/08/20,576,LV,48,45,,2006,virginia
+Zogby Interactive*,2006/08/15,2006/08/21,n/a,,47,48,,2006,virginia
+Zogby Interactive*,2006/08/29,2006/09/05,n/a,,43,50,,2006,virginia
+Mason-Dixon,2006/09/05,2006/09/07,625,LV,46,42,,2006,virginia
+SurveyUSA,2006/09/10,2006/09/12,467,LV,48,45,,2006,virginia
+Zogby Interactive*,2006/09/19,2006/09/25,960,LV,49,44,,2006,virginia
+SurveyUSA,2006/09/24,2006/09/26,628,LV,49,44,,2006,virginia
+Mason-Dixon,2006/09/23,2006/09/27,625,LV,43,43,,2006,virginia
+SurveyUSA,2006/09/26,2006/09/28,612,LV,50,44,,2006,virginia
+USA Today/Gallup,2006/09/27,2006/10/01,597,LV,48,45,,2006,virginia
+Rasmussen,2006/09/28,2006/10/01,750,LV,49,43,,2006,virginia
+Reuters/Zogby,2006/09/25,2006/10/02,601,LV,48,37,,2006,virginia
+Washington Post,2006/10/10,2006/10/12,1004,LV,49,47,,2006,virginia
+Rasmussen,2006/10/12,2006/10/12,500,LV,49,46,,2006,virginia
+Zogby Interactive *,2006/10/10,2006/10/16,1017,LV,50,47,,2006,virginia
+LA Times/Bloomberg,2006/10/20,2006/10/23,385,LV,44,47,,2006,virginia
+SurveyUSA,2006/10/22,2006/10/24,613,LV,49,46,,2006,virginia
+Rasmussen,2006/10/24,2006/10/24,500,LV,50,48,,2006,virginia
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,47,51,,2006,virginia
+Roanoke College,2006/10/22,2006/10/29,453,LV,45,42,,2006,virginia
+CNN,2006/10/26,2006/10/29,597,LV,46,50,,2006,virginia
+Garin Hart Yang (D),2006/10/26,2006/10/29,811,LV,43,47,,2006,virginia
+Rasmussen,2006/10/29,2006/10/29,500,LV,46,51,,2006,virginia
+Rasmussen,2006/11/01,2006/11/01,500,LV,43,48,,2006,new-jersey
+Mason-Dixon,2006/11/01,2006/11/03,625,LV,41,48,,2006,new-jersey
+Marist,2006/11/01,2006/11/03,619,LV,42,50,,2006,new-jersey
+Monmouth/Gannett,2006/11/01,2006/11/03,1086,LV,42,45,,2006,new-jersey
+USA Today/Gallup,2006/11/01,2006/11/04,877,LV,40,50,,2006,new-jersey
+Quinnipiac,2006/10/30,2006/11/05,917,LV,43,48,,2006,new-jersey
+Quinnipiac,2005/11/16,2005/11/20,1111,RV,39,41,,2006,new-jersey
+Rasmussen,2005/12/07,2005/12/07,500,LV,34,38,,2006,new-jersey
+Quinnipiac,2005/12/10,2005/12/13,689,RV,38,44,,2006,new-jersey
+Fairleigh Dickinson,2006/01/03,2006/01/10,707,RV,36,25,,2006,new-jersey
+Rasmussen,2006/01/18,2006/01/18,500,LV,42,35,,2006,new-jersey
+Quinnipiac,2006/01/18,2006/01/23,961,RV,36,38,,2006,new-jersey
+Strategic Vision (R),2006/02/03,2006/02/05,800,LV,33,28,,2006,new-jersey
+Zogby,2006/02/08,2006/02/10,802,LV,32,37,,2006,new-jersey
+Rasmussen,2006/02/14,2006/02/14,500,LV,36,39,,2006,new-jersey
+Fairleigh Dickinson,2006/02/27,2006/03/06,601,RV,37,42,,2006,new-jersey
+Strategic Vision (R),2006/03/06,2006/03/08,800,LV,32,30,,2006,new-jersey
+Quinnipiac,2006/03/08,2006/03/14,1147,RV,36,40,,2006,new-jersey
+Rasmussen,2006/03/28,2006/03/28,500,LV,41,39,,2006,new-jersey
+Rutgers-Eagleton Poll,2006/03/26,2006/03/30,676,RV,35,40,,2006,new-jersey
+Fairleigh Dickinson,2006/03/27,2006/04/02,685,RV,42,38,,2006,new-jersey
+Strategic Vision (R),2006/04/07,2006/04/09,800,LV,34,32,,2006,new-jersey
+Rasmussen,2006/04/11,2006/04/11,500,LV,43,36,,2006,new-jersey
+Quinnipiac,2006/04/18,2006/04/24,1414,RV,34,40,,2006,new-jersey
+Strategic Vision (R),2006/05/12,2006/05/14,800,LV,35,35,,2006,new-jersey
+Rasmussen,2006/05/16,2006/05/16,500,LV,40,37,,2006,new-jersey
+Quinnipiac,2006/06/07,2006/06/13,1099,RV,36,43,,2006,new-jersey
+Strategic Vision (R),2006/06/16,2006/06/18,800,LV,36,38,,2006,new-jersey
+Rutgers-Eagleton Poll,2006/06/14,2006/06/19,699,RV,38,42,,2006,new-jersey
+Rasmussen,2006/06/21,2006/06/21,500,LV,40,46,,2006,new-jersey
+Strategic Vision (R),2006/07/07,2006/07/09,800,LV,37,43,,2006,new-jersey
+Quinnipiac,2006/07/08,2006/07/12,985,RV,40,38,,2006,new-jersey
+Monmouth/Gannett,2006/07/11,2006/07/13,802,A,37,38,,2006,new-jersey
+Fairleigh Dickinson,2006/07/10,2006/07/16,675,RV,40,43,,2006,new-jersey
+Rasmussen,2006/07/25,2006/07/25,500,LV,38,44,,2006,new-jersey
+POS (R),2006/07/31,2006/08/02,500,LV,39,38,,2006,new-jersey
+Strategic Vision (R),2006/08/11,2006/08/13,800,LV,40,42,,2006,new-jersey
+Zogby Interactive*,2006/08/15,2006/08/21,715,LV,41,43,,2006,new-jersey
+Fairleigh Dickinson,2006/08/21,2006/08/27,651,RV,43,39,,2006,new-jersey
+Rasmussen,2006/08/28,2006/08/28,500,LV,44,39,,2006,new-jersey
+Zogby Interactive*,2006/08/29,2006/09/05,761,LV,40,40,,2006,new-jersey
+Strategic Vision (R),2006/09/08,2006/09/10,800,LV,44,40,,2006,new-jersey
+Quinnipiac,2006/09/13,2006/09/18,688,LV,48,45,,2006,new-jersey
+Monmouth/Gannett,2006/09/18,2006/09/21,391,LV,44,38,,2006,new-jersey
+Rasmussen,2006/09/22,2006/09/22,500,LV,41,40,,2006,new-jersey
+Zogby Interactive*,2006/09/19,2006/09/25,,,41,47,,2006,new-jersey
+Rutgers-Eagleton,2006/09/24,2006/09/26,404,LV,44,45,,2006,new-jersey
+Mason-Dixon,2006/09/24,2006/09/27,625,LV,41,44,,2006,new-jersey
+Marist,2006/09/28,2006/09/28,460,RV,42,37,,2006,new-jersey
+USA Today/Gallup,2006/09/27,2006/10/01,542,LV,43,46,,2006,new-jersey
+Strategic Vision (R),2006/09/29,2006/10/01,800,LV,46,41,,2006,new-jersey
+Reuters/Zogby,2006/09/25,2006/10/02,600,LV,35,46,,2006,new-jersey
+Fairleigh Dickinson,2006/09/27,2006/10/02,514,LV,39,46,,2006,new-jersey
+Quinnipiac,2006/10/04,2006/10/10,761,LV,45,49,,2006,new-jersey
+Rasmussen,2006/10/11,2006/10/11,500,LV,40,44,,2006,new-jersey
+Zogby Interactive *,2006/10/10,2006/10/16,902,LV,47,45,,2006,new-jersey
+Monmouth/Gannett,2006/10/16,2006/10/19,396,LV,39,48,,2006,new-jersey
+Mason-Dixon,2006/10/18,2006/10/21,625,LV,42,45,,2006,new-jersey
+LA Times/Bloomberg,2006/10/20,2006/10/23,314,LV,41,45,,2006,new-jersey
+CBS News/NY Times,2006/10/20,2006/10/25,522,LV,39,40,,2006,new-jersey
+Research 2000,2006/10/23,2006/10/25,600,LV,42,48,,2006,new-jersey
+"Bennett, Petts (D)",2006/10/23,2006/10/25,800,RV,36,45,,2006,new-jersey
+Rasmussen,2006/10/25,2006/10/25,500,LV,45,45,,2006,new-jersey
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,43,49,,2006,new-jersey
+Rasmussen,2006/10/28,2006/10/28,500,LV,44,49,,2006,new-jersey
+Quinnipiac,2006/10/23,2006/10/29,887,LV,44,49,,2006,new-jersey
+CNN,2006/10/26,2006/10/29,577,LV,44,51,,2006,new-jersey
+Strategic Vision (R),2006/10/27,2006/10/29,800,LV,42,43,,2006,new-jersey
+Reuters/Zogby,2006/10/24,2006/10/31,600,LV,37,49,,2006,new-jersey
+Fairleigh Dickinson,2006/10/25,2006/10/31,577,LV,38,48,,2006,new-jersey
+Rutgers-Eagleton,2006/10/29,2006/10/31,500,LV,42,46,,2006,new-jersey
+Pub Op Str (R),2006/10/31,2006/11/02,600,LV,41,43,,2006,new-jersey
+Strategic Vision (R),2006/11/02,2006/11/04,800,LV,42,49,,2006,new-jersey
+Quinnipiac,2006/10/11,2006/10/16,1053,LV,30,65,,2006,new-york
+Marist,2006/10/30,2006/11/01,503,LV,32,65,,2006,new-york
+Siena,2006/10/30,2006/11/01,500,LV,28,65,,2006,new-york
+Siena,2006/09/13,2006/09/14,625,LV,33,62,,2006,new-york
+Zogby Interactive*,2006/09/19,2006/09/25,,,31,55,,2006,new-york
+CBS News/NY Times,2006/09/24,2006/09/27,734,RV,27,59,,2006,new-york
+Quinnipiac,2006/09/26,2006/10/01,1263,LV,31,66,,2006,new-york
+Siena,2006/10/09,2006/10/12,620,LV,32,59,,2006,new-york
+Zogby Interactive *,2006/10/10,2006/10/16,1008,LV,32,56,,2006,new-york
+Marist,2006/10/16,2006/10/18,475,LV,30,67,,2006,new-york
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,33,57,,2006,new-york
+Rasmussen,2006/09/05,2006/09/05,500,LV,30,63,,2006,west-virginia
+Pub Op Str (R),2006/08/01,2006/08/02,500,RV,,10,,2006,maryland
+Gonzales Res.,2006/08/18,2006/08/25,625,LV,,6,,2006,maryland
+SurveyUSA,2006/09/08,2006/09/10,424,LV,,8,,2006,maryland
+Potomac,2005/04/11,2005/04/13,1000,LV,,16,,2006,maryland
+Potomac,2005/10/27,2005/11/01,1008,LV,,4,,2006,maryland
+Garin Hart Yang (D),2006/04/03,2006/04/06,505,LDV,,4,,2006,maryland
+Gonzales Res.,2006/04/04,2006/04/13,423,LDV,,8,,2006,maryland
+Washington Post,2006/06/19,2006/06/25,494,RDV,,10,,2006,maryland
+Potomac,2006/07/06,2006/07/10,604,LDV,,4,,2006,maryland
+SurveyUSA,2006/08/28,2006/08/30,510,LV,,8,,2006,maryland
+Reuters/Zogby,2006/10/24,2006/10/31,600,LV,8,37,49,2006,connecticut
+Research 2000,2006/10/30,2006/11/01,600,LV,7,39,51,2006,connecticut
+SurveyUSA,2006/11/02,2006/11/04,652,LV,9,38,49,2006,connecticut
+Quinnipiac,2006/10/31,2006/11/05,676,LV,8,38,50,2006,connecticut
+Rasmussen,2005/04/27,2005/04/27,500,LV,,20,47,2006,connecticut
+Quinnipiac,2006/04/25,2006/04/30,1536,RV,10,13,56,2006,connecticut
+Quinnipiac,2006/05/31,2006/06/06,2114,RV,8,18,56,2006,connecticut
+Rasmussen,2006/06/12,2006/06/12,500,LV,15,29,44,2006,connecticut
+Quinnipiac,2006/07/13,2006/07/18,2502,RV,9,27,51,2006,connecticut
+Rasmussen,2006/07/20,2006/07/20,1000,LV,13,40,40,2006,connecticut
+Rasmussen,2006/08/09,2006/08/10,500,LV,6,41,46,2006,connecticut
+Quinnipiac,2006/08/10,2006/08/14,1083,LV,4,41,53,2006,connecticut
+Zogby Interactive*,2006/08/15,2006/08/21,533,LV,2,39,49,2006,connecticut
+American Res. Group,2006/08/17,2006/08/21,790,LV,3,42,44,2006,connecticut
+Rasmussen,2006/08/21,2006/08/21,550,LV,6,43,45,2006,connecticut
+Pub Op Str (R),2006/08/27,2006/08/29,600,LV,4,35,51,2006,connecticut
+Zogby Interactive*,2006/08/29,2006/09/05,531,LV,3,42,46,2006,connecticut
+SurveyUSA,2006/09/09,2006/09/11,572,LV,7,38,51,2006,connecticut
+Rasmussen,2006/09/13,2006/09/14,550,LV,5,43,45,2006,connecticut
+American Res. Group,2006/09/15,2006/09/19,600,LV,3,45,47,2006,connecticut
+Zogby Interactive*,2006/09/19,2006/09/25,550,LV,4,44,46,2006,connecticut
+Quinnipiac,2006/09/21,2006/09/25,1181,LV,5,39,49,2006,connecticut
+Reuters/Zogby,2006/09/25,2006/10/02,601,LV,4,33,53,2006,connecticut
+Rasmussen,2006/10/03,2006/10/03,550,LV,6,40,51,2006,connecticut
+Univ. of Connecticut,2006/10/04,2006/10/09,637,LV,4,40,48,2006,connecticut
+SurveyUSA,2006/10/08,2006/10/10,572,LV,4,40,53,2006,connecticut
+Zogby Interactive *,2006/10/10,2006/10/16,531,LV,4,43,49,2006,connecticut
+Quinnipiac,2006/10/17,2006/10/19,881,LV,6,35,52,2006,connecticut
+American Res. Group,2006/10/18,2006/10/20,600,LV,8,37,49,2006,connecticut
+Zogby Interactive*,2006/10/23,2006/10/27,,LV,6,43,47,2006,connecticut
+Rasmussen,2006/10/28,2006/10/28,500,LV,9,40,48,2006,connecticut
+Quinnipiac,2006/10/24,2006/10/30,926,LV,8,37,49,2006,connecticut

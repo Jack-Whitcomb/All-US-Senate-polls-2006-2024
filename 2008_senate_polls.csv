@@ -1,0 +1,443 @@
+pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state
+SurveyUSA,2008/10/30,2008/11/02,682,LV,43,50,,2008,north-carolina
+Mason-Dixon,2008/10/29,2008/10/30,625,LV,46,45,,2008,north-carolina
+Research 2000,2008/10/28,2008/10/30,600,LV,45,50,,2008,north-carolina
+Rasmussen,2008/10/29,2008/10/29,700,LV,46,52,,2008,north-carolina
+PPP (D),2008/10/31,2008/11/02,2100,LV,44,51,,2008,north-carolina
+CNN/Time,2008/10/23,2008/10/28,690,LV,44,53,,2008,north-carolina
+National Journal/FD,2008/10/23,2008/10/27,402,RV,43,45,,2008,north-carolina
+Civitas/TelOpinion (R),2008/10/27,2008/10/29,600,LV,43,45,,2008,north-carolina
+PPP (D),2008/10/25,2008/10/26,1038,LV,45,48,,2008,north-carolina
+Associated Press/GfK,2008/10/22,2008/10/26,601,LV,43,47,,2008,north-carolina
+NBC/Mason-Dixon,2008/10/22,2008/10/24,800,LV,46,42,,2008,north-carolina
+WSOC-TV,2008/10/20,2008/10/21,500,LV,43,44,,2008,north-carolina
+SurveyUSA,2008/10/18,2008/10/20,627,LV,45,46,,2008,north-carolina
+Civitas/TelOpinion (R),2008/10/18,2008/10/20,600,RV,41,44,,2008,north-carolina
+PPP (D),2008/10/18,2008/10/19,1200,LV,42,49,,2008,north-carolina
+Research 2000,2008/10/14,2008/10/15,600,LV,45,49,,2008,north-carolina
+PPP (D),2008/10/11,2008/10/12,1196,LV,44,46,,2008,north-carolina
+Rasmussen,2008/10/08,2008/10/08,700,LV,44,49,,2008,north-carolina
+Civitas/TelOpinion (R),2008/10/06,2008/10/08,600,RV,42,45,,2008,north-carolina
+WSOC-TV,2008/10/06,2008/10/07,500,LV,43,44,,2008,north-carolina
+SurveyUSA,2008/10/05,2008/10/06,617,LV,44,43,,2008,north-carolina
+PPP (D),2008/10/04,2008/10/05,1202,LV,40,49,,2008,north-carolina
+PPP (D),2008/09/27,2008/09/28,1041,LV,38,46,,2008,north-carolina
+Rasmussen,2008/09/23,2008/09/23,500,LV,45,48,,2008,north-carolina
+Civitas/TelOpinion (R),2008/09/17,2008/09/20,600,LV,43,41,,2008,north-carolina
+PPP (D),2008/09/17,2008/09/19,1060,LV,41,46,,2008,north-carolina
+Rasmussen,2008/09/18,2008/09/18,500,LV,45,51,,2008,north-carolina
+Research 2000,2008/09/08,2008/09/10,600,LV,48,42,,2008,north-carolina
+PPP (D),2008/09/09,2008/09/09,626,LV,42,43,,2008,north-carolina
+SurveyUSA,2008/09/06,2008/09/08,671,LV,48,40,,2008,north-carolina
+Democracy Corps (D),2008/08/20,2008/08/26,852,LV,45,50,,2008,north-carolina
+PPP (D),2008/08/20,2008/08/23,904,LV,39,42,,2008,north-carolina
+InsiderAdvantage,2008/08/19,2008/08/19,614,LV,40,40,,2008,north-carolina
+Civitas/TelOpinion (R),2008/08/14,2008/08/17,600,RV,44,41,,2008,north-carolina
+SurveyUSA,2008/08/09,2008/08/11,655,LV,46,41,,2008,north-carolina
+Research 2000,2008/07/28,2008/07/30,600,LV,50,42,,2008,north-carolina
+PPP (D),2008/07/23,2008/07/27,823,LV,49,40,,2008,north-carolina
+Civitas/TelOpinion (R),2008/07/14,2008/07/16,600,LV,47,38,,2008,north-carolina
+Rasmussen,2008/07/15,2008/07/15,500,LV,54,43,,2008,north-carolina
+SurveyUSA,2008/07/12,2008/07/14,676,LV,54,42,,2008,north-carolina
+PPP (D),2008/06/26,2008/06/29,1048,LV,51,37,,2008,north-carolina
+Civitas/TelOpinion (R),2008/06/11,2008/06/13,600,RV,48,38,,2008,north-carolina
+Rasmussen,2008/06/10,2008/06/10,500,LV,53,39,,2008,north-carolina
+PPP (D),2008/05/28,2008/05/29,543,LV,47,39,,2008,north-carolina
+SurveyUSA,2008/05/17,2008/05/19,713,LV,50,46,,2008,north-carolina
+Civitas/TelOpinion (R),2008/05/14,2008/05/17,800,RV,45,43,,2008,north-carolina
+PPP (D),2008/05/08,2008/05/09,616,LV,48,43,,2008,north-carolina
+Rasmussen,2008/05/08,2008/05/08,500,LV,47,48,,2008,north-carolina
+Research 2000,2008/04/28,2008/04/30,600,LV,48,41,,2008,north-carolina
+Rasmussen,2008/04/10,2008/04/10,500,LV,52,39,,2008,north-carolina
+Rasmussen,2007/12/19,2007/12/19,500,LV,55,35,,2008,north-carolina
+Research 2000,2007/12/16,2007/12/18,600,LV,46,39,,2008,north-carolina
+Research 2000,2008/10/22,2008/10/24,600,LV,35,57,,2008,south-dakota
+Mason-Dixon,2008/10/13,2008/10/15,800,LV,34,57,,2008,south-dakota
+GQR (D)*,2008/08/12,2008/08/14,610,LV,34,61,,2008,south-dakota
+Rasmussen,2008/07/09,2008/07/09,500,LV,38,60,,2008,south-dakota
+SurveyUSA,2008/10/28,2008/10/29,654,LV,58,39,,2008,south-carolina
+SurveyUSA,2008/10/12,2008/10/13,561,LV,56,40,,2008,south-carolina
+Research 2000,2008/09/22,2008/09/24,600,LV,51,42,,2008,south-carolina
+SurveyUSA,2008/09/21,2008/09/22,690,LV,54,40,,2008,south-carolina
+Rasmussen,2008/09/18,2008/09/18,500,LV,50,41,,2008,south-carolina
+PPP (D),2008/07/09,2008/07/11,542,LV,54,32,,2008,south-carolina
+SurveyUSA,2008/10/29,2008/10/31,664,LV,42,56,,2008,new-mexico
+Rasmussen,2008/10/28,2008/10/28,500,lv,41,56,,2008,new-mexico
+Albuquerque Journal,2008/09/29,2008/10/02,659,LV,36,51,,2008,new-mexico
+PPP (D),2008/10/28,2008/10/30,1537,LV,39,58,,2008,new-mexico
+Rasmussen,2008/10/13,2008/10/13,700,LV,37,57,,2008,new-mexico
+SurveyUSA,2008/10/12,2008/10/13,568,LV,40,58,,2008,new-mexico
+Rasmussen,2008/10/01,2008/10/01,700,LV,41,55,,2008,new-mexico
+SurveyUSA,2008/09/29,2008/09/30,698,LV,39,58,,2008,new-mexico
+PPP (D),2008/09/17,2008/09/19,1037,LV,37,57,,2008,new-mexico
+SurveyUSA,2008/09/14,2008/09/16,671,LV,41,56,,2008,new-mexico
+Rasmussen,2008/09/08,2008/09/08,700,LV,44,51,,2008,new-mexico
+Rasmussen,2008/08/20,2008/08/20,700,LV,44,52,,2008,new-mexico
+Rasmussen,2008/07/24,2008/07/24,700,LV,35,61,,2008,new-mexico
+Rasmussen,2008/06/19,2008/06/19,500,LV,30,58,,2008,new-mexico
+SurveyUSA,2008/05/30,2008/06/01,1869,RV,36,60,,2008,new-mexico
+Rasmussen,2008/05/14,2008/05/14,500,LV,37,53,,2008,new-mexico
+SurveyUSA,2008/05/12,2008/05/14,1827,RV,36,60,,2008,new-mexico
+Rasmussen,2008/04/08,2008/04/08,500,LV,40,54,,2008,new-mexico
+Rasmussen,2008/02/17,2008/02/18,500,LV,42,50,,2008,new-mexico
+SurveyUSA,2007/11/16,2007/11/18,1737,RV,40,54,,2008,new-mexico
+Research 2000,2007/11/05,2007/11/07,600,LV,37,54,,2008,new-mexico
+"Fairbank, Maslin, Maullin \u0026amp;  Assoc (D)",2007/10/23,2007/10/27,500,LV,33,50,,2008,new-mexico
+SurveyUSA,2007/10/05,2007/01/07,514,RV,37,55,,2008,new-mexico
+WMUR/UNH,2008/10/30,2008/11/02,831,LV,42,48,,2008,new-hampshire
+Rasmussen,2008/10/30,2008/10/30,700,LV,44,52,,2008,new-hampshire
+SurveyUSA,2008/10/29,2008/10/30,682,LV,40,53,,2008,new-hampshire
+ARG,2008/10/28,2008/10/30,600,LV,41,53,,2008,new-hampshire
+Suffolk,2008/10/27,2008/10/29,600,LV,39,48,,2008,new-hampshire
+Strategic Vision (R),2008/10/27,2008/10/29,800,LV,41,48,,2008,new-hampshire
+WMUR/UNH,2008/10/25,2008/10/27,652,LV,36,50,,2008,new-hampshire
+Associated Press-GfK,2008/10/22,2008/10/26,600,LV,41,47,,2008,new-hampshire
+Rasmussen,2008/10/23,2008/10/23,700,LV,46,52,,2008,new-hampshire
+Boston Globe/UNH,2008/10/18,2008/10/22,725,LV,36,49,,2008,new-hampshire
+Concord Monitor,2008/10/17,2008/10/19,600,LV,43,50,,2008,new-hampshire
+ARG,2008/10/06,2008/10/08,600,LV,42,51,,2008,new-hampshire
+SurveyUSA,2008/10/04,2008/10/05,647,LV,40,48,,2008,new-hampshire
+Rasmussen,2008/10/01,2008/10/01,700,LV,45,50,,2008,new-hampshire
+Research 2000,2008/09/22,2008/09/24,600,LV,41,50,,2008,new-hampshire
+Strategic Vision (R),2008/09/22,2008/09/24,800,LV,45,47,,2008,new-hampshire
+Suffolk,2008/09/20,2008/09/24,600,LV,40,41,,2008,new-hampshire
+Rasmussen,2008/09/23,2008/09/23,700,LV,52,45,,2008,new-hampshire
+National Journal/FD,2008/09/18,2008/09/22,403,RV,39,48,,2008,new-hampshire
+University of New Hampshire,2008/09/14,2008/09/21,523,LV,44,48,,2008,new-hampshire
+ARG,2008/09/13,2008/09/15,600,LV,40,52,,2008,new-hampshire
+ARG,2008/08/18,2008/08/20,600,LV,41,52,,2008,new-hampshire
+Rasmussen,2008/08/19,2008/08/19,700,LV,43,52,,2008,new-hampshire
+Rasmussen,2008/07/23,2008/07/23,500,LV,45,51,,2008,new-hampshire
+ARG,2008/07/19,2008/07/21,600,LV,36,58,,2008,new-hampshire
+University of New Hampshire,2008/07/11,2008/07/20,475,LV,42,46,,2008,new-hampshire
+Rasmussen,2008/06/18,2008/06/18,500,LV,39,53,,2008,new-hampshire
+ARG,2008/06/13,2008/06/17,600,LV,40,54,,2008,new-hampshire
+Rasmussen,2008/05/20,2008/05/20,500,LV,43,50,,2008,new-hampshire
+Dartmouth,2008/04/28,2008/05/02,400,RV,36,46,,2008,new-hampshire
+Rasmussen,2008/04/30,2008/04/30,500,LV,43,51,,2008,new-hampshire
+University of New Hampshire,2008/04/25,2008/04/30,500,A,40,52,,2008,new-hampshire
+ARG,2008/03/14,2008/03/17,541,LV,33,47,,2008,new-hampshire
+Rasmussen,2008/03/16,2008/03/16,500,LV,41,49,,2008,new-hampshire
+Rasmussen,2008/02/13,2008/02/13,500,LV,41,49,,2008,new-hampshire
+University of New Hampshire,2008/01/18,2008/01/27,555,AV,37,54,,2008,new-hampshire
+American Res. Group,2007/12/16,2007/12/19,558,RV,52,41,,2008,new-hampshire
+SurveyUSA,2007/10/26,2007/10/29,642,RV,42,53,,2008,new-hampshire
+Rasmussen,2007/09/16,2007/09/16,800,LV,43,48,,2008,new-hampshire
+Monitor/Research2000,2007/07/09,2007/07/11,600,LV,34,56,,2008,new-hampshire
+American Res. Group,2007/06/23,2007/06/26,533,RV,29,57,,2008,new-hampshire
+PPP (D),2008/10/31,2008/11/02,2734,LV,26,71,,2008,montana
+Rasmussen,2008/09/07,2008/09/07,700,LV,31,64,,2008,montana
+SurveyUSA,2008/10/27,2008/10/28,657,LV,32,66,,2008,delaware
+West Chester Univ.,2008/10/06,2008/10/08,429,LV,29,65,,2008,delaware
+SurveyUSA,2008/09/22,2008/09/23,703,LV,32,64,,2008,delaware
+Fairleigh Dickinson,2008/09/17,2008/09/21,601,LV,26,69,,2008,delaware
+SurveyUSA,2008/10/27,2008/10/28,626,LV,60,33,,2008,kansas
+SurveyUSA,2008/10/21,2008/10/22,613,LV,57,35,,2008,kansas
+Rasmussen,2008/10/13,2008/10/13,500,LV,55,36,,2008,kansas
+SurveyUSA,2008/09/21,2008/09/22,666,LV,55,35,,2008,kansas
+Rasmussen,2008/09/18,2008/09/18,500,LV,58,38,,2008,kansas
+SurveyUSA,2008/08/18,2008/08/20,641,LV,58,31,,2008,kansas
+Rasmussen,2008/08/11,2008/08/11,500,LV,56,37,,2008,kansas
+Rasmussen,2008/07/14,2008/07/14,500,LV,61,33,,2008,kansas
+TargetPoint (R),2008/06/27,2008/07/01,3004,RV,54,34,,2008,kansas
+Rasmussen,2008/06/11,2008/06/11,500,LV,48,39,,2008,kansas
+Cooper \u0026amp; Secrest (D),2008/06/05,2008/06/08,808,LV,48,36,,2008,kansas
+Research 2000,2008/06/02,2008/06/04,600,LV,50,38,,2008,kansas
+Rasmussen,2008/05/13,2008/05/13,500,LV,52,40,,2008,kansas
+Research 2000,2008/10/20,2008/10/23,800,LV,34,59,,2008,illinois
+Rasmussen,2008/10/13,2008/10/13,500,LV,31,62,,2008,illinois
+Research 2000,2008/09/15,2008/09/18,800,LV,35,56,,2008,illinois
+Rasmussen,2008/09/17,2008/09/17,500,LV,35,59,,2008,illinois
+Rasmussen,2008/08/12,2008/08/12,500,LV,33,61,,2008,illinois
+Rasmussen,2008/07/08,2008/07/08,500,LV,28,63,,2008,illinois
+Research 2000,2008/10/28,2008/10/30,600,LV,36,58,,2008,alaska
+Rasmussen,2008/10/28,2008/10/28,500,LV,44,52,,2008,alaska
+Ivan Moore Res.,2008/10/17,2008/10/19,500,LV,45,46,,2008,alaska
+Research 2000,2008/10/14,2008/10/16,600,LV,46,48,,2008,alaska
+Rasmussen,2008/10/06,2008/10/06,500,LV,49,48,,2008,alaska
+Ivan Moore Res.,2008/10/03,2008/10/06,500,LV,45,49,,2008,alaska
+Ivan Moore Res.,2008/09/20,2008/09/22,500,LV,46,48,,2008,alaska
+Fairleigh Dickinson,2008/09/17,2008/09/21,601,LV,43,47,,2008,alaska
+Research 2000,2008/09/15,2008/09/17,600,LV,44,50,,2008,alaska
+Rasmussen,2008/09/09,2008/09/09,500,LV,46,48,,2008,alaska
+Ivan Moore Res.,2008/08/30,2008/09/02,500,LV,46,49,,2008,alaska
+Rasmussen,2008/07/30,2008/07/30,500,LV,37,50,,2008,alaska
+Rasmussen,2008/07/17,2008/07/17,500,LV,44,52,,2008,alaska
+Research 2000,2008/07/14,2008/07/16,600,LV,45,47,,2008,alaska
+Rasmussen,2008/06/16,2008/06/16,500,LV,46,44,,2008,alaska
+Rasmussen,2008/05/14,2008/05/14,500,LV,45,47,,2008,alaska
+Research 2000,2008/05/12,2008/05/14,600,LV,43,48,,2008,alaska
+Rasmussen,2008/04/07,2008/04/07,500,LV,46,45,,2008,alaska
+Research 2000,2007/12/03,2007/12/06,600,LV,41,47,,2008,alaska
+SurveyUSA,2008/10/29,2008/11/01,616,LV,53,45,,2008,kentucky
+Rasmussen,2008/10/29,2008/10/29,500,LV,51,44,,2008,kentucky
+Courier-Journal,2008/10/27,2008/10/29,817,LV,47,42,,2008,kentucky
+Research 2000,2008/10/27,2008/10/29,600,LV,47,44,,2008,kentucky
+Rasmussen,2008/10/21,2008/10/21,500,LV,50,43,,2008,kentucky
+Research 2000,2008/10/19,2008/10/21,600,LV,47,43,,2008,kentucky
+SurveyUSA,2008/10/18,2008/10/20,535,LV,48,48,,2008,kentucky
+Research 2000,2008/10/14,2008/10/16,600,LV,46,42,,2008,kentucky
+Rasmussen,2008/09/30,2008/09/30,500,LV,51,42,,2008,kentucky
+Mason-Dixon,2008/09/22,2008/09/25,717,LV,45,44,,2008,kentucky
+SurveyUSA,2008/09/21,2008/09/22,672,LV,49,46,,2008,kentucky
+Research 2000,2008/09/15,2008/09/17,600,LV,50,37,,2008,kentucky
+VC Research (R)*,2008/09/07,2008/09/09,900,LV,52,35,,2008,kentucky
+SurveyUSA,2008/08/09,2008/08/11,636,LV,52,40,,2008,kentucky
+Research 2000,2008/07/28,2008/07/30,600,LV,49,38,,2008,kentucky
+Rasmussen,2008/07/29,2008/07/29,500,LV,52,42,,2008,kentucky
+Rasmussen,2008/06/25,2008/06/25,500,LV,48,41,,2008,kentucky
+VC Research (R)*,2008/06/15,2008/06/17,601,LV,50,39,,2008,kentucky
+SurveyUSA,2008/06/13,2008/06/16,626,LV,50,46,,2008,kentucky
+Rasmussen,2008/05/22,2008/05/22,500,LV,44,49,,2008,kentucky
+VC Research (R)*,2008/05/21,2008/05/22,600,LV,50,39,,2008,kentucky
+Research 2000,2008/05/07,2008/05/09,600,LV,48,36,,2008,kentucky
+VC Research (R)*,2008/01/06,2008/01/09,600,LV,52,37,,2008,kentucky
+SurveyUSA,2008/10/27,2008/10/28,650,LV,65,32,,2008,alabama
+SurveyUSA,2008/10/08,2008/10/09,697,LV,64,33,,2008,alabama
+Rasmussen,2008/09/22,2008/09/22,500,LV,59,30,,2008,alabama
+SurveyUSA,2008/09/16,2008/09/17,655,LV,66,31,,2008,alabama
+Rasmussen,2008/07/31,2008/07/31,500,LV,58,31,,2008,alabama
+Rasmussen,2008/06/26,2008/06/26,500,LV,58,34,,2008,alabama
+Rasmussen,2008/05/27,2008/05/27,500,LV,62,29,,2008,alabama
+Des Moines Register,2008/10/28,2008/10/31,814,LV,31,57,,2008,iowa
+SurveyUSA,2008/10/28,2008/10/29,667,LV,35,61,,2008,iowa
+Research 2000,2008/10/27,2008/10/29,600,LV,37,57,,2008,iowa
+Rasmussen,2008/10/23,2008/10/23,500,LV,41,57,,2008,iowa
+SurveyUSA,2008/10/08,2008/10/09,692,LV,37,58,,2008,iowa
+Research 2000,2008/09/29,2008/09/30,600,LV,39,56,,2008,iowa
+Rasmussen,2008/09/25,2008/09/25,700,LV,40,54,,2008,iowa
+SurveyUSA,2008/09/17,2008/09/18,702,LV,37,60,,2008,iowa
+Des Moines Register,2008/09/08,2008/09/10,616,LV,34,53,,2008,iowa
+Rasmussen,2008/08/07,2008/08/07,700,LV,36,60,,2008,iowa
+Rasmussen,2008/06/10,2008/06/10,500,LV,37,53,,2008,iowa
+SE Louisiana,2008/10/20,2008/10/23,503,RV,34,53,,2008,louisiana
+Rasmussen,2008/10/21,2008/10/21,500,LV,43,53,,2008,louisiana
+Rasmussen,2008/09/27,2008/09/27,500,LV,41,54,,2008,louisiana
+Rasmussen,2008/08/17,2008/08/17,500,LV,39,56,,2008,louisiana
+Rasmussen,2008/07/09,2008/07/09,500,LV,44,49,,2008,louisiana
+Southern Media \u0026amp; Opinion Research,2008/06/26,2008/06/28,600,LV,40,46,,2008,louisiana
+Rasmussen,2008/05/28,2008/05/28,500,LV,44,47,,2008,louisiana
+Mellman Group (D)*,2008/05/17,2008/05/20,600,LV,33,49,,2008,louisiana
+Rasmussen,2008/04/09,2008/04/09,500,LV,39,55,,2008,louisiana
+Southern Media \u0026amp; Opinion Research,2008/03/26,2008/04/09,600,LV,38,50,,2008,louisiana
+SurveyUSA,2007/12/06,2007/12/10,651,RV,42,46,,2008,louisiana
+Zogby,2007/10/10,2007/10/14,1001,LV,45,38,,2008,louisiana
+Det. News (EPIC/MRA),2008/10/26,2008/10/28,600,LV,38,54,,2008,michigan
+PPP (D),2008/10/28,2008/10/30,1532,LV,36,58,,2008,michigan
+Strategic Vision (R),2008/10/27,2008/10/29,1200,LV,33,56,,2008,michigan
+Det. News (EPIC/MRA),2008/10/19,2008/10/22,400,LV,30,58,,2008,michigan
+Rasmussen,2008/10/08,2008/10/08,500,LV,36,61,,2008,michigan
+PPP (D),2008/09/29,2008/10/01,731,LV,32,50,,2008,michigan
+Strategic Vision (R),2008/09/22,2008/09/24,1200,LV,29,57,,2008,michigan
+National Journal/FD,2008/09/18,2008/09/22,406,RV,22,56,,2008,michigan
+Detroit News,2008/09/14,2008/09/17,602,LV,28,56,,2008,michigan
+Rasmussen,2008/09/10,2008/09/10,700,LV,38,57,,2008,michigan
+Strategic Vision (R),2008/09/05,2008/09/07,1200,LV,28,58,,2008,michigan
+PPP (D),2008/09/06,2008/09/07,1147,LV,36,51,,2008,michigan
+Detroit News,2008/08/18,2008/08/21,600,LV,27,59,,2008,michigan
+Rasmussen,2008/08/07,2008/08/07,700,LV,39,57,,2008,michigan
+PPP (D),2008/07/23,2008/07/27,883,LV,35,54,,2008,michigan
+Detroit News,2008/07/13,2008/07/15,600,LV,32,58,,2008,michigan
+Rasmussen,2008/07/10,2008/07/10,500,LV,36,59,,2008,michigan
+PPP (D),2008/06/21,2008/06/22,571,LV,32,54,,2008,michigan
+Rasmussen,2008/06/11,2008/06/11,500,LV,35,55,,2008,michigan
+Rasmussen,2008/05/07,2008/05/07,500,LV,37,54,,2008,michigan
+InAdv/PollPosition,2008/11/02,2008/11/02,512,LV,48,43,,2008,georgia
+SurveyUSA,2008/10/30,2008/11/02,683,LV,48,44,,2008,georgia
+Rasmussen,2008/10/30,2008/10/30,500,LV,48,43,,2008,georgia
+Research 2000,2008/10/28,2008/10/30,600,LV,47,46,,2008,georgia
+Strategic Vision (R),2008/10/31,2008/11/02,800,LV,48,44,,2008,georgia
+PPP (D),2008/10/31,2008/11/02,1253,LV,48,46,,2008,georgia
+InAdv/PollPosition,2008/10/27,2008/10/27,637,LV,46,44,,2008,georgia
+CNN/Time,2008/10/23,2008/10/28,690,LV,53,44,,2008,georgia
+NBC/Mason-Dixon,2008/10/22,2008/10/23,625,LV,45,39,,2008,georgia
+InAdv/PollPosition,2008/10/23,2008/10/23,615,LV,44,42,,2008,georgia
+Rasmussen,2008/10/22,2008/10/22,500,LV,47,45,,2008,georgia
+Strategic Vision (R),2008/10/20,2008/10/22,800,LV,46,44,,2008,georgia
+Democracy Corps (D),2008/10/16,2008/10/19,600,LV,48,44,,2008,georgia
+Research 2000,2008/10/14,2008/10/15,600,LV,47,45,,2008,georgia
+SurveyUSA,2008/10/11,2008/10/12,547,LV,46,43,,2008,georgia
+InAdv/PollPosition,2008/10/09,2008/10/09,531,LV,45,45,,2008,georgia
+Rasmussen,2008/10/07,2008/10/07,500,LV,50,44,,2008,georgia
+Strategic Vision (R),2008/10/05,2008/10/07,800,LV,47,44,,2008,georgia
+Research 2000,2008/09/29,2008/10/01,600,LV,45,44,,2008,georgia
+SurveyUSA,2008/09/28,2008/09/29,677,LV,46,44,,2008,georgia
+Rasmussen,2008/09/16,2008/09/16,500,LV,50,43,,2008,georgia
+SurveyUSA,2008/09/14,2008/09/16,684,LV,53,36,,2008,georgia
+Strategic Vision (R),2008/09/07,2008/09/09,800,LV,54,36,,2008,georgia
+Rasmussen,2008/08/14,2008/08/14,500,LV,50,44,,2008,georgia
+Mellman Group (D)*,2008/08/06,2008/08/10,600,LV,42,36,,2008,georgia
+Rasmussen,2008/07/17,2008/07/17,500,LV,51,40,,2008,georgia
+Strategic Vision (R),2008/06/27,2008/06/29,800,LV,57,28,,2008,georgia
+Rasmussen,2008/06/26,2008/06/26,500,LV,52,39,,2008,georgia
+Rasmussen,2008/06/04,2008/06/04,500,LV,52,36,,2008,georgia
+Rasmussen,2008/05/06,2008/05/06,500,LV,54,33,,2008,georgia
+Rasmussen,2008/03/20,2008/03/20,500,LV,51,33,,2008,georgia
+University of Texas,2008/10/15,2008/10/22,550,RV,45,36,,2008,texas
+Rasmussen,2008/10/21,2008/10/21,500,LV,55,40,,2008,texas
+Research 2000,2008/10/14,2008/10/15,,LV,50,44,,2008,texas
+Rasmussen,2008/09/29,2008/09/29,500,LV,50,43,,2008,texas
+Rasmussen,2008/08/21,2008/08/21,500,LV,52,38,,2008,texas
+Rasmussen,2008/07/30,2008/07/30,500,LV,50,39,,2008,texas
+University of Texas,2008/07/18,2008/07/30,668,RV,44,31,,2008,texas
+Rasmussen,2008/06/25,2008/06/25,500,LV,48,35,,2008,texas
+Texas Lyceum,2008/06/12,2008/06/20,,LV,38,36,,2008,texas
+Rasmussen,2008/06/02,2008/06/02,500,LV,52,35,,2008,texas
+Baselice \u0026amp; Associates (R),2008/05/20,2008/05/25,1005,RV,49,33,,2008,texas
+Research 2000,2008/05/05,2008/05/07,600,LV,48,44,,2008,texas
+Rasmussen,2008/05/01,2008/05/01,500,LV,47,43,,2008,texas
+Rasmussen,2008/11/01,2008/11/01,500,LV,57,41,,2008,maine
+SurveyUSA,2008/10/19,2008/10/20,642,LV,54,43,,2008,maine
+Critical Insights,2008/10/16,2008/10/19,443,LV,54,42,,2008,maine
+Pan Atlantic SMS,2008/10/13,2008/10/16,400,LV,57,36,,2008,maine
+Research 2000,2008/10/14,2008/10/15,600,LV,53,40,,2008,maine
+Rasmussen,2008/10/02,2008/10/02,500,LV,53,43,,2008,maine
+SurveyUSA,2008/09/22,2008/09/23,675,LV,55,39,,2008,maine
+Rasmussen,2008/09/17,2008/09/17,500,LV,55,42,,2008,maine
+Research 2000,2008/09/08,2008/09/10,600,LV,57,38,,2008,maine
+Rasmussen,2008/08/12,2008/08/12,500,LV,55,40,,2008,maine
+Rasmussen,2008/07/17,2008/07/17,500,LV,53,43,,2008,maine
+Critical Insights,2008/06/01,2008/06/27,602,A,50,40,,2008,maine
+Pan Atlantic SMS,2008/06/10,2008/06/18,400,RV,56,31,,2008,maine
+Rasmussen,2008/06/16,2008/06/16,500,LV,49,42,,2008,maine
+Rasmussen,2008/05/14,2008/05/14,500,LV,52,42,,2008,maine
+Rasmussen,2008/04/01,2008/04/01,500,LV,54,38,,2008,maine
+McLaughlin \u0026amp; Associates (R),2008/03/07,2008/03/09,400,LV,54,31,,2008,maine
+SurveyUSA,2007/10/26,2007/10/29,679,RV,55,38,,2008,maine
+Research 2000,2007/10/15,2007/10/17,600,LV,56,33,,2008,maine
+SurveyUSA,2008/10/30,2008/11/01,672,LV,35,59,,2008,virginia
+Mason-Dixon,2008/10/29,2008/10/30,625,LV,31,62,,2008,virginia
+SurveyUSA,2008/10/25,2008/10/26,671,LV,32,63,,2008,virginia
+PPP (D),2008/10/31,2008/11/02,1557,LV,36,62,,2008,virginia
+Associated Press/GfK,2008/10/22,2008/10/26,601,LV,32,58,,2008,virginia
+Washington Post,2008/10/22,2008/10/25,784,LV,31,61,,2008,virginia
+VCU,2008/10/20,2008/10/22,817,LV,27,61,,2008,virginia
+Mason-Dixon,2008/10/20,2008/10/21,625,LV,33,58,,2008,virginia
+SurveyUSA,2008/10/18,2008/10/19,652,LV,36,60,,2008,virginia
+Rasmussen,2008/10/16,2008/10/16,700,LV,36,61,,2008,virginia
+PPP (D),2008/10/06,2008/10/07,917,LV,31,58,,2008,virginia
+SurveyUSA,2008/10/04,2008/10/05,666,LV,31,61,,2008,virginia
+Suffolk,2008/10/03,2008/10/05,600,LV,25,57,,2008,virginia
+Mason-Dixon,2008/09/29,2008/10/01,625,LV,31,57,,2008,virginia
+Rasmussen,2008/09/25,2008/09/25,700,LV,34,60,,2008,virginia
+SurveyUSA,2008/09/19,2008/09/21,716,LV,34,57,,2008,virginia
+Mason-Dixon,2008/09/17,2008/09/22,625,LV,28,61,,2008,virginia
+ABC News/Wash Post,2008/09/18,2008/09/21,698,LV,31,61,,2008,virginia
+PPP (D),2008/09/13,2008/09/14,1090,LV,33,57,,2008,virginia
+SurveyUSA,2008/09/12,2008/09/14,732,LV,34,57,,2008,virginia
+CNU Virginia Poll,2008/09/10,2008/09/14,500,RV,30,54,,2008,virginia
+SurveyUSA,2008/09/05,2008/09/07,717,LV,35,56,,2008,virginia
+PPP (D),2008/08/20,2008/08/22,1036,LV,32,55,,2008,virginia
+Rasmussen,2008/08/12,2008/08/12,500,LV,35,61,,2008,virginia
+SurveyUSA,2008/08/08,2008/08/10,655,LV,34,58,,2008,virginia
+PPP (D),2008/07/17,2008/07/20,1327,LV,32,57,,2008,virginia
+Rasmussen,2008/07/16,2008/07/16,500,LV,36,59,,2008,virginia
+PPP (D),2008/06/14,2008/06/16,893,LV,28,59,,2008,virginia
+Rasmussen,2008/06/12,2008/06/12,500,LV,33,60,,2008,virginia
+Rasmussen,2008/05/08,2008/05/08,500,LV,37,55,,2008,virginia
+Rasmussen,2008/03/26,2008/03/26,500,LV,39,55,,2008,virginia
+Rasmussen,2008/02/19,2008/02/19,500,LV,37,57,,2008,virginia
+Rasmussen,2008/01/03,2008/01/03,500,LV,38,53,,2008,virginia
+SurveyUSA,2007/10/27,2007/10/30,644,RV,35,57,,2008,virginia
+Washington Post,2008/10/04,2008/10/08,1144,A,31,61,,2008,virginia
+SurveyUSA,2007/09/14,2007/09/16,783,RV,32,60,,2008,virginia
+Rasmussen,2008/10/30,2008/10/30,500,LV,46,49,,2008,oregon
+Research 2000,2008/10/27,2008/10/29,600,LV,42,48,,2008,oregon
+SurveyUSA,2008/10/25,2008/10/26,672,LV,42,49,,2008,oregon
+Portland Tribune,2008/10/23,2008/10/25,500,RV,40,45,,2008,oregon
+PPP (D),2008/10/28,2008/10/30,1424,LV,43,51,,2008,oregon
+Riley Research,2008/10/10,2008/10/20,499,RV,35,36,,2008,oregon
+Research 2000,2008/10/14,2008/10/15,600,LV,41,47,,2008,oregon
+Rasmussen,2008/10/14,2008/10/14,700,LV,47,47,,2008,oregon
+SurveyUSA,2008/10/11,2008/10/12,584,LV,41,46,,2008,oregon
+Research 2000,2008/09/22,2008/09/24,600,LV,40,45,,2008,oregon
+SurveyUSA,2008/09/22,2008/09/23,708,LV,42,44,,2008,oregon
+Rasmussen,2008/09/15,2008/09/15,700,LV,46,45,,2008,oregon
+Portland Tribune,2008/09/11,2008/09/14,500,RV,42,39,,2008,oregon
+Rasmussen,2008/08/07,2008/08/07,500,LV,50,44,,2008,oregon
+SurveyUSA,2008/08/02,2008/08/04,629,LV,49,37,,2008,oregon
+Rasmussen,2008/07/15,2008/07/15,500,LV,46,46,,2008,oregon
+Rasmussen,2008/06/11,2008/06/11,500,LV,47,38,,2008,oregon
+Rasmussen,2008/05/07,2008/05/07,500,LV,45,42,,2008,oregon
+Rasmussen,2008/03/25,2008/03/25,500,LV,47,34,,2008,oregon
+Rasmussen,2008/02/13,2008/02/13,500,LV,48,30,,2008,oregon
+SurveyUSA,2007/10/24,2007/10/28,641,RV,48,39,,2008,oregon
+CNN/Time,2008/10/23,2008/10/28,690,LV,43,53,,2008,colorado
+National Journal/FD,2008/10/23,2008/10/27,409,RV,36,51,,2008,colorado
+Associated Press/GfK,2008/10/22,2008/10/26,626,LV,36,48,,2008,colorado
+Rocky Mtn News/CBS4,2008/10/21,2008/10/23,500,LV,38,51,,2008,colorado
+PPP (D),2008/10/28,2008/10/30,2023,LV,41,56,,2008,colorado
+Rasmussen,2008/10/16,2008/10/16,700,LV,44,51,,2008,colorado
+Suffolk,2008/10/10,2008/10/13,600,LV,34,45,,2008,colorado
+Quinnipiac/WSJ/WP,2008/10/08,2008/10/12,1088,LV,40,54,,2008,colorado
+PPP (D),2008/10/08,2008/10/10,,,39,49,,2008,colorado
+Denver Post/Mason-Dixon,2008/09/29,2008/10/01,625,LV,38,43,,2008,colorado
+Rasmussen,2008/09/23,2008/09/23,700,LV,44,46,,2008,colorado
+Ciruli Assoc.,2008/09/19,2008/09/23,501,LV,38,45,,2008,colorado
+PPP (D),2008/09/20,2008/09/21,1084,LV,40,48,,2008,colorado
+Quinnipiac/WSJ/WP,2008/09/14,2008/09/21,1418,LV,40,48,,2008,colorado
+National Journal/FD,2008/09/11,2008/09/15,402,RV,38,41,,2008,colorado
+Suffolk,2008/08/21,2008/08/24,450,LV,31,39,,2008,colorado
+Mason-Dixon,2008/08/13,2008/08/15,400,LV,37,47,,2008,colorado
+Rasmussen,2008/08/13,2008/08/13,500,LV,42,50,,2008,colorado
+Rocky Mtn News/CBS4,2008/08/11,2008/08/13,500,RV,38,44,,2008,colorado
+Quinnipiac/WSJ/WP.com,2008/07/14,2008/07/22,1425,LV,44,44,,2008,colorado
+Rasmussen,2008/07/21,2008/07/21,500,LV,46,49,,2008,colorado
+PPP (D),2008/07/09,2008/07/10,1050,LV,38,47,,2008,colorado
+Rasmussen,2008/06/17,2008/06/17,500,LV,40,49,,2008,colorado
+Rasmussen,2008/05/19,2008/05/19,500,LV,41,47,,2008,colorado
+Rasmussen,2008/03/17,2008/03/17,500,LV,43,46,,2008,colorado
+McLaughlin \u0026amp; Associates (R),2008/03/06,2008/03/08,600,LV,32,44,,2008,colorado
+Rasmussen,2007/11/28,2007/11/28,500,LV,42,41,,2008,colorado
+Rasmussen,2008/02/11,2008/02/11,500,LV,44,43,,2008,colorado
+SurveyUSA,2007/10/27,2007/10/30,662,RV,41,48,,2008,colorado
+Ciruli Assoc.,2007/09/12,2007/09/15,504,LV,35,36,,2008,colorado
+SurveyUSA,2008/10/30,2008/11/01,669,LV,44,39,16,2008,minnesota
+Star Tribune,2008/10/29,2008/10/31,933,LV,38,42,15,2008,minnesota
+Rasmussen,2008/10/28,2008/10/28,500,LV,43,39,14,2008,minnesota
+Research 2000,2008/10/27,2008/10/29,600,LV,43,40,15,2008,minnesota
+NBC/Mason-Dixon,2008/10/27,2008/10/28,625,LV,42,36,12,2008,minnesota
+PPP (D),2008/10/28,2008/10/30,1050,LV,40,45,14,2008,minnesota
+Minn. Pub. Radio,2008/10/24,2008/10/28,451,LV,37,41,17,2008,minnesota
+Rasmussen,2008/10/22,2008/10/22,500,LV,37,41,17,2008,minnesota
+Big10 Battleground,2008/10/19,2008/10/22,583,RV,34,40,15,2008,minnesota
+St. Cloud State U.,2008/10/14,2008/10/22,509,A,36,27,16,2008,minnesota
+National Journal/FD,2008/10/16,2008/10/20,402,RV,36,37,19,2008,minnesota
+Star Tribune,2008/10/16,2008/10/17,1049,LV,36,39,18,2008,minnesota
+SurveyUSA,2008/10/16,2008/10/18,655,LV,41,39,18,2008,minnesota
+Research 2000,2008/10/15,2008/10/16,600,LV,39,41,18,2008,minnesota
+Quinnipiac/WSJ/WP,2008/10/08,2008/10/12,1019,LV,36,38,18,2008,minnesota
+Rasmussen,2008/10/07,2008/10/07,500,LV,37,43,17,2008,minnesota
+Minn. Pub. Radio,2008/10/03,2008/10/05,418,LV,37,41,14,2008,minnesota
+Star Tribune,2008/09/30,2008/10/02,1084,LV,34,43,18,2008,minnesota
+SurveyUSA,2008/09/30,2008/10/01,725,LV,43,33,19,2008,minnesota
+Quinnipiac/WSJ/WP,2008/09/14,2008/09/21,1301,LV,49,42,,2008,minnesota
+Rasmussen,2008/09/18,2008/09/18,500,LV,48,47,3,2008,minnesota
+Star Tribune,2008/09/10,2008/09/12,1106,LV,41,37,13,2008,minnesota
+SurveyUSA,2008/09/10,2008/09/11,734,LV,41,40,14,2008,minnesota
+Minn. Pub. Radio,2008/08/07,2008/08/17,763,LV,40,41,8,2008,minnesota
+SurveyUSA,2008/08/13,2008/08/14,682,LV,46,39,,2008,minnesota
+Rasmussen,2008/08/13,2008/08/13,500,LV,49,46,,2008,minnesota
+Rasmussen,2008/07/22,2008/07/22,500,LV,46,49,,2008,minnesota
+Quinnipiac/WSJ/WP.com,2008/07/14,2008/07/22,1261,LV,53,38,,2008,minnesota
+SurveyUSA,2008/07/11,2008/07/13,641,LV,52,39,,2008,minnesota
+Rasmussen,2008/07/10,2008/07/10,500,LV,42,44,,2008,minnesota
+Quinnipiac/WSJ/WP.com,2008/06/17,2008/06/24,1572,LV,51,41,,2008,minnesota
+SurveyUSA,2008/06/10,2008/06/12,609,RV,52,40,,2008,minnesota
+Rasmussen,2008/06/11,2008/06/11,500,LV,48,45,,2008,minnesota
+Rasmussen,2008/05/21,2008/05/21,500,LV,47,45,,2008,minnesota
+MN Star-Tribune,2008/05/12,2008/05/15,1203,A,51,44,,2008,minnesota
+SurveyUSA,2008/04/30,2008/05/01,615,RV,52,42,,2008,minnesota
+Rasmussen,2008/04/22,2008/04/22,500,LV,50,43,,2008,minnesota
+Rasmussen,2008/03/19,2008/03/19,500,LV,48,46,,2008,minnesota
+SurveyUSA,2008/03/11,2008/03/11,644,RV,51,41,,2008,minnesota
+McLaughlin \u0026amp; Associates (R),2008/03/06,2008/03/09,500,LV,46,40,,2008,minnesota
+Rasmussen,2008/02/16,2008/02/16,500,LV,46,49,,2008,minnesota
+Minn. Pub. Radio,2008/01/18,2008/01/27,917,A,40,43,,2008,minnesota
+SurveyUSA,2007/11/02,2007/11/05,616,RV,48,44,,2008,minnesota
+Rasmussen,2007/10/31,2007/10/31,500,LV,49,42,,2008,minnesota
+SurveyUSA,2007/10/24,2007/10/28,692,RV,46,45,,2008,minnesota
+Rasmussen,2007/09/06,2007/09/06,500,LV,46,41,,2008,minnesota
+Mason-Dixon,2007/05/07,2007/05/09,625,RV,54,32,,2008,minnesota
+Rasmussen,2007/03/07,2007/03/07,500,LV,46,36,,2008,minnesota
+SurveyUSA,2007/02/12,2007/02/13,632,RV,57,35,,2008,minnesota
