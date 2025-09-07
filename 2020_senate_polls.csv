@@ -1,375 +1,375 @@
-pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state
-NBC News/Marist,2020/10/29,2020/11/01,717,LV,46,52,,2020,arizona
-CNBC/Change Research (D),2020/10/29,2020/11/01,409,LV,47,51,,2020,arizona
-Emerson,2020/10/29,2020/10/31,732,LV,46,49,,2020,arizona
-Reuters/Ipsos,2020/10/27,2020/11/01,610,LV,44,53,,2020,arizona
-NY Times/Siena,2020/10/26,2020/10/30,1252,LV,43,50,,2020,arizona
-Rasmussen Reports,2020/10/27,2020/10/29,800,LV,43,48,,2020,arizona
-CNN,2020/10/23,2020/10/30,865,LV,45,52,,2020,arizona
-Reuters/Ipsos,2020/10/21,2020/10/27,714,LV,44,51,,2020,arizona
-OH Predictive Insights,2020/10/22,2020/10/25,716,LV,45,50,,2020,arizona
-Susquehanna,2020/10/19,2020/10/22,500,LV,50,47,,2020,arizona
-Rasmussen Reports,2020/10/18,2020/10/19,800,LV,44,46,,2020,arizona
-Reuters/Ipsos,2020/10/14,2020/10/21,685,LV,44,51,,2020,arizona
-CNBC/Change Research (D),2020/10/16,2020/10/19,,LV,43,54,,2020,arizona
-CBS News/YouGov,2020/10/13,2020/10/16,1074,LV,41,52,,2020,arizona
-Reuters/Ipsos,2020/10/07,2020/10/14,667,LV,41,52,,2020,arizona
-Monmouth*,2020/10/09,2020/10/13,502,LV,42,52,,2020,arizona
-Trafalgar Group (R),2020/10/06,2020/10/09,1045,LV,45,47,,2020,arizona
-OH Predictive Insights,2020/10/04,2020/10/08,608,LV,45,50,,2020,arizona
-CNBC/Change Research (D),2020/10/02,2020/10/04,296,LV,43,51,,2020,arizona
-Reuters/Ipsos,2020/09/29,2020/10/07,633,LV,41,51,,2020,arizona
-NY Times/Siena*,2020/10/01,2020/10/03,655,LV,39,50,,2020,arizona
-USA Today/Suffolk*,2020/09/26,2020/09/30,500,LV,40,49,,2020,arizona
-Susquehanna,2020/09/25,2020/09/28,500,LV,44,48,,2020,arizona
-ABC News/Wash Post,2020/09/15,2020/09/20,579,LV,48,49,,2020,arizona
-CNBC/Change Research (D),2020/09/18,2020/09/20,262,LV,43,51,,2020,arizona
-NY Times/Siena,2020/09/11,2020/09/16,653,LV,42,50,,2020,arizona
-Monmouth,2020/09/11,2020/09/15,420,LV,46,50,,2020,arizona
-Gravis,2020/09/10,2020/09/11,684,LV,43,48,,2020,arizona
-CBS News/YouGov,2020/09/09,2020/09/11,1106,LV,42,49,,2020,arizona
-OH Predictive Insights,2020/09/08,2020/09/10,600,LV,42,52,,2020,arizona
-CNBC/Change Research (D),2020/09/04,2020/09/06,470,LV,45,51,,2020,arizona
-FOX News,2020/08/29,2020/09/01,772,LV,39,56,,2020,arizona
-CNBC/Change Research (D),2020/08/07,2020/08/09,428,LV,43,49,,2020,arizona
-Emerson,2020/08/08,2020/08/10,661,LV,41,52,,2020,arizona
-OH Predictive Insights,2020/08/03,2020/08/04,603,LV,43,48,,2020,arizona
-CNBC/Change Research (D),2020/07/24,2020/07/26,365,LV,45,47,,2020,arizona
-CNN,2020/07/18,2020/07/24,873,RV,43,50,,2020,arizona
-NBC News/Marist,2020/07/14,2020/07/22,826,RV,41,53,,2020,arizona
-CNBC/Change Research (D),2020/07/10,2020/07/12,345,LV,45,52,,2020,arizona
-CBS News/YouGov,2020/07/07,2020/07/10,1099,RV,42,46,,2020,arizona
-OH Predictive Insights,2020/07/06,2020/07/07,600,LV,43,52,,2020,arizona
-CNBC/Change Research (D),2020/06/26,2020/06/28,311,LV,44,53,,2020,arizona
-Gravis,2020/06/27,2020/06/27,527,LV,46,42,,2020,arizona
-NY Times/Siena,2020/06/08,2020/06/16,650,RV,38,47,,2020,arizona
-FOX News,2020/05/30,2020/06/02,1002,RV,37,50,,2020,arizona
-OH Predictive Insights,2020/05/09,2020/05/11,600,LV,38,51,,2020,arizona
-OH Predictive Insights,2020/04/07,2020/04/08,600,LV,42,51,,2020,arizona
-Monmouth,2020/03/11,2020/03/14,847,RV,44,50,,2020,arizona
-Univision/ASU,2020/03/06,2020/03/11,1036,RV,36,48,,2020,arizona
-OH Predictive Insights,2020/03/03,2020/03/04,600,LV,42,49,,2020,arizona
-PPP (D),2020/03/02,2020/03/03,666,RV,42,47,,2020,arizona
-PPP (D),2020/01/02,2020/01/04,760,RV,42,46,,2020,arizona
-OH Predictive Insights,2019/12/03,2019/12/04,628,LV,44,47,,2020,arizona
-Emerson,2019/10/25,2019/10/28,904,RV,45,46,,2020,arizona
-OH Predictive Insights,2019/08/13,2019/08/14,600,LV,41,46,,2020,arizona
-OH Predictive Insights,2019/05/01,2019/05/02,600,LV,45,44,,2020,arizona
-OH Predictive Insights,2019/02/12,2019/02/13,600,LV,46,44,,2020,arizona
-Auburn Univ.,2019/10/23,2020/10/28,853,LV,54,43,,2020,alabama
-Auburn Univ.,2020/09/30,2020/10/03,1072,RV,54,42,,2020,alabama
-AL Daily News/Mason-Dixon,2020/02/04,2020/02/06,625,RV,50,42,,2020,alabama
-PPP (D),2020/11/01,2020/11/02,871,LV,47,48,,2020,iowa
-InsiderAdvantage*,2020/10/30,2020/10/30,400,LV,51,45,,2020,iowa
-Emerson,2020/10/29,2020/10/30,604,LV,44,48,,2020,iowa
-Des Moines Register,2020/10/26,2020/10/29,814,LV,46,42,,2020,iowa
-Quinnipiac,2020/10/23,2020/10/27,1225,LV,48,46,,2020,iowa
-Who-TV 13**,2020/10/21,2020/10/24,693,LV,45,51,,2020,iowa
-Emerson,2020/10/19,2020/10/21,435,LV,46,45,,2020,iowa
-NY Times/Siena*,2020/10/18,2020/10/20,753,LV,45,44,,2020,iowa
-InsiderAdvantage*,2020/10/18,2020/10/19,400,LV,43,48,,2020,iowa
-Monmouth*,2020/10/15,2020/10/19,501,LV,47,49,,2020,iowa
-CBS News/YouGov,2020/10/06,2020/10/09,1035,LV,43,47,,2020,iowa
-Quinnipiac,2020/10/01,2020/10/05,1256,LV,45,50,,2020,iowa
-Who-TV 13**,2020/09/23,2020/09/26,780,LV,39,51,,2020,iowa
-Monmouth*,2020/09/18,2020/09/22,402,LV,46,49,,2020,iowa
-NY Times/Siena*,2020/09/16,2020/09/21,501,LV,40,42,,2020,iowa
-Des Moines Register,2020/09/14,2020/09/17,658,LV,42,45,,2020,iowa
-Monmouth*,2020/07/30,2020/08/03,401,LV,48,47,,2020,iowa
-Des Moines Register,2019/06/07,2019/06/10,674,LV,43,46,,2020,iowa
-PPP (D),2020/04/30,2020/05/01,1222,RV,43,42,,2020,iowa
-MSU-Billings*,2020/10/19,2020/10/24,546,LV,47,48,,2020,montana
-NY Times/Siena*,2020/10/18,2020/10/20,758,LV,49,46,,2020,montana
-NBC-MT/Strategies 360,2020/10/15,2020/10/20,500,LV,48,47,,2020,montana
-PPP (D),2020/10/09,2020/10/10,798,LV,48,48,,2020,montana
-Emerson,2020/10/05,2020/10/07,500,LV,52,43,,2020,montana
-NY Times/Siena*,2020/09/14,2020/09/16,625,LV,45,44,,2020,montana
-Emerson,2020/07/31,2020/08/02,584,LV,50,44,,2020,montana
-PPP (D),2020/07/09,2020/07/10,1224,RV,44,46,,2020,montana
-SurveyUSA,2020/10/23,2020/10/27,649,LV,42,45,,2020,minnesota
-KSTP/SurveyUSA,2020/10/16,2020/10/20,625,LV,42,43,,2020,minnesota
-MinnPost*,2020/10/12,2020/10/15,1021,LV,44,48,,2020,minnesota
-KSTP/SurveyUSA,2020/10/01,2020/10/06,929,LV,37,44,,2020,minnesota
-Star Tribune/Mason-Dixon,2020/09/21,2020/09/23,800,LV,41,49,,2020,minnesota
-USA Today/Suffolk*,2020/09/20,2020/09/24,500,LV,35,45,,2020,minnesota
-CBS News/YouGov,2020/09/09,2020/09/11,1087,LV,40,47,,2020,minnesota
-NY Times/Siena,2020/09/08,2020/09/10,814,LV,40,49,,2020,minnesota
-KSTP/SurveyUSA,2020/09/04,2020/09/07,553,LV,36,47,,2020,minnesota
-PPP (D),2020/09/03,2020/09/04,877,RV,41,49,,2020,minnesota
-Emerson,2020/08/08,2020/08/10,733,RV,45,48,,2020,minnesota
-The Arkansas Poll,2020/10/09,2020/10/21,591,LV,75,,20,2020,arkansas
-Talk Business/Hendrix College,2020/10/11,2020/10/13,647,LV,63,,28,2020,arkansas
-U. of Colorado/YouGov,2020/10/05,2020/10/09,800,LV,40,48,,2020,colorado
-KUSA/SurveyUSA,2020/10/01,2020/10/06,1109,LV,39,48,,2020,colorado
-NY Times/Siena*,2020/10/09,2020/10/14,423,LV,45,,37,2020,alaska
-PPP (D),2020/07/07,2020/07/08,1081,RV,39,,34,2020,alaska
-University of Delaware*,2020/09/21,2020/09/27,847,LV,27,57,,2020,delaware
-Emerson*,2020/10/29,2020/10/31,611,LV,42,48,,2020,maine
-Colby College*,2020/10/21,2020/10/25,879,LV,43,47,,2020,maine
-Pan Atlantic*,2020/10/02,2020/10/06,600,LV,40,47,,2020,maine
-Bangor Daily News*,2020/09/25,2020/10/04,466,LV,43,44,,2020,maine
-Colby College*,2020/09/17,2020/09/23,847,LV,41,45,,2020,maine
-Boston Globe/Suffolk*,2020/09/17,2020/09/20,500,LV,41,46,,2020,maine
-NY Times/Siena*,2020/09/11,2020/09/16,663,LV,44,49,,2020,maine
-Quinnipiac,2020/09/10,2020/09/14,1183,LV,42,54,,2020,maine
-Bangor Daily News,2020/07/28,2020/08/09,500,RV,38,43,,2020,maine
-Quinnipiac,2020/07/30,2020/08/03,807,RV,43,47,,2020,maine
-Colby College,2020/07/18,2020/06/24,888,LV,39,44,,2020,maine
-PPP (D),2020/07/02,2020/07/03,1022,RV,42,46,,2020,maine
-PPP (D),2020/03/02,2020/03/03,872,RV,43,47,,2020,maine
-Colby College/Socialsphere,2020/02/10,2020/02/13,1008,RV,42,43,,2020,maine
-WSB-TV/Landmark*,2020/11/01,2020/11/01,500,LV,49,47,,2020,georgia
-Emerson,2020/10/29,2020/10/31,749,LV,46,47,,2020,georgia
-PPP (D)*,2020/10/27,2020/10/28,661,LV,44,47,,2020,georgia
-WSB-TV/Landmark*,2020/10/28,2020/10/28,750,LV,47,47,,2020,georgia
-Monmouth*,2020/10/23,2020/10/27,504,LV,47,49,,2020,georgia
-CBS News/YouGov,2020/10/20,2020/10/23,1090,LV,47,46,,2020,georgia
-WSB-TV/Landmark,2020/10/21,2020/10/21,500,LV,50,45,,2020,georgia
-Emerson,2020/10/17,2020/10/19,506,LV,46,45,,2020,georgia
-Atlanta Journal-Constitution,2020/10/14,2020/10/23,1145,LV,45,46,,2020,georgia
-NY Times/Siena*,2020/10/13,2020/10/19,759,LV,43,43,,2020,georgia
-WXIA-TV/SurveyUSA,2020/10/08,2020/10/12,677,LV,46,43,,2020,georgia
-Quinnipiac,2020/10/08,2020/10/12,1040,LV,45,51,,2020,georgia
-PPP (D)*,2020/10/08,2020/10/09,528,LV,43,44,,2020,georgia
-WSB-TV/Landmark*,2020/10/07,2020/10/07,600,LV,47,46,,2020,georgia
-Atlanta Journal-Constitution*,2020/09/27,2020/10/06,1106,LV,49,41,,2020,georgia
-Quinnipiac,2020/09/23,2020/09/27,1125,LV,48,49,,2020,georgia
-CBS News/YouGov,2020/09/22,2020/09/25,1142,LV,47,42,,2020,georgia
-Monmouth*,2020/09/17,2020/09/21,402,LV,48,43,,2020,georgia
-NY Times/Siena*,2020/09/16,2020/09/21,523,LV,41,38,,2020,georgia
-Univ. of Georgia*,2020/09/11,2020/09/20,1150,LV,47,45,,2020,georgia
-WXIA-TV/SurveyUSA,2020/08/06,2020/08/08,623,LV,44,41,,2020,georgia
-CBS News/YouGov,2020/07/28,2020/07/31,1109,LV,45,43,,2020,georgia
-Monmouth*,2020/07/23,2020/07/27,402,LV,50,43,,2020,georgia
-OAN/Gravis,2020/07/02,2020/07/02,513,RV,48,43,,2020,georgia
-FOX News,2020/06/20,2020/06/23,1013,RV,45,42,,2020,georgia
-Mason-Dixon*,2020/10/12,2020/10/15,625,LV,51,42,,2020,kentucky
-Quinnipiac,2020/09/10,2020/09/14,1164,LV,53,41,,2020,kentucky
-Quinnipiac,2020/07/30,2020/08/03,909,RV,49,44,,2020,kentucky
-CNBC/Change Research (D),2020/10/29,2020/11/01,383,LV,46,51,,2020,michigan
-Emerson,2020/10/29,2020/10/30,700,LV,45,50,,2020,michigan
-Mitchell Research,2020/10/29,2020/10/29,817,LV,45,50,,2020,michigan
-Reuters/Ipsos,2020/10/27,2020/11/01,654,LV,44,51,,2020,michigan
-EPIC-MRA,2020/10/25,2020/10/28,600,LV,42,47,,2020,michigan
-CNN*,2020/10/23,2020/10/30,907,LV,40,52,,2020,michigan
-MIRS/Mitchell Research*,2020/10/25,2020/10/27,759,LV,43,52,,2020,michigan
-NY Times/Siena*,2020/10/23,2020/10/26,856,LV,41,49,,2020,michigan
-Reuters/Ipsos,2020/10/21,2020/10/27,652,LV,44,50,,2020,michigan
-Detroit News/WDIV-TV,2020/10/23,2020/10/25,600,LV,39,48,,2020,michigan
-ABC News/Wash Post,2020/10/20,2020/10/25,789,LV,46,52,,2020,michigan
-MIRS/Mitchell Research,2020/10/18,2020/10/18,900,LV,43,49,,2020,michigan
-FOX News,2020/10/17,2020/10/20,1032,LV,41,49,,2020,michigan
-Reuters/Ipsos,2020/10/14,2020/10/20,686,LV,45,50,,2020,michigan
-CNBC/Change Research (D),2020/10/16,2020/10/19,,LV,45,50,,2020,michigan
-EPIC-MRA,2020/10/15,2020/10/19,600,LV,39,45,,2020,michigan
-The Hill/HarrisX,2020/10/12,2020/10/15,1289,LV,43,50,,2020,michigan
-Trafalgar Group (R),2020/10/11,2020/10/15,1018,LV,48,47,,2020,michigan
-EPIC-MRA,2020/10/08,2020/10/12,600,LV,39,45,,2020,michigan
-Reuters/Ipsos,2020/10/07,2020/10/13,620,LV,44,52,,2020,michigan
-NY Times/Siena*,2020/10/06,2020/10/11,614,LV,42,43,,2020,michigan
-CBS News/YouGov,2020/10/06,2020/10/09,1190,LV,44,47,,2020,michigan
-Emerson,2020/10/06,2020/10/07,716,LV,41,51,,2020,michigan
-CNBC/Change Research (D),2020/10/02,2020/10/04,676,LV,43,51,,2020,michigan
-Reuters/Ipsos,2020/09/29,2020/10/06,709,LV,43,50,,2020,michigan
-Detroit News/WDIV-TV,2020/09/30,2020/10/03,600,LV,40,45,,2020,michigan
-Trafalgar Group (R),2020/09/23,2020/09/25,1047,LV,47,47,,2020,michigan
-NBC News/Marist,2020/09/19,2020/09/22,799,LV,44,49,,2020,michigan
-CNBC/Change Research (D),2020/09/18,2020/09/20,568,LV,44,50,,2020,michigan
-MRG,2020/09/14,2020/09/19,600,LV,40,42,,2020,michigan
-Reuters/Ipsos,2020/09/11,2020/09/16,637,LV,43,49,,2020,michigan
-EPIC-MRA,2020/09/10,2020/09/15,600,LV,41,45,,2020,michigan
-CNBC/Change Research (D),2020/09/04,2020/09/06,876,LV,46,50,,2020,michigan
-Rasmussen Reports,2020/09/02,2020/09/03,1000,LV,40,48,,2020,michigan
-Detroit News/WDIV-TV,2020/09/01,2020/09/03,600,LV,41,44,,2020,michigan
-Trafalgar Group (R),2020/08/14,2020/08/23,1048,LV,48,47,,2020,michigan
-CNBC/Change Research (D),2020/08/21,2020/08/23,809,LV,45,50,,2020,michigan
-CNBC/Change Research (D),2020/08/07,2020/08/09,413,LV,45,48,,2020,michigan
-EPIC-MRA,2020/07/25,2020/07/30,600,LV,40,50,,2020,michigan
-CNBC/Change Research (D),2020/07/24,2020/07/26,413,LV,44,48,,2020,michigan
-Gravis,2020/07/22,2020/07/22,754,RV,39,49,,2020,michigan
-CNN,2020/07/18,2020/07/24,927,RV,38,54,,2020,michigan
-MRG,2020/07/19,2020/07/21,600,LV,34,41,,2020,michigan
-FOX News,2020/07/18,2019/07/20,756,RV,38,48,,2020,michigan
-CNBC/Change Research (D),2020/07/10,2020/07/12,824,LV,43,50,,2020,michigan
-CNBC/Change Research (D),2020/06/26,2020/06/28,699,LV,42,49,,2020,michigan
-MRG,2020/06/12,2020/06/15,600,LV,30,36,,2020,michigan
-NY Times/Siena,2020/06/08,2020/06/17,610,RV,31,41,,2020,michigan
-TIPP,2020/06/09,2020/06/12,859,LV,35,47,,2020,michigan
-EPIC-MRA,2020/05/30,2020/06/03,600,LV,36,51,,2020,michigan
-Change Research (D),2020/05/11,2020/05/17,3070,LV,43,48,,2020,michigan
-FOX News,2020/04/18,2020/04/21,801,RV,36,46,,2020,michigan
-MRG,2020/03/16,2020/03/20,600,LV,35,42,,2020,michigan
-Quinnipiac,2020/02/12,2020/02/18,845,RV,39,45,,2020,michigan
-Detroit News/WDIV-TV,2020/01/03,2020/01/07,600,LV,40,44,,2020,michigan
-Emerson,2019/10/31,2019/11/03,1051,RV,40,46,,2020,michigan
-MRG,2019/10/07,2019/10/10,600,LV,40,43,,2020,michigan
-Target-Insyght/MIRS,2019/09/24,2019/09/26,804,RV,37,53,,2020,michigan
-Emerson,2019/03/07,2019/03/10,743,RV,43,44,,2020,michigan
-Emerson,2020/10/29,2020/10/31,763,LV,50,45,,2020,texas
-UMass Lowell,2019/10/20,2020/10/26,873,LV,49,44,,2020,texas
-NY Times/Siena*,2020/10/20,2020/10/25,802,LV,48,38,,2020,texas
-Quinnipiac,2020/10/16,2020/10/19,1145,LV,49,43,,2020,texas
-University of Houston,2020/10/13,2020/10/20,1000,LV,49,42,,2020,texas
-Dallas Morning News*,2020/10/13,2020/10/20,925,LV,42,34,,2020,texas
-Rasmussen Reports,2020/10/05,2020/10/06,1000,LV,48,39,,2020,texas
-UT/Texas Tribune*,2020/09/25,2020/10/04,908,LV,50,42,,2020,texas
-UMass Lowell,2020/09/18,2020/09/25,882,LV,50,40,,2020,texas
-Quinnipiac,2020/09/17,2020/09/21,1078,LV,50,42,,2020,texas
-NY Times/Siena*,2020/09/16,2020/09/21,653,LV,43,37,,2020,texas
-CBS News/YouGov,2020/09/15,2020/09/18,1205,LV,46,41,,2020,texas
-Dallas Morning News*,2020/08/28,2020/09/02,901,LV,39,28,,2020,texas
-Rice Univ./YouGov*,2020/08/04,2020/08/13,846,RV,44,37,,2020,texas
-Quinnipiac,2020/07/16,2020/07/20,880,RV,47,38,,2020,texas
-CBS News/YouGov,2020/07/07,2020/07/10,1212,RV,44,36,,2020,texas
-Dallas Morning News,2020/06/29,2020/07/07,1677,LV,42,29,,2020,texas
-FOX News,2020/06/20,2020/06/23,1001,RV,46,36,,2020,texas
-Dallas Morning News,2020/04/18,2020/04/27,1183,RV,37,24,,2020,texas
-NBC News/Marist,2020/02/23,2020/02/27,2409,RV,49,41,,2020,texas
-Roanoke College,2020/10/23,2020/10/29,802,LV,39,55,,2020,virginia
-VCU,2020/10/13,2020/10/22,709,LV,38,55,,2020,virginia
-Christopher Newport Univ.,2020/10/15,2020/10/27,908,LV,37,57,,2020,virginia
-Washington Post,2020/10/13,2020/10/19,908,LV,39,57,,2020,virginia
-Roanoke College,2020/09/30,2020/10/12,602,LV,38,55,,2020,virginia
-Christopher Newport Univ.,2020/09/09,2020/09/21,796,LV,39,52,,2020,virginia
-VCU,2020/08/28,2020/09/07,693,LV,38,55,,2020,virginia
-Roanoke College,2020/08/09,2020/08/22,566,LV,34,55,,2020,virginia
-NY Times/Siena*,2020/10/18,2020/10/20,755,LV,46,42,,2020,kansas
-SurveyUSA,2020/08/05,2020/08/09,1202,LV,46,44,,2020,kansas
-Mason-Dixon,2020/02/26,2020/02/28,625,RV,53,43,,2020,mississippi
-CNBC/Change Research (D),2020/10/29,2020/11/01,473,LV,46,50,,2020,north-carolina
-Emerson,2020/10/29,2020/10/31,749,LV,43,46,,2020,north-carolina
-Reuters/Ipsos,2020/10/27,2020/11/01,707,LV,46,48,,2020,north-carolina
-Rasmussen Reports,2020/10/28,2020/10/29,800,LV,44,47,,2020,north-carolina
-East Carolina U.,2020/10/27,2020/10/28,1103,LV,46,47,,2020,north-carolina
-CNN*,2020/10/23,2020/10/30,901,LV,44,47,,2020,north-carolina
-NBC News/Marist,2020/10/25,2020/10/28,800,LV,43,53,,2020,north-carolina
-NY Times/Siena*,2020/10/23,2020/10/27,1034,LV,43,46,,2020,north-carolina
-WRAL-TV/SurveyUSA,2020/10/23,2020/10/26,627,LV,45,48,,2020,north-carolina
-Reuters/Ipsos,2020/10/21,2020/10/27,647,LV,47,48,,2020,north-carolina
-Civitas/Harper (R)*,2020/10/22,2020/10/25,504,LV,43,46,,2020,north-carolina
-UMass Lowell,2019/10/20,2020/10/26,911,LV,45,49,,2020,north-carolina
-Trafalgar Group (R)*,2020/10/20,2020/10/22,1098,LV,49,47,,2020,north-carolina
-CBS News/YouGov,2020/10/20,2020/10/23,1022,LV,43,49,,2020,north-carolina
-Rasmussen Reports,2020/10/20,2020/10/21,800,LV,45,45,,2020,north-carolina
-Reuters/Ipsos,2020/10/14,2020/10/20,660,LV,47,47,,2020,north-carolina
-CNBC/Change Research (D),2020/10/16,2020/10/19,,LV,45,51,,2020,north-carolina
-East Carolina U.,2020/10/15,2020/10/18,1155,LV,47,48,,2020,north-carolina
-Emerson,2020/10/13,2020/10/14,721,LV,44,45,,2020,north-carolina
-ABC News/Wash Post,2020/10/12,2020/10/17,646,LV,47,49,,2020,north-carolina
-NY Times/Siena*,2020/10/09,2020/10/13,627,LV,37,41,,2020,north-carolina
-Reuters/Ipsos,2020/10/07,2020/10/13,660,LV,42,46,,2020,north-carolina
-Monmouth*,2020/10/08,2020/10/11,500,LV,44,49,,2020,north-carolina
-WRAL-TV/SurveyUSA,2020/10/08,2020/10/11,699,LV,39,49,,2020,north-carolina
-Susquehanna,2020/10/07,2020/10/11,500,LV,44,46,,2020,north-carolina
-PPP (D),2020/10/04,2020/10/05,911,LV,42,48,,2020,north-carolina
-East Carolina U.,2020/10/02,2020/10/04,1232,LV,46,45,,2020,north-carolina
-CNBC/Change Research (D),2020/10/02,2020/10/04,396,LV,46,50,,2020,north-carolina
-Reuters/Ipsos,2020/09/29,2020/10/06,693,LV,42,47,,2020,north-carolina
-CBS News/YouGov,2020/09/22,2020/09/25,1194,LV,38,48,,2020,north-carolina
-UMass Lowell,2020/09/18,2020/09/25,921,LV,43,49,,2020,north-carolina
-CNBC/Change Research (D),2020/09/18,2020/09/20,579,LV,43,48,,2020,north-carolina
-Civitas/Harper (R)*,2020/09/17,2020/09/20,612,LV,38,44,,2020,north-carolina
-Emerson,2020/09/16,2020/09/18,717,LV,43,49,,2020,north-carolina
-Reuters/Ipsos,2020/09/11,2020/09/16,586,LV,44,48,,2020,north-carolina
-NY Times/Siena*,2020/09/11,2020/09/16,653,LV,37,42,,2020,north-carolina
-USA Today/Suffolk*,2020/09/11,2020/09/14,500,LV,38,42,,2020,north-carolina
-WRAL-TV/SurveyUSA,2020/09/10,2020/09/13,596,LV,40,47,,2020,north-carolina
-CNN*,2020/09/09,2020/09/13,787,LV,46,47,,2020,north-carolina
-Trafalgar Group (R)*,2020/09/09,2020/09/11,1046,LV,45,46,,2020,north-carolina
-Rasmussen Reports,2020/09/07,2020/09/08,1000,LV,44,47,,2020,north-carolina
-CNBC/Change Research (D),2020/09/04,2020/09/06,442,LV,44,51,,2020,north-carolina
-Monmouth*,2020/08/29,2020/09/01,401,RV,45,47,,2020,north-carolina
-FOX News*,2020/08/29,2020/09/01,722,LV,42,48,,2020,north-carolina
-East Carolina U.,2020/08/29,2020/08/30,1101,LV,44,44,,2020,north-carolina
-CNBC/Change Research (D),2020/08/21,2020/08/23,560,LV,42,52,,2020,north-carolina
-East Carolina U.,2020/08/12,2020/08/13,1255,RV,40,44,,2020,north-carolina
-Emerson,2020/08/08,2020/08/10,673,LV,42,44,,2020,north-carolina
-CNBC/Change Research (D),2020/08/07,2020/08/09,491,LV,43,48,,2020,north-carolina
-Civitas/Harper (R)*,2020/08/06,2020/08/10,600,LV,38,41,,2020,north-carolina
-CBS News/YouGov,2020/07/28,2020/07/31,1129,LV,39,48,,2020,north-carolina
-CNBC/Change Research (D),2020/07/24,2020/07/26,284,LV,40,52,,2020,north-carolina
-NBC News/Marist,2020/07/14,2020/07/22,882,RV,41,50,,2020,north-carolina
-CNBC/Change Research (D),2020/07/10,2020/07/12,655,LV,42,49,,2020,north-carolina
-PPP (D),2020/07/07,2020/07/08,881,RV,39,47,,2020,north-carolina
-CNBC/Change Research (D),2020/06/26,2020/06/28,597,LV,41,51,,2020,north-carolina
-East Carolina U.,2020/06/22,2020/06/25,1149,RV,41,41,,2020,north-carolina
-PPP (D),2020/06/22,2020/06/23,1230,RV,40,44,,2020,north-carolina
-FOX News*,2020/06/20,2020/06/23,1012,RV,37,39,,2020,north-carolina
-Gravis,2020/06/17,2020/06/17,631,RV,46,45,,2020,north-carolina
-NY Times/Siena,2020/06/08,2020/06/18,653,RV,39,42,,2020,north-carolina
-PPP (D),2020/06/02,2020/06/03,949,RV,41,43,,2020,north-carolina
-Civitas/Harper (R)*,2020/05/26,2020/05/28,500,LV,38,36,,2020,north-carolina
-East Carolina U.,2020/05/07,2020/05/09,1111,RV,41,40,,2020,north-carolina
-WRAL-TV/SurveyUSA,2020/04/23,2020/04/26,580,LV,39,41,,2020,north-carolina
-PPP (D),2020/04/14,2020/04/15,1318,RV,40,47,,2020,north-carolina
-Civitas/Harper (R)*,2020/04/05,2020/04/07,500,LV,38,34,,2020,north-carolina
-East Carolina U.,2020/02/27,2020/02/28,1288,RV,44,42,,2020,north-carolina
-NBC News/Marist,2020/02/23,2020/02/27,2120,RV,43,48,,2020,north-carolina
-Emerson,2019/05/31,2019/06/03,932,RV,39,46,,2020,north-carolina
-Rutgers-Eagleton,2019/10/18,2020/10/24,872,LV,31,61,,2020,new-jersey
-Emerson,2020/09/04,2020/09/07,500,LV,28,52,,2020,new-jersey
-Monmouth,2020/04/16,2020/04/19,635,RV,32,55,,2020,new-jersey
-St. Anselm*,2020/10/23,2020/10/26,1018,LV,39,54,,2020,new-hampshire
-UNH*,2020/10/20,2020/10/24,864,LV,43,54,,2020,new-hampshire
-UMass Lowell,2020/10/16,2020/10/26,757,LV,38,57,,2020,new-hampshire
-UNH*,2020/10/09,2020/10/12,899,LV,40,55,,2020,new-hampshire
-Boston Globe/Suffolk*,2020/10/08,2020/10/12,500,LV,36,51,,2020,new-hampshire
-St. Anselm*,2020/10/01,2020/10/04,1147,LV,39,53,,2020,new-hampshire
-Emerson,2020/09/30,2020/10/01,700,LV,40,55,,2020,new-hampshire
-UNH*,2020/09/24,2020/09/28,972,LV,41,54,,2020,new-hampshire
-UMass Lowell,2020/09/17,2020/09/25,657,LV,37,56,,2020,new-hampshire
-UNH*,2020/08/28,2020/09/01,1889,LV,36,54,,2020,new-hampshire
-UNH,2020/07/16,2020/07/28,1893,LV,35,54,,2020,new-hampshire
-UNH,2020/06/18,2020/06/22,932,LV,37,50,,2020,new-hampshire
-UNH,2020/05/14,2020/05/18,788,LV,34,50,,2020,new-hampshire
-UNH,2020/02/19,2020/02/25,576,RV,28,52,,2020,new-hampshire
-East Carolina U.,2020/10/24,2020/10/25,763,LV,49,46,,2020,south-carolina
-NY Times/Siena*,2020/10/09,2020/10/15,605,LV,46,40,,2020,south-carolina
-Quinnipiac,2020/09/23,2020/09/27,1123,LV,48,48,,2020,south-carolina
-CBS News/YouGov,2020/09/22,2020/09/25,1065,LV,45,44,,2020,south-carolina
-Quinnipiac,2020/09/10,2020/09/14,969,LV,48,48,,2020,south-carolina
-Quinnipiac,2020/07/30,2020/08/03,914,RV,44,44,,2020,south-carolina
-Gravis,2020/07/17,2020/07/17,604,LV,48,41,,2020,south-carolina
-NBC News/Marist,2020/02/18,2020/02/21,2382,RV,54,37,,2020,south-carolina
-East Carolina U.,2020/01/31,2020/02/02,1756,RV,51,38,,2020,south-carolina
-Albuquerque Journal*,2020/10/23,2020/10/29,1180,LV,44,52,,2020,new-mexico
-PPP (D)*,2020/09/30,2020/10/01,886,LV,41,51,,2020,new-mexico
-Albuquerque Journal*,2020/08/28,2020/09/02,1123,LV,40,49,,2020,new-mexico
-PPP (D),2020/06/12,2020/06/13,740,RV,34,48,,2020,new-mexico
-Nielson Brothers,2020/10/24,2020/10/28,484,RV,56,39,,2020,south-dakota
-Trafalgar Group (R),2021/01/02,2021/01/04,1056,LV,49,49,,2020,georgia
-FOX 5 Atlanta/InsiderAdvantage,2021/01/03,2021/01/03,500,LV,49,49,,2020,georgia
-WXIA-TV/SurveyUSA,2020/12/16,2020/12/20,600,LV,46,51,,2020,georgia
-Emerson,2020/12/14,2020/12/16,605,LV,51,48,,2020,georgia
-Trafalgar Group (R),2020/12/23,2020/12/27,1022,LV,48,50,,2020,georgia
-FOX 5 Atlanta/InsiderAdvantage,2020/12/21,2020/12/22,500,RV,49,48,,2020,georgia
-Trafalgar Group (R),2020/12/14,2020/12/16,1064,RV,50,48,,2020,georgia
-FOX 5 Atlanta/InsiderAdvantage,2020/12/14,2020/12/14,500,LV,49,48,,2020,georgia
-Trafalgar Group (R),2020/12/08,2020/12/10,1018,LV,49,49,,2020,georgia
-Trafalgar Group (R),2020/12/01,2020/12/03,1083,LV,47,48,,2020,georgia
-WXIA-TV/SurveyUSA,2020/11/27,2020/11/30,583,LV,48,50,,2020,georgia
-FOX 5 Atlanta/InsiderAdvantage,2020/11/16,2020/11/16,800,LV,49,49,,2020,georgia
-Remington Research (R),2020/11/08,2020/11/09,1450,LV,50,46,,2020,georgia
-NY Times/Siena,2020/10/18,2020/10/20,755,LV,46,42,4,2020,kansas
-Mason-Dixon,2020/10/12,2020/10/15,625,LV,51,42,4,2020,kentucky
-CNN,2020/10/23,2020/10/30,907,LV,40,52,3,2020,michigan
-MIRS/Mitchell Research,2020/10/25,2020/10/27,759,LV,43,52,0,2020,michigan
-NY Times/Siena*,2020/10/23,2020/10/26,856,LV,41,49,1,2020,michigan
-NY Times/Siena,2020/10/20,2020/10/25,802,LV,48,38,4,2020,texas
-Dallas Morning News,2020/10/13,2020/10/20,925,LV,42,34,2,2020,texas
-NY Times/Siena,2020/09/16,2020/09/21,653,LV,43,37,4,2020,texas
-Dallas Morning News,2020/08/28,2020/09/02,901,LV,39,28,2,2020,texas
-Rice Univ./YouGov,2020/08/04,2020/08/13,846,RV,44,37,2,2020,texas
-CNN,2020/10/23,2020/10/30,901,LV,44,47,2,2020,north-carolina
-NY Times/Siena,2020/10/23,2020/10/27,1034,LV,43,46,1,2020,north-carolina
-Civitas/Harper (R),2020/10/22,2020/10/25,504,LV,43,46,1,2020,north-carolina
-Monmouth,2020/10/08,2020/10/11,500,LV,44,49,0,2020,north-carolina
-Civitas/Harper (R),2020/09/17,2020/09/20,612,LV,38,44,2,2020,north-carolina
-NY Times/Siena,2020/09/11,2020/09/16,653,LV,37,42,1,2020,north-carolina
-USA Today/Suffolk,2020/09/11,2020/09/14,500,LV,38,42,2,2020,north-carolina
-CNN,2020/09/09,2020/09/13,787,LV,46,47,1,2020,north-carolina
-Trafalgar Group (R),2020/09/09,2020/09/11,1046,LV,45,46,1,2020,north-carolina
-Monmouth,2020/08/29,2020/09/01,401,RV,45,46,1,2020,north-carolina
-FOX News,2020/08/29,2020/09/01,722,LV,42,48,1,2020,north-carolina
-FOX News,2020/06/20,2020/06/23,1012,RV,37,39,3,2020,north-carolina
-Civitas/Harper (R),2020/05/26,2020/05/28,500,LV,38,36,2,2020,north-carolina
+pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state,overlapping_special_election
+NBC News/Marist,2020/10/29,2020/11/01,717,LV,46,52,,2020,arizona,
+CNBC/Change Research (D),2020/10/29,2020/11/01,409,LV,47,51,,2020,arizona,
+Emerson,2020/10/29,2020/10/31,732,LV,46,49,,2020,arizona,
+Reuters/Ipsos,2020/10/27,2020/11/01,610,LV,44,53,,2020,arizona,
+NY Times/Siena,2020/10/26,2020/10/30,1252,LV,43,50,,2020,arizona,
+Rasmussen Reports,2020/10/27,2020/10/29,800,LV,43,48,,2020,arizona,
+CNN,2020/10/23,2020/10/30,865,LV,45,52,,2020,arizona,
+Reuters/Ipsos,2020/10/21,2020/10/27,714,LV,44,51,,2020,arizona,
+OH Predictive Insights,2020/10/22,2020/10/25,716,LV,45,50,,2020,arizona,
+Susquehanna,2020/10/19,2020/10/22,500,LV,50,47,,2020,arizona,
+Rasmussen Reports,2020/10/18,2020/10/19,800,LV,44,46,,2020,arizona,
+Reuters/Ipsos,2020/10/14,2020/10/21,685,LV,44,51,,2020,arizona,
+CNBC/Change Research (D),2020/10/16,2020/10/19,,LV,43,54,,2020,arizona,
+CBS News/YouGov,2020/10/13,2020/10/16,1074,LV,41,52,,2020,arizona,
+Reuters/Ipsos,2020/10/07,2020/10/14,667,LV,41,52,,2020,arizona,
+Monmouth*,2020/10/09,2020/10/13,502,LV,42,52,,2020,arizona,
+Trafalgar Group (R),2020/10/06,2020/10/09,1045,LV,45,47,,2020,arizona,
+OH Predictive Insights,2020/10/04,2020/10/08,608,LV,45,50,,2020,arizona,
+CNBC/Change Research (D),2020/10/02,2020/10/04,296,LV,43,51,,2020,arizona,
+Reuters/Ipsos,2020/09/29,2020/10/07,633,LV,41,51,,2020,arizona,
+NY Times/Siena*,2020/10/01,2020/10/03,655,LV,39,50,,2020,arizona,
+USA Today/Suffolk*,2020/09/26,2020/09/30,500,LV,40,49,,2020,arizona,
+Susquehanna,2020/09/25,2020/09/28,500,LV,44,48,,2020,arizona,
+ABC News/Wash Post,2020/09/15,2020/09/20,579,LV,48,49,,2020,arizona,
+CNBC/Change Research (D),2020/09/18,2020/09/20,262,LV,43,51,,2020,arizona,
+NY Times/Siena,2020/09/11,2020/09/16,653,LV,42,50,,2020,arizona,
+Monmouth,2020/09/11,2020/09/15,420,LV,46,50,,2020,arizona,
+Gravis,2020/09/10,2020/09/11,684,LV,43,48,,2020,arizona,
+CBS News/YouGov,2020/09/09,2020/09/11,1106,LV,42,49,,2020,arizona,
+OH Predictive Insights,2020/09/08,2020/09/10,600,LV,42,52,,2020,arizona,
+CNBC/Change Research (D),2020/09/04,2020/09/06,470,LV,45,51,,2020,arizona,
+FOX News,2020/08/29,2020/09/01,772,LV,39,56,,2020,arizona,
+CNBC/Change Research (D),2020/08/07,2020/08/09,428,LV,43,49,,2020,arizona,
+Emerson,2020/08/08,2020/08/10,661,LV,41,52,,2020,arizona,
+OH Predictive Insights,2020/08/03,2020/08/04,603,LV,43,48,,2020,arizona,
+CNBC/Change Research (D),2020/07/24,2020/07/26,365,LV,45,47,,2020,arizona,
+CNN,2020/07/18,2020/07/24,873,RV,43,50,,2020,arizona,
+NBC News/Marist,2020/07/14,2020/07/22,826,RV,41,53,,2020,arizona,
+CNBC/Change Research (D),2020/07/10,2020/07/12,345,LV,45,52,,2020,arizona,
+CBS News/YouGov,2020/07/07,2020/07/10,1099,RV,42,46,,2020,arizona,
+OH Predictive Insights,2020/07/06,2020/07/07,600,LV,43,52,,2020,arizona,
+CNBC/Change Research (D),2020/06/26,2020/06/28,311,LV,44,53,,2020,arizona,
+Gravis,2020/06/27,2020/06/27,527,LV,46,42,,2020,arizona,
+NY Times/Siena,2020/06/08,2020/06/16,650,RV,38,47,,2020,arizona,
+FOX News,2020/05/30,2020/06/02,1002,RV,37,50,,2020,arizona,
+OH Predictive Insights,2020/05/09,2020/05/11,600,LV,38,51,,2020,arizona,
+OH Predictive Insights,2020/04/07,2020/04/08,600,LV,42,51,,2020,arizona,
+Monmouth,2020/03/11,2020/03/14,847,RV,44,50,,2020,arizona,
+Univision/ASU,2020/03/06,2020/03/11,1036,RV,36,48,,2020,arizona,
+OH Predictive Insights,2020/03/03,2020/03/04,600,LV,42,49,,2020,arizona,
+PPP (D),2020/03/02,2020/03/03,666,RV,42,47,,2020,arizona,
+PPP (D),2020/01/02,2020/01/04,760,RV,42,46,,2020,arizona,
+OH Predictive Insights,2019/12/03,2019/12/04,628,LV,44,47,,2020,arizona,
+Emerson,2019/10/25,2019/10/28,904,RV,45,46,,2020,arizona,
+OH Predictive Insights,2019/08/13,2019/08/14,600,LV,41,46,,2020,arizona,
+OH Predictive Insights,2019/05/01,2019/05/02,600,LV,45,44,,2020,arizona,
+OH Predictive Insights,2019/02/12,2019/02/13,600,LV,46,44,,2020,arizona,
+Auburn Univ.,2019/10/23,2020/10/28,853,LV,54,43,,2020,alabama,
+Auburn Univ.,2020/09/30,2020/10/03,1072,RV,54,42,,2020,alabama,
+AL Daily News/Mason-Dixon,2020/02/04,2020/02/06,625,RV,50,42,,2020,alabama,
+PPP (D),2020/11/01,2020/11/02,871,LV,47,48,,2020,iowa,
+InsiderAdvantage*,2020/10/30,2020/10/30,400,LV,51,45,,2020,iowa,
+Emerson,2020/10/29,2020/10/30,604,LV,44,48,,2020,iowa,
+Des Moines Register,2020/10/26,2020/10/29,814,LV,46,42,,2020,iowa,
+Quinnipiac,2020/10/23,2020/10/27,1225,LV,48,46,,2020,iowa,
+Who-TV 13**,2020/10/21,2020/10/24,693,LV,45,51,,2020,iowa,
+Emerson,2020/10/19,2020/10/21,435,LV,46,45,,2020,iowa,
+NY Times/Siena*,2020/10/18,2020/10/20,753,LV,45,44,,2020,iowa,
+InsiderAdvantage*,2020/10/18,2020/10/19,400,LV,43,48,,2020,iowa,
+Monmouth*,2020/10/15,2020/10/19,501,LV,47,49,,2020,iowa,
+CBS News/YouGov,2020/10/06,2020/10/09,1035,LV,43,47,,2020,iowa,
+Quinnipiac,2020/10/01,2020/10/05,1256,LV,45,50,,2020,iowa,
+Who-TV 13**,2020/09/23,2020/09/26,780,LV,39,51,,2020,iowa,
+Monmouth*,2020/09/18,2020/09/22,402,LV,46,49,,2020,iowa,
+NY Times/Siena*,2020/09/16,2020/09/21,501,LV,40,42,,2020,iowa,
+Des Moines Register,2020/09/14,2020/09/17,658,LV,42,45,,2020,iowa,
+Monmouth*,2020/07/30,2020/08/03,401,LV,48,47,,2020,iowa,
+Des Moines Register,2019/06/07,2019/06/10,674,LV,43,46,,2020,iowa,
+PPP (D),2020/04/30,2020/05/01,1222,RV,43,42,,2020,iowa,
+MSU-Billings*,2020/10/19,2020/10/24,546,LV,47,48,,2020,montana,
+NY Times/Siena*,2020/10/18,2020/10/20,758,LV,49,46,,2020,montana,
+NBC-MT/Strategies 360,2020/10/15,2020/10/20,500,LV,48,47,,2020,montana,
+PPP (D),2020/10/09,2020/10/10,798,LV,48,48,,2020,montana,
+Emerson,2020/10/05,2020/10/07,500,LV,52,43,,2020,montana,
+NY Times/Siena*,2020/09/14,2020/09/16,625,LV,45,44,,2020,montana,
+Emerson,2020/07/31,2020/08/02,584,LV,50,44,,2020,montana,
+PPP (D),2020/07/09,2020/07/10,1224,RV,44,46,,2020,montana,
+SurveyUSA,2020/10/23,2020/10/27,649,LV,42,45,,2020,minnesota,
+KSTP/SurveyUSA,2020/10/16,2020/10/20,625,LV,42,43,,2020,minnesota,
+MinnPost*,2020/10/12,2020/10/15,1021,LV,44,48,,2020,minnesota,
+KSTP/SurveyUSA,2020/10/01,2020/10/06,929,LV,37,44,,2020,minnesota,
+Star Tribune/Mason-Dixon,2020/09/21,2020/09/23,800,LV,41,49,,2020,minnesota,
+USA Today/Suffolk*,2020/09/20,2020/09/24,500,LV,35,45,,2020,minnesota,
+CBS News/YouGov,2020/09/09,2020/09/11,1087,LV,40,47,,2020,minnesota,
+NY Times/Siena,2020/09/08,2020/09/10,814,LV,40,49,,2020,minnesota,
+KSTP/SurveyUSA,2020/09/04,2020/09/07,553,LV,36,47,,2020,minnesota,
+PPP (D),2020/09/03,2020/09/04,877,RV,41,49,,2020,minnesota,
+Emerson,2020/08/08,2020/08/10,733,RV,45,48,,2020,minnesota,
+The Arkansas Poll,2020/10/09,2020/10/21,591,LV,75,,20,2020,arkansas,
+Talk Business/Hendrix College,2020/10/11,2020/10/13,647,LV,63,,28,2020,arkansas,
+U. of Colorado/YouGov,2020/10/05,2020/10/09,800,LV,40,48,,2020,colorado,
+KUSA/SurveyUSA,2020/10/01,2020/10/06,1109,LV,39,48,,2020,colorado,
+NY Times/Siena*,2020/10/09,2020/10/14,423,LV,45,,37,2020,alaska,
+PPP (D),2020/07/07,2020/07/08,1081,RV,39,,34,2020,alaska,
+University of Delaware*,2020/09/21,2020/09/27,847,LV,27,57,,2020,delaware,
+Emerson*,2020/10/29,2020/10/31,611,LV,42,48,,2020,maine,
+Colby College*,2020/10/21,2020/10/25,879,LV,43,47,,2020,maine,
+Pan Atlantic*,2020/10/02,2020/10/06,600,LV,40,47,,2020,maine,
+Bangor Daily News*,2020/09/25,2020/10/04,466,LV,43,44,,2020,maine,
+Colby College*,2020/09/17,2020/09/23,847,LV,41,45,,2020,maine,
+Boston Globe/Suffolk*,2020/09/17,2020/09/20,500,LV,41,46,,2020,maine,
+NY Times/Siena*,2020/09/11,2020/09/16,663,LV,44,49,,2020,maine,
+Quinnipiac,2020/09/10,2020/09/14,1183,LV,42,54,,2020,maine,
+Bangor Daily News,2020/07/28,2020/08/09,500,RV,38,43,,2020,maine,
+Quinnipiac,2020/07/30,2020/08/03,807,RV,43,47,,2020,maine,
+Colby College,2020/07/18,2020/06/24,888,LV,39,44,,2020,maine,
+PPP (D),2020/07/02,2020/07/03,1022,RV,42,46,,2020,maine,
+PPP (D),2020/03/02,2020/03/03,872,RV,43,47,,2020,maine,
+Colby College/Socialsphere,2020/02/10,2020/02/13,1008,RV,42,43,,2020,maine,
+WSB-TV/Landmark*,2020/11/01,2020/11/01,500,LV,49,47,,2020,georgia,1
+Emerson,2020/10/29,2020/10/31,749,LV,46,47,,2020,georgia,1
+PPP (D)*,2020/10/27,2020/10/28,661,LV,44,47,,2020,georgia,1
+WSB-TV/Landmark*,2020/10/28,2020/10/28,750,LV,47,47,,2020,georgia,1
+Monmouth*,2020/10/23,2020/10/27,504,LV,47,49,,2020,georgia,1
+CBS News/YouGov,2020/10/20,2020/10/23,1090,LV,47,46,,2020,georgia,1
+WSB-TV/Landmark,2020/10/21,2020/10/21,500,LV,50,45,,2020,georgia,1
+Emerson,2020/10/17,2020/10/19,506,LV,46,45,,2020,georgia,1
+Atlanta Journal-Constitution,2020/10/14,2020/10/23,1145,LV,45,46,,2020,georgia,1
+NY Times/Siena*,2020/10/13,2020/10/19,759,LV,43,43,,2020,georgia,1
+WXIA-TV/SurveyUSA,2020/10/08,2020/10/12,677,LV,46,43,,2020,georgia,1
+Quinnipiac,2020/10/08,2020/10/12,1040,LV,45,51,,2020,georgia,1
+PPP (D)*,2020/10/08,2020/10/09,528,LV,43,44,,2020,georgia,1
+WSB-TV/Landmark*,2020/10/07,2020/10/07,600,LV,47,46,,2020,georgia,1
+Atlanta Journal-Constitution*,2020/09/27,2020/10/06,1106,LV,49,41,,2020,georgia,1
+Quinnipiac,2020/09/23,2020/09/27,1125,LV,48,49,,2020,georgia,1
+CBS News/YouGov,2020/09/22,2020/09/25,1142,LV,47,42,,2020,georgia,1
+Monmouth*,2020/09/17,2020/09/21,402,LV,48,43,,2020,georgia,1
+NY Times/Siena*,2020/09/16,2020/09/21,523,LV,41,38,,2020,georgia,1
+Univ. of Georgia*,2020/09/11,2020/09/20,1150,LV,47,45,,2020,georgia,1
+WXIA-TV/SurveyUSA,2020/08/06,2020/08/08,623,LV,44,41,,2020,georgia,1
+CBS News/YouGov,2020/07/28,2020/07/31,1109,LV,45,43,,2020,georgia,1
+Monmouth*,2020/07/23,2020/07/27,402,LV,50,43,,2020,georgia,1
+OAN/Gravis,2020/07/02,2020/07/02,513,RV,48,43,,2020,georgia,1
+FOX News,2020/06/20,2020/06/23,1013,RV,45,42,,2020,georgia,1
+Mason-Dixon*,2020/10/12,2020/10/15,625,LV,51,42,,2020,kentucky,
+Quinnipiac,2020/09/10,2020/09/14,1164,LV,53,41,,2020,kentucky,
+Quinnipiac,2020/07/30,2020/08/03,909,RV,49,44,,2020,kentucky,
+CNBC/Change Research (D),2020/10/29,2020/11/01,383,LV,46,51,,2020,michigan,
+Emerson,2020/10/29,2020/10/30,700,LV,45,50,,2020,michigan,
+Mitchell Research,2020/10/29,2020/10/29,817,LV,45,50,,2020,michigan,
+Reuters/Ipsos,2020/10/27,2020/11/01,654,LV,44,51,,2020,michigan,
+EPIC-MRA,2020/10/25,2020/10/28,600,LV,42,47,,2020,michigan,
+CNN*,2020/10/23,2020/10/30,907,LV,40,52,,2020,michigan,
+MIRS/Mitchell Research*,2020/10/25,2020/10/27,759,LV,43,52,,2020,michigan,
+NY Times/Siena*,2020/10/23,2020/10/26,856,LV,41,49,,2020,michigan,
+Reuters/Ipsos,2020/10/21,2020/10/27,652,LV,44,50,,2020,michigan,
+Detroit News/WDIV-TV,2020/10/23,2020/10/25,600,LV,39,48,,2020,michigan,
+ABC News/Wash Post,2020/10/20,2020/10/25,789,LV,46,52,,2020,michigan,
+MIRS/Mitchell Research,2020/10/18,2020/10/18,900,LV,43,49,,2020,michigan,
+FOX News,2020/10/17,2020/10/20,1032,LV,41,49,,2020,michigan,
+Reuters/Ipsos,2020/10/14,2020/10/20,686,LV,45,50,,2020,michigan,
+CNBC/Change Research (D),2020/10/16,2020/10/19,,LV,45,50,,2020,michigan,
+EPIC-MRA,2020/10/15,2020/10/19,600,LV,39,45,,2020,michigan,
+The Hill/HarrisX,2020/10/12,2020/10/15,1289,LV,43,50,,2020,michigan,
+Trafalgar Group (R),2020/10/11,2020/10/15,1018,LV,48,47,,2020,michigan,
+EPIC-MRA,2020/10/08,2020/10/12,600,LV,39,45,,2020,michigan,
+Reuters/Ipsos,2020/10/07,2020/10/13,620,LV,44,52,,2020,michigan,
+NY Times/Siena*,2020/10/06,2020/10/11,614,LV,42,43,,2020,michigan,
+CBS News/YouGov,2020/10/06,2020/10/09,1190,LV,44,47,,2020,michigan,
+Emerson,2020/10/06,2020/10/07,716,LV,41,51,,2020,michigan,
+CNBC/Change Research (D),2020/10/02,2020/10/04,676,LV,43,51,,2020,michigan,
+Reuters/Ipsos,2020/09/29,2020/10/06,709,LV,43,50,,2020,michigan,
+Detroit News/WDIV-TV,2020/09/30,2020/10/03,600,LV,40,45,,2020,michigan,
+Trafalgar Group (R),2020/09/23,2020/09/25,1047,LV,47,47,,2020,michigan,
+NBC News/Marist,2020/09/19,2020/09/22,799,LV,44,49,,2020,michigan,
+CNBC/Change Research (D),2020/09/18,2020/09/20,568,LV,44,50,,2020,michigan,
+MRG,2020/09/14,2020/09/19,600,LV,40,42,,2020,michigan,
+Reuters/Ipsos,2020/09/11,2020/09/16,637,LV,43,49,,2020,michigan,
+EPIC-MRA,2020/09/10,2020/09/15,600,LV,41,45,,2020,michigan,
+CNBC/Change Research (D),2020/09/04,2020/09/06,876,LV,46,50,,2020,michigan,
+Rasmussen Reports,2020/09/02,2020/09/03,1000,LV,40,48,,2020,michigan,
+Detroit News/WDIV-TV,2020/09/01,2020/09/03,600,LV,41,44,,2020,michigan,
+Trafalgar Group (R),2020/08/14,2020/08/23,1048,LV,48,47,,2020,michigan,
+CNBC/Change Research (D),2020/08/21,2020/08/23,809,LV,45,50,,2020,michigan,
+CNBC/Change Research (D),2020/08/07,2020/08/09,413,LV,45,48,,2020,michigan,
+EPIC-MRA,2020/07/25,2020/07/30,600,LV,40,50,,2020,michigan,
+CNBC/Change Research (D),2020/07/24,2020/07/26,413,LV,44,48,,2020,michigan,
+Gravis,2020/07/22,2020/07/22,754,RV,39,49,,2020,michigan,
+CNN,2020/07/18,2020/07/24,927,RV,38,54,,2020,michigan,
+MRG,2020/07/19,2020/07/21,600,LV,34,41,,2020,michigan,
+FOX News,2020/07/18,2019/07/20,756,RV,38,48,,2020,michigan,
+CNBC/Change Research (D),2020/07/10,2020/07/12,824,LV,43,50,,2020,michigan,
+CNBC/Change Research (D),2020/06/26,2020/06/28,699,LV,42,49,,2020,michigan,
+MRG,2020/06/12,2020/06/15,600,LV,30,36,,2020,michigan,
+NY Times/Siena,2020/06/08,2020/06/17,610,RV,31,41,,2020,michigan,
+TIPP,2020/06/09,2020/06/12,859,LV,35,47,,2020,michigan,
+EPIC-MRA,2020/05/30,2020/06/03,600,LV,36,51,,2020,michigan,
+Change Research (D),2020/05/11,2020/05/17,3070,LV,43,48,,2020,michigan,
+FOX News,2020/04/18,2020/04/21,801,RV,36,46,,2020,michigan,
+MRG,2020/03/16,2020/03/20,600,LV,35,42,,2020,michigan,
+Quinnipiac,2020/02/12,2020/02/18,845,RV,39,45,,2020,michigan,
+Detroit News/WDIV-TV,2020/01/03,2020/01/07,600,LV,40,44,,2020,michigan,
+Emerson,2019/10/31,2019/11/03,1051,RV,40,46,,2020,michigan,
+MRG,2019/10/07,2019/10/10,600,LV,40,43,,2020,michigan,
+Target-Insyght/MIRS,2019/09/24,2019/09/26,804,RV,37,53,,2020,michigan,
+Emerson,2019/03/07,2019/03/10,743,RV,43,44,,2020,michigan,
+Emerson,2020/10/29,2020/10/31,763,LV,50,45,,2020,texas,
+UMass Lowell,2019/10/20,2020/10/26,873,LV,49,44,,2020,texas,
+NY Times/Siena*,2020/10/20,2020/10/25,802,LV,48,38,,2020,texas,
+Quinnipiac,2020/10/16,2020/10/19,1145,LV,49,43,,2020,texas,
+University of Houston,2020/10/13,2020/10/20,1000,LV,49,42,,2020,texas,
+Dallas Morning News*,2020/10/13,2020/10/20,925,LV,42,34,,2020,texas,
+Rasmussen Reports,2020/10/05,2020/10/06,1000,LV,48,39,,2020,texas,
+UT/Texas Tribune*,2020/09/25,2020/10/04,908,LV,50,42,,2020,texas,
+UMass Lowell,2020/09/18,2020/09/25,882,LV,50,40,,2020,texas,
+Quinnipiac,2020/09/17,2020/09/21,1078,LV,50,42,,2020,texas,
+NY Times/Siena*,2020/09/16,2020/09/21,653,LV,43,37,,2020,texas,
+CBS News/YouGov,2020/09/15,2020/09/18,1205,LV,46,41,,2020,texas,
+Dallas Morning News*,2020/08/28,2020/09/02,901,LV,39,28,,2020,texas,
+Rice Univ./YouGov*,2020/08/04,2020/08/13,846,RV,44,37,,2020,texas,
+Quinnipiac,2020/07/16,2020/07/20,880,RV,47,38,,2020,texas,
+CBS News/YouGov,2020/07/07,2020/07/10,1212,RV,44,36,,2020,texas,
+Dallas Morning News,2020/06/29,2020/07/07,1677,LV,42,29,,2020,texas,
+FOX News,2020/06/20,2020/06/23,1001,RV,46,36,,2020,texas,
+Dallas Morning News,2020/04/18,2020/04/27,1183,RV,37,24,,2020,texas,
+NBC News/Marist,2020/02/23,2020/02/27,2409,RV,49,41,,2020,texas,
+Roanoke College,2020/10/23,2020/10/29,802,LV,39,55,,2020,virginia,
+VCU,2020/10/13,2020/10/22,709,LV,38,55,,2020,virginia,
+Christopher Newport Univ.,2020/10/15,2020/10/27,908,LV,37,57,,2020,virginia,
+Washington Post,2020/10/13,2020/10/19,908,LV,39,57,,2020,virginia,
+Roanoke College,2020/09/30,2020/10/12,602,LV,38,55,,2020,virginia,
+Christopher Newport Univ.,2020/09/09,2020/09/21,796,LV,39,52,,2020,virginia,
+VCU,2020/08/28,2020/09/07,693,LV,38,55,,2020,virginia,
+Roanoke College,2020/08/09,2020/08/22,566,LV,34,55,,2020,virginia,
+NY Times/Siena*,2020/10/18,2020/10/20,755,LV,46,42,,2020,kansas,
+SurveyUSA,2020/08/05,2020/08/09,1202,LV,46,44,,2020,kansas,
+Mason-Dixon,2020/02/26,2020/02/28,625,RV,53,43,,2020,mississippi,
+CNBC/Change Research (D),2020/10/29,2020/11/01,473,LV,46,50,,2020,north-carolina,
+Emerson,2020/10/29,2020/10/31,749,LV,43,46,,2020,north-carolina,
+Reuters/Ipsos,2020/10/27,2020/11/01,707,LV,46,48,,2020,north-carolina,
+Rasmussen Reports,2020/10/28,2020/10/29,800,LV,44,47,,2020,north-carolina,
+East Carolina U.,2020/10/27,2020/10/28,1103,LV,46,47,,2020,north-carolina,
+CNN*,2020/10/23,2020/10/30,901,LV,44,47,,2020,north-carolina,
+NBC News/Marist,2020/10/25,2020/10/28,800,LV,43,53,,2020,north-carolina,
+NY Times/Siena*,2020/10/23,2020/10/27,1034,LV,43,46,,2020,north-carolina,
+WRAL-TV/SurveyUSA,2020/10/23,2020/10/26,627,LV,45,48,,2020,north-carolina,
+Reuters/Ipsos,2020/10/21,2020/10/27,647,LV,47,48,,2020,north-carolina,
+Civitas/Harper (R)*,2020/10/22,2020/10/25,504,LV,43,46,,2020,north-carolina,
+UMass Lowell,2019/10/20,2020/10/26,911,LV,45,49,,2020,north-carolina,
+Trafalgar Group (R)*,2020/10/20,2020/10/22,1098,LV,49,47,,2020,north-carolina,
+CBS News/YouGov,2020/10/20,2020/10/23,1022,LV,43,49,,2020,north-carolina,
+Rasmussen Reports,2020/10/20,2020/10/21,800,LV,45,45,,2020,north-carolina,
+Reuters/Ipsos,2020/10/14,2020/10/20,660,LV,47,47,,2020,north-carolina,
+CNBC/Change Research (D),2020/10/16,2020/10/19,,LV,45,51,,2020,north-carolina,
+East Carolina U.,2020/10/15,2020/10/18,1155,LV,47,48,,2020,north-carolina,
+Emerson,2020/10/13,2020/10/14,721,LV,44,45,,2020,north-carolina,
+ABC News/Wash Post,2020/10/12,2020/10/17,646,LV,47,49,,2020,north-carolina,
+NY Times/Siena*,2020/10/09,2020/10/13,627,LV,37,41,,2020,north-carolina,
+Reuters/Ipsos,2020/10/07,2020/10/13,660,LV,42,46,,2020,north-carolina,
+Monmouth*,2020/10/08,2020/10/11,500,LV,44,49,,2020,north-carolina,
+WRAL-TV/SurveyUSA,2020/10/08,2020/10/11,699,LV,39,49,,2020,north-carolina,
+Susquehanna,2020/10/07,2020/10/11,500,LV,44,46,,2020,north-carolina,
+PPP (D),2020/10/04,2020/10/05,911,LV,42,48,,2020,north-carolina,
+East Carolina U.,2020/10/02,2020/10/04,1232,LV,46,45,,2020,north-carolina,
+CNBC/Change Research (D),2020/10/02,2020/10/04,396,LV,46,50,,2020,north-carolina,
+Reuters/Ipsos,2020/09/29,2020/10/06,693,LV,42,47,,2020,north-carolina,
+CBS News/YouGov,2020/09/22,2020/09/25,1194,LV,38,48,,2020,north-carolina,
+UMass Lowell,2020/09/18,2020/09/25,921,LV,43,49,,2020,north-carolina,
+CNBC/Change Research (D),2020/09/18,2020/09/20,579,LV,43,48,,2020,north-carolina,
+Civitas/Harper (R)*,2020/09/17,2020/09/20,612,LV,38,44,,2020,north-carolina,
+Emerson,2020/09/16,2020/09/18,717,LV,43,49,,2020,north-carolina,
+Reuters/Ipsos,2020/09/11,2020/09/16,586,LV,44,48,,2020,north-carolina,
+NY Times/Siena*,2020/09/11,2020/09/16,653,LV,37,42,,2020,north-carolina,
+USA Today/Suffolk*,2020/09/11,2020/09/14,500,LV,38,42,,2020,north-carolina,
+WRAL-TV/SurveyUSA,2020/09/10,2020/09/13,596,LV,40,47,,2020,north-carolina,
+CNN*,2020/09/09,2020/09/13,787,LV,46,47,,2020,north-carolina,
+Trafalgar Group (R)*,2020/09/09,2020/09/11,1046,LV,45,46,,2020,north-carolina,
+Rasmussen Reports,2020/09/07,2020/09/08,1000,LV,44,47,,2020,north-carolina,
+CNBC/Change Research (D),2020/09/04,2020/09/06,442,LV,44,51,,2020,north-carolina,
+Monmouth*,2020/08/29,2020/09/01,401,RV,45,47,,2020,north-carolina,
+FOX News*,2020/08/29,2020/09/01,722,LV,42,48,,2020,north-carolina,
+East Carolina U.,2020/08/29,2020/08/30,1101,LV,44,44,,2020,north-carolina,
+CNBC/Change Research (D),2020/08/21,2020/08/23,560,LV,42,52,,2020,north-carolina,
+East Carolina U.,2020/08/12,2020/08/13,1255,RV,40,44,,2020,north-carolina,
+Emerson,2020/08/08,2020/08/10,673,LV,42,44,,2020,north-carolina,
+CNBC/Change Research (D),2020/08/07,2020/08/09,491,LV,43,48,,2020,north-carolina,
+Civitas/Harper (R)*,2020/08/06,2020/08/10,600,LV,38,41,,2020,north-carolina,
+CBS News/YouGov,2020/07/28,2020/07/31,1129,LV,39,48,,2020,north-carolina,
+CNBC/Change Research (D),2020/07/24,2020/07/26,284,LV,40,52,,2020,north-carolina,
+NBC News/Marist,2020/07/14,2020/07/22,882,RV,41,50,,2020,north-carolina,
+CNBC/Change Research (D),2020/07/10,2020/07/12,655,LV,42,49,,2020,north-carolina,
+PPP (D),2020/07/07,2020/07/08,881,RV,39,47,,2020,north-carolina,
+CNBC/Change Research (D),2020/06/26,2020/06/28,597,LV,41,51,,2020,north-carolina,
+East Carolina U.,2020/06/22,2020/06/25,1149,RV,41,41,,2020,north-carolina,
+PPP (D),2020/06/22,2020/06/23,1230,RV,40,44,,2020,north-carolina,
+FOX News*,2020/06/20,2020/06/23,1012,RV,37,39,,2020,north-carolina,
+Gravis,2020/06/17,2020/06/17,631,RV,46,45,,2020,north-carolina,
+NY Times/Siena,2020/06/08,2020/06/18,653,RV,39,42,,2020,north-carolina,
+PPP (D),2020/06/02,2020/06/03,949,RV,41,43,,2020,north-carolina,
+Civitas/Harper (R)*,2020/05/26,2020/05/28,500,LV,38,36,,2020,north-carolina,
+East Carolina U.,2020/05/07,2020/05/09,1111,RV,41,40,,2020,north-carolina,
+WRAL-TV/SurveyUSA,2020/04/23,2020/04/26,580,LV,39,41,,2020,north-carolina,
+PPP (D),2020/04/14,2020/04/15,1318,RV,40,47,,2020,north-carolina,
+Civitas/Harper (R)*,2020/04/05,2020/04/07,500,LV,38,34,,2020,north-carolina,
+East Carolina U.,2020/02/27,2020/02/28,1288,RV,44,42,,2020,north-carolina,
+NBC News/Marist,2020/02/23,2020/02/27,2120,RV,43,48,,2020,north-carolina,
+Emerson,2019/05/31,2019/06/03,932,RV,39,46,,2020,north-carolina,
+Rutgers-Eagleton,2019/10/18,2020/10/24,872,LV,31,61,,2020,new-jersey,
+Emerson,2020/09/04,2020/09/07,500,LV,28,52,,2020,new-jersey,
+Monmouth,2020/04/16,2020/04/19,635,RV,32,55,,2020,new-jersey,
+St. Anselm*,2020/10/23,2020/10/26,1018,LV,39,54,,2020,new-hampshire,
+UNH*,2020/10/20,2020/10/24,864,LV,43,54,,2020,new-hampshire,
+UMass Lowell,2020/10/16,2020/10/26,757,LV,38,57,,2020,new-hampshire,
+UNH*,2020/10/09,2020/10/12,899,LV,40,55,,2020,new-hampshire,
+Boston Globe/Suffolk*,2020/10/08,2020/10/12,500,LV,36,51,,2020,new-hampshire,
+St. Anselm*,2020/10/01,2020/10/04,1147,LV,39,53,,2020,new-hampshire,
+Emerson,2020/09/30,2020/10/01,700,LV,40,55,,2020,new-hampshire,
+UNH*,2020/09/24,2020/09/28,972,LV,41,54,,2020,new-hampshire,
+UMass Lowell,2020/09/17,2020/09/25,657,LV,37,56,,2020,new-hampshire,
+UNH*,2020/08/28,2020/09/01,1889,LV,36,54,,2020,new-hampshire,
+UNH,2020/07/16,2020/07/28,1893,LV,35,54,,2020,new-hampshire,
+UNH,2020/06/18,2020/06/22,932,LV,37,50,,2020,new-hampshire,
+UNH,2020/05/14,2020/05/18,788,LV,34,50,,2020,new-hampshire,
+UNH,2020/02/19,2020/02/25,576,RV,28,52,,2020,new-hampshire,
+East Carolina U.,2020/10/24,2020/10/25,763,LV,49,46,,2020,south-carolina,
+NY Times/Siena*,2020/10/09,2020/10/15,605,LV,46,40,,2020,south-carolina,
+Quinnipiac,2020/09/23,2020/09/27,1123,LV,48,48,,2020,south-carolina,
+CBS News/YouGov,2020/09/22,2020/09/25,1065,LV,45,44,,2020,south-carolina,
+Quinnipiac,2020/09/10,2020/09/14,969,LV,48,48,,2020,south-carolina,
+Quinnipiac,2020/07/30,2020/08/03,914,RV,44,44,,2020,south-carolina,
+Gravis,2020/07/17,2020/07/17,604,LV,48,41,,2020,south-carolina,
+NBC News/Marist,2020/02/18,2020/02/21,2382,RV,54,37,,2020,south-carolina,
+East Carolina U.,2020/01/31,2020/02/02,1756,RV,51,38,,2020,south-carolina,
+Albuquerque Journal*,2020/10/23,2020/10/29,1180,LV,44,52,,2020,new-mexico,
+PPP (D)*,2020/09/30,2020/10/01,886,LV,41,51,,2020,new-mexico,
+Albuquerque Journal*,2020/08/28,2020/09/02,1123,LV,40,49,,2020,new-mexico,
+PPP (D),2020/06/12,2020/06/13,740,RV,34,48,,2020,new-mexico,
+Nielson Brothers,2020/10/24,2020/10/28,484,RV,56,39,,2020,south-dakota,
+Trafalgar Group (R),2021/01/02,2021/01/04,1056,LV,49,49,,2020,georgia,1
+FOX 5 Atlanta/InsiderAdvantage,2021/01/03,2021/01/03,500,LV,49,49,,2020,georgia,1
+WXIA-TV/SurveyUSA,2020/12/16,2020/12/20,600,LV,46,51,,2020,georgia,1
+Emerson,2020/12/14,2020/12/16,605,LV,51,48,,2020,georgia,1
+Trafalgar Group (R),2020/12/23,2020/12/27,1022,LV,48,50,,2020,georgia,1
+FOX 5 Atlanta/InsiderAdvantage,2020/12/21,2020/12/22,500,RV,49,48,,2020,georgia,1
+Trafalgar Group (R),2020/12/14,2020/12/16,1064,RV,50,48,,2020,georgia,1
+FOX 5 Atlanta/InsiderAdvantage,2020/12/14,2020/12/14,500,LV,49,48,,2020,georgia,1
+Trafalgar Group (R),2020/12/08,2020/12/10,1018,LV,49,49,,2020,georgia,1
+Trafalgar Group (R),2020/12/01,2020/12/03,1083,LV,47,48,,2020,georgia,1
+WXIA-TV/SurveyUSA,2020/11/27,2020/11/30,583,LV,48,50,,2020,georgia,1
+FOX 5 Atlanta/InsiderAdvantage,2020/11/16,2020/11/16,800,LV,49,49,,2020,georgia,1
+Remington Research (R),2020/11/08,2020/11/09,1450,LV,50,46,,2020,georgia,1
+NY Times/Siena,2020/10/18,2020/10/20,755,LV,46,42,4,2020,kansas,
+Mason-Dixon,2020/10/12,2020/10/15,625,LV,51,42,4,2020,kentucky,
+CNN,2020/10/23,2020/10/30,907,LV,40,52,3,2020,michigan,
+MIRS/Mitchell Research,2020/10/25,2020/10/27,759,LV,43,52,0,2020,michigan,
+NY Times/Siena*,2020/10/23,2020/10/26,856,LV,41,49,1,2020,michigan,
+NY Times/Siena,2020/10/20,2020/10/25,802,LV,48,38,4,2020,texas,
+Dallas Morning News,2020/10/13,2020/10/20,925,LV,42,34,2,2020,texas,
+NY Times/Siena,2020/09/16,2020/09/21,653,LV,43,37,4,2020,texas,
+Dallas Morning News,2020/08/28,2020/09/02,901,LV,39,28,2,2020,texas,
+Rice Univ./YouGov,2020/08/04,2020/08/13,846,RV,44,37,2,2020,texas,
+CNN,2020/10/23,2020/10/30,901,LV,44,47,2,2020,north-carolina,
+NY Times/Siena,2020/10/23,2020/10/27,1034,LV,43,46,1,2020,north-carolina,
+Civitas/Harper (R),2020/10/22,2020/10/25,504,LV,43,46,1,2020,north-carolina,
+Monmouth,2020/10/08,2020/10/11,500,LV,44,49,0,2020,north-carolina,
+Civitas/Harper (R),2020/09/17,2020/09/20,612,LV,38,44,2,2020,north-carolina,
+NY Times/Siena,2020/09/11,2020/09/16,653,LV,37,42,1,2020,north-carolina,
+USA Today/Suffolk,2020/09/11,2020/09/14,500,LV,38,42,2,2020,north-carolina,
+CNN,2020/09/09,2020/09/13,787,LV,46,47,1,2020,north-carolina,
+Trafalgar Group (R),2020/09/09,2020/09/11,1046,LV,45,46,1,2020,north-carolina,
+Monmouth,2020/08/29,2020/09/01,401,RV,45,46,1,2020,north-carolina,
+FOX News,2020/08/29,2020/09/01,722,LV,42,48,1,2020,north-carolina,
+FOX News,2020/06/20,2020/06/23,1012,RV,37,39,3,2020,north-carolina,
+Civitas/Harper (R),2020/05/26,2020/05/28,500,LV,38,36,2,2020,north-carolina,

@@ -1,511 +1,511 @@
-pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state
-Atlas Intel,2024/11/03,2024/11/04,875,LV,48,48,,2024,arizona
-Trafalgar Group (R),2024/11/01,2024/11/03,1090,LV,49,49,,2024,arizona
-InsiderAdvantage,2024/11/01,2024/11/02,800,LV,47,49,,2024,arizona
-The Hill/Emerson,2024/10/30,2024/10/02,900,LV,45,50,,2024,arizona
-NY Times/Siena,2024/10/25,2024/11/02,1025,LV,45,50,,2024,arizona
-Data Orbital,2024/10/26,2024/10/28,550,LV,45,45,,2024,arizona
-Data for Progress (D)**,2024/10/25,2024/10/30,1079,LV,45,50,,2024,arizona
-Rasmussen Reports,2024/10/25,2024/10/29,803,LV,44,48,,2024,arizona
-Atlas Intel,2024/10/30,2024/10/31,1005,LV,49,48,,2024,arizona
-Atlas Intel,2024/10/25,2024/10/29,1458,LV,48,48,,2024,arizona
-Morning Consult,2024/10/20,2024/10/29,,LV,42,50,,2024,arizona
-Trafalgar Group (R),2024/10/24,2024/10/26,1094,LV,46,50,,2024,arizona
-CNN*,2024/10/21,2024/10/26,781,LV,43,51,,2024,arizona
-InsiderAdvantage,2024/10/19,2024/10/20,800,LV,46,50,,2024,arizona
-Marist,2024/10/17,2024/10/22,1193,LV,45,53,,2024,arizona
-Atlas Intel,2024/10/12,2024/10/17,1411,LV,46,50,,2024,arizona
-CBS News,2024/10/11,2024/10/16,1403,LV,45,54,,2024,arizona
-Trafalgar Group (R),2024/10/10,2024/10/13,1090,LV,44,48,,2024,arizona
-NY Times/Siena,2024/10/07,2024/10/10,808,LV,41,48,,2024,arizona
-The Hill/Emerson,2024/10/05,2024/10/08,1000,LV,43,50,,2024,arizona
-InsiderAdvantage,2024/09/29,2024/09/30,800,LV,43,50,,2024,arizona
-Fabrizio/Anzalone,2024/09/24,2024/10/01,600,LV,44,51,,2024,arizona
-Emerson,2024/09/27,2024/09/28,920,LV,41,52,,2024,arizona
-KPHO-TV/HighGround,2024/09/26,2024/09/29,500,LV,41,51,,2024,arizona
-USA Today/Suffolk*,2024/09/21,2024/09/24,500,LV,41,47,,2024,arizona
-Atlas Intel,2024/09/20,2024/09/25,946,LV,46,50,,2024,arizona
-Cook Political Report,2024/09/19,2024/09/25,409,LV,41,54,,2024,arizona
-FOX News,2024/09/20,2024/09/24,764,LV,42,55,,2024,arizona
-Marist,2024/09/19,2024/09/24,1264,LV,44,54,,2024,arizona
-Rasmussen Reports,2024/09/19,2024/09/22,1071,LV,45,47,,2024,arizona
-NY Times/Siena,2024/09/17,2024/09/21,2077,LV,43,49,,2024,arizona
-The Hill/Emerson,2024/09/15,2024/09/18,868,LV,42,48,,2024,arizona
-Trafalgar Group (R),2024/09/11,2024/09/12,1088,LV,43,47,,2024,arizona
-InsiderAdvantage,2024/08/29,2024/08/30,800,LV,45,49,,2024,arizona
-The Hill/Emerson,2024/08/25,2024/08/28,720,LV,42,49,,2024,arizona
-CNN,2024/08/23,2024/08/29,682,LV,44,47,,2024,arizona
-FOX News,2024/08/23,2024/08/26,1014,RV,41,56,,2024,arizona
-Rasmussen Reports,2024/08/13,2024/08/17,1187,LV,40,48,,2024,arizona
-Noble Predictive Insights,2024/08/12,2024/08/16,1003,RV,40,47,,2024,arizona
-NY Times/Siena,2024/08/08,2024/08/15,677,LV,42,51,,2024,arizona
-Cook Political Report,2024/07/26,2024/08/02,435,LV,42,51,,2024,arizona
-The Hill/Emerson,2024/07/22,2024/07/23,800,RV,42,46,,2024,arizona
-Rasmussen Reports,2024/07/05,2024/07/12,1101,LV,41,44,,2024,arizona
-PPP (D),2024/07/10,2024/07/11,596,RV,47,50,,2024,arizona
-The Times/SAY,2024/07/04,2024/07/12,900,RV,41,48,,2024,arizona
-Remington Research (R),2024/06/29,2024/07/01,,RV,47,47,,2024,arizona
-AmGreatness/NSOR*,2024/06/17,2024/06/20,600,LV,38,39,,2024,arizona
-The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,41,45,,2024,arizona
-Rasmussen Reports,2024/06/11,2024/06/13,750,LV,41,44,,2024,arizona
-Fabrizio/Anzalone,2024/05/28,2024/06/04,600,LV,45,48,,2024,arizona
-CBS News,2024/05/10,2024/05/16,1193,LV,36,49,,2024,arizona
-Noble Predictive Insights,2024/05/07,2024/05/14,1003,RV,36,46,,2024,arizona
-Cook Political Report,2024/05/06,2024/05/13,527,LV,41,46,,2024,arizona
-NY Times/Siena,2024/04/28,2024/05/09,626,LV,43,46,,2024,arizona
-The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,43,45,,2024,arizona
-The Hill/Emerson,2024/03/12,2024/03/15,1000,RV,49,51,,2024,arizona
-The Hill/Emerson,2024/02/16,2024/02/19,1000,RV,39,46,,2024,arizona
-Noble Predictive Insights,2024/02/06,2024/02/13,1002,RV,37,47,,2024,arizona
-Noble Predictive Insights,2023/07/13,2023/07/17,1000,RV,35,45,,2024,arizona
-OH Predictive Insights,2023/01/31,2023/02/09,1000,RV,33,43,,2024,arizona
-Atlas Intel,2024/11/01,2024/11/04,2202,LV,44,53,,2024,virginia
-Cygnal (R),2024/10/27,2024/10/29,600,LV,42,52,,2024,virginia
-Roanoke College,2024/10/25,2024/10/29,859,LV,40,51,,2024,virginia
-Rasmussen Reports,2024/10/24,2024/10/25,1014,LV,39,50,,2024,virginia
-Washington Post,2024/10/19,2024/10/23,1004,LV,41,54,,2024,virginia
-Christopher Newport Univ.,2024/09/28,2024/10/04,800,LV,35,55,,2024,virginia
-The Hill/Emerson,2024/09/22,2024/09/24,860,LV,41,51,,2024,virginia
-Rasmussen Reports,2024/09/19,2024/09/22,1144,LV,39,51,,2024,virginia
-Univ. of Mary Washington,2024/09/03,2024/09/09,756,LV,43,49,,2024,virginia
-Washington Post,2024/09/04,2024/09/08,1005,LV,41,53,,2024,virginia
-Roanoke College,2024/08/12,2024/08/16,691,LV,38,49,,2024,virginia
-Emerson,2024/07/13,2024/07/15,1000,RV,39,49,,2024,virginia
-NY Times/Siena,2024/07/09,2024/07/11,661,LV,36,53,,2024,virginia
-VCU,2024/06/24,2024/07/03,809,A,38,49,,2024,virginia
-Atlas Intel,2024/11/03,2024/11/04,707,LV,43,48,,2024,nevada
-The Hill/Emerson,2024/10/30,2024/11/02,840,LV,44,50,,2024,nevada
-Noble Predictive Insights,2024/10/28,2024/10/31,593,LV,46,48,,2024,nevada
-Susquehanna,2024/10/28,2024/10/31,400,LV,47,46,,2024,nevada
-NY Times/Siena,2024/10/24,2024/11/02,1010,LV,43,52,,2024,nevada
-Data for Progress (D)**,2024/10/25,2024/10/30,721,LV,42,49,,2024,nevada
-Rasmussen Reports,2024/10/25,2024/10/28,767,LV,41,50,,2024,nevada
-Trafalgar Group (R),2024/10/25,2024/10/28,1082,LV,45,47,,2024,nevada
-Atlas Intel,2024/11/01,2024/11/02,782,LV,46,46,,2024,nevada
-Emerson,2024/10/29,2024/10/31,700,LV,45,49,,2024,nevada
-Atlas Intel,2024/10/27,2024/10/30,845,LV,45,47,,2024,nevada
-Atlas Intel,2024/10/25,2024/10/29,1083,LV,44,49,,2024,nevada
-CNN,2024/10/21,2024/10/26,683,LV,41,50,,2024,nevada
-InsiderAdvantage,2024/10/19,2024/10/20,800,LV,44,48,,2024,nevada
-Atlas Intel,2024/10/12,2024/10/17,1171,LV,43,47,,2024,nevada
-Fabrizio/Anzalone,2024/10/08,2024/10/15,600,LV,44,49,,2024,nevada
-Rasmussen Reports,2024/10/09,2024/10/14,748,LV,44,47,,2024,nevada
-Trafalgar Group (R),2024/10/10,2024/10/13,1088,LV,43,48,,2024,nevada
-The Hill/Emerson,2024/10/05,2024/10/08,900,LV,42,50,,2024,nevada
-InsiderAdvantage,2024/09/29,2024/09/30,800,LV,42,49,,2024,nevada
-Atlas Intel,2024/09/20,2024/09/25,858,LV,46,48,,2024,nevada
-Cook Political Report,2024/09/19,2024/09/25,409,LV,40,53,,2024,nevada
-Rasmussen Reports,2024/09/19,2024/09/22,738,LV,40,50,,2024,nevada
-Remington Research (R),2024/09/16,2024/09/20,,LV,41,47,,2024,nevada
-The Hill/Emerson,2024/09/15,2024/09/18,895,LV,41,48,,2024,nevada
-Noble Predictive Insights,2024/09/09,2024/09/16,692,LV,38,53,,2024,nevada
-Trafalgar Group (R),2024/09/11,2024/09/13,1079,LV,40,48,,2024,nevada
-InsiderAdvantage,2024/08/29,2024/08/31,800,LV,39,49,,2024,nevada
-CNN,2024/08/23,2024/08/29,626,LV,40,50,,2024,nevada
-The Hill/Emerson,2024/08/25,2024/08/28,1168,LV,40,50,,2024,nevada
-FOX News,2024/08/23,2024/08/26,1026,RV,41,55,,2024,nevada
-Rasmussen Reports,2024/08/13,2024/08/19,980,LV,39,50,,2024,nevada
-NY Times/Siena,2024/08/12,2024/08/15,677,LV,40,49,,2024,nevada
-Cook Political Report,2024/07/26,2024/08/02,403,LV,36,54,,2024,nevada
-Rasmussen Reports,2024/07/05,2024/07/12,761,LV,42,45,,2024,nevada
-The Times/SAY,2024/07/04,2024/07/12,800,RV,40,47,,2024,nevada
-Remington Research (R),2024/06/29,2024/07/01,601,RV,46,48,,2024,nevada
-The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,38,50,,2024,nevada
-Fabrizio/Anzalone,2024/06/12,2024/06/18,600,LV,42,47,,2024,nevada
-NY Times/Siena,2024/04/28,2024/05/09,614,LV,41,41,,2024,nevada
-The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,37,45,,2024,nevada
-The Hill/Emerson,2024/03/12,2024/03/15,1000,RV,39,41,,2024,nevada
-Noble Predictive Insights,2024/02/27,2024/03/05,829,RV,35,41,,2024,nevada
-The Hill/Emerson,2024/02/16,2024/02/19,1000,RV,38,40,,2024,nevada
-The Hill/Emerson,2024/09/12,2024/09/13,850,LV,51,40,,2024,missouri
-The Hill/Emerson,2024/06/17,2024/06/19,1000,RV,47,38,,2024,missouri
-Missouri Scout,2024/03/06,2024/03/08,713,LV,53,39,,2024,missouri
-Emerson,2024/01/23,2024/01/28,1777,RV,43,30,,2024,missouri
-Emerson,2023/10/01,2023/10/04,491,RV,45,32,,2024,missouri
-Atlas Intel,2024/11/01,2024/11/04,752,LV,50,39,,2024,montana
-The Hill/Emerson,2024/10/23,2024/10/25,1000,LV,50,46,,2024,montana
-NY Times/Siena,2024/10/05,2024/10/08,656,LV,52,44,,2024,montana
-Remington Research (R),2024/09/16,2024/09/20,,LV,52,44,,2024,montana
-Fabrizio/Binder,2024/08/25,2024/08/29,600,LV,51,45,,2024,montana
-Rasmussen Reports,2024/08/13,2024/08/20,835,LV,50,43,,2024,montana
-KULR-TV (NBC),2024/08/10,2024/08/12,538,RV,51,45,,2024,montana
-The Hill/Emerson,2024/08/05,2024/08/06,1000,LV,48,46,,2024,montana
-Remington Research (R),2024/06/29,2024/07/01,,RV,50,45,,2024,montana
-The Hill/Emerson,2024/02/26,2024/03/02,1000,RV,42,44,,2024,montana
-KULR-TV/SurveyUSA,2024/02/12,2024/02/15,549,LV,40,49,,2024,montana
-Emerson,2023/10/01,2023/10/04,447,RV,35,39,,2024,montana
-Atlas Intel,2024/11/03,2024/11/04,869,LV,48,49,,2024,wisconsin
-Trafalgar Group (R),2024/11/01,2024/11/03,1086,LV,48,48,,2024,wisconsin
-InsiderAdvantage,2024/11/01,2024/11/02,800,LV,48,47,,2024,wisconsin
-The Hill/Emerson,2024/10/30,2024/11/02,800,LV,45,51,,2024,wisconsin
-NY Times/Siena,2024/10/25,2024/11/02,1305,LV,46,50,,2024,wisconsin
-Marist,2024/10/27,2024/10/30,1330,LV,48,51,,2024,wisconsin
-Echelon Insights,2024/10/27,2024/10/30,600,LV,48,49,,2024,wisconsin
-AmGreatness/TIPP,2024/10/28,2024/10/30,831,LV,46,48,,2024,wisconsin
-Rasmussen Reports,2024/10/25,2024/10/29,818,LV,47,47,,2024,wisconsin
-CNN,2024/10/23,2024/10/28,736,LV,47,49,,2024,wisconsin
-Morning Consult,2024/10/21,2024/10/30,,LV,47,49,,2024,wisconsin
-USA Today/Suffolk,2024/10/20,2024/10/23,500,LV,44,46,,2024,wisconsin
-Marquette,2024/10/16,2024/10/24,753,LV,49,51,,2024,wisconsin
-Quinnipiac,2024/10/17,2024/10/21,1108,LV,48,49,,2024,wisconsin
-Atlas Intel,2024/11/01,2024/11/02,728,LV,48,49,,2024,wisconsin
-Atlas Intel,2024/10/30,2024/10/31,673,LV,49,49,,2024,wisconsin
-Atlas Intel,2024/10/25,2024/10/29,1470,LV,48,49,,2024,wisconsin
-InsiderAdvantage,2024/10/26,2024/10/27,800,LV,49,48,,2024,wisconsin
-Emerson,2024/10/21,2024/10/22,800,LV,48,48,,2024,wisconsin
-Trafalgar Group (R),2024/10/18,2024/10/20,1083,LV,49,48,,2024,wisconsin
-Atlas Intel,2024/10/12,2024/10/17,932,LV,46,49,,2024,wisconsin
-Rasmussen Reports,2024/10/09,2024/10/14,1004,LV,45,46,,2024,wisconsin
-InsiderAdvantage,2024/10/08,2024/10/09,800,LV,47,48,,2024,wisconsin
-The Hill/Emerson,2024/10/05,2024/10/08,1000,LV,46,50,,2024,wisconsin
-Quinnipiac,2024/10/03,2024/10/07,1073,LV,46,50,,2024,wisconsin
-Trafalgar Group (R),2024/09/28,2024/09/30,1079,LV,46,48,,2024,wisconsin
-NY Times/Siena,2024/09/21,2024/09/26,680,LV,43,50,,2024,wisconsin
-Atlas Intel,2024/09/20,2024/09/25,1077,LV,47,48,,2024,wisconsin
-Cook Political Report,2024/09/19,2024/09/25,411,LV,47,49,,2024,wisconsin
-Marquette,2024/09/18,2024/09/26,798,LV,46,53,,2024,wisconsin
-Rasmussen Reports,2024/09/19,2024/09/22,1071,LV,45,49,,2024,wisconsin
-Remington Research (R),2024/09/16,2024/09/20,,LV,47,49,,2024,wisconsin
-The Hill/Emerson,2024/09/15,2024/09/18,1000,LV,46,49,,2024,wisconsin
-Marist,2024/09/12,2024/09/17,1194,LV,48,51,,2024,wisconsin
-Quinnipiac,2024/09/12,2024/09/16,1075,LV,47,51,,2024,wisconsin
-Fabrizio/Anzalone,2024/09/11,2024/09/14,600,LV,47,50,,2024,wisconsin
-CBS News,2024/09/03,2024/09/06,958,RV,43,51,,2024,wisconsin
-Marquette,2024/08/28,2024/09/05,738,LV,47,52,,2024,wisconsin
-Trafalgar Group (R),2024/08/28,2024/08/30,1083,LV,44,50,,2024,wisconsin
-CNN,2024/08/23,2024/08/29,976,LV,45,51,,2024,wisconsin
-The Hill/Emerson,2024/08/25,2024/08/28,850,LV,48,49,,2024,wisconsin
-Rasmussen Reports,2024/08/13,2024/08/19,1099,LV,42,52,,2024,wisconsin
-AmGreatness/TIPP,2024/08/12,2024/08/14,1015,RV,42,50,,2024,wisconsin
-NY Times/Siena,2024/08/05,2024/08/08,661,LV,44,51,,2024,wisconsin
-Cook Political Report,2024/07/26,2024/08/02,404,LV,43,50,,2024,wisconsin
-Marquette,2024/07/24,2024/08/01,801,LV,47,52,,2024,wisconsin
-FOX News,2024/07/22,2024/07/24,1046,RV,43,54,,2024,wisconsin
-The Hill/Emerson,2024/07/22,2024/07/23,845,RV,43,49,,2024,wisconsin
-PPP (D),2024/07/10,2024/07/11,548,RV,43,51,,2024,wisconsin
-Rasmussen Reports,2024/07/05,2024/07/12,1020,LV,43,47,,2024,wisconsin
-The Times/SAY,2024/07/04,2024/07/12,900,RV,43,50,,2024,wisconsin
-AmGreatness/NSOR,2024/07/06,2024/07/10,600,LV,41,49,,2024,wisconsin
-Remington Research (R),2024/06/29,2024/07/01,539,RV,48,48,,2024,wisconsin
-Fabrizio/Anzalone,2024/06/28,2024/07/02,600,LV,45,50,,2024,wisconsin
-Marquette,2024/06/12,2024/06/20,871,RV,38,45,,2024,wisconsin
-The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,44,46,,2024,wisconsin
-Cook Political Report,2024/05/06,2024/05/13,503,LV,37,49,,2024,wisconsin
-Quinnipiac,2024/05/02,2024/05/06,1457,RV,42,54,,2024,wisconsin
-NY Times/Siena,2024/04/28,2024/05/09,614,LV,42,49,,2024,wisconsin
-The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,43,46,,2024,wisconsin
-CBS News,2024/04/19,2024/04/25,1245,LV,41,48,,2024,wisconsin
-Marquette,2024/04/03,2024/04/10,814,RV,47,52,,2024,wisconsin
-The Hill/Emerson,2024/03/14,2024/03/18,1000,RV,42,45,,2024,wisconsin
-The Hill/Emerson,2024/02/20,2024/02/24,1000,RV,39,46,,2024,wisconsin
-CT Mirror/MassINC,2024/09/12,2024/09/18,800,LV,35,51,,2024,connecticut
-Atlas Intel,2024/11/03,2024/11/04,1114,LV,48,49,,2024,michigan
-Trafalgar Group (R),2024/11/01,2024/11/03,1079,LV,47,47,,2024,michigan
-InsiderAdvantage,2024/11/01,2024/11/02,800,LV,48,48,,2024,michigan
-The Hill/Emerson,2024/10/30,2024/11/02,790,LV,45,49,,2024,michigan
-NY Times/Siena,2024/10/29,2024/11/02,998,LV,46,48,,2024,michigan
-MNS/Mitchell Research,2024/10/29,2024/11/02,585,LV,48,50,,2024,michigan
-Rasmussen Reports,2024/10/24,2024/11/01,908,LV,46,45,,2024,michigan
-Marist,2024/10/27,2024/10/30,1214,LV,46,52,,2024,michigan
-Echelon Insights,2024/10/27,2024/10/30,600,LV,46,48,,2024,michigan
-Washington Post,2024/10/24,2024/10/28,1003,LV,45,48,,2024,michigan
-FOX News,2024/10/24,2024/10/28,988,LV,47,51,,2024,michigan
-USA Today/Suffolk,2024/10/24,2024/10/27,500,LV,45,47,,2024,michigan
-Detroit Free Press,2024/10/24,2024/10/27,600,LV,42,47,,2024,michigan
-Atlas Intel,2024/11/01,2024/11/02,1198,LV,47,49,,2024,michigan
-Atlas Intel,2024/10/27,2024/10/30,1136,LV,46,50,,2024,michigan
-MNS/Mitchell Research,2024/10/28,2024/10/29,,LV,49,47,,2024,michigan
-Atlas Intel,2024/10/25,2024/10/29,983,LV,47,49,,2024,michigan
-InsiderAdvantage,2024/10/26,2024/10/27,800,LV,48,48,,2024,michigan
-Emerson,2024/10/25,2024/10/27,1000,LV,46,48,,2024,michigan
-CNN,2024/10/23,2024/10/28,726,LV,42,48,,2024,michigan
-Susquehanna,2024/10/23,2024/10/27,400,LV,47,48,,2024,michigan
-Morning Consult,2024/10/21,2024/10/30,,LV,41,49,,2024,michigan
-UMass Lowell,2024/10/16,2024/10/24,600,LV,39,48,,2024,michigan
-Trafalgar Group (R),2024/10/18,2024/10/20,1090,LV,45,46,,2024,michigan
-Quinnipiac,2024/10/17,2024/10/21,1108,LV,44,52,,2024,michigan
-Atlas Intel,2024/10/12,2024/10/17,1529,LV,48,48,,2024,michigan
-MNS/Mitchell Research,2024/10/14,2024/10/14,589,LV,43,47,,2024,michigan
-Rasmussen Reports,2024/10/09,2024/10/14,1058,LV,44,44,,2024,michigan
-MRG,2024/10/07,2024/10/11,600,LV,41,46,,2024,michigan
-InsiderAdvantage,2024/10/08,2024/10/09,800,LV,45,46,,2024,michigan
-The Hill/Emerson,2024/10/05,2024/10/08,950,LV,44,49,,2024,michigan
-Quinnipiac,2024/10/03,2024/10/07,1007,LV,48,48,,2024,michigan
-Fabrizio/Anzalone,2024/10/02,2024/10/08,600,LV,46,49,,2024,michigan
-MIRS/MI News Source,2024/09/30,2024/09/30,709,LV,44,49,,2024,michigan
-Trafalgar Group (R),2024/09/28,2024/09/30,1086,LV,47,47,,2024,michigan
-NY Times/Siena,2024/09/21,2024/09/26,688,LV,42,47,,2024,michigan
-Atlas Intel,2024/09/20,2024/09/25,918,LV,49,44,,2024,michigan
-Cook Political Report,2024/09/19,2024/09/25,416,LV,46,50,,2024,michigan
-Rasmussen Reports,2024/09/19,2024/09/22,1086,LV,43,47,,2024,michigan
-Remington Research (R),2024/09/16,2024/09/20,,LV,43,50,,2024,michigan
-USA Today/Suffolk,2024/09/16,2024/09/19,500,LV,43,45,,2024,michigan
-The Hill/Emerson,2024/09/15,2024/09/18,875,LV,42,47,,2024,michigan
-Marist,2024/09/12,2024/09/17,1138,LV,45,52,,2024,michigan
-Quinnipiac,2024/09/12,2024/09/16,905,LV,46,51,,2024,michigan
-UMass Lowell,2024/09/11,2024/09/19,650,LV,34,47,,2024,michigan
-MIRS/MI News Source,2024/09/11,2024/09/11,580,LV,45,48,,2024,michigan
-CBS News,2024/09/03,2024/09/06,1086,RV,41,48,,2024,michigan
-Trafalgar Group (R),2024/08/28,2024/08/30,1089,LV,45,49,,2024,michigan
-The Hill/Emerson,2024/08/25,2024/08/28,800,LV,41,47,,2024,michigan
-CNN,2024/08/23,2024/08/29,708,LV,41,47,,2024,michigan
-EPIC-MRA,2024/08/23,2024/08/26,600,LV,42,46,,2024,michigan
-AmGreatness/TIPP,2024/08/20,2024/08/22,741,LV,39,49,,2024,michigan
-Rasmussen Reports,2024/08/13,2024/08/17,1093,LV,43,45,,2024,michigan
-Fabrizio/Anzalone,2024/08/07,2024/08/11,600,LV,44,47,,2024,michigan
-NY Times/Siena,2024/08/05,2024/08/08,619,LV,43,46,,2024,michigan
-Cook Political Report,2024/07/26,2024/08/02,406,LV,42,50,,2024,michigan
-FOX News,2024/07/22,2024/07/24,1012,RV,46,51,,2024,michigan
-The Hill/Emerson,2024/07/22,2024/07/23,800,RV,41,45,,2024,michigan
-Rasmussen Reports,2024/07/05,2024/07/12,1025,LV,40,43,,2024,michigan
-PPP (D),2024/07/10,2024/07/11,568,RV,35,45,,2024,michigan
-The Times/SAY,2024/07/04,2024/07/12,1000,RV,39,48,,2024,michigan
-Remington Research (R),2024/06/29,2024/07/01,584,RV,43,47,,2024,michigan
-The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,39,43,,2024,michigan
-MNS/Mitchell Research,2024/06/03,2024/06/03,697,LV,33,36,,2024,michigan
-MIRS/Mitchell Research,2024/05/20,2024/05/21,697,LV,36,40,,2024,michigan
-The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,40,42,,2024,michigan
-MIRS/Mitchell Research,2024/03/15,2024/03/16,627,LV,37,37,,2024,michigan
-The Hill/Emerson,2024/03/14,2024/03/18,1000,RV,39,41,,2024,michigan
-EPIC-MRA,2024/02/13,2024/02/18,600,LV,38,39,,2024,michigan
-Detroit News/Glengariff,2024/01/02,2024/01/06,600,LV,37,38,,2024,michigan
-EPIC-MRA,2023/11/10,2023/11/16,600,LV,37,39,,2024,michigan
-EPIC-MRA,2023/08/06,2023/08/11,600,LV,37,42,,2024,michigan
-Emerson,2023/08/01,2023/08/02,1121,RV,38,44,,2024,michigan
-MIRS/Mitchell Research,2023/07/11,2023/07/13,639,LV,38,44,,2024,michigan
-UT Debate Comission*,2024/08/29,2024/09/19,526,RV,53,34,,2024,utah
-Deseret News/HarrisX,2024/08/02,2024/08/09,800,RV,71,29,,2024,utah
-Atlas Intel,2024/11/01,2024/11/04,2065,LV,41,53,,2024,minnesota
-KSTP/SurveyUSA,2024/10/24,2024/10/28,728,LV,35,52,,2024,minnesota
-Rasmussen Reports,2024/10/24,2024/10/26,959,LV,40,51,,2024,minnesota
-MinnPost,2024/10/16,2024/10/22,1734,LV,40,52,,2024,minnesota
-KSTP/SurveyUSA,2024/09/23,2024/09/26,646,LV,35,53,,2024,minnesota
-Rasmussen Reports,2024/09/19,2024/09/22,993,LV,38,49,,2024,minnesota
-Star Tribune/Mason-Dixon,2024/09/16,2024/09/18,800,LV,40,51,,2024,minnesota
-KSTP/SurveyUSA,2024/08/27,2024/08/29,635,LV,36,50,,2024,minnesota
-The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,37,48,,2024,minnesota
-KSTP/SurveyUSA,2024/06/12,2024/06/16,626,LV,35,49,,2024,minnesota
-Atlas Intel,2024/11/01,2024/11/04,2434,LV,53,46,,2024,texas
-Cygnal (R),2024/10/26,2024/10/28,600,LV,49,45,,2024,texas
-Morning Consult,2024/10/22,2024/10/31,2120,LV,47,44,,2024,texas
-NY Times/Siena,2024/10/23,2024/10/26,1180,LV,50,46,,2024,texas
-Rasmussen Reports,2024/10/24,2024/10/25,1002,LV,47,43,,2024,texas
-The Hill/Emerson,2024/10/18,2024/10/21,815,LV,48,47,,2024,texas
-University of Texas,2024/10/02,2024/10/10,,LV,51,44,,2024,texas
-Marist,2024/10/03,2024/10/07,1186,LV,51,46,,2024,texas
-University of Houston,2024/09/26,2024/10/10,1329,LV,50,46,,2024,texas
-NY Times/Siena,2024/09/29,2024/10/04,617,LV,48,44,,2024,texas
-The Hill/Emerson,2024/09/22,2024/09/24,950,LV,49,45,,2024,texas
-TX Hispanic Policy Foundation,2024/09/13,2024/09/18,1200,LV,48,45,,2024,texas
-The Hill/Emerson,2024/09/03,2024/09/05,845,LV,48,44,,2024,texas
-University of Texas*,2024/08/23,2024/08/31,1200,RV,44,36,,2024,texas
-University of Houston*,2024/08/05,2024/08/16,1365,LV,47,45,,2024,texas
-Remington Research (R),2024/06/29,2024/07/01,589,RV,53,43,,2024,texas
-University of Houston*,2024/06/20,2024/07/01,1484,LV,47,44,,2024,texas
-University of Texas,2024/05/31,2024/06/09,1200,RV,45,34,,2024,texas
-University of Texas,2024/04/12,2024/04/22,1200,RV,46,33,,2024,texas
-TX Hispanic Policy Foundation*,2024/04/05,2024/04/10,1600,LV,46,41,,2024,texas
-Cygnal (R)*,2024/04/04,2024/04/06,1000,LV,45,36,,2024,texas
-Marist,2024/03/18,2024/03/21,1117,RV,51,45,,2024,texas
-University of Texas,2024/02/02,2024/02/12,1200,RV,46,32,,2024,texas
-University of Houston*,2024/01/11,2024/01/24,1145,LV,48,39,,2024,texas
-Emerson,2024/01/13,2024/01/15,1315,RV,42,40,,2024,texas
-University of Texas,2023/12/01,2023/12/10,1200,RV,43,27,,2024,texas
-The Hill/Emerson,2024/10/12,2024/10/14,1000,LV,33,56,,2024,california
-LA Times/Berkeley IGS,2024/09/25,2024/10/01,3045,LV,36,53,,2024,california
-The Hill/Emerson,2024/09/03,2024/09/05,815,LV,33,55,,2024,california
-PPIC,2024/08/29,2024/09/09,1071,LV,35,63,,2024,california
-LA Times/Berkeley IGS,2024/07/31,2024/08/11,3765,LV,33,53,,2024,california
-PPIC,2024/06/24,2024/07/02,1261,LV,33,64,,2024,california
-PPIC,2024/05/23,2024/06/02,1098,LV,37,62,,2024,california
-PPIC,2024/03/19,2024/03/25,1089,LV,37,61,,2024,california
-LA Times/Berkeley IGS,2024/02/22,2024/02/27,6534,RV,38,53,,2024,california
-Morning Consult,2024/10/23,2024/11/01,472,LV,42,49,,2024,maryland
-The Hill/Emerson,2024/10/19,2024/10/21,865,LV,40,54,,2024,maryland
-Wash Post/Univ. of Maryland*,2024/09/19,2024/09/23,1012,LV,40,51,,2024,maryland
-PPP (D),2024/09/16,2024/09/17,543,LV,37,52,,2024,maryland
-The Hill/Emerson,2024/09/12,2024/09/13,890,LV,42,49,,2024,maryland
-Gonzales Research,2024/08/24,2024/08/30,820,LV,41,46,,2024,maryland
-Fabrizio/Anzalone,2024/08/14,2024/08/20,600,LV,46,46,,2024,maryland
-PPP (D),2024/06/19,2024/06/20,635,RV,40,48,,2024,maryland
-The Hill/Emerson,2024/05/06,2024/05/08,1115,RV,38,48,,2024,maryland
-Baltimore Sun,2024/04/07,2024/04/10,1292,LV,54,36,,2024,maryland
-Goucher College,2024/03/19,2024/03/24,800,RV,44,40,,2024,maryland
-Wash Post/Univ. of Maryland,2024/03/05,2024/03/12,1004,RV,50,36,,2024,maryland
-The Hill/Emerson,2024/02/12,2024/02/13,1000,RV,44,37,,2024,maryland
-Indy Politics,2024/09/23,2024/09/25,600,LV,49,35,,2024,indiana
-The Hill/Emerson*,2024/09/12,2024/09/13,1000,LV,47,33,,2024,indiana
-Emerson,2023/10/01,2023/10/04,462,RV,31,22,,2024,indiana
-Vanderbilt University,2024/04/26,2024/05/09,1003,RV,51,40,,2024,tennessee
-Vanderbilt University,2023/11/14,2023/12/02,1005,RV,53,36,,2024,tennessee
-Emerson,2023/10/01,2023/10/04,410,RV,50,26,,2024,tennessee
-Cascade PBS/Elway,2024/09/03,2024/09/06,403,RV,33,55,,2024,washington
-Cascade PBS/Elway,2024/05/13,2024/05/16,403,RV,30,39,,2024,washington
-Cascade PBS/Elway,2023/10/30,2023/11/03,403,RV,23,43,,2024,washington
-Atlas Intel,2024/11/03,2024/11/04,1840,LV,47,49,,2024,pennsylvania
-Trafalgar Group (R),2024/11/01,2024/11/03,1089,LV,47,46,,2024,pennsylvania
-InsiderAdvantage,2024/11/01,2024/11/02,800,LV,47,48,,2024,pennsylvania
-The Hill/Emerson,2024/10/30,2024/11/02,1000,LV,47,47,,2024,pennsylvania
-NY Times/Siena,2024/10/29,2024/11/02,1527,LV,45,50,,2024,pennsylvania
-Muhlenberg College,2024/10/27,2024/10/30,469,LV,46,49,,2024,pennsylvania
-Marist,2024/10/27,2024/10/30,1400,LV,48,50,,2024,pennsylvania
-Echelon Insights,2024/10/27,2024/10/30,600,LV,47,44,,2024,pennsylvania
-USA Today/Suffolk,2024/10/27,2024/10/30,500,LV,46,49,,2024,pennsylvania
-Washington Post,2024/10/26,2024/10/30,1204,LV,46,49,,2024,pennsylvania
-Data for Progress (D)**,2024/10/25,2024/10/30,908,LV,45,49,,2024,pennsylvania
-Rasmussen Reports,2024/10/25,2024/10/28,849,LV,46,46,,2024,pennsylvania
-FOX News,2024/10/24,2024/10/28,1057,LV,48,50,,2024,pennsylvania
-Quinnipiac,2024/10/24,2024/10/28,2186,LV,47,50,,2024,pennsylvania
-CNN,2024/10/23,2024/10/28,819,LV,45,48,,2024,pennsylvania
-Morning Consult,2024/10/21,2024/10/30,,LV,43,46,,2024,pennsylvania
-Atlas Intel,2024/11/01,2024/11/02,2049,LV,47,49,,2024,pennsylvania
-Atlas Intel,2024/10/27,2024/10/30,1738,LV,46,49,,2024,pennsylvania
-Atlas Intel,2024/10/25,2024/10/29,1299,LV,47,49,,2024,pennsylvania
-InsiderAdvantage,2024/10/26,2024/10/27,800,LV,47,47,,2024,pennsylvania
-CBS News,2024/10/22,2024/10/28,1273,LV,42,48,,2024,pennsylvania
-AmGreatness/NSOR,2024/10/22,2024/10/26,600,LV,42,45,,2024,pennsylvania
-Emerson,2024/10/21,2024/10/22,860,LV,46,47,,2024,pennsylvania
-Susquehanna,2024/10/18,2024/10/22,500,LV,46,49,,2024,pennsylvania
-UMass Lowell,2024/10/16,2024/10/23,800,LV,42,48,,2024,pennsylvania
-Trafalgar Group (R),2024/10/17,2024/10/19,1084,LV,47,47,,2024,pennsylvania
-Franklin \u0026amp; Marshall,2024/10/09,2024/10/20,583,LV,48,49,,2024,pennsylvania
-Atlas Intel,2024/10/12,2024/10/17,2048,LV,48,47,,2024,pennsylvania
-Rasmussen Reports,2024/10/09,2024/10/13,1072,LV,45,47,,2024,pennsylvania
-NY Times/Siena,2024/10/07,2024/10/10,857,LV,44,48,,2024,pennsylvania
-AmGreatness/TIPP,2024/10/07,2024/10/09,803,LV,43,47,,2024,pennsylvania
-InsiderAdvantage,2024/10/07,2024/10/08,800,LV,45,47,,2024,pennsylvania
-The Hill/Emerson,2024/10/05,2024/10/08,1000,LV,46,48,,2024,pennsylvania
-Quinnipiac,2024/10/03,2024/10/07,1412,LV,43,51,,2024,pennsylvania
-UMass Lowell,2024/10/02,2024/10/09,800,LV,39,48,,2024,pennsylvania
-Emerson,2024/09/27,2024/09/28,1000,LV,45,47,,2024,pennsylvania
-Trafalgar Group (R),2024/09/26,2024/09/29,1090,LV,46,47,,2024,pennsylvania
-Atlas Intel,2024/09/20,2024/09/25,1775,LV,45,47,,2024,pennsylvania
-Cook Political Report,2024/09/19,2024/09/25,474,LV,45,52,,2024,pennsylvania
-FOX News,2024/09/20,2024/09/24,775,LV,44,53,,2024,pennsylvania
-Rasmussen Reports,2024/09/19,2024/09/22,1202,LV,45,45,,2024,pennsylvania
-Fabrizio/Anzalone,2024/09/17,2024/09/24,600,LV,45,49,,2024,pennsylvania
-Susquehanna,2024/09/16,2024/09/22,700,LV,40,48,,2024,pennsylvania
-Remington Research (R),2024/09/16,2024/09/20,,LV,45,49,,2024,pennsylvania
-Muhlenberg College,2024/09/16,2024/09/19,450,LV,43,48,,2024,pennsylvania
-The Hill/Emerson,2024/09/15,2024/09/18,880,LV,42,47,,2024,pennsylvania
-InsiderAdvantage,2024/09/14,2024/09/15,800,LV,44,49,,2024,pennsylvania
-Marist,2024/09/12,2024/09/17,1476,LV,47,52,,2024,pennsylvania
-Washington Post,2024/09/12,2024/09/16,1003,LV,48,48,,2024,pennsylvania
-Quinnipiac,2024/09/12,2024/09/16,1331,LV,43,52,,2024,pennsylvania
-UMass Lowell,2024/09/11,2024/09/19,800,LV,38,47,,2024,pennsylvania
-NY Times/Siena,2024/09/11,2024/09/16,1082,LV,40,49,,2024,pennsylvania
-USA Today/Suffolk*,2024/09/11,2024/09/14,500,LV,43,47,,2024,pennsylvania
-Franklin \u0026amp; Marshall,2024/09/04,2024/09/15,890,RV,40,48,,2024,pennsylvania
-CBS News,2024/09/03,2024/09/06,1085,RV,41,48,,2024,pennsylvania
-Trafalgar Group (R),2024/08/28,2024/08/30,1082,LV,45,46,,2024,pennsylvania
-CNN,2024/08/23,2024/08/29,789,LV,46,46,,2024,pennsylvania
-The Hill/Emerson,2024/08/25,2024/08/28,950,LV,44,48,,2024,pennsylvania
-Rasmussen Reports,2024/08/13,2024/08/17,1312,LV,43,46,,2024,pennsylvania
-Emerson,2024/08/13,2024/08/14,1000,LV,44,48,,2024,pennsylvania
-Quinnipiac,2024/08/08,2024/08/12,1738,LV,47,52,,2024,pennsylvania
-NY Times/Siena,2024/08/06,2024/08/08,693,LV,37,51,,2024,pennsylvania
-Franklin \u0026amp; Marshall,2024/07/31,2024/08/11,920,RV,36,48,,2024,pennsylvania
-Cook Political Report,2024/07/26,2024/08/02,411,LV,40,53,,2024,pennsylvania
-Susquehanna,2024/07/22,2024/07/28,600,LV,42,47,,2024,pennsylvania
-FOX News,2024/07/22,2024/07/24,1034,RV,42,55,,2024,pennsylvania
-The Hill/Emerson,2024/07/22,2024/07/23,850,RV,44,48,,2024,pennsylvania
-AmGreatness/NSOR,2024/07/20,2024/07/23,600,LV,41,49,,2024,pennsylvania
-PPP (D),2024/07/10,2024/07/11,537,RV,44,47,,2024,pennsylvania
-NY Times/Siena,2024/07/09,2024/07/11,872,LV,42,50,,2024,pennsylvania
-Rasmussen Reports,2024/07/05,2024/07/12,1041,LV,43,46,,2024,pennsylvania
-The Times/SAY,2024/07/04,2024/07/12,1000,RV,38,50,,2024,pennsylvania
-Remington Research (R),2024/06/29,2024/07/01,673,RV,48,49,,2024,pennsylvania
-Cygnal (R),2024/06/27,2024/06/28,800,LV,42,46,,2024,pennsylvania
-The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,41,47,,2024,pennsylvania
-Marist,2024/06/03,2024/06/06,1181,RV,46,52,,2024,pennsylvania
-Cook Political Report,2024/05/06,2024/05/13,730,LV,41,49,,2024,pennsylvania
-NY Times/Siena,2024/04/28,2024/05/09,1023,LV,44,46,,2024,pennsylvania
-Fabrizio/Anzalone,2024/04/24,2024/04/30,1398,LV,44,48,,2024,pennsylvania
-Muhlenberg College,2024/04/15,2024/04/25,417,RV,41,45,,2024,pennsylvania
-The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,42,46,,2024,pennsylvania
-CBS News,2024/04/19,2024/04/25,1306,LV,39,46,,2024,pennsylvania
-Franklin \u0026amp; Marshall,2024/03/20,2024/03/31,870,RV,39,46,,2024,pennsylvania
-The Hill/Emerson,2024/03/10,2024/03/13,1000,RV,48,52,,2024,pennsylvania
-Susquehanna,2024/02/27,2024/03/05,450,LV,42,48,,2024,pennsylvania
-The Hill/Emerson,2024/02/14,2024/02/16,1000,RV,39,49,,2024,pennsylvania
-Franklin \u0026amp; Marshall,2024/01/17,2024/01/28,1006,RV,35,47,,2024,pennsylvania
-Susquehanna,2024/01/15,2024/01/21,745,RV,42,46,,2024,pennsylvania
-Quinnipiac,2024/01/04,2024/01/08,1680,RV,43,53,,2024,pennsylvania
-Franklin \u0026amp; Marshall,2023/10/11,2023/10/22,873,RV,39,46,,2024,pennsylvania
-Emerson,2023/10/01,2023/10/04,430,RV,33,41,,2024,pennsylvania
-Quinnipiac,2023/09/28,2023/10/02,1725,RV,44,50,,2024,pennsylvania
-Susquehanna,2023/05/02,2023/05/08,700,LV,41,53,,2024,pennsylvania
-Franklin \u0026amp; Marshall,2023/03/27,2023/04/07,643,RV,35,42,,2024,pennsylvania
-Trafalgar Group (R),2024/11/02,2024/11/04,1095,LV,48,48,,2024,ohio
-Atlas Intel,2024/11/01,2024/11/04,1022,LV,49,46,,2024,ohio
-The Hill/Emerson,2024/10/30,2024/11/02,900,LV,48,45,,2024,ohio
-Morning Consult,2024/10/23,2024/11/01,1254,LV,47,46,,2024,ohio
-Trafalgar Group (R),2024/10/25,2024/10/28,1127,LV,47,48,,2024,ohio
-Bowling Green/YouGov,2024/10/10,2024/10/21,1000,LV,45,47,,2024,ohio
-Rasmussen Reports,2024/10/09,2024/10/14,1051,LV,45,44,,2024,ohio
-Morning Consult,2024/10/06,2024/10/15,1243,LV,47,46,,2024,ohio
-Washington Post,2024/10/03,2024/10/07,1002,LV,47,48,,2024,ohio
-Marist,2024/10/03,2024/10/07,1327,LV,48,50,,2024,ohio
-NY Times/Siena,2024/09/21,2024/09/26,687,LV,43,47,,2024,ohio
-Bowling Green/YouGov,2024/09/18,2024/09/27,1000,LV,45,49,,2024,ohio
-The Hill/Emerson,2024/09/03,2024/09/05,945,LV,44,46,,2024,ohio
-Rasmussen Reports,2024/08/13,2024/08/17,1267,LV,42,47,,2024,ohio
-Fabrizio/Anzalone,2024/07/23,2024/07/28,600,LV,42,46,,2024,ohio
-Remington Research (R),2024/06/29,2024/07/01,,RV,44,50,,2024,ohio
-Marist,2024/06/03,2024/06/06,1137,RV,45,50,,2024,ohio
-East Carolina U.,2024/03/08,2024/03/11,1298,LV,41,45,,2024,ohio
-ONU/SurveyUSA,2024/03/06,2024/03/11,1121,LV,37,43,,2024,ohio
-The Hill/Emerson,2024/03/07,2024/03/10,1300,RV,34,39,,2024,ohio
-Emerson,2024/01/23,2024/01/25,1844,RV,37,39,,2024,ohio
-WJW-TV/Emerson,2023/11/10,2023/11/13,1000,RV,32,42,,2024,ohio
-Data for Progress (D)**,2023/10/31,2023/11/02,597,LV,44,47,,2024,ohio
-Emerson,2023/10/02,2023/10/04,438,RV,33,35,,2024,ohio
-USA Today/Suffolk,2023/07/09,2023/07/12,500,LV,41,48,,2024,ohio
-East Carolina U.,2023/06/21,2023/06/24,805,RV,42,46,,2024,ohio
-WHDH-TV/Emerson,2024/10/24,2024/10/26,1000,LV,36,56,,2024,massachusetts
-WCVB-TV/Amherst,2024/10/03,2024/10/10,700,A,34,56,,2024,massachusetts
-WBUR/MassINC,2024/09/12,2024/09/18,800,LV,35,56,,2024,massachusetts
-UNH,2024/09/12,2024/09/16,564,LV,32,58,,2024,massachusetts
-UMass Amherst,2024/05/17,2024/05/30,700,A,24,47,,2024,massachusetts
-University of Delaware*,2024/09/11,2024/09/19,400,RV,32,52,,2024,delaware
-UNH,2024/09/12,2024/09/16,683,LV,33,51,,2024,rhode-island
-North Dakota Poll,2024/09/28,2024/09/30,500,LV,51,29,,2024,north-dakota
-Emerson,2023/10/01,2023/10/04,419,RV,45,19,,2024,north-dakota
-MetroNews,2024/08/21,2024/08/27,400,RV,62,28,,2024,west-virginia
-Cygnal (R),2024/10/26,2024/10/27,600,LV,39,58,,2024,new-york
-Siena,2024/10/13,2024/10/17,872,LV,31,57,,2024,new-york
-The Hill/Emerson,2024/09/23,2024/09/25,1000,LV,33,50,,2024,new-york
-Siena,2024/09/11,2024/09/16,1003,LV,31,54,,2024,new-york
-Siena,2024/07/28,2024/08/01,1199,LV,33,56,,2024,new-york
-Rasmussen Reports,2024/10/24,2024/10/26,749,LV,41,50,,2024,new-mexico
-Rasmussen Reports,2024/09/19,2024/09/22,708,LV,38,49,,2024,new-mexico
-The Hill/Emerson,2024/08/20,2024/08/22,965,RV,37,49,,2024,new-mexico
-PPP (D),2024/06/13,2024/06/14,555,RV,40,47,,2024,new-mexico
-Morning Consult,2024/10/23,2024/11/01,2022,LV,48,45,,2024,florida
-Florida Atlantic University,2024/10/19,2024/10/27,913,LV,50,46,,2024,florida
-The Hill/Emerson,2024/10/18,2024/10/20,860,LV,48,44,,2024,florida
-Univ. of North Florida,2024/10/07,2024/10/18,977,LV,49,46,,2024,florida
-Marist,2024/10/03,2024/10/07,1257,LV,50,48,,2024,florida
-NBC 6/Mason-Dixon,2024/10/01,2024/10/04,625,RV,48,41,,2024,florida
-NY Times/Siena,2024/09/29,2024/10/04,617,LV,49,40,,2024,florida
-The Hill/Emerson,2024/09/03,2024/09/05,815,LV,46,45,,2024,florida
-Florida Atlantic University,2024/08/10,2024/08/11,1040,LV,47,43,,2024,florida
-Univ. of North Florida,2024/07/24,2024/07/27,774,LV,47,43,,2024,florida
-Florida Atlantic University,2024/06/08,2024/06/09,777,LV,45,43,,2024,florida
-CBS News,2024/05/10,2024/05/16,1181,LV,45,37,,2024,florida
-Florida Atlantic University,2024/04/15,2024/04/17,865,RV,52,35,,2024,florida
-Emerson,2024/04/09,2024/04/10,1000,RV,45,38,,2024,florida
-Fairleigh Dickinson,2024/10/20,2024/10/27,806,RV,39,57,,2024,new-jersey
-Cygnal (R)*,2024/10/23,2024/10/24,600,LV,32,51,,2024,new-jersey
-Rutgers-Eagleton,2024/10/15,2024/10/22,929,RV,26,49,,2024,new-jersey
-Fairleigh Dickinson,2024/04/01,2024/04/08,809,RV,38,47,,2024,new-jersey
-Economist/YouGov,2024/10/21,2024/10/28,1220,LV,50,,43,2024,nebraska
-NY Times/Siena,2024/10/23,2024/10/26,1194,LV,48,,46,2024,nebraska
-University of Texas,2024/10/02,2024/10/10,,LV,51,44,4,2024,texas
-University of Houston,2024/08/05,2024/08/16,1365,LV,47,45,3,2024,texas
-TX Hispanic Policy Foundation,2024/04/05,2024/04/10,1600,LV,46,41,4,2024,texas
-University of Texas,2024/08/23,2024/08/31,1200,RV,44,36,2,2024,texas
-University of Houston,2024/06/20,2024/07/01,1484,LV,47,44,3,2024,texas
-University of Houston,2024/01/11,2024/01/24,1145,LV,48,39,4,2024,texas
-UNH,2024/10/29,2024/11/02,1485,LV,35,7,1,2024,maine
-UNH,2024/08/15,2024/08/19,951,LV,33,9,3,2024,maine
+pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state,overlapping_special_election
+Atlas Intel,2024/11/03,2024/11/04,875,LV,48,48,,2024,arizona,
+Trafalgar Group (R),2024/11/01,2024/11/03,1090,LV,49,49,,2024,arizona,
+InsiderAdvantage,2024/11/01,2024/11/02,800,LV,47,49,,2024,arizona,
+The Hill/Emerson,2024/10/30,2024/10/02,900,LV,45,50,,2024,arizona,
+NY Times/Siena,2024/10/25,2024/11/02,1025,LV,45,50,,2024,arizona,
+Data Orbital,2024/10/26,2024/10/28,550,LV,45,45,,2024,arizona,
+Data for Progress (D)**,2024/10/25,2024/10/30,1079,LV,45,50,,2024,arizona,
+Rasmussen Reports,2024/10/25,2024/10/29,803,LV,44,48,,2024,arizona,
+Atlas Intel,2024/10/30,2024/10/31,1005,LV,49,48,,2024,arizona,
+Atlas Intel,2024/10/25,2024/10/29,1458,LV,48,48,,2024,arizona,
+Morning Consult,2024/10/20,2024/10/29,,LV,42,50,,2024,arizona,
+Trafalgar Group (R),2024/10/24,2024/10/26,1094,LV,46,50,,2024,arizona,
+CNN*,2024/10/21,2024/10/26,781,LV,43,51,,2024,arizona,
+InsiderAdvantage,2024/10/19,2024/10/20,800,LV,46,50,,2024,arizona,
+Marist,2024/10/17,2024/10/22,1193,LV,45,53,,2024,arizona,
+Atlas Intel,2024/10/12,2024/10/17,1411,LV,46,50,,2024,arizona,
+CBS News,2024/10/11,2024/10/16,1403,LV,45,54,,2024,arizona,
+Trafalgar Group (R),2024/10/10,2024/10/13,1090,LV,44,48,,2024,arizona,
+NY Times/Siena,2024/10/07,2024/10/10,808,LV,41,48,,2024,arizona,
+The Hill/Emerson,2024/10/05,2024/10/08,1000,LV,43,50,,2024,arizona,
+InsiderAdvantage,2024/09/29,2024/09/30,800,LV,43,50,,2024,arizona,
+Fabrizio/Anzalone,2024/09/24,2024/10/01,600,LV,44,51,,2024,arizona,
+Emerson,2024/09/27,2024/09/28,920,LV,41,52,,2024,arizona,
+KPHO-TV/HighGround,2024/09/26,2024/09/29,500,LV,41,51,,2024,arizona,
+USA Today/Suffolk*,2024/09/21,2024/09/24,500,LV,41,47,,2024,arizona,
+Atlas Intel,2024/09/20,2024/09/25,946,LV,46,50,,2024,arizona,
+Cook Political Report,2024/09/19,2024/09/25,409,LV,41,54,,2024,arizona,
+FOX News,2024/09/20,2024/09/24,764,LV,42,55,,2024,arizona,
+Marist,2024/09/19,2024/09/24,1264,LV,44,54,,2024,arizona,
+Rasmussen Reports,2024/09/19,2024/09/22,1071,LV,45,47,,2024,arizona,
+NY Times/Siena,2024/09/17,2024/09/21,2077,LV,43,49,,2024,arizona,
+The Hill/Emerson,2024/09/15,2024/09/18,868,LV,42,48,,2024,arizona,
+Trafalgar Group (R),2024/09/11,2024/09/12,1088,LV,43,47,,2024,arizona,
+InsiderAdvantage,2024/08/29,2024/08/30,800,LV,45,49,,2024,arizona,
+The Hill/Emerson,2024/08/25,2024/08/28,720,LV,42,49,,2024,arizona,
+CNN,2024/08/23,2024/08/29,682,LV,44,47,,2024,arizona,
+FOX News,2024/08/23,2024/08/26,1014,RV,41,56,,2024,arizona,
+Rasmussen Reports,2024/08/13,2024/08/17,1187,LV,40,48,,2024,arizona,
+Noble Predictive Insights,2024/08/12,2024/08/16,1003,RV,40,47,,2024,arizona,
+NY Times/Siena,2024/08/08,2024/08/15,677,LV,42,51,,2024,arizona,
+Cook Political Report,2024/07/26,2024/08/02,435,LV,42,51,,2024,arizona,
+The Hill/Emerson,2024/07/22,2024/07/23,800,RV,42,46,,2024,arizona,
+Rasmussen Reports,2024/07/05,2024/07/12,1101,LV,41,44,,2024,arizona,
+PPP (D),2024/07/10,2024/07/11,596,RV,47,50,,2024,arizona,
+The Times/SAY,2024/07/04,2024/07/12,900,RV,41,48,,2024,arizona,
+Remington Research (R),2024/06/29,2024/07/01,,RV,47,47,,2024,arizona,
+AmGreatness/NSOR*,2024/06/17,2024/06/20,600,LV,38,39,,2024,arizona,
+The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,41,45,,2024,arizona,
+Rasmussen Reports,2024/06/11,2024/06/13,750,LV,41,44,,2024,arizona,
+Fabrizio/Anzalone,2024/05/28,2024/06/04,600,LV,45,48,,2024,arizona,
+CBS News,2024/05/10,2024/05/16,1193,LV,36,49,,2024,arizona,
+Noble Predictive Insights,2024/05/07,2024/05/14,1003,RV,36,46,,2024,arizona,
+Cook Political Report,2024/05/06,2024/05/13,527,LV,41,46,,2024,arizona,
+NY Times/Siena,2024/04/28,2024/05/09,626,LV,43,46,,2024,arizona,
+The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,43,45,,2024,arizona,
+The Hill/Emerson,2024/03/12,2024/03/15,1000,RV,49,51,,2024,arizona,
+The Hill/Emerson,2024/02/16,2024/02/19,1000,RV,39,46,,2024,arizona,
+Noble Predictive Insights,2024/02/06,2024/02/13,1002,RV,37,47,,2024,arizona,
+Noble Predictive Insights,2023/07/13,2023/07/17,1000,RV,35,45,,2024,arizona,
+OH Predictive Insights,2023/01/31,2023/02/09,1000,RV,33,43,,2024,arizona,
+Atlas Intel,2024/11/01,2024/11/04,2202,LV,44,53,,2024,virginia,
+Cygnal (R),2024/10/27,2024/10/29,600,LV,42,52,,2024,virginia,
+Roanoke College,2024/10/25,2024/10/29,859,LV,40,51,,2024,virginia,
+Rasmussen Reports,2024/10/24,2024/10/25,1014,LV,39,50,,2024,virginia,
+Washington Post,2024/10/19,2024/10/23,1004,LV,41,54,,2024,virginia,
+Christopher Newport Univ.,2024/09/28,2024/10/04,800,LV,35,55,,2024,virginia,
+The Hill/Emerson,2024/09/22,2024/09/24,860,LV,41,51,,2024,virginia,
+Rasmussen Reports,2024/09/19,2024/09/22,1144,LV,39,51,,2024,virginia,
+Univ. of Mary Washington,2024/09/03,2024/09/09,756,LV,43,49,,2024,virginia,
+Washington Post,2024/09/04,2024/09/08,1005,LV,41,53,,2024,virginia,
+Roanoke College,2024/08/12,2024/08/16,691,LV,38,49,,2024,virginia,
+Emerson,2024/07/13,2024/07/15,1000,RV,39,49,,2024,virginia,
+NY Times/Siena,2024/07/09,2024/07/11,661,LV,36,53,,2024,virginia,
+VCU,2024/06/24,2024/07/03,809,A,38,49,,2024,virginia,
+Atlas Intel,2024/11/03,2024/11/04,707,LV,43,48,,2024,nevada,
+The Hill/Emerson,2024/10/30,2024/11/02,840,LV,44,50,,2024,nevada,
+Noble Predictive Insights,2024/10/28,2024/10/31,593,LV,46,48,,2024,nevada,
+Susquehanna,2024/10/28,2024/10/31,400,LV,47,46,,2024,nevada,
+NY Times/Siena,2024/10/24,2024/11/02,1010,LV,43,52,,2024,nevada,
+Data for Progress (D)**,2024/10/25,2024/10/30,721,LV,42,49,,2024,nevada,
+Rasmussen Reports,2024/10/25,2024/10/28,767,LV,41,50,,2024,nevada,
+Trafalgar Group (R),2024/10/25,2024/10/28,1082,LV,45,47,,2024,nevada,
+Atlas Intel,2024/11/01,2024/11/02,782,LV,46,46,,2024,nevada,
+Emerson,2024/10/29,2024/10/31,700,LV,45,49,,2024,nevada,
+Atlas Intel,2024/10/27,2024/10/30,845,LV,45,47,,2024,nevada,
+Atlas Intel,2024/10/25,2024/10/29,1083,LV,44,49,,2024,nevada,
+CNN,2024/10/21,2024/10/26,683,LV,41,50,,2024,nevada,
+InsiderAdvantage,2024/10/19,2024/10/20,800,LV,44,48,,2024,nevada,
+Atlas Intel,2024/10/12,2024/10/17,1171,LV,43,47,,2024,nevada,
+Fabrizio/Anzalone,2024/10/08,2024/10/15,600,LV,44,49,,2024,nevada,
+Rasmussen Reports,2024/10/09,2024/10/14,748,LV,44,47,,2024,nevada,
+Trafalgar Group (R),2024/10/10,2024/10/13,1088,LV,43,48,,2024,nevada,
+The Hill/Emerson,2024/10/05,2024/10/08,900,LV,42,50,,2024,nevada,
+InsiderAdvantage,2024/09/29,2024/09/30,800,LV,42,49,,2024,nevada,
+Atlas Intel,2024/09/20,2024/09/25,858,LV,46,48,,2024,nevada,
+Cook Political Report,2024/09/19,2024/09/25,409,LV,40,53,,2024,nevada,
+Rasmussen Reports,2024/09/19,2024/09/22,738,LV,40,50,,2024,nevada,
+Remington Research (R),2024/09/16,2024/09/20,,LV,41,47,,2024,nevada,
+The Hill/Emerson,2024/09/15,2024/09/18,895,LV,41,48,,2024,nevada,
+Noble Predictive Insights,2024/09/09,2024/09/16,692,LV,38,53,,2024,nevada,
+Trafalgar Group (R),2024/09/11,2024/09/13,1079,LV,40,48,,2024,nevada,
+InsiderAdvantage,2024/08/29,2024/08/31,800,LV,39,49,,2024,nevada,
+CNN,2024/08/23,2024/08/29,626,LV,40,50,,2024,nevada,
+The Hill/Emerson,2024/08/25,2024/08/28,1168,LV,40,50,,2024,nevada,
+FOX News,2024/08/23,2024/08/26,1026,RV,41,55,,2024,nevada,
+Rasmussen Reports,2024/08/13,2024/08/19,980,LV,39,50,,2024,nevada,
+NY Times/Siena,2024/08/12,2024/08/15,677,LV,40,49,,2024,nevada,
+Cook Political Report,2024/07/26,2024/08/02,403,LV,36,54,,2024,nevada,
+Rasmussen Reports,2024/07/05,2024/07/12,761,LV,42,45,,2024,nevada,
+The Times/SAY,2024/07/04,2024/07/12,800,RV,40,47,,2024,nevada,
+Remington Research (R),2024/06/29,2024/07/01,601,RV,46,48,,2024,nevada,
+The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,38,50,,2024,nevada,
+Fabrizio/Anzalone,2024/06/12,2024/06/18,600,LV,42,47,,2024,nevada,
+NY Times/Siena,2024/04/28,2024/05/09,614,LV,41,41,,2024,nevada,
+The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,37,45,,2024,nevada,
+The Hill/Emerson,2024/03/12,2024/03/15,1000,RV,39,41,,2024,nevada,
+Noble Predictive Insights,2024/02/27,2024/03/05,829,RV,35,41,,2024,nevada,
+The Hill/Emerson,2024/02/16,2024/02/19,1000,RV,38,40,,2024,nevada,
+The Hill/Emerson,2024/09/12,2024/09/13,850,LV,51,40,,2024,missouri,
+The Hill/Emerson,2024/06/17,2024/06/19,1000,RV,47,38,,2024,missouri,
+Missouri Scout,2024/03/06,2024/03/08,713,LV,53,39,,2024,missouri,
+Emerson,2024/01/23,2024/01/28,1777,RV,43,30,,2024,missouri,
+Emerson,2023/10/01,2023/10/04,491,RV,45,32,,2024,missouri,
+Atlas Intel,2024/11/01,2024/11/04,752,LV,50,39,,2024,montana,
+The Hill/Emerson,2024/10/23,2024/10/25,1000,LV,50,46,,2024,montana,
+NY Times/Siena,2024/10/05,2024/10/08,656,LV,52,44,,2024,montana,
+Remington Research (R),2024/09/16,2024/09/20,,LV,52,44,,2024,montana,
+Fabrizio/Binder,2024/08/25,2024/08/29,600,LV,51,45,,2024,montana,
+Rasmussen Reports,2024/08/13,2024/08/20,835,LV,50,43,,2024,montana,
+KULR-TV (NBC),2024/08/10,2024/08/12,538,RV,51,45,,2024,montana,
+The Hill/Emerson,2024/08/05,2024/08/06,1000,LV,48,46,,2024,montana,
+Remington Research (R),2024/06/29,2024/07/01,,RV,50,45,,2024,montana,
+The Hill/Emerson,2024/02/26,2024/03/02,1000,RV,42,44,,2024,montana,
+KULR-TV/SurveyUSA,2024/02/12,2024/02/15,549,LV,40,49,,2024,montana,
+Emerson,2023/10/01,2023/10/04,447,RV,35,39,,2024,montana,
+Atlas Intel,2024/11/03,2024/11/04,869,LV,48,49,,2024,wisconsin,
+Trafalgar Group (R),2024/11/01,2024/11/03,1086,LV,48,48,,2024,wisconsin,
+InsiderAdvantage,2024/11/01,2024/11/02,800,LV,48,47,,2024,wisconsin,
+The Hill/Emerson,2024/10/30,2024/11/02,800,LV,45,51,,2024,wisconsin,
+NY Times/Siena,2024/10/25,2024/11/02,1305,LV,46,50,,2024,wisconsin,
+Marist,2024/10/27,2024/10/30,1330,LV,48,51,,2024,wisconsin,
+Echelon Insights,2024/10/27,2024/10/30,600,LV,48,49,,2024,wisconsin,
+AmGreatness/TIPP,2024/10/28,2024/10/30,831,LV,46,48,,2024,wisconsin,
+Rasmussen Reports,2024/10/25,2024/10/29,818,LV,47,47,,2024,wisconsin,
+CNN,2024/10/23,2024/10/28,736,LV,47,49,,2024,wisconsin,
+Morning Consult,2024/10/21,2024/10/30,,LV,47,49,,2024,wisconsin,
+USA Today/Suffolk,2024/10/20,2024/10/23,500,LV,44,46,,2024,wisconsin,
+Marquette,2024/10/16,2024/10/24,753,LV,49,51,,2024,wisconsin,
+Quinnipiac,2024/10/17,2024/10/21,1108,LV,48,49,,2024,wisconsin,
+Atlas Intel,2024/11/01,2024/11/02,728,LV,48,49,,2024,wisconsin,
+Atlas Intel,2024/10/30,2024/10/31,673,LV,49,49,,2024,wisconsin,
+Atlas Intel,2024/10/25,2024/10/29,1470,LV,48,49,,2024,wisconsin,
+InsiderAdvantage,2024/10/26,2024/10/27,800,LV,49,48,,2024,wisconsin,
+Emerson,2024/10/21,2024/10/22,800,LV,48,48,,2024,wisconsin,
+Trafalgar Group (R),2024/10/18,2024/10/20,1083,LV,49,48,,2024,wisconsin,
+Atlas Intel,2024/10/12,2024/10/17,932,LV,46,49,,2024,wisconsin,
+Rasmussen Reports,2024/10/09,2024/10/14,1004,LV,45,46,,2024,wisconsin,
+InsiderAdvantage,2024/10/08,2024/10/09,800,LV,47,48,,2024,wisconsin,
+The Hill/Emerson,2024/10/05,2024/10/08,1000,LV,46,50,,2024,wisconsin,
+Quinnipiac,2024/10/03,2024/10/07,1073,LV,46,50,,2024,wisconsin,
+Trafalgar Group (R),2024/09/28,2024/09/30,1079,LV,46,48,,2024,wisconsin,
+NY Times/Siena,2024/09/21,2024/09/26,680,LV,43,50,,2024,wisconsin,
+Atlas Intel,2024/09/20,2024/09/25,1077,LV,47,48,,2024,wisconsin,
+Cook Political Report,2024/09/19,2024/09/25,411,LV,47,49,,2024,wisconsin,
+Marquette,2024/09/18,2024/09/26,798,LV,46,53,,2024,wisconsin,
+Rasmussen Reports,2024/09/19,2024/09/22,1071,LV,45,49,,2024,wisconsin,
+Remington Research (R),2024/09/16,2024/09/20,,LV,47,49,,2024,wisconsin,
+The Hill/Emerson,2024/09/15,2024/09/18,1000,LV,46,49,,2024,wisconsin,
+Marist,2024/09/12,2024/09/17,1194,LV,48,51,,2024,wisconsin,
+Quinnipiac,2024/09/12,2024/09/16,1075,LV,47,51,,2024,wisconsin,
+Fabrizio/Anzalone,2024/09/11,2024/09/14,600,LV,47,50,,2024,wisconsin,
+CBS News,2024/09/03,2024/09/06,958,RV,43,51,,2024,wisconsin,
+Marquette,2024/08/28,2024/09/05,738,LV,47,52,,2024,wisconsin,
+Trafalgar Group (R),2024/08/28,2024/08/30,1083,LV,44,50,,2024,wisconsin,
+CNN,2024/08/23,2024/08/29,976,LV,45,51,,2024,wisconsin,
+The Hill/Emerson,2024/08/25,2024/08/28,850,LV,48,49,,2024,wisconsin,
+Rasmussen Reports,2024/08/13,2024/08/19,1099,LV,42,52,,2024,wisconsin,
+AmGreatness/TIPP,2024/08/12,2024/08/14,1015,RV,42,50,,2024,wisconsin,
+NY Times/Siena,2024/08/05,2024/08/08,661,LV,44,51,,2024,wisconsin,
+Cook Political Report,2024/07/26,2024/08/02,404,LV,43,50,,2024,wisconsin,
+Marquette,2024/07/24,2024/08/01,801,LV,47,52,,2024,wisconsin,
+FOX News,2024/07/22,2024/07/24,1046,RV,43,54,,2024,wisconsin,
+The Hill/Emerson,2024/07/22,2024/07/23,845,RV,43,49,,2024,wisconsin,
+PPP (D),2024/07/10,2024/07/11,548,RV,43,51,,2024,wisconsin,
+Rasmussen Reports,2024/07/05,2024/07/12,1020,LV,43,47,,2024,wisconsin,
+The Times/SAY,2024/07/04,2024/07/12,900,RV,43,50,,2024,wisconsin,
+AmGreatness/NSOR,2024/07/06,2024/07/10,600,LV,41,49,,2024,wisconsin,
+Remington Research (R),2024/06/29,2024/07/01,539,RV,48,48,,2024,wisconsin,
+Fabrizio/Anzalone,2024/06/28,2024/07/02,600,LV,45,50,,2024,wisconsin,
+Marquette,2024/06/12,2024/06/20,871,RV,38,45,,2024,wisconsin,
+The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,44,46,,2024,wisconsin,
+Cook Political Report,2024/05/06,2024/05/13,503,LV,37,49,,2024,wisconsin,
+Quinnipiac,2024/05/02,2024/05/06,1457,RV,42,54,,2024,wisconsin,
+NY Times/Siena,2024/04/28,2024/05/09,614,LV,42,49,,2024,wisconsin,
+The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,43,46,,2024,wisconsin,
+CBS News,2024/04/19,2024/04/25,1245,LV,41,48,,2024,wisconsin,
+Marquette,2024/04/03,2024/04/10,814,RV,47,52,,2024,wisconsin,
+The Hill/Emerson,2024/03/14,2024/03/18,1000,RV,42,45,,2024,wisconsin,
+The Hill/Emerson,2024/02/20,2024/02/24,1000,RV,39,46,,2024,wisconsin,
+CT Mirror/MassINC,2024/09/12,2024/09/18,800,LV,35,51,,2024,connecticut,
+Atlas Intel,2024/11/03,2024/11/04,1114,LV,48,49,,2024,michigan,
+Trafalgar Group (R),2024/11/01,2024/11/03,1079,LV,47,47,,2024,michigan,
+InsiderAdvantage,2024/11/01,2024/11/02,800,LV,48,48,,2024,michigan,
+The Hill/Emerson,2024/10/30,2024/11/02,790,LV,45,49,,2024,michigan,
+NY Times/Siena,2024/10/29,2024/11/02,998,LV,46,48,,2024,michigan,
+MNS/Mitchell Research,2024/10/29,2024/11/02,585,LV,48,50,,2024,michigan,
+Rasmussen Reports,2024/10/24,2024/11/01,908,LV,46,45,,2024,michigan,
+Marist,2024/10/27,2024/10/30,1214,LV,46,52,,2024,michigan,
+Echelon Insights,2024/10/27,2024/10/30,600,LV,46,48,,2024,michigan,
+Washington Post,2024/10/24,2024/10/28,1003,LV,45,48,,2024,michigan,
+FOX News,2024/10/24,2024/10/28,988,LV,47,51,,2024,michigan,
+USA Today/Suffolk,2024/10/24,2024/10/27,500,LV,45,47,,2024,michigan,
+Detroit Free Press,2024/10/24,2024/10/27,600,LV,42,47,,2024,michigan,
+Atlas Intel,2024/11/01,2024/11/02,1198,LV,47,49,,2024,michigan,
+Atlas Intel,2024/10/27,2024/10/30,1136,LV,46,50,,2024,michigan,
+MNS/Mitchell Research,2024/10/28,2024/10/29,,LV,49,47,,2024,michigan,
+Atlas Intel,2024/10/25,2024/10/29,983,LV,47,49,,2024,michigan,
+InsiderAdvantage,2024/10/26,2024/10/27,800,LV,48,48,,2024,michigan,
+Emerson,2024/10/25,2024/10/27,1000,LV,46,48,,2024,michigan,
+CNN,2024/10/23,2024/10/28,726,LV,42,48,,2024,michigan,
+Susquehanna,2024/10/23,2024/10/27,400,LV,47,48,,2024,michigan,
+Morning Consult,2024/10/21,2024/10/30,,LV,41,49,,2024,michigan,
+UMass Lowell,2024/10/16,2024/10/24,600,LV,39,48,,2024,michigan,
+Trafalgar Group (R),2024/10/18,2024/10/20,1090,LV,45,46,,2024,michigan,
+Quinnipiac,2024/10/17,2024/10/21,1108,LV,44,52,,2024,michigan,
+Atlas Intel,2024/10/12,2024/10/17,1529,LV,48,48,,2024,michigan,
+MNS/Mitchell Research,2024/10/14,2024/10/14,589,LV,43,47,,2024,michigan,
+Rasmussen Reports,2024/10/09,2024/10/14,1058,LV,44,44,,2024,michigan,
+MRG,2024/10/07,2024/10/11,600,LV,41,46,,2024,michigan,
+InsiderAdvantage,2024/10/08,2024/10/09,800,LV,45,46,,2024,michigan,
+The Hill/Emerson,2024/10/05,2024/10/08,950,LV,44,49,,2024,michigan,
+Quinnipiac,2024/10/03,2024/10/07,1007,LV,48,48,,2024,michigan,
+Fabrizio/Anzalone,2024/10/02,2024/10/08,600,LV,46,49,,2024,michigan,
+MIRS/MI News Source,2024/09/30,2024/09/30,709,LV,44,49,,2024,michigan,
+Trafalgar Group (R),2024/09/28,2024/09/30,1086,LV,47,47,,2024,michigan,
+NY Times/Siena,2024/09/21,2024/09/26,688,LV,42,47,,2024,michigan,
+Atlas Intel,2024/09/20,2024/09/25,918,LV,49,44,,2024,michigan,
+Cook Political Report,2024/09/19,2024/09/25,416,LV,46,50,,2024,michigan,
+Rasmussen Reports,2024/09/19,2024/09/22,1086,LV,43,47,,2024,michigan,
+Remington Research (R),2024/09/16,2024/09/20,,LV,43,50,,2024,michigan,
+USA Today/Suffolk,2024/09/16,2024/09/19,500,LV,43,45,,2024,michigan,
+The Hill/Emerson,2024/09/15,2024/09/18,875,LV,42,47,,2024,michigan,
+Marist,2024/09/12,2024/09/17,1138,LV,45,52,,2024,michigan,
+Quinnipiac,2024/09/12,2024/09/16,905,LV,46,51,,2024,michigan,
+UMass Lowell,2024/09/11,2024/09/19,650,LV,34,47,,2024,michigan,
+MIRS/MI News Source,2024/09/11,2024/09/11,580,LV,45,48,,2024,michigan,
+CBS News,2024/09/03,2024/09/06,1086,RV,41,48,,2024,michigan,
+Trafalgar Group (R),2024/08/28,2024/08/30,1089,LV,45,49,,2024,michigan,
+The Hill/Emerson,2024/08/25,2024/08/28,800,LV,41,47,,2024,michigan,
+CNN,2024/08/23,2024/08/29,708,LV,41,47,,2024,michigan,
+EPIC-MRA,2024/08/23,2024/08/26,600,LV,42,46,,2024,michigan,
+AmGreatness/TIPP,2024/08/20,2024/08/22,741,LV,39,49,,2024,michigan,
+Rasmussen Reports,2024/08/13,2024/08/17,1093,LV,43,45,,2024,michigan,
+Fabrizio/Anzalone,2024/08/07,2024/08/11,600,LV,44,47,,2024,michigan,
+NY Times/Siena,2024/08/05,2024/08/08,619,LV,43,46,,2024,michigan,
+Cook Political Report,2024/07/26,2024/08/02,406,LV,42,50,,2024,michigan,
+FOX News,2024/07/22,2024/07/24,1012,RV,46,51,,2024,michigan,
+The Hill/Emerson,2024/07/22,2024/07/23,800,RV,41,45,,2024,michigan,
+Rasmussen Reports,2024/07/05,2024/07/12,1025,LV,40,43,,2024,michigan,
+PPP (D),2024/07/10,2024/07/11,568,RV,35,45,,2024,michigan,
+The Times/SAY,2024/07/04,2024/07/12,1000,RV,39,48,,2024,michigan,
+Remington Research (R),2024/06/29,2024/07/01,584,RV,43,47,,2024,michigan,
+The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,39,43,,2024,michigan,
+MNS/Mitchell Research,2024/06/03,2024/06/03,697,LV,33,36,,2024,michigan,
+MIRS/Mitchell Research,2024/05/20,2024/05/21,697,LV,36,40,,2024,michigan,
+The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,40,42,,2024,michigan,
+MIRS/Mitchell Research,2024/03/15,2024/03/16,627,LV,37,37,,2024,michigan,
+The Hill/Emerson,2024/03/14,2024/03/18,1000,RV,39,41,,2024,michigan,
+EPIC-MRA,2024/02/13,2024/02/18,600,LV,38,39,,2024,michigan,
+Detroit News/Glengariff,2024/01/02,2024/01/06,600,LV,37,38,,2024,michigan,
+EPIC-MRA,2023/11/10,2023/11/16,600,LV,37,39,,2024,michigan,
+EPIC-MRA,2023/08/06,2023/08/11,600,LV,37,42,,2024,michigan,
+Emerson,2023/08/01,2023/08/02,1121,RV,38,44,,2024,michigan,
+MIRS/Mitchell Research,2023/07/11,2023/07/13,639,LV,38,44,,2024,michigan,
+UT Debate Comission*,2024/08/29,2024/09/19,526,RV,53,34,,2024,utah,
+Deseret News/HarrisX,2024/08/02,2024/08/09,800,RV,71,29,,2024,utah,
+Atlas Intel,2024/11/01,2024/11/04,2065,LV,41,53,,2024,minnesota,
+KSTP/SurveyUSA,2024/10/24,2024/10/28,728,LV,35,52,,2024,minnesota,
+Rasmussen Reports,2024/10/24,2024/10/26,959,LV,40,51,,2024,minnesota,
+MinnPost,2024/10/16,2024/10/22,1734,LV,40,52,,2024,minnesota,
+KSTP/SurveyUSA,2024/09/23,2024/09/26,646,LV,35,53,,2024,minnesota,
+Rasmussen Reports,2024/09/19,2024/09/22,993,LV,38,49,,2024,minnesota,
+Star Tribune/Mason-Dixon,2024/09/16,2024/09/18,800,LV,40,51,,2024,minnesota,
+KSTP/SurveyUSA,2024/08/27,2024/08/29,635,LV,36,50,,2024,minnesota,
+The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,37,48,,2024,minnesota,
+KSTP/SurveyUSA,2024/06/12,2024/06/16,626,LV,35,49,,2024,minnesota,
+Atlas Intel,2024/11/01,2024/11/04,2434,LV,53,46,,2024,texas,
+Cygnal (R),2024/10/26,2024/10/28,600,LV,49,45,,2024,texas,
+Morning Consult,2024/10/22,2024/10/31,2120,LV,47,44,,2024,texas,
+NY Times/Siena,2024/10/23,2024/10/26,1180,LV,50,46,,2024,texas,
+Rasmussen Reports,2024/10/24,2024/10/25,1002,LV,47,43,,2024,texas,
+The Hill/Emerson,2024/10/18,2024/10/21,815,LV,48,47,,2024,texas,
+University of Texas,2024/10/02,2024/10/10,,LV,51,44,,2024,texas,
+Marist,2024/10/03,2024/10/07,1186,LV,51,46,,2024,texas,
+University of Houston,2024/09/26,2024/10/10,1329,LV,50,46,,2024,texas,
+NY Times/Siena,2024/09/29,2024/10/04,617,LV,48,44,,2024,texas,
+The Hill/Emerson,2024/09/22,2024/09/24,950,LV,49,45,,2024,texas,
+TX Hispanic Policy Foundation,2024/09/13,2024/09/18,1200,LV,48,45,,2024,texas,
+The Hill/Emerson,2024/09/03,2024/09/05,845,LV,48,44,,2024,texas,
+University of Texas*,2024/08/23,2024/08/31,1200,RV,44,36,,2024,texas,
+University of Houston*,2024/08/05,2024/08/16,1365,LV,47,45,,2024,texas,
+Remington Research (R),2024/06/29,2024/07/01,589,RV,53,43,,2024,texas,
+University of Houston*,2024/06/20,2024/07/01,1484,LV,47,44,,2024,texas,
+University of Texas,2024/05/31,2024/06/09,1200,RV,45,34,,2024,texas,
+University of Texas,2024/04/12,2024/04/22,1200,RV,46,33,,2024,texas,
+TX Hispanic Policy Foundation*,2024/04/05,2024/04/10,1600,LV,46,41,,2024,texas,
+Cygnal (R)*,2024/04/04,2024/04/06,1000,LV,45,36,,2024,texas,
+Marist,2024/03/18,2024/03/21,1117,RV,51,45,,2024,texas,
+University of Texas,2024/02/02,2024/02/12,1200,RV,46,32,,2024,texas,
+University of Houston*,2024/01/11,2024/01/24,1145,LV,48,39,,2024,texas,
+Emerson,2024/01/13,2024/01/15,1315,RV,42,40,,2024,texas,
+University of Texas,2023/12/01,2023/12/10,1200,RV,43,27,,2024,texas,
+The Hill/Emerson,2024/10/12,2024/10/14,1000,LV,33,56,,2024,california,
+LA Times/Berkeley IGS,2024/09/25,2024/10/01,3045,LV,36,53,,2024,california,
+The Hill/Emerson,2024/09/03,2024/09/05,815,LV,33,55,,2024,california,
+PPIC,2024/08/29,2024/09/09,1071,LV,35,63,,2024,california,
+LA Times/Berkeley IGS,2024/07/31,2024/08/11,3765,LV,33,53,,2024,california,
+PPIC,2024/06/24,2024/07/02,1261,LV,33,64,,2024,california,
+PPIC,2024/05/23,2024/06/02,1098,LV,37,62,,2024,california,
+PPIC,2024/03/19,2024/03/25,1089,LV,37,61,,2024,california,
+LA Times/Berkeley IGS,2024/02/22,2024/02/27,6534,RV,38,53,,2024,california,
+Morning Consult,2024/10/23,2024/11/01,472,LV,42,49,,2024,maryland,
+The Hill/Emerson,2024/10/19,2024/10/21,865,LV,40,54,,2024,maryland,
+Wash Post/Univ. of Maryland*,2024/09/19,2024/09/23,1012,LV,40,51,,2024,maryland,
+PPP (D),2024/09/16,2024/09/17,543,LV,37,52,,2024,maryland,
+The Hill/Emerson,2024/09/12,2024/09/13,890,LV,42,49,,2024,maryland,
+Gonzales Research,2024/08/24,2024/08/30,820,LV,41,46,,2024,maryland,
+Fabrizio/Anzalone,2024/08/14,2024/08/20,600,LV,46,46,,2024,maryland,
+PPP (D),2024/06/19,2024/06/20,635,RV,40,48,,2024,maryland,
+The Hill/Emerson,2024/05/06,2024/05/08,1115,RV,38,48,,2024,maryland,
+Baltimore Sun,2024/04/07,2024/04/10,1292,LV,54,36,,2024,maryland,
+Goucher College,2024/03/19,2024/03/24,800,RV,44,40,,2024,maryland,
+Wash Post/Univ. of Maryland,2024/03/05,2024/03/12,1004,RV,50,36,,2024,maryland,
+The Hill/Emerson,2024/02/12,2024/02/13,1000,RV,44,37,,2024,maryland,
+Indy Politics,2024/09/23,2024/09/25,600,LV,49,35,,2024,indiana,
+The Hill/Emerson*,2024/09/12,2024/09/13,1000,LV,47,33,,2024,indiana,
+Emerson,2023/10/01,2023/10/04,462,RV,31,22,,2024,indiana,
+Vanderbilt University,2024/04/26,2024/05/09,1003,RV,51,40,,2024,tennessee,
+Vanderbilt University,2023/11/14,2023/12/02,1005,RV,53,36,,2024,tennessee,
+Emerson,2023/10/01,2023/10/04,410,RV,50,26,,2024,tennessee,
+Cascade PBS/Elway,2024/09/03,2024/09/06,403,RV,33,55,,2024,washington,
+Cascade PBS/Elway,2024/05/13,2024/05/16,403,RV,30,39,,2024,washington,
+Cascade PBS/Elway,2023/10/30,2023/11/03,403,RV,23,43,,2024,washington,
+Atlas Intel,2024/11/03,2024/11/04,1840,LV,47,49,,2024,pennsylvania,
+Trafalgar Group (R),2024/11/01,2024/11/03,1089,LV,47,46,,2024,pennsylvania,
+InsiderAdvantage,2024/11/01,2024/11/02,800,LV,47,48,,2024,pennsylvania,
+The Hill/Emerson,2024/10/30,2024/11/02,1000,LV,47,47,,2024,pennsylvania,
+NY Times/Siena,2024/10/29,2024/11/02,1527,LV,45,50,,2024,pennsylvania,
+Muhlenberg College,2024/10/27,2024/10/30,469,LV,46,49,,2024,pennsylvania,
+Marist,2024/10/27,2024/10/30,1400,LV,48,50,,2024,pennsylvania,
+Echelon Insights,2024/10/27,2024/10/30,600,LV,47,44,,2024,pennsylvania,
+USA Today/Suffolk,2024/10/27,2024/10/30,500,LV,46,49,,2024,pennsylvania,
+Washington Post,2024/10/26,2024/10/30,1204,LV,46,49,,2024,pennsylvania,
+Data for Progress (D)**,2024/10/25,2024/10/30,908,LV,45,49,,2024,pennsylvania,
+Rasmussen Reports,2024/10/25,2024/10/28,849,LV,46,46,,2024,pennsylvania,
+FOX News,2024/10/24,2024/10/28,1057,LV,48,50,,2024,pennsylvania,
+Quinnipiac,2024/10/24,2024/10/28,2186,LV,47,50,,2024,pennsylvania,
+CNN,2024/10/23,2024/10/28,819,LV,45,48,,2024,pennsylvania,
+Morning Consult,2024/10/21,2024/10/30,,LV,43,46,,2024,pennsylvania,
+Atlas Intel,2024/11/01,2024/11/02,2049,LV,47,49,,2024,pennsylvania,
+Atlas Intel,2024/10/27,2024/10/30,1738,LV,46,49,,2024,pennsylvania,
+Atlas Intel,2024/10/25,2024/10/29,1299,LV,47,49,,2024,pennsylvania,
+InsiderAdvantage,2024/10/26,2024/10/27,800,LV,47,47,,2024,pennsylvania,
+CBS News,2024/10/22,2024/10/28,1273,LV,42,48,,2024,pennsylvania,
+AmGreatness/NSOR,2024/10/22,2024/10/26,600,LV,42,45,,2024,pennsylvania,
+Emerson,2024/10/21,2024/10/22,860,LV,46,47,,2024,pennsylvania,
+Susquehanna,2024/10/18,2024/10/22,500,LV,46,49,,2024,pennsylvania,
+UMass Lowell,2024/10/16,2024/10/23,800,LV,42,48,,2024,pennsylvania,
+Trafalgar Group (R),2024/10/17,2024/10/19,1084,LV,47,47,,2024,pennsylvania,
+Franklin \u0026amp; Marshall,2024/10/09,2024/10/20,583,LV,48,49,,2024,pennsylvania,
+Atlas Intel,2024/10/12,2024/10/17,2048,LV,48,47,,2024,pennsylvania,
+Rasmussen Reports,2024/10/09,2024/10/13,1072,LV,45,47,,2024,pennsylvania,
+NY Times/Siena,2024/10/07,2024/10/10,857,LV,44,48,,2024,pennsylvania,
+AmGreatness/TIPP,2024/10/07,2024/10/09,803,LV,43,47,,2024,pennsylvania,
+InsiderAdvantage,2024/10/07,2024/10/08,800,LV,45,47,,2024,pennsylvania,
+The Hill/Emerson,2024/10/05,2024/10/08,1000,LV,46,48,,2024,pennsylvania,
+Quinnipiac,2024/10/03,2024/10/07,1412,LV,43,51,,2024,pennsylvania,
+UMass Lowell,2024/10/02,2024/10/09,800,LV,39,48,,2024,pennsylvania,
+Emerson,2024/09/27,2024/09/28,1000,LV,45,47,,2024,pennsylvania,
+Trafalgar Group (R),2024/09/26,2024/09/29,1090,LV,46,47,,2024,pennsylvania,
+Atlas Intel,2024/09/20,2024/09/25,1775,LV,45,47,,2024,pennsylvania,
+Cook Political Report,2024/09/19,2024/09/25,474,LV,45,52,,2024,pennsylvania,
+FOX News,2024/09/20,2024/09/24,775,LV,44,53,,2024,pennsylvania,
+Rasmussen Reports,2024/09/19,2024/09/22,1202,LV,45,45,,2024,pennsylvania,
+Fabrizio/Anzalone,2024/09/17,2024/09/24,600,LV,45,49,,2024,pennsylvania,
+Susquehanna,2024/09/16,2024/09/22,700,LV,40,48,,2024,pennsylvania,
+Remington Research (R),2024/09/16,2024/09/20,,LV,45,49,,2024,pennsylvania,
+Muhlenberg College,2024/09/16,2024/09/19,450,LV,43,48,,2024,pennsylvania,
+The Hill/Emerson,2024/09/15,2024/09/18,880,LV,42,47,,2024,pennsylvania,
+InsiderAdvantage,2024/09/14,2024/09/15,800,LV,44,49,,2024,pennsylvania,
+Marist,2024/09/12,2024/09/17,1476,LV,47,52,,2024,pennsylvania,
+Washington Post,2024/09/12,2024/09/16,1003,LV,48,48,,2024,pennsylvania,
+Quinnipiac,2024/09/12,2024/09/16,1331,LV,43,52,,2024,pennsylvania,
+UMass Lowell,2024/09/11,2024/09/19,800,LV,38,47,,2024,pennsylvania,
+NY Times/Siena,2024/09/11,2024/09/16,1082,LV,40,49,,2024,pennsylvania,
+USA Today/Suffolk*,2024/09/11,2024/09/14,500,LV,43,47,,2024,pennsylvania,
+Franklin \u0026amp; Marshall,2024/09/04,2024/09/15,890,RV,40,48,,2024,pennsylvania,
+CBS News,2024/09/03,2024/09/06,1085,RV,41,48,,2024,pennsylvania,
+Trafalgar Group (R),2024/08/28,2024/08/30,1082,LV,45,46,,2024,pennsylvania,
+CNN,2024/08/23,2024/08/29,789,LV,46,46,,2024,pennsylvania,
+The Hill/Emerson,2024/08/25,2024/08/28,950,LV,44,48,,2024,pennsylvania,
+Rasmussen Reports,2024/08/13,2024/08/17,1312,LV,43,46,,2024,pennsylvania,
+Emerson,2024/08/13,2024/08/14,1000,LV,44,48,,2024,pennsylvania,
+Quinnipiac,2024/08/08,2024/08/12,1738,LV,47,52,,2024,pennsylvania,
+NY Times/Siena,2024/08/06,2024/08/08,693,LV,37,51,,2024,pennsylvania,
+Franklin \u0026amp; Marshall,2024/07/31,2024/08/11,920,RV,36,48,,2024,pennsylvania,
+Cook Political Report,2024/07/26,2024/08/02,411,LV,40,53,,2024,pennsylvania,
+Susquehanna,2024/07/22,2024/07/28,600,LV,42,47,,2024,pennsylvania,
+FOX News,2024/07/22,2024/07/24,1034,RV,42,55,,2024,pennsylvania,
+The Hill/Emerson,2024/07/22,2024/07/23,850,RV,44,48,,2024,pennsylvania,
+AmGreatness/NSOR,2024/07/20,2024/07/23,600,LV,41,49,,2024,pennsylvania,
+PPP (D),2024/07/10,2024/07/11,537,RV,44,47,,2024,pennsylvania,
+NY Times/Siena,2024/07/09,2024/07/11,872,LV,42,50,,2024,pennsylvania,
+Rasmussen Reports,2024/07/05,2024/07/12,1041,LV,43,46,,2024,pennsylvania,
+The Times/SAY,2024/07/04,2024/07/12,1000,RV,38,50,,2024,pennsylvania,
+Remington Research (R),2024/06/29,2024/07/01,673,RV,48,49,,2024,pennsylvania,
+Cygnal (R),2024/06/27,2024/06/28,800,LV,42,46,,2024,pennsylvania,
+The Hill/Emerson,2024/06/13,2024/06/18,1000,RV,41,47,,2024,pennsylvania,
+Marist,2024/06/03,2024/06/06,1181,RV,46,52,,2024,pennsylvania,
+Cook Political Report,2024/05/06,2024/05/13,730,LV,41,49,,2024,pennsylvania,
+NY Times/Siena,2024/04/28,2024/05/09,1023,LV,44,46,,2024,pennsylvania,
+Fabrizio/Anzalone,2024/04/24,2024/04/30,1398,LV,44,48,,2024,pennsylvania,
+Muhlenberg College,2024/04/15,2024/04/25,417,RV,41,45,,2024,pennsylvania,
+The Hill/Emerson,2024/04/25,2024/04/29,1000,RV,42,46,,2024,pennsylvania,
+CBS News,2024/04/19,2024/04/25,1306,LV,39,46,,2024,pennsylvania,
+Franklin \u0026amp; Marshall,2024/03/20,2024/03/31,870,RV,39,46,,2024,pennsylvania,
+The Hill/Emerson,2024/03/10,2024/03/13,1000,RV,48,52,,2024,pennsylvania,
+Susquehanna,2024/02/27,2024/03/05,450,LV,42,48,,2024,pennsylvania,
+The Hill/Emerson,2024/02/14,2024/02/16,1000,RV,39,49,,2024,pennsylvania,
+Franklin \u0026amp; Marshall,2024/01/17,2024/01/28,1006,RV,35,47,,2024,pennsylvania,
+Susquehanna,2024/01/15,2024/01/21,745,RV,42,46,,2024,pennsylvania,
+Quinnipiac,2024/01/04,2024/01/08,1680,RV,43,53,,2024,pennsylvania,
+Franklin \u0026amp; Marshall,2023/10/11,2023/10/22,873,RV,39,46,,2024,pennsylvania,
+Emerson,2023/10/01,2023/10/04,430,RV,33,41,,2024,pennsylvania,
+Quinnipiac,2023/09/28,2023/10/02,1725,RV,44,50,,2024,pennsylvania,
+Susquehanna,2023/05/02,2023/05/08,700,LV,41,53,,2024,pennsylvania,
+Franklin \u0026amp; Marshall,2023/03/27,2023/04/07,643,RV,35,42,,2024,pennsylvania,
+Trafalgar Group (R),2024/11/02,2024/11/04,1095,LV,48,48,,2024,ohio,
+Atlas Intel,2024/11/01,2024/11/04,1022,LV,49,46,,2024,ohio,
+The Hill/Emerson,2024/10/30,2024/11/02,900,LV,48,45,,2024,ohio,
+Morning Consult,2024/10/23,2024/11/01,1254,LV,47,46,,2024,ohio,
+Trafalgar Group (R),2024/10/25,2024/10/28,1127,LV,47,48,,2024,ohio,
+Bowling Green/YouGov,2024/10/10,2024/10/21,1000,LV,45,47,,2024,ohio,
+Rasmussen Reports,2024/10/09,2024/10/14,1051,LV,45,44,,2024,ohio,
+Morning Consult,2024/10/06,2024/10/15,1243,LV,47,46,,2024,ohio,
+Washington Post,2024/10/03,2024/10/07,1002,LV,47,48,,2024,ohio,
+Marist,2024/10/03,2024/10/07,1327,LV,48,50,,2024,ohio,
+NY Times/Siena,2024/09/21,2024/09/26,687,LV,43,47,,2024,ohio,
+Bowling Green/YouGov,2024/09/18,2024/09/27,1000,LV,45,49,,2024,ohio,
+The Hill/Emerson,2024/09/03,2024/09/05,945,LV,44,46,,2024,ohio,
+Rasmussen Reports,2024/08/13,2024/08/17,1267,LV,42,47,,2024,ohio,
+Fabrizio/Anzalone,2024/07/23,2024/07/28,600,LV,42,46,,2024,ohio,
+Remington Research (R),2024/06/29,2024/07/01,,RV,44,50,,2024,ohio,
+Marist,2024/06/03,2024/06/06,1137,RV,45,50,,2024,ohio,
+East Carolina U.,2024/03/08,2024/03/11,1298,LV,41,45,,2024,ohio,
+ONU/SurveyUSA,2024/03/06,2024/03/11,1121,LV,37,43,,2024,ohio,
+The Hill/Emerson,2024/03/07,2024/03/10,1300,RV,34,39,,2024,ohio,
+Emerson,2024/01/23,2024/01/25,1844,RV,37,39,,2024,ohio,
+WJW-TV/Emerson,2023/11/10,2023/11/13,1000,RV,32,42,,2024,ohio,
+Data for Progress (D)**,2023/10/31,2023/11/02,597,LV,44,47,,2024,ohio,
+Emerson,2023/10/02,2023/10/04,438,RV,33,35,,2024,ohio,
+USA Today/Suffolk,2023/07/09,2023/07/12,500,LV,41,48,,2024,ohio,
+East Carolina U.,2023/06/21,2023/06/24,805,RV,42,46,,2024,ohio,
+WHDH-TV/Emerson,2024/10/24,2024/10/26,1000,LV,36,56,,2024,massachusetts,
+WCVB-TV/Amherst,2024/10/03,2024/10/10,700,A,34,56,,2024,massachusetts,
+WBUR/MassINC,2024/09/12,2024/09/18,800,LV,35,56,,2024,massachusetts,
+UNH,2024/09/12,2024/09/16,564,LV,32,58,,2024,massachusetts,
+UMass Amherst,2024/05/17,2024/05/30,700,A,24,47,,2024,massachusetts,
+University of Delaware*,2024/09/11,2024/09/19,400,RV,32,52,,2024,delaware,
+UNH,2024/09/12,2024/09/16,683,LV,33,51,,2024,rhode-island,
+North Dakota Poll,2024/09/28,2024/09/30,500,LV,51,29,,2024,north-dakota,
+Emerson,2023/10/01,2023/10/04,419,RV,45,19,,2024,north-dakota,
+MetroNews,2024/08/21,2024/08/27,400,RV,62,28,,2024,west-virginia,
+Cygnal (R),2024/10/26,2024/10/27,600,LV,39,58,,2024,new-york,
+Siena,2024/10/13,2024/10/17,872,LV,31,57,,2024,new-york,
+The Hill/Emerson,2024/09/23,2024/09/25,1000,LV,33,50,,2024,new-york,
+Siena,2024/09/11,2024/09/16,1003,LV,31,54,,2024,new-york,
+Siena,2024/07/28,2024/08/01,1199,LV,33,56,,2024,new-york,
+Rasmussen Reports,2024/10/24,2024/10/26,749,LV,41,50,,2024,new-mexico,
+Rasmussen Reports,2024/09/19,2024/09/22,708,LV,38,49,,2024,new-mexico,
+The Hill/Emerson,2024/08/20,2024/08/22,965,RV,37,49,,2024,new-mexico,
+PPP (D),2024/06/13,2024/06/14,555,RV,40,47,,2024,new-mexico,
+Morning Consult,2024/10/23,2024/11/01,2022,LV,48,45,,2024,florida,
+Florida Atlantic University,2024/10/19,2024/10/27,913,LV,50,46,,2024,florida,
+The Hill/Emerson,2024/10/18,2024/10/20,860,LV,48,44,,2024,florida,
+Univ. of North Florida,2024/10/07,2024/10/18,977,LV,49,46,,2024,florida,
+Marist,2024/10/03,2024/10/07,1257,LV,50,48,,2024,florida,
+NBC 6/Mason-Dixon,2024/10/01,2024/10/04,625,RV,48,41,,2024,florida,
+NY Times/Siena,2024/09/29,2024/10/04,617,LV,49,40,,2024,florida,
+The Hill/Emerson,2024/09/03,2024/09/05,815,LV,46,45,,2024,florida,
+Florida Atlantic University,2024/08/10,2024/08/11,1040,LV,47,43,,2024,florida,
+Univ. of North Florida,2024/07/24,2024/07/27,774,LV,47,43,,2024,florida,
+Florida Atlantic University,2024/06/08,2024/06/09,777,LV,45,43,,2024,florida,
+CBS News,2024/05/10,2024/05/16,1181,LV,45,37,,2024,florida,
+Florida Atlantic University,2024/04/15,2024/04/17,865,RV,52,35,,2024,florida,
+Emerson,2024/04/09,2024/04/10,1000,RV,45,38,,2024,florida,
+Fairleigh Dickinson,2024/10/20,2024/10/27,806,RV,39,57,,2024,new-jersey,
+Cygnal (R)*,2024/10/23,2024/10/24,600,LV,32,51,,2024,new-jersey,
+Rutgers-Eagleton,2024/10/15,2024/10/22,929,RV,26,49,,2024,new-jersey,
+Fairleigh Dickinson,2024/04/01,2024/04/08,809,RV,38,47,,2024,new-jersey,
+Economist/YouGov,2024/10/21,2024/10/28,1220,LV,50,,43,2024,nebraska,1
+NY Times/Siena,2024/10/23,2024/10/26,1194,LV,48,,46,2024,nebraska,1
+University of Texas,2024/10/02,2024/10/10,,LV,51,44,4,2024,texas,
+University of Houston,2024/08/05,2024/08/16,1365,LV,47,45,3,2024,texas,
+TX Hispanic Policy Foundation,2024/04/05,2024/04/10,1600,LV,46,41,4,2024,texas,
+University of Texas,2024/08/23,2024/08/31,1200,RV,44,36,2,2024,texas,
+University of Houston,2024/06/20,2024/07/01,1484,LV,47,44,3,2024,texas,
+University of Houston,2024/01/11,2024/01/24,1145,LV,48,39,4,2024,texas,
+UNH,2024/10/29,2024/11/02,1485,LV,35,7,1,2024,maine,
+UNH,2024/08/15,2024/08/19,951,LV,33,9,3,2024,maine,

@@ -1,663 +1,663 @@
-pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state
-Rasmussen Reports,2010/10/24,2010/10/24,750,LV,38,56,,2010,maryland
-Washington Post,2010/10/19,2010/10/22,1434,LV,27,64,,2010,maryland
-Baltimore Sun/OpinionWorks,2010/10/15,2010/10/20,798,LV,32,59,,2010,maryland
-Gonzales Res.,2010/10/11,2010/10/16,816,LV,38,55,,2010,maryland
-Washington Post,2010/09/22,2010/09/26,730,LV,29,61,,2010,maryland
-Rasmussen Reports,2010/09/15,2010/09/15,750,LV,38,54,,2010,maryland
-Rasmussen Reports,2010/08/17,2010/08/17,750,LV,39,55,,2010,maryland
-PPP (D),2010/07/10,2010/07/12,569,RV,27,59,,2010,maryland
-Rasmussen Reports,2010/07/08,2010/07/08,500,LV,33,58,,2010,maryland
-Ohio Poll/Univ of Cin.,2010/10/27,2010/10/31,930,LV,60,39,,2010,ohio
-PPP (D),2010/10/28,2010/10/30,1356,LV,57,39,,2010,ohio
-Quinnipiac,2010/10/25,2010/10/30,848,LV,56,37,,2010,ohio
-Rasmussen Reports,2010/10/26,2010/10/26,750,LV,57,33,,2010,ohio
-Columbus Dispatch*,2010/10/20,2010/10/29,1445,LV,56,40,,2010,ohio
-SurveyUSA,2010/10/22,2010/10/26,613,LV,52,37,,2010,ohio
-Quinnipiac,2010/10/18,2010/10/24,686,LV,53,36,,2010,ohio
-CNN/Time,2010/10/15,2010/10/19,863,LV,55,40,,2010,ohio
-Ohio Poll/Univ of Cin.,2010/10/14,2010/10/18,839,LV,58,39,,2010,ohio
-Quinnipiac,2010/10/12,2010/10/17,1188,LV,55,34,,2010,ohio
-Ohio Poll/Univ of Cin.,2010/10/08,2010/10/13,705,LV,58,36,,2010,ohio
-Rasmussen Reports,2010/10/11,2010/10/11,750,LV,57,34,,2010,ohio
-FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,52,35,,2010,ohio
-Suffolk University,2010/10/04,2010/10/06,500,LV,47,37,,2010,ohio
-FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,53,37,,2010,ohio
-Quinnipiac,2010/09/29,2010/10/03,1025,LV,55,36,,2010,ohio
-Rasmussen Reports,2010/09/27,2010/09/27,500,LV,51,42,,2010,ohio
-CBS News/NY Times,2010/09/23,2010/09/27,941,LV,45,34,,2010,ohio
-FOX News/POR-Rasmussen,2010/09/25,2010/09/25,1000,LV,50,37,,2010,ohio
-Reuters/Ipsos,2010/09/23,2010/09/25,440,LV,50,37,,2010,ohio
-Ohio Poll/Univ of Cin.,2010/09/16,2010/09/20,852,LV,55,40,,2010,ohio
-FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,49,36,,2010,ohio
-Rasmussen Reports,2010/09/13,2010/09/13,750,LV,49,41,,2010,ohio
-CNN/Time,2010/09/10,2010/09/14,820,LV,52,41,,2010,ohio
-Quinnipiac,2010/09/09,2010/09/14,730,LV,55,35,,2010,ohio
-SurveyUSA,2010/09/10,2010/09/13,641,LV,49,40,,2010,ohio
-FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,48,41,,2010,ohio
-Columbus Dispatch*,2010/08/25,2010/09/03,1622,LV,50,37,,2010,ohio
-Rasmussen Reports,2010/08/30,2010/08/30,750,LV,47,41,,2010,ohio
-PPP (D),2010/08/27,2010/08/29,475,LV,45,38,,2010,ohio
-Rasmussen Reports,2010/08/16,2010/08/16,750,LV,48,39,,2010,ohio
-Reuters/Ipsos,2010/08/06,2010/08/08,417,LV,43,36,,2010,ohio
-Rasmussen Reports,2010/08/02,2010/08/02,750,LV,44,40,,2010,ohio
-Rasmussen Reports,2010/07/19,2010/07/19,750,LV,45,39,,2010,ohio
-Rasmussen Reports,2010/06/29,2010/06/29,500,LV,43,39,,2010,ohio
-PPP (D),2010/06/26,2010/06/27,482,LV,38,40,,2010,ohio
-Quinnipiac,2010/06/22,2010/06/27,1107,RV,40,42,,2010,ohio
-Rasmussen Reports,2010/06/03,2010/06/03,500,LV,43,43,,2010,ohio
-University of Cincinnati,2010/05/11,2010/05/20,668,LV,46,47,,2010,ohio
-Rasmussen Reports,2010/05/05,2010/05/05,500,LV,42,43,,2010,ohio
-Quinnipiac,2010/04/21,2010/04/26,1568,RV,37,40,,2010,ohio
-R2000/Daily Kos (D)**,2010/04/05,2010/04/07,600,LV,39,43,,2010,ohio
-Rasmussen Reports,2010/03/30,2010/03/30,500,LV,43,38,,2010,ohio
-Quinnipiac,2010/03/23,2010/03/29,1526,RV,37,41,,2010,ohio
-PPP (D),2010/03/20,2010/03/21,630,LV,41,36,,2010,ohio
-Rasmussen Reports,2010/03/04,2010/03/04,500,LV,44,39,,2010,ohio
-Quinnipiac,2010/02/16,2010/02/21,1662,RV,40,37,,2010,ohio
-Rasmussen Reports,2010/02/05,2010/02/06,500,LV,43,39,,2010,ohio
-Rasmussen Reports,2010/01/12,2010/01/12,500,LV,44,37,,2010,ohio
-ORL/Wenzel Strategies (R),2010/01/08,2010/01/12,1001,RV,37,31,,2010,ohio
-Rasmussen Reports,2009/12/07,2009/12/07,500,LV,38,36,,2010,ohio
-Quinnipiac,2009/11/05,2009/11/09,1123,RV,39,36,,2010,ohio
-Rasmussen Reports,2009/09/23,2009/09/23,500,LV,41,40,,2010,ohio
-Quinnipiac,2009/09/10,2009/09/13,1074,RV,31,42,,2010,ohio
-R2000/Daily Kos (D)**,2009/07/06,2009/07/08,600,LV,35,42,,2010,ohio
-Quinnipiac,2009/06/26,2009/07/01,1259,RV,33,37,,2010,ohio
-PPP (D),2009/06/17,2009/06/19,619,RV,32,41,,2010,ohio
-Quinnipiac,2009/04/28,2009/05/04,1079,RV,31,42,,2010,ohio
-Quinnipiac,2009/03/10,2009/03/15,1299,RV,33,41,,2010,ohio
-Quinnipiac,2009/01/29,2009/02/02,1127,RV,27,42,,2010,ohio
-PPP (D),2009/01/17,2009/01/18,578,RV,41,39,,2010,ohio
-Des Moines Register,2010/10/26,2010/10/29,805,LV,61,30,,2010,iowa
-Rasmussen Reports,2010/09/23,2010/09/23,500,LV,55,37,,2010,iowa
-Des Moines Register,2010/09/19,2010/09/22,550,LV,61,30,,2010,iowa
-Rasmussen Reports,2010/08/05,2010/08/05,500,LV,55,35,,2010,iowa
-Rasmussen Reports,2010/06/14,2010/06/14,500,LV,54,37,,2010,iowa
-KCCI/Research 2000,2010/05/31,2010/06/02,600,LV,50,42,,2010,iowa
-PPP (D),2010/05/25,2010/05/27,1277,LV,57,31,,2010,iowa
-KCCI/Research 2000,2010/05/03,2010/05/05,600,LV,49,40,,2010,iowa
-Rasmussen Reports,2010/04/29,2010/04/29,500,LV,53,40,,2010,iowa
-Rasmussen Reports,2010/03/17,2010/03/17,500,LV,55,36,,2010,iowa
-Rasmussen Reports,2010/02/18,2010/02/18,500,LV,53,36,,2010,iowa
-KCCI/Research 2000,2010/02/15,2010/02/17,600,LV,56,35,,2010,iowa
-PPP (D),2010/10/28,2010/10/30,1021,LV,55,40,,2010,kentucky
-Rasmussen Reports,2010/10/27,2010/10/27,750,LV,53,41,,2010,kentucky
-CN|2/Braun Research,2010/10/25,2010/10/27,800,LV,47,39,,2010,kentucky
-SurveyUSA,2010/10/24,2010/10/27,637,LV,52,43,,2010,kentucky
-CNN/Time,2010/10/20,2010/10/26,785,LV,50,43,,2010,kentucky
-PPP (D),2010/10/21,2010/10/24,900,LV,53,40,,2010,kentucky
-FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,50,43,,2010,kentucky
-Mason-Dixon,2010/10/18,2010/10/19,625,LV,48,43,,2010,kentucky
-Rasmussen Reports,2010/10/18,2010/10/18,500,LV,47,42,,2010,kentucky
-CN|2/Braun Research,2010/10/04,2010/10/06,826,LV,43,40,,2010,kentucky
-Rasmussen Reports,2010/09/29,2010/09/29,500,LV,49,38,,2010,kentucky
-SurveyUSA,2010/09/21,2010/09/23,611,LV,49,47,,2010,kentucky
-Daily Kos/PPP (D),2010/09/11,2010/09/12,959,LV,49,42,,2010,kentucky
-Rasmussen Reports,2010/09/07,2010/09/07,500,LV,54,39,,2010,kentucky
-CNN/Time,2010/09/02,2010/09/07,869,RV,46,46,,2010,kentucky
-SurveyUSA,2010/08/30,2010/09/01,561,LV,55,40,,2010,kentucky
-CN|2/Braun Research,2010/08/30,2010/09/01,802,LV,42,37,,2010,kentucky
-Rasmussen Reports,2010/08/17,2010/08/17,500,LV,51,41,,2010,kentucky
-CN|2/Braun Research,2010/08/16,2010/08/18,801,LV,41,42,,2010,kentucky
-Reuters/Ipsos,2010/08/13,2010/08/15,435,LV,45,40,,2010,kentucky
-CN|2/Braun Research,2010/08/02,2010/08/04,802,LV,41,31,,2010,kentucky
-SurveyUSA,2010/07/27,2010/07/29,568,LV,51,43,,2010,kentucky
-CN|2/Braun Research,2010/07/19,2010/07/21,803,LV,41,38,,2010,kentucky
-Rasmussen Reports,2010/07/20,2010/07/20,750,LV,49,41,,2010,kentucky
-PPP (D),2010/06/28,2010/06/30,625,RV,43,43,,2010,kentucky
-Rasmussen Reports,2010/06/28,2010/06/28,500,LV,49,42,,2010,kentucky
-Rasmussen Reports,2010/06/01,2010/06/01,500,LV,49,41,,2010,kentucky
-SurveyUSA,2010/05/25,2010/05/27,569,LV,51,45,,2010,kentucky
-R2000/Daily Kos (D)**,2010/05/24,2010/05/26,600,LV,44,41,,2010,kentucky
-Rasmussen Reports,2010/05/19,2010/05/19,500,LV,59,34,,2010,kentucky
-R2000/Daily Kos (D)**,2010/05/10,2010/05/12,600,LV,42,39,,2010,kentucky
-PPP (D),2010/05/01,2010/05/02,946,RV,41,40,,2010,kentucky
-Rasmussen Reports,2010/04/28,2010/04/28,500,LV,47,38,,2010,kentucky
-Rasmussen Reports,2010/03/31,2010/03/31,500,LV,50,36,,2010,kentucky
-R2000/Daily Kos (D)**,2010/03/15,2010/03/17,600,LV,45,39,,2010,kentucky
-Rasmussen Reports,2010/03/02,2010/03/02,500,LV,49,34,,2010,kentucky
-Rasmussen Reports,2010/02/02,2010/02/02,500,LV,47,39,,2010,kentucky
-Rasmussen Reports,2010/01/06,2010/01/06,500,LV,46,38,,2010,kentucky
-PPP (D),2009/12/18,2009/12/21,1199,RV,42,36,,2010,kentucky
-R2000/Daily Kos (D)**,2009/08/31,2009/09/02,600,LV,37,41,,2010,kentucky
-PPP (D),2010/10/30,2010/10/31,1059,LV,49,48,,2010,colorado
-FOX News/POR-Rasmussen,2010/10/30,2010/10/30,1000,LV,50,46,,2010,colorado
-McClatchy/Marist,2010/10/26,2010/10/28,615,LV,49,45,,2010,colorado
-Rasmussen Reports,2010/10/25,2010/10/25,750,LV,48,44,,2010,colorado
-CNN/Time,2010/10/20,2010/10/26,829,LV,47,46,,2010,colorado
-PPP (D),2010/10/21,2010/10/23,818,LV,47,47,,2010,colorado
-Denver Post/SurveyUSA,2010/10/19,2010/10/21,621,LV,47,47,,2010,colorado
-Reuters/Ipsos,2010/10/15,2010/10/17,405,LV,48,45,,2010,colorado
-FOX News/POR-Rasmussen,2010/10/16,2010/10/16,1000,LV,46,45,,2010,colorado
-Rasmussen Reports,2010/10/14,2010/10/14,750,LV,47,45,,2010,colorado
-Rasmussen Reports,2010/10/03,2010/10/03,750,LV,50,45,,2010,colorado
-PPP (D),2010/09/30,2010/10/02,834,LV,45,46,,2010,colorado
-Denver Post/SurveyUSA,2010/09/28,2010/09/30,647,LV,48,43,,2010,colorado
-McClatchy/Marist,2010/09/26,2010/09/28,537,LV,50,42,,2010,colorado
-Rasmussen Reports,2010/09/27,2010/09/27,750,LV,51,43,,2010,colorado
-FOX News/POR-Rasmussen,2010/09/25,2010/09/25,1000,LV,47,43,,2010,colorado
-CNN/Time,2010/09/17,2010/09/21,860,LV,49,44,,2010,colorado
-Rasmussen Reports,2010/09/14,2010/09/14,750,LV,49,45,,2010,colorado
-POS/FM3,2010/08/28,2010/09/01,473,LV,40,43,,2010,colorado
-Rasmussen Reports,2010/08/29,2010/08/29,750,LV,49,45,,2010,colorado
-Reuters/Ipsos,2010/08/20,2010/08/22,453,LV,49,40,,2010,colorado
-Rasmussen Reports,2010/08/11,2010/08/11,750,LV,46,41,,2010,colorado
-PPP (D),2010/08/07,2010/08/08,1015,RV,43,46,,2010,colorado
-Denver Post/SurveyUSA,2010/07/27,2010/07/29,950,RV,43,43,,2010,colorado
-Rasmussen Reports,2010/07/26,2010/07/26,500,LV,48,42,,2010,colorado
-Rasmussen Reports,2010/07/08,2010/07/08,500,LV,48,39,,2010,colorado
-Denver Post/SurveyUSA,2010/06/15,2010/06/17,1565,RV,46,43,,2010,colorado
-Rasmussen Reports,2010/06/07,2010/06/07,500,LV,46,41,,2010,colorado
-PPP (D),2010/05/14,2010/05/16,1060,LV,39,45,,2010,colorado
-Rasmussen Reports,2010/05/03,2010/05/03,500,LV,48,41,,2010,colorado
-Rasmussen Reports,2010/04/05,2010/04/05,500,LV,44,40,,2010,colorado
-PPP (D),2010/03/05,2010/03/08,580,LV,40,46,,2010,colorado
-Rasmussen Reports,2010/03/02,2010/03/02,500,LV,44,38,,2010,colorado
-Rasmussen Reports,2010/02/02,2010/02/02,500,LV,45,41,,2010,colorado
-Rasmussen Reports,2010/01/13,2010/01/13,500,LV,43,38,,2010,colorado
-R2000/Daily Kos (D)**,2010/01/11,2010/01/13,600,LV,38,41,,2010,colorado
-Rasmussen Reports,2009/12/08,2009/12/08,500,LV,42,38,,2010,colorado
-Rasmussen Reports,2009/09/09,2009/09/09,500,LV,37,43,,2010,colorado
-PPP (D),2009/08/14,2009/08/16,969,LV,35,39,,2010,colorado
-PPP (D),2009/04/17,2009/04/19,1050,LV,34,40,,2010,colorado
-Downs Center/SUSA,2010/10/21,2010/10/25,1600,LV,54,32,,2010,indiana
-Rasmussen Reports,2010/10/20,2010/10/21,500,LV,52,34,,2010,indiana
-WISH-TV/EPIC-MRA,2010/10/19,2010/10/21,500,LV,53,35,,2010,indiana
-WISH-TV/EPIC-MRA,2010/09/29,2010/10/01,500,LV,51,33,,2010,indiana
-Rasmussen Reports,2010/09/14,2010/09/15,500,LV,50,34,,2010,indiana
-Rasmussen Reports,2010/08/04,2010/08/07,500,LV,50,29,,2010,indiana
-Rasmussen Reports,2010/07/07,2010/07/08,500,LV,51,30,,2010,indiana
-Rasmussen Reports,2010/06/02,2010/06/03,500,LV,47,33,,2010,indiana
-Rasmussen Reports,2010/05/05,2010/05/06,500,LV,51,36,,2010,indiana
-Downs Center/SUSA,2010/04/22,2010/04/26,1250,LV,47,31,,2010,indiana
-Rasmussen Reports,2010/04/13,2010/04/14,500,LV,54,33,,2010,indiana
-Rasmussen Reports,2010/03/17,2010/03/18,500,LV,49,34,,2010,indiana
-R2000/Daily Kos (D)**,2010/02/22,2010/02/24,600,LV,37,36,,2010,indiana
-Rasmussen Reports,2010/02/16,2010/02/17,500,LV,46,32,,2010,indiana
-Rasmussen Reports,2010/10/13,2010/10/13,500,LV,40,53,,2010,hawaii
-Daily Kos/PPP (D),2010/10/02,2010/10/03,1326,LV,29,65,,2010,hawaii
-KSN3/Missouri State Univ.,2010/10/20,2010/10/27,672,LV,54,41,,2010,missouri
-Post-Dispatch/Mason-Dixon,2010/10/18,2010/10/20,625,LV,49,40,,2010,missouri
-Rasmussen Reports,2010/10/19,2010/10/19,750,LV,52,43,,2010,missouri
-FOX News/POR-Rasmussen,2010/10/16,2010/10/16,1000,LV,49,43,,2010,missouri
-Rasmussen Reports,2010/10/05,2010/10/05,750,LV,51,43,,2010,missouri
-CNN/Time,2010/10/01,2010/10/05,832,LV,53,40,,2010,missouri
-FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,50,42,,2010,missouri
-Rasmussen Reports,2010/09/21,2010/09/21,750,LV,52,44,,2010,missouri
-Rasmussen Reports,2010/09/07,2010/09/07,750,LV,53,43,,2010,missouri
-Rasmussen Reports,2010/08/23,2010/08/23,750,LV,54,41,,2010,missouri
-Daily Kos/PPP (D),2010/08/14,2010/08/15,690,LV,45,38,,2010,missouri
-KY3/Missouri State Univ.,2010/08/06,2010/08/22,785,RV,49,48,,2010,missouri
-Rasmussen Reports,2010/08/10,2010/08/10,750,LV,50,43,,2010,missouri
-Rasmussen Reports,2010/07/27,2010/07/27,750,LV,49,43,,2010,missouri
-Post-Dispatch/Mason-Dixon,2010/07/19,2010/07/21,625,LV,48,42,,2010,missouri
-Rasmussen Reports,2010/07/13,2010/07/13,500,LV,47,45,,2010,missouri
-Rasmussen Reports,2010/06/28,2010/06/28,500,LV,48,43,,2010,missouri
-Rasmussen Reports,2010/06/02,2010/06/02,500,LV,45,44,,2010,missouri
-Rasmussen Reports,2010/05/03,2010/05/03,500,LV,50,42,,2010,missouri
-Rasmussen Reports,2010/04/06,2010/04/06,500,LV,48,42,,2010,missouri
-PPP (D),2010/03/27,2010/03/28,495,LV,45,41,,2010,missouri
-Rasmussen Reports,2010/03/09,2010/03/09,500,LV,47,41,,2010,missouri
-Rasmussen Reports,2010/02/10,2010/02/10,500,LV,49,42,,2010,missouri
-Rasmussen Reports,2010/01/19,2010/01/19,500,LV,49,43,,2010,missouri
-Rasmussen Reports,2009/12/15,2009/12/15,500,LV,44,46,,2010,missouri
-PPP (D),2009/11/13,2009/11/15,763,LV,42,43,,2010,missouri
-Momentum Analysis (D),2009/09/15,2009/09/19,802,LV,45,48,,2010,missouri
-Rasmussen Reports,2009/09/21,2009/09/21,500,LV,46,46,,2010,missouri
-Democracy Corps (D),2009/04/28,2009/04/30,800,LV,44,53,,2010,missouri
-Wilson Research (R),2009/03/07,2009/03/09,600,LV,44,47,,2010,missouri
-PPP (D),2009/01/10,2009/01/11,867,LV,44,45,,2010,missouri
-Rasmussen Reports,2010/10/28,2010/10/28,500,LV,52,32,,2010,arizona
-Daily Kos/PPP (D),2010/10/23,2010/10/24,664,LV,56,38,,2010,arizona
-Behavior Research Center,2010/10/01,2010/10/10,450,LV,56,22,,2010,arizona
-Rasmussen Reports,2010/10/03,2010/10/03,500,LV,54,33,,2010,arizona
-Rasmussen Reports,2010/09/07,2010/09/07,500,LV,51,37,,2010,arizona
-Rasmussen Reports,2010/08/25,2010/08/25,500,LV,53,31,,2010,arizona
-Rasmussen Reports,2010/07/29,2010/07/29,500,LV,53,34,,2010,arizona
-Rasmussen Reports,2010/05/17,2010/05/17,1000,LV,57,28,,2010,arizona
-R2000/Daily Kos (D)**,2010/05/03,2010/05/05,600,LV,48,35,,2010,arizona
-PPP (D),2010/04/23,2010/04/25,813,LV,49,33,,2010,arizona
-Behavior Research Center,2010/04/12,2010/04/25,666,RV,46,24,,2010,arizona
-R2000/Daily Kos (D)**,2010/03/29,2010/03/31,600,LV,52,33,,2010,arizona
-PPP (D),2010/10/30,2010/10/31,682,LV,47,46,,2010,nevada
-FOX News/POR-Rasmussen,2010/10/30,2010/10/30,1000,LV,48,45,,2010,nevada
-LVRJ/Mason-Dixon,2010/10/25,2010/10/27,625,LV,49,45,,2010,nevada
-Rasmussen Reports,2010/10/25,2010/10/25,750,LV,49,45,,2010,nevada
-CNN/Time,2010/10/20,2010/10/26,773,LV,49,45,,2010,nevada
-Rasmussen Reports,2010/10/17,2010/10/17,750,LV,50,47,,2010,nevada
-LVRJ/Mason-Dixon,2010/10/11,2010/10/12,625,LV,48,46,,2010,nevada
-Rasmussen Reports,2010/10/11,2010/10/11,750,LV,49,48,,2010,nevada
-Suffolk University,2010/10/08,2010/10/11,500,LV,43,46,,2010,nevada
-FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,49,47,,2010,nevada
-PPP (D),2010/10/07,2010/10/09,504,LV,45,47,,2010,nevada
-Rasmussen Reports,2010/10/05,2010/10/05,750,LV,50,46,,2010,nevada
-CNN/Time,2010/10/01,2010/10/05,789,LV,42,40,,2010,nevada
-FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,49,46,,2010,nevada
-Rasmussen Reports,2010/09/28,2010/09/28,750,LV,47,48,,2010,nevada
-Retail Assoc. of Nevada/POS (R),2010/09/21,2010/09/23,500,LV,40,45,,2010,nevada
-LVRJ/Mason-Dixon,2010/09/20,2010/09/22,625,LV,43,43,,2010,nevada
-FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,46,45,,2010,nevada
-CNN/Time,2010/09/10,2010/09/14,789,LV,42,41,,2010,nevada
-Rasmussen Reports,2010/09/13,2010/09/13,750,LV,48,48,,2010,nevada
-Reuters/Ipsos,2010/09/10,2010/09/12,463,LV,44,46,,2010,nevada
-FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,45,44,,2010,nevada
-LVRJ/Mason-Dixon,2010/09/07,2010/09/09,625,LV,44,46,,2010,nevada
-Rasmussen Reports,2010/09/01,2010/09/01,750,LV,47,50,,2010,nevada
-LVRJ/Mason-Dixon,2010/08/23,2010/08/25,625,LV,44,45,,2010,nevada
-Rasmussen Reports,2010/08/16,2010/08/16,750,LV,50,48,,2010,nevada
-LVRJ/Mason-Dixon,2010/08/09,2010/08/11,625,LV,44,46,,2010,nevada
-Reuters/Ipsos,2010/07/30,2010/08/01,462,LV,44,48,,2010,nevada
-LVRJ/Mason-Dixon,2010/07/26,2010/07/28,625,RV,42,43,,2010,nevada
-Rasmussen Reports,2010/07/27,2010/07/27,750,LV,43,45,,2010,nevada
-PPP (D),2010/07/16,2010/07/18,630,RV,46,48,,2010,nevada
-LVRJ/Mason-Dixon,2010/07/12,2010/07/14,625,LV,37,44,,2010,nevada
-Rasmussen Reports,2010/07/12,2010/07/12,750,LV,46,43,,2010,nevada
-Rasmussen Reports,2010/06/22,2010/06/22,500,LV,48,41,,2010,nevada
-Rasmussen Reports,2010/06/09,2010/06/09,500,LV,50,39,,2010,nevada
-LVRJ/Mason-Dixon,2010/06/01,2010/06/03,625,LV,44,41,,2010,nevada
-R2000/Daily Kos (D)**,2010/05/31,2010/06/02,600,LV,37,43,,2010,nevada
-Mason-Dixon,2010/05/24,2010/05/26,625,LV,39,42,,2010,nevada
-Rasmussen Reports,2010/04/27,2010/04/27,500,LV,48,40,,2010,nevada
-Rasmussen Reports,2010/03/31,2010/03/31,500,LV,51,40,,2010,nevada
-Rasmussen Reports,2010/03/03,2010/03/03,500,LV,46,38,,2010,nevada
-LVRJ/Mason-Dixon,2010/02/22,2010/02/24,625,LV,44,42,,2010,nevada
-Rasmussen Reports,2010/02/03,2010/02/03,500,LV,44,40,,2010,nevada
-Rasmussen Reports,2010/01/11,2010/01/11,500,LV,44,40,,2010,nevada
-Mason-Dixon,2010/01/05,2010/01/07,625,RV,45,40,,2010,nevada
-Rasmussen Reports,2009/12/09,2009/12/09,500,LV,47,43,,2010,nevada
-PPP (D),2010/10/30,2010/10/31,814,LV,46,42,,2010,illinois
-FOX News/POR-Rasmussen,2010/10/30,2010/10/30,1000,LV,46,42,,2010,illinois
-Chicago Tribune,2010/10/18,2010/10/22,700,LV,44,41,,2010,illinois
-Post-Dispatch/Mason-Dixon,2010/10/18,2010/10/20,625,LV,43,41,,2010,illinois
-Rasmussen Reports,2010/10/26,2010/10/26,750,LV,46,42,,2010,illinois
-FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,43,41,,2010,illinois
-Rasmussen Reports,2010/10/18,2010/10/18,750,LV,44,40,,2010,illinois
-PPP (D),2010/10/14,2010/10/16,557,LV,42,40,,2010,illinois
-Rasmussen Reports,2010/10/11,2010/10/11,750,LV,43,44,,2010,illinois
-The Simon Poll/SIU,2010/09/30,2010/10/10,758,LV,37,37,,2010,illinois
-Rasmussen Reports,2010/10/04,2010/10/04,750,LV,45,41,,2010,illinois
-Suffolk University,2010/09/30,2010/10/03,500,LV,42,41,,2010,illinois
-Chicago Tribune,2010/09/24,2010/09/28,600,LV,36,38,,2010,illinois
-CNN/Time,2010/09/24,2010/09/28,828,LV,42,43,,2010,illinois
-FOX News/POR-Rasmussen,2010/09/25,2010/09/25,1000,LV,42,40,,2010,illinois
-PPP (D),2010/09/23,2010/09/26,470,LV,40,36,,2010,illinois
-Rasmussen Reports,2010/09/21,2010/09/21,750,LV,44,41,,2010,illinois
-WeAskAmerica,2010/09/13,2010/09/13,1379,LV,39,36,,2010,illinois
-Rasmussen Reports,2010/09/07,2010/09/07,750,LV,41,37,,2010,illinois
-Chicago Tribune,2010/08/28,2010/09/01,600,LV,34,34,,2010,illinois
-Rasmussen Reports,2010/08/23,2010/08/23,750,LV,45,45,,2010,illinois
-PPP (D),2010/08/14,2010/08/15,576,LV,35,37,,2010,illinois
-Rasmussen Reports,2010/08/09,2010/08/09,750,LV,40,40,,2010,illinois
-WeAskAmerica,2010/08/04,2010/08/04,998,RV,39,33,,2010,illinois
-PPP (D),2010/06/12,2010/06/13,591,RV,30,31,,2010,illinois
-Rasmussen Reports,2010/07/26,2010/07/26,750,LV,41,43,,2010,illinois
-Rasmussen Reports,2010/07/07,2010/07/07,500,LV,39,40,,2010,illinois
-Rasmussen Reports,2010/06/07,2010/06/07,500,LV,42,39,,2010,illinois
-R2000/Daily Kos (D)**,2010/05/03,2010/05/05,600,LV,41,38,,2010,illinois
-Rasmussen Reports,2010/04/28,2010/04/28,500,LV,46,38,,2010,illinois
-Rasmussen Reports,2010/04/05,2010/04/05,500,LV,41,37,,2010,illinois
-PPP (D),2010/04/01,2010/04/05,591,LV,37,33,,2010,illinois
-Rasmussen Reports,2010/03/08,2010/03/08,500,LV,41,44,,2010,illinois
-R2000/Daily Kos (D)**,2010/02/22,2010/02/24,600,LV,36,43,,2010,illinois
-Rasmussen Reports,2010/02/03,2010/02/03,500,LV,46,40,,2010,illinois
-PPP (D),2010/01/22,2010/01/25,1062,LV,34,42,,2010,illinois
-Rasmussen Reports,2009/12/09,2009/12/09,500,LV,39,42,,2010,illinois
-Rasmussen Reports,2009/10/14,2009/10/14,500,LV,41,41,,2010,illinois
-Rasmussen Reports,2009/08/12,2009/08/12,500,LV,41,38,,2010,illinois
-PPP (D),2009/04/24,2009/04/26,991,RV,35,35,,2010,illinois
-R2000/Daily Kos (D)**,2009/01/26,2009/01/28,600,LV,30,38,,2010,illinois
-Rasmussen Reports,2010/09/21,2010/09/21,500,LV,58,30,,2010,alabama
-Rasmussen Reports,2010/08/19,2010/08/19,500,LV,60,28,,2010,alabama
-Rasmussen Reports,2010/07/22,2010/07/22,500,LV,59,29,,2010,alabama
-Rasmussen Reports,2010/06/03,2010/06/03,500,LV,58,31,,2010,alabama
-Rasmussen Reports,2010/05/25,2010/05/25,500,LV,58,31,,2010,alabama
-R2000/Daily Kos (D)**,2010/05/17,2010/05/19,600,LV,57,33,,2010,alabama
-Rasmussen Reports,2010/03/29,2010/03/29,500,LV,59,32,,2010,alabama
-Monmouth,2010/10/25,2010/10/27,1171,LV,41,51,,2010,delaware
-Fairleigh Dickinson,2010/10/20,2010/10/26,797,LV,36,57,,2010,delaware
-Rasmussen Reports,2010/10/14,2010/10/14,500,LV,40,51,,2010,delaware
-SurveyUSA,2010/10/11,2010/10/12,2355,LV,33,54,,2010,delaware
-CNN/Time,2010/10/08,2010/10/12,834,LV,38,57,,2010,delaware
-Magellan Strategies (R),2010/10/10,2010/10/10,928,LV,36,54,,2010,delaware
-Monmouth,2010/10/08,2010/10/11,790,LV,38,57,,2010,delaware
-FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,38,54,,2010,delaware
-Fairleigh Dickinson,2010/09/27,2010/10/03,801,LV,36,53,,2010,delaware
-CNN/Time,2010/09/17,2010/09/21,703,LV,39,55,,2010,delaware
-FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,39,54,,2010,delaware
-Rasmussen Reports,2010/09/15,2010/09/15,500,LV,42,53,,2010,delaware
-PPP (D),2010/09/11,2010/09/12,958,LV,34,50,,2010,delaware
-Rasmussen Reports,2010/09/02,2010/09/02,500,LV,36,47,,2010,delaware
-Daily Kos/PPP (D),2010/08/07,2010/08/08,620,RV,37,44,,2010,delaware
-Rasmussen Reports,2010/08/05,2010/08/05,500,LV,36,46,,2010,delaware
-Rasmussen Reports,2010/07/14,2010/07/14,500,LV,41,39,,2010,delaware
-Magellan Strategies (R),2010/10/24,2010/10/24,1347,LV,52,35,,2010,louisiana
-WWL-TV/Clarus Research,2010/10/21,2010/10/24,700,LV,50,38,,2010,louisiana
-Rasmussen Reports,2010/08/30,2010/08/30,500,LV,54,33,,2010,louisiana
-PPP (D),2010/08/21,2010/08/22,403,LV,51,41,,2010,louisiana
-Magellan Strategies (R),2010/10/10,2010/10/10,1107,LV,51,35,,2010,louisiana
-Magellan Strategies (R),2010/09/19,2010/09/19,1232,LV,52,34,,2010,louisiana
-WWL-TV/Clarus Research,2010/08/15,2010/08/16,600,RV,48,36,,2010,louisiana
-Rasmussen Reports,2010/06/24,2010/06/24,500,LV,53,35,,2010,louisiana
-PPP (D),2010/06/12,2010/06/13,492,LV,46,37,,2010,louisiana
-Magellan Strategies (R),2010/06/10,2010/06/13,1030,LV,51,31,,2010,louisiana
-SMOR/Grigsby (R),2010/04/19,2010/04/23,600,RV,49,31,,2010,louisiana
-Rasmussen Reports,2010/04/07,2010/04/07,500,LV,52,36,,2010,louisiana
-Rasmussen Reports,2010/02/10,2010/02/10,500,LV,57,33,,2010,louisiana
-Rasmussen Reports,2010/01/14,2010/01/14,500,LV,53,35,,2010,louisiana
-SMOR/Grigsby (R),2009/10/12,2009/10/15,600,LV,48,36,,2010,louisiana
-Rasmussen Reports,2009/10/05,2009/10/05,500,LV,46,36,,2010,louisiana
-PPP (D),2009/07/17,2009/07/19,727,LV,44,32,,2010,louisiana
-SurveyUSA,2010/10/22,2010/10/26,561,LV,66,26,,2010,kansas
-SurveyUSA,2010/10/10,2010/10/12,619,LV,67,27,,2010,kansas
-SurveyUSA,2010/09/14,2010/09/16,602,LV,66,24,,2010,kansas
-SurveyUSA,2010/08/12,2010/08/15,588,LV,69,23,,2010,kansas
-Rasmussen Reports,2010/08/04,2010/08/04,500,LV,61,28,,2010,kansas
-Rasmussen Reports,2010/06/30,2010/06/30,500,LV,59,23,,2010,kansas
-Rasmussen Reports,2010/05/11,2010/05/11,500,LV,61,25,,2010,kansas
-Sooner Poll,2010/10/03,2010/10/07,352,LV,62,22,,2010,oklahoma
-Rasmussen Reports,2010/09/23,2010/09/23,500,LV,68,26,,2010,oklahoma
-Rasmussen Reports,2010/08/26,2010/08/26,500,LV,67,24,,2010,oklahoma
-Rasmussen Reports,2010/07/28,2010/07/28,500,LV,65,31,,2010,oklahoma
-Rasmussen Reports,2010/06/30,2010/06/30,500,LV,65,26,,2010,oklahoma
-Rasmussen Reports,2010/10/28,2010/10/28,500,LV,55,36,,2010,arkansas
-Mason-Dixon,2010/10/15,2010/10/19,625,LV,55,34,,2010,arkansas
-The Arkansas Poll,2010/10/08,2010/10/20,566,LV,54,35,,2010,arkansas
-CNN/Time,2010/10/15,2010/10/19,809,LV,55,41,,2010,arkansas
-Rasmussen Reports,2010/09/30,2010/09/30,500,LV,55,37,,2010,arkansas
-Reuters/Ipsos,2010/09/17,2010/09/19,436,LV,53,39,,2010,arkansas
-Talk Business Poll,2010/09/16,2010/09/16,573,LV,56,29,,2010,arkansas
-Mason-Dixon,2010/09/12,2010/09/14,625,LV,51,34,,2010,arkansas
-Rasmussen Reports,2010/08/18,2010/08/18,500,LV,65,27,,2010,arkansas
-Rasmussen Reports,2010/07/20,2010/07/20,500,LV,60,35,,2010,arkansas
-Reuters/Ipsos,2010/07/16,2010/07/18,600,RV,54,35,,2010,arkansas
-Talk Business Poll,2010/07/17,2010/07/17,793,LV,57,32,,2010,arkansas
-Magellan Strategies (R),2010/07/12,2010/07/12,897,LV,60,29,,2010,arkansas
-Rasmussen Reports,2010/06/15,2010/06/15,500,LV,61,32,,2010,arkansas
-R2000/Daily Kos (D)**,2010/05/24,2010/05/26,600,LV,58,38,,2010,arkansas
-Rasmussen Reports,2010/05/19,2010/05/19,500,LV,66,28,,2010,arkansas
-R2000/Daily Kos (D)**,2010/05/10,2010/05/12,600,LV,54,40,,2010,arkansas
-Mason-Dixon,2010/05/03,2010/05/05,625,LV,52,35,,2010,arkansas
-R2000/Daily Kos (D)**,2010/04/26,2010/04/28,600,LV,52,42,,2010,arkansas
-Rasmussen Reports,2010/04/26,2010/04/26,500,LV,57,29,,2010,arkansas
-R2000/Daily Kos (D)**,2010/04/12,2010/04/14,600,LV,50,43,,2010,arkansas
-Rasmussen Reports,2010/03/30,2010/03/30,500,LV,51,36,,2010,arkansas
-R2000/Daily Kos (D)**,2010/03/22,2010/03/24,600,LV,49,42,,2010,arkansas
-Rasmussen Reports,2010/03/01,2010/03/01,500,LV,48,39,,2010,arkansas
-Rasmussen Reports,2010/02/01,2010/02/01,500,LV,54,35,,2010,arkansas
-PPP (D),2009/01/29,2010/01/31,810,RV,56,33,,2010,arkansas
-Mason-Dixon,2010/10/26,2010/10/28,625,LV,56,33,,2010,georgia
-Rasmussen Reports,2010/10/24,2010/10/24,750,LV,59,29,,2010,georgia
-SurveyUSA,2010/10/21,2010/10/24,601,LV,58,34,,2010,georgia
-Landmark (R),2010/10/19,2010/10/19,3277,LV,56,35,,2010,georgia
-Rasmussen Reports,2010/10/06,2010/10/06,750,LV,53,38,,2010,georgia
-Insider Advantage,2010/09/27,2010/09/27,412,LV,61,29,,2010,georgia
-Rasmussen Reports,2010/09/21,2010/09/21,500,LV,52,36,,2010,georgia
-Insider Advantage,2010/09/16,2010/09/16,632,LV,52,34,,2010,georgia
-Mason-Dixon,2010/09/13,2010/09/15,625,LV,52,33,,2010,georgia
-SurveyUSA,2010/09/10,2010/09/12,599,LV,56,34,,2010,georgia
-Insider Advantage,2010/08/18,2010/08/18,554,RV,47,35,,2010,georgia
-Rasmussen Reports,2010/08/11,2010/08/11,500,LV,55,41,,2010,georgia
-Rasmussen Reports,2010/05/20,2010/05/20,500,LV,57,30,,2010,georgia
-Rasmussen Reports,2010/04/22,2010/04/22,500,LV,51,35,,2010,georgia
-R2000/Daily Kos (D)**,2010/04/05,2010/04/07,600,LV,53,26,,2010,georgia
-Rasmussen Reports,2010/10/31,2010/10/31,750,LV,46,53,,2010,connecticut
-Quinnipiac,2010/10/25,2010/10/31,930,LV,44,53,,2010,connecticut
-PPP (D),2010/10/27,2010/10/29,759,LV,43,54,,2010,connecticut
-CT Capitol Report/MRG,2010/10/24,2010/10/26,1846,LV,44,52,,2010,connecticut
-Rasmussen Reports,2010/10/24,2010/10/24,750,LV,43,56,,2010,connecticut
-Quinnipiac,2010/10/18,2010/10/24,702,LV,42,54,,2010,connecticut
-FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,42,53,,2010,connecticut
-Suffolk University*,2010/10/19,2010/10/20,500,LV,39,57,,2010,connecticut
-Rasmussen Reports,2010/10/14,2010/10/14,750,LV,46,51,,2010,connecticut
-Quinnipiac,2010/10/07,2010/10/11,1119,LV,43,54,,2010,connecticut
-FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,43,49,,2010,connecticut
-Rasmussen Reports,2010/10/05,2010/10/05,750,LV,43,54,,2010,connecticut
-CT Capitol Report/MRG,2010/10/03,2010/10/03,1623,LV,45,52,,2010,connecticut
-CNN/Time,2010/10/01,2010/10/05,773,LV,41,54,,2010,connecticut
-FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,42,52,,2010,connecticut
-PPP (D),2010/09/30,2010/10/02,810,LV,41,53,,2010,connecticut
-Rasmussen Reports,2010/09/26,2010/09/26,500,LV,45,50,,2010,connecticut
-Quinnipiac,2010/09/21,2010/09/26,1083,LV,46,49,,2010,connecticut
-Quinnipiac,2010/09/08,2010/09/12,875,LV,45,51,,2010,connecticut
-Rasmussen Reports,2010/09/09,2010/09/09,500,LV,44,53,,2010,connecticut
-Rasmussen Reports,2010/08/11,2010/08/11,500,LV,40,47,,2010,connecticut
-Quinnipiac,2010/07/28,2010/08/02,1299,RV,40,50,,2010,connecticut
-Rasmussen Reports,2010/07/15,2010/07/15,500,LV,40,53,,2010,connecticut
-Quinnipiac,2010/07/07,2010/07/13,1367,RV,37,54,,2010,connecticut
-Quinnipiac,2010/06/02,2010/06/08,1350,RV,35,55,,2010,connecticut
-Rasmussen Reports,2010/06/01,2010/06/01,500,LV,33,56,,2010,connecticut
-R2000/Daily Kos (D)**,2010/05/24,2010/05/26,600,LV,33,52,,2010,connecticut
-Quinnipiac,2010/05/24,2010/05/25,1159,RV,31,56,,2010,connecticut
-Rasmussen Reports,2010/05/18,2010/05/18,500,LV,45,48,,2010,connecticut
-Rasmussen Reports,2010/05/04,2010/05/04,500,LV,39,52,,2010,connecticut
-Rasmussen Reports,2010/04/07,2010/04/07,500,LV,35,55,,2010,connecticut
-Quinnipiac,2010/03/09,2010/03/15,1451,RV,28,61,,2010,connecticut
-Rasmussen Reports,2010/03/02,2010/03/02,500,LV,31,60,,2010,connecticut
-Rasmussen Reports,2010/02/01,2010/02/01,500,LV,36,56,,2010,connecticut
-R2000/Daily Kos (D)**,2010/01/11,2010/01/13,600,LV,34,56,,2010,connecticut
-Quinnipiac,2010/01/08,2010/01/12,1430,RV,23,64,,2010,connecticut
-Rasmussen Reports,2010/01/06,2010/01/06,500,LV,34,58,,2010,connecticut
-PPP (D),2010/01/04,2010/01/05,522,LV,28,60,,2010,connecticut
-PPP (D),2010/10/29,2010/10/31,882,LV,46,50,,2010,california
-SurveyUSA,2010/10/26,2010/10/31,587,LV,38,46,,2010,california
-Rasmussen Reports,2010/10/27,2010/10/27,750,LV,46,49,,2010,california
-CNN/Time,2010/10/20,2010/10/26,888,LV,45,50,,2010,california
-SurveyUSA,2010/10/21,2010/10/25,594,LV,40,45,,2010,california
-FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,44,48,,2010,california
-Suffolk University,2010/10/21,2010/10/24,600,LV,43,52,,2010,california
-PPP (D),2010/10/21,2010/10/23,622,LV,43,52,,2010,california
-Field,2010/10/14,2010/10/26,1092,LV,41,49,,2010,california
-Rasmussen Reports,2010/10/21,2010/10/21,750,LV,46,48,,2010,california
-SurveyUSA,2010/10/15,2010/10/18,621,LV,44,46,,2010,california
-LA Times/USC,2010/10/13,2010/10/20,922,LV,42,50,,2010,california
-FOX News/POR-Rasmussen,2010/10/16,2010/10/16,1000,LV,44,48,,2010,california
-PPIC,2010/10/10,2010/10/17,1067,LV,38,43,,2010,california
-Wilson Research (R),2010/10/13,2010/10/14,800,LV,46,43,,2010,california
-Reuters/Ipsos,2010/10/12,2010/10/14,448,LV,45,46,,2010,california
-Rasmussen Reports,2010/10/13,2010/10/13,750,LV,46,49,,2010,california
-Reuters/Ipsos,2010/10/02,2010/10/04,448,LV,45,49,,2010,california
-Rasmussen Reports,2010/10/03,2010/10/03,750,LV,45,49,,2010,california
-SurveyUSA,2010/09/30,2010/10/03,670,LV,43,46,,2010,california
-CNN/Time,2010/09/24,2010/09/28,786,LV,43,52,,2010,california
-PPIC,2010/09/19,2010/09/26,1104,LV,35,42,,2010,california
-SurveyUSA,2010/09/19,2010/09/21,610,LV,43,49,,2010,california
-Rasmussen Reports,2010/09/20,2010/09/20,750,LV,43,47,,2010,california
-LA Times/USC,2010/09/15,2010/09/22,887,LV,43,51,,2010,california
-Field,2010/09/14,2010/09/21,599,LV,41,47,,2010,california
-FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,46,47,,2010,california
-PPP (D),2010/09/14,2010/09/16,630,LV,42,50,,2010,california
-FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,44,46,,2010,california
-CNN/Time,2010/09/02,2010/09/07,866,RV,44,48,,2010,california
-Rasmussen Reports,2010/09/06,2010/09/06,750,LV,48,47,,2010,california
-SurveyUSA,2010/08/31,2010/09/01,569,LV,48,46,,2010,california
-Rasmussen Reports,2010/08/24,2010/08/24,750,LV,44,49,,2010,california
-SurveyUSA,2010/08/09,2010/08/11,602,LV,47,42,,2010,california
-Rasmussen Reports,2010/08/03,2010/08/03,750,LV,40,45,,2010,california
-PPP (D),2010/07/23,2010/07/25,614,RV,40,49,,2010,california
-PPIC,2010/07/06,2010/07/20,1321,LV,34,39,,2010,california
-Rasmussen Reports,2010/07/12,2010/07/12,500,LV,42,49,,2010,california
-SurveyUSA,2010/07/08,2010/07/11,614,LV,47,45,,2010,california
-Field,2010/06/22,2010/07/05,1005,LV,44,47,,2010,california
-Reuters/Ipsos,2010/06/25,2010/06/27,600,RV,41,45,,2010,california
-Rasmussen Reports,2010/06/09,2010/06/09,500,LV,43,48,,2010,california
-LA Times/USC,2010/05/19,2010/05/26,1506,RV,38,44,,2010,california
-PPP (D),2010/05/21,2010/05/23,921,RV,42,45,,2010,california
-R2000/Daily Kos (D)**,2010/05/17,2010/05/19,600,LV,39,48,,2010,california
-PPIC,2010/05/09,2010/05/16,1168,LV,39,48,,2010,california
-Rasmussen Reports,2010/05/12,2010/05/12,500,LV,38,45,,2010,california
-Rasmussen Reports,2010/04/12,2010/04/12,500,LV,38,42,,2010,california
-PPIC,2010/03/09,2010/03/16,1102,LV,43,44,,2010,california
-Field,2010/03/09,2010/03/15,748,LV,44,45,,2010,california
-Rasmussen Reports,2010/03/11,2010/03/11,500,LV,40,46,,2010,california
-R2000/Daily Kos (D)**,2010/03/08,2010/03/10,600,LV,40,49,,2010,california
-Rasmussen Reports,2010/02/11,2010/02/11,500,LV,42,46,,2010,california
-PPIC,2010/01/12,2010/01/19,1223,LV,40,48,,2010,california
-Rasmussen Reports,2010/01/14,2010/01/14,500,LV,43,46,,2010,california
-Field,2010/01/05,2010/01/17,958,LV,35,50,,2010,california
-Rasmussen Reports,2009/11/17,2009/11/17,500,LV,37,46,,2010,california
-Field,2009/09/18,2009/10/06,1005,RV,35,49,,2010,california
-Rasmussen Reports,2009/09/23,2009/09/23,500,LV,39,49,,2010,california
-R2000/Daily Kos (D)**,2009/08/09,2009/08/12,600,LV,31,52,,2010,california
-Rasmussen Reports,2009/07/22,2009/07/22,500,LV,41,45,,2010,california
-Field,2009/02/20,2009/03/01,761,RV,25,55,,2010,california
-WMUR/UNH,2010/10/27,2010/10/31,885,LV,54,36,,2010,new-hampshire
-PPP (D),2010/10/27,2010/10/29,1308,LV,56,41,,2010,new-hampshire
-Rasmussen Reports,2010/10/27,2010/10/27,750,LV,56,41,,2010,new-hampshire
-WMUR/UNH,2010/10/07,2010/10/12,709,LV,50,35,,2010,new-hampshire
-Rasmussen Reports,2010/10/10,2010/10/10,750,LV,51,44,,2010,new-hampshire
-ARG,2010/10/03,2010/10/05,600,LV,47,42,,2010,new-hampshire
-WMUR/UNH,2010/09/23,2010/09/29,466,LV,50,35,,2010,new-hampshire
-ARG,2010/09/22,2010/09/26,800,LV,46,32,,2010,new-hampshire
-Rasmussen Reports,2010/09/15,2010/09/15,500,LV,51,44,,2010,new-hampshire
-PPP (D),2010/09/11,2010/09/12,1959,LV,47,43,,2010,new-hampshire
-Rasmussen Reports,2010/08/05,2010/08/05,500,LV,51,38,,2010,new-hampshire
-WMUR/UNH,2010/07/19,2010/07/27,446,LV,45,37,,2010,new-hampshire
-PPP (D),2010/07/23,2010/07/25,900,RV,45,42,,2010,new-hampshire
-Rasmussen Reports,2010/07/12,2010/07/12,500,LV,49,37,,2010,new-hampshire
-Rasmussen Reports,2010/05/11,2010/05/11,500,LV,50,38,,2010,new-hampshire
-WMUR/UNH,2010/04/12,2010/04/21,462,LV,47,32,,2010,new-hampshire
-PPP (D),2010/04/17,2010/04/18,1474,LV,47,40,,2010,new-hampshire
-Rasmussen Reports,2010/04/07,2010/04/07,500,LV,50,35,,2010,new-hampshire
-Rasmussen Reports,2010/03/08,2010/03/08,500,LV,47,37,,2010,new-hampshire
-Rasmussen Reports,2010/02/10,2010/02/10,500,LV,46,39,,2010,new-hampshire
-R2000/Daily Kos (D)**,2010/02/01,2010/02/03,600,LV,46,39,,2010,new-hampshire
-WMUR/UNH,2010/01/27,2010/02/03,444,LV,41,33,,2010,new-hampshire
-Rasmussen Reports,2010/01/12,2010/01/12,500,LV,49,40,,2010,new-hampshire
-ARG,2009/12/26,2009/12/29,566,RV,43,36,,2010,new-hampshire
-WMUR/UNH,2009/09/25,2009/10/02,503,A,40,33,,2010,new-hampshire
-ARG,2009/09/25,2009/09/29,572,LV,41,34,,2010,new-hampshire
-Rasmussen Reports,2009/09/14,2009/09/14,500,LV,46,38,,2010,new-hampshire
-R2000/Daily Kos (D)**,2009/07/13,2009/07/15,600,LV,39,38,,2010,new-hampshire
-University of New Hampshire,2009/06/24,2009/07/01,558,A,39,35,,2010,new-hampshire
-Rasmussen Reports,2010/10/21,2010/10/21,500,LV,72,25,,2010,north-dakota
-Rasmussen Reports,2010/09/20,2010/09/21,500,LV,68,25,,2010,north-dakota
-Rasmussen Reports,2010/08/10,2010/08/11,500,LV,69,25,,2010,north-dakota
-Rasmussen Reports,2010/07/21,2010/07/21,500,LV,69,22,,2010,north-dakota
-Rasmussen Reports,2010/06/15,2010/06/16,500,LV,73,19,,2010,north-dakota
-Rasmussen Reports,2010/05/18,2010/05/19,500,LV,72,23,,2010,north-dakota
-Rasmussen Reports,2010/04/20,2010/04/20,500,LV,69,24,,2010,north-dakota
-Rasmussen Reports,2010/03/23,2010/03/23,500,LV,68,25,,2010,north-dakota
-PPP (D),2010/10/29,2010/10/31,847,LV,52,40,,2010,north-carolina
-SurveyUSA,2010/10/22,2010/10/25,590,LV,53,38,,2010,north-carolina
-Civitas (R),2010/10/18,2010/10/20,600,LV,44,34,,2010,north-carolina
-Rasmussen Reports,2010/10/12,2010/10/12,500,LV,52,38,,2010,north-carolina
-PPP (D),2010/10/15,2010/10/17,597,LV,48,40,,2010,north-carolina
-PPP (D),2010/09/23,2010/09/26,681,LV,49,36,,2010,north-carolina
-Civitas (R),2010/09/15,2010/09/17,600,LV,49,29,,2010,north-carolina
-SurveyUSA,2010/09/10,2010/09/13,582,LV,58,34,,2010,north-carolina
-Rasmussen Reports,2010/09/08,2010/09/08,500,LV,54,38,,2010,north-carolina
-PPP (D),2010/08/27,2010/08/29,724,LV,43,38,,2010,north-carolina
-Rasmussen Reports,2010/08/03,2010/08/03,500,LV,49,40,,2010,north-carolina
-PPP (D),2010/07/27,2010/07/31,624,RV,39,37,,2010,north-carolina
-Civitas (R),2010/07/19,2010/07/21,600,LV,44,37,,2010,north-carolina
-SurveyUSA,2010/07/08,2010/07/11,560,LV,46,36,,2010,north-carolina
-Rasmussen Reports,2010/07/06,2010/07/06,500,LV,52,37,,2010,north-carolina
-PPP (D),2010/06/26,2010/06/27,601,LV,38,33,,2010,north-carolina
-SurveyUSA,2010/06/23,2010/06/24,617,LV,50,40,,2010,north-carolina
-Rasmussen Reports,2010/06/23,2010/06/23,500,LV,44,43,,2010,north-carolina
-PPP (D),2010/06/04,2010/06/06,601,LV,46,39,,2010,north-carolina
-Rasmussen Reports,2010/06/03,2010/06/03,500,LV,50,36,,2010,north-carolina
-PPP (D),2010/05/08,2010/05/10,631,LV,43,42,,2010,north-carolina
-Rasmussen Reports,2010/05/05,2010/05/05,1200,LV,48,40,,2010,north-carolina
-Rasmussen Reports,2010/04/19,2010/04/19,500,LV,50,32,,2010,north-carolina
-PPP (D),2010/04/08,2010/04/11,742,LV,43,37,,2010,north-carolina
-Rasmussen Reports,2010/03/22,2010/03/22,500,LV,51,35,,2010,north-carolina
-PPP (D),2010/03/12,2010/03/15,878,LV,41,36,,2010,north-carolina
-Rasmussen Reports,2010/02/23,2010/02/23,500,LV,50,34,,2010,north-carolina
-Mason-Dixon,2010/02/15,2010/02/17,625,RV,54,29,,2010,north-carolina
-PPP (D),2010/02/12,2010/02/15,788,LV,43,33,,2010,north-carolina
-Rasmussen Reports,2010/01/27,2010/01/27,500,LV,47,37,,2010,north-carolina
-PPP (D),2009/12/11,2009/12/13,593,LV,42,37,,2010,north-carolina
-Civitas (R),2009/12/01,2009/12/03,600,LV,40,32,,2010,north-carolina
-PPP (D),2009/11/09,2009/11/11,711,LV,45,34,,2010,north-carolina
-Change Congress (D),2009/10/31,2009/11/01,600,LV,42,35,,2010,north-carolina
-Civitas (R),2009/10/20,2009/10/21,600,LV,44,33,,2010,north-carolina
-Rasmussen Reports,2009/09/15,2009/09/15,500,LV,48,38,,2010,north-carolina
-PPP (D),2009/09/02,2009/09/08,600,LV,42,31,,2010,north-carolina
-PPP (D),2009/08/04,2009/08/10,749,LV,43,31,,2010,north-carolina
-PPP (D),2009/03/12,2009/03/15,1000,RV,43,35,,2010,north-carolina
-Siena,2010/10/27,2010/10/30,603,LV,32,64,,2010,new-york
-Marist,2010/10/26,2010/10/28,415,LV,36,60,,2010,new-york
-SurveyUSA,2010/10/25,2010/10/28,544,LV,32,62,,2010,new-york
-Quinnipiac,2010/10/18,2010/10/24,672,LV,32,64,,2010,new-york
-Rasmussen Reports,2010/10/19,2010/10/19,500,LV,31,59,,2010,new-york
-Marist,2010/10/18,2010/10/20,505,LV,35,63,,2010,new-york
-Siena,2010/10/14,2010/10/18,647,LV,28,67,,2010,new-york
-New York Times,2010/10/10,2010/10/15,LV,,21,61,,2010,new-york
-SurveyUSA,2010/10/11,2010/10/13,633,LV,30,63,,2010,new-york
-SurveyUSA,2010/10/05,2010/10/07,627,LV,30,60,,2010,new-york
-CNN/Time,2010/10/01,2010/10/05,585,LV,41,57,,2010,new-york
-Quinnipiac,2010/10/01,2010/10/05,1141,LV,32,63,,2010,new-york
-PPP (D),2010/10/01,2010/10/03,592,LV,37,59,,2010,new-york
-Marist,2010/09/19,2010/09/22,617,LV,37,58,,2010,new-york
-SurveyUSA,2010/09/20,2010/09/21,572,LV,33,54,,2010,new-york
-Siena,2010/09/16,2010/09/21,801,RV,30,63,,2010,new-york
-Quinnipiac,2010/09/16,2010/09/20,751,LV,38,54,,2010,new-york
-Rasmussen Reports,2010/09/16,2010/09/16,500,LV,36,58,,2010,new-york
-Siena,2010/07/06,2010/07/12,760,RV,26,63,,2010,new-york
-Rasmussen Reports,2010/06/16,2010/06/16,500,LV,33,54,,2010,new-york
-Siena,2010/06/07,2010/06/09,808,RV,26,60,,2010,new-york
-Marist,2010/05/03,2010/05/05,686,RV,27,66,,2010,new-york
-PPP (D),2010/10/30,2010/10/31,1539,LV,37,30,30,2010,alaska
-Dittman Research (R),2010/10/23,2010/10/28,421,LV,27,23,37,2010,alaska
-CNN/Time,2010/10/15,2010/10/19,946,LV,37,23,37,2010,alaska
-Rasmussen Reports,2010/10/13,2010/10/13,500,LV,35,27,34,2010,alaska
-Daily Kos/PPP (D),2010/10/09,2010/10/10,1678,LV,35,26,33,2010,alaska
-CNN/Time,2010/09/24,2010/09/28,927,LV,38,22,36,2010,alaska
-Rasmussen Reports,2010/09/19,2010/09/19,500,LV,42,25,27,2010,alaska
-PPP (D),2010/10/30,2010/10/31,773,LV,47,21,30,2010,florida
-Sunshine State News/VSS,2010/10/29,2010/10/31,1527,LV,48,20,31,2010,florida
-Quinnipiac,2010/10/25,2010/10/31,925,LV,45,18,31,2010,florida
-Rasmussen Reports,2010/10/27,2010/10/27,750,LV,50,16,30,2010,florida
-Mason-Dixon,2010/10/25,2010/10/27,625,LV,45,21,28,2010,florida
-Sunshine State News/VSS,2010/10/26,2010/10/27,1576,LV,47,23,27,2010,florida
-Quinnipiac,2010/10/18,2010/10/24,784,LV,42,15,35,2010,florida
-TCPalm.com/Zogby,2010/10/18,2010/10/21,802,LV,40,18,33,2010,florida
-St. Petersburg Times,2010/10/15,2010/10/19,577,LV,41,20,26,2010,florida
-CNN/Time,2010/10/15,2010/10/19,798,LV,46,20,32,2010,florida
-Rasmussen Reports,2010/10/18,2010/10/18,750,LV,43,20,32,2010,florida
-Suffolk University,2010/10/14,2010/10/17,500,LV,39,22,31,2010,florida
-PPP (D),2010/10/09,2010/10/10,448,LV,44,21,33,2010,florida
-Quinnipiac,2010/10/06,2010/10/10,1055,LV,44,22,30,2010,florida
-Sunshine State News/VSS,2010/10/06,2010/10/10,1151,LV,45,22,29,2010,florida
-Rasmussen Reports,2010/10/07,2010/10/07,750,LV,50,19,25,2010,florida
-Mason-Dixon,2010/10/04,2010/10/06,625,LV,42,21,27,2010,florida
-FL CoC/POS (R),2010/09/27,2010/09/30,800,LV,40,16,33,2010,florida
-Rasmussen Reports,2010/09/28,2010/09/28,750,LV,41,21,30,2010,florida
-TCPalm.com/Zogby,2010/09/27,2010/09/29,802,LV,39,18,33,2010,florida
-CNN/Time,2010/09/24,2010/09/28,786,LV,42,23,31,2010,florida
-Quinnipiac,2010/09/23,2010/09/26,1151,LV,46,18,33,2010,florida
-Mason-Dixon,2010/09/20,2010/09/22,625,LV,40,23,28,2010,florida
-Rasmussen Reports,2010/09/14,2010/09/14,750,LV,41,23,30,2010,florida
-Reuters/Ipsos,2010/09/10,2010/09/12,486,LV,40,21,26,2010,florida
-FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,43,21,27,2010,florida
-CNN/Time,2010/09/02,2010/09/07,899,RV,36,24,34,2010,florida
-Sunshine State News/VSS,2010/09/01,2010/09/07,1016,LV,43,23,29,2010,florida
-Rasmussen Reports,2010/08/25,2010/08/25,750,LV,40,21,30,2010,florida
-PPP (D),2010/08/21,2010/08/22,567,LV,40,17,32,2010,florida
-Quinnipiac,2010/08/11,2010/08/16,1096,RV,32,16,39,2010,florida
-Mason-Dixon,2010/08/09,2010/08/11,625,LV,38,18,33,2010,florida
-Rasmussen Reports,2010/08/09,2010/08/09,750,LV,38,21,33,2010,florida
-St. Petersburg Times,2010/08/06,2010/08/10,602,RV,29,17,33,2010,florida
-AIF/McLaughlin (R),2010/07/31,2010/08/01,600,LV,36,16,38,2010,florida
-Florida Poll/NYT-USF,2010/07/24,2010/07/28,590,LV,30,12,41,2010,florida
-Quinnipiac,2010/07/22,2010/07/27,969,RV,33,13,39,2010,florida
-Rasmussen Reports,2010/07/21,2010/07/21,750,LV,35,20,33,2010,florida
-PPP (D),2010/07/16,2010/07/18,900,RV,29,17,35,2010,florida
-Reuters/Ipsos,2010/07/09,2010/07/11,600,RV,28,17,35,2010,florida
-Rasmussen Reports,2010/07/06,2010/07/06,500,LV,36,15,34,2010,florida
-FL Chamber of Commerce,2010/06/09,2010/06/13,607,LV,31,14,42,2010,florida
-Rasmussen Reports,2010/06/07,2010/06/07,500,LV,37,15,37,2010,florida
-Quinnipiac,2010/06/01,2010/06/07,1133,RV,33,17,37,2010,florida
-St. Petersburg Times,2010/05/14,2010/05/18,607,RV,27,15,30,2010,florida
-Rasmussen Reports,2010/05/16,2010/05/16,500,LV,39,18,31,2010,florida
-Mason-Dixon,2010/05/03,2010/05/05,625,LV,32,19,38,2010,florida
-Rasmussen Reports,2010/05/03,2010/05/03,500,LV,34,17,38,2010,florida
-Rasmussen Reports,2010/04/21,2010/04/21,500,LV,37,22,30,2010,florida
-Quinnipiac,2010/04/08,2010/04/13,1250,RV,30,24,32,2010,florida
-Rasmussen Reports,2010/03/18,2010/03/18,1000,LV,42,25,22,2010,florida
-R2000/Daily Kos (D)**,2010/03/15,2010/03/17,600,LV,32,27,29,2010,florida
-PPP (D),2010/03/05,2010/03/08,849,LV,34,25,27,2010,florida
-Fabrizio (R),2010/01/27,2010/01/28,800,LV,31,24,26,2010,florida
-R2000/Daily Kos (D)**,2009/11/16,2009/11/18,600,LV,27,31,32,2010,florida
+pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state,overlapping_special_election
+Rasmussen Reports,2010/10/24,2010/10/24,750,LV,38,56,,2010,maryland,
+Washington Post,2010/10/19,2010/10/22,1434,LV,27,64,,2010,maryland,
+Baltimore Sun/OpinionWorks,2010/10/15,2010/10/20,798,LV,32,59,,2010,maryland,
+Gonzales Res.,2010/10/11,2010/10/16,816,LV,38,55,,2010,maryland,
+Washington Post,2010/09/22,2010/09/26,730,LV,29,61,,2010,maryland,
+Rasmussen Reports,2010/09/15,2010/09/15,750,LV,38,54,,2010,maryland,
+Rasmussen Reports,2010/08/17,2010/08/17,750,LV,39,55,,2010,maryland,
+PPP (D),2010/07/10,2010/07/12,569,RV,27,59,,2010,maryland,
+Rasmussen Reports,2010/07/08,2010/07/08,500,LV,33,58,,2010,maryland,
+Ohio Poll/Univ of Cin.,2010/10/27,2010/10/31,930,LV,60,39,,2010,ohio,
+PPP (D),2010/10/28,2010/10/30,1356,LV,57,39,,2010,ohio,
+Quinnipiac,2010/10/25,2010/10/30,848,LV,56,37,,2010,ohio,
+Rasmussen Reports,2010/10/26,2010/10/26,750,LV,57,33,,2010,ohio,
+Columbus Dispatch*,2010/10/20,2010/10/29,1445,LV,56,40,,2010,ohio,
+SurveyUSA,2010/10/22,2010/10/26,613,LV,52,37,,2010,ohio,
+Quinnipiac,2010/10/18,2010/10/24,686,LV,53,36,,2010,ohio,
+CNN/Time,2010/10/15,2010/10/19,863,LV,55,40,,2010,ohio,
+Ohio Poll/Univ of Cin.,2010/10/14,2010/10/18,839,LV,58,39,,2010,ohio,
+Quinnipiac,2010/10/12,2010/10/17,1188,LV,55,34,,2010,ohio,
+Ohio Poll/Univ of Cin.,2010/10/08,2010/10/13,705,LV,58,36,,2010,ohio,
+Rasmussen Reports,2010/10/11,2010/10/11,750,LV,57,34,,2010,ohio,
+FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,52,35,,2010,ohio,
+Suffolk University,2010/10/04,2010/10/06,500,LV,47,37,,2010,ohio,
+FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,53,37,,2010,ohio,
+Quinnipiac,2010/09/29,2010/10/03,1025,LV,55,36,,2010,ohio,
+Rasmussen Reports,2010/09/27,2010/09/27,500,LV,51,42,,2010,ohio,
+CBS News/NY Times,2010/09/23,2010/09/27,941,LV,45,34,,2010,ohio,
+FOX News/POR-Rasmussen,2010/09/25,2010/09/25,1000,LV,50,37,,2010,ohio,
+Reuters/Ipsos,2010/09/23,2010/09/25,440,LV,50,37,,2010,ohio,
+Ohio Poll/Univ of Cin.,2010/09/16,2010/09/20,852,LV,55,40,,2010,ohio,
+FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,49,36,,2010,ohio,
+Rasmussen Reports,2010/09/13,2010/09/13,750,LV,49,41,,2010,ohio,
+CNN/Time,2010/09/10,2010/09/14,820,LV,52,41,,2010,ohio,
+Quinnipiac,2010/09/09,2010/09/14,730,LV,55,35,,2010,ohio,
+SurveyUSA,2010/09/10,2010/09/13,641,LV,49,40,,2010,ohio,
+FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,48,41,,2010,ohio,
+Columbus Dispatch*,2010/08/25,2010/09/03,1622,LV,50,37,,2010,ohio,
+Rasmussen Reports,2010/08/30,2010/08/30,750,LV,47,41,,2010,ohio,
+PPP (D),2010/08/27,2010/08/29,475,LV,45,38,,2010,ohio,
+Rasmussen Reports,2010/08/16,2010/08/16,750,LV,48,39,,2010,ohio,
+Reuters/Ipsos,2010/08/06,2010/08/08,417,LV,43,36,,2010,ohio,
+Rasmussen Reports,2010/08/02,2010/08/02,750,LV,44,40,,2010,ohio,
+Rasmussen Reports,2010/07/19,2010/07/19,750,LV,45,39,,2010,ohio,
+Rasmussen Reports,2010/06/29,2010/06/29,500,LV,43,39,,2010,ohio,
+PPP (D),2010/06/26,2010/06/27,482,LV,38,40,,2010,ohio,
+Quinnipiac,2010/06/22,2010/06/27,1107,RV,40,42,,2010,ohio,
+Rasmussen Reports,2010/06/03,2010/06/03,500,LV,43,43,,2010,ohio,
+University of Cincinnati,2010/05/11,2010/05/20,668,LV,46,47,,2010,ohio,
+Rasmussen Reports,2010/05/05,2010/05/05,500,LV,42,43,,2010,ohio,
+Quinnipiac,2010/04/21,2010/04/26,1568,RV,37,40,,2010,ohio,
+R2000/Daily Kos (D)**,2010/04/05,2010/04/07,600,LV,39,43,,2010,ohio,
+Rasmussen Reports,2010/03/30,2010/03/30,500,LV,43,38,,2010,ohio,
+Quinnipiac,2010/03/23,2010/03/29,1526,RV,37,41,,2010,ohio,
+PPP (D),2010/03/20,2010/03/21,630,LV,41,36,,2010,ohio,
+Rasmussen Reports,2010/03/04,2010/03/04,500,LV,44,39,,2010,ohio,
+Quinnipiac,2010/02/16,2010/02/21,1662,RV,40,37,,2010,ohio,
+Rasmussen Reports,2010/02/05,2010/02/06,500,LV,43,39,,2010,ohio,
+Rasmussen Reports,2010/01/12,2010/01/12,500,LV,44,37,,2010,ohio,
+ORL/Wenzel Strategies (R),2010/01/08,2010/01/12,1001,RV,37,31,,2010,ohio,
+Rasmussen Reports,2009/12/07,2009/12/07,500,LV,38,36,,2010,ohio,
+Quinnipiac,2009/11/05,2009/11/09,1123,RV,39,36,,2010,ohio,
+Rasmussen Reports,2009/09/23,2009/09/23,500,LV,41,40,,2010,ohio,
+Quinnipiac,2009/09/10,2009/09/13,1074,RV,31,42,,2010,ohio,
+R2000/Daily Kos (D)**,2009/07/06,2009/07/08,600,LV,35,42,,2010,ohio,
+Quinnipiac,2009/06/26,2009/07/01,1259,RV,33,37,,2010,ohio,
+PPP (D),2009/06/17,2009/06/19,619,RV,32,41,,2010,ohio,
+Quinnipiac,2009/04/28,2009/05/04,1079,RV,31,42,,2010,ohio,
+Quinnipiac,2009/03/10,2009/03/15,1299,RV,33,41,,2010,ohio,
+Quinnipiac,2009/01/29,2009/02/02,1127,RV,27,42,,2010,ohio,
+PPP (D),2009/01/17,2009/01/18,578,RV,41,39,,2010,ohio,
+Des Moines Register,2010/10/26,2010/10/29,805,LV,61,30,,2010,iowa,
+Rasmussen Reports,2010/09/23,2010/09/23,500,LV,55,37,,2010,iowa,
+Des Moines Register,2010/09/19,2010/09/22,550,LV,61,30,,2010,iowa,
+Rasmussen Reports,2010/08/05,2010/08/05,500,LV,55,35,,2010,iowa,
+Rasmussen Reports,2010/06/14,2010/06/14,500,LV,54,37,,2010,iowa,
+KCCI/Research 2000,2010/05/31,2010/06/02,600,LV,50,42,,2010,iowa,
+PPP (D),2010/05/25,2010/05/27,1277,LV,57,31,,2010,iowa,
+KCCI/Research 2000,2010/05/03,2010/05/05,600,LV,49,40,,2010,iowa,
+Rasmussen Reports,2010/04/29,2010/04/29,500,LV,53,40,,2010,iowa,
+Rasmussen Reports,2010/03/17,2010/03/17,500,LV,55,36,,2010,iowa,
+Rasmussen Reports,2010/02/18,2010/02/18,500,LV,53,36,,2010,iowa,
+KCCI/Research 2000,2010/02/15,2010/02/17,600,LV,56,35,,2010,iowa,
+PPP (D),2010/10/28,2010/10/30,1021,LV,55,40,,2010,kentucky,
+Rasmussen Reports,2010/10/27,2010/10/27,750,LV,53,41,,2010,kentucky,
+CN|2/Braun Research,2010/10/25,2010/10/27,800,LV,47,39,,2010,kentucky,
+SurveyUSA,2010/10/24,2010/10/27,637,LV,52,43,,2010,kentucky,
+CNN/Time,2010/10/20,2010/10/26,785,LV,50,43,,2010,kentucky,
+PPP (D),2010/10/21,2010/10/24,900,LV,53,40,,2010,kentucky,
+FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,50,43,,2010,kentucky,
+Mason-Dixon,2010/10/18,2010/10/19,625,LV,48,43,,2010,kentucky,
+Rasmussen Reports,2010/10/18,2010/10/18,500,LV,47,42,,2010,kentucky,
+CN|2/Braun Research,2010/10/04,2010/10/06,826,LV,43,40,,2010,kentucky,
+Rasmussen Reports,2010/09/29,2010/09/29,500,LV,49,38,,2010,kentucky,
+SurveyUSA,2010/09/21,2010/09/23,611,LV,49,47,,2010,kentucky,
+Daily Kos/PPP (D),2010/09/11,2010/09/12,959,LV,49,42,,2010,kentucky,
+Rasmussen Reports,2010/09/07,2010/09/07,500,LV,54,39,,2010,kentucky,
+CNN/Time,2010/09/02,2010/09/07,869,RV,46,46,,2010,kentucky,
+SurveyUSA,2010/08/30,2010/09/01,561,LV,55,40,,2010,kentucky,
+CN|2/Braun Research,2010/08/30,2010/09/01,802,LV,42,37,,2010,kentucky,
+Rasmussen Reports,2010/08/17,2010/08/17,500,LV,51,41,,2010,kentucky,
+CN|2/Braun Research,2010/08/16,2010/08/18,801,LV,41,42,,2010,kentucky,
+Reuters/Ipsos,2010/08/13,2010/08/15,435,LV,45,40,,2010,kentucky,
+CN|2/Braun Research,2010/08/02,2010/08/04,802,LV,41,31,,2010,kentucky,
+SurveyUSA,2010/07/27,2010/07/29,568,LV,51,43,,2010,kentucky,
+CN|2/Braun Research,2010/07/19,2010/07/21,803,LV,41,38,,2010,kentucky,
+Rasmussen Reports,2010/07/20,2010/07/20,750,LV,49,41,,2010,kentucky,
+PPP (D),2010/06/28,2010/06/30,625,RV,43,43,,2010,kentucky,
+Rasmussen Reports,2010/06/28,2010/06/28,500,LV,49,42,,2010,kentucky,
+Rasmussen Reports,2010/06/01,2010/06/01,500,LV,49,41,,2010,kentucky,
+SurveyUSA,2010/05/25,2010/05/27,569,LV,51,45,,2010,kentucky,
+R2000/Daily Kos (D)**,2010/05/24,2010/05/26,600,LV,44,41,,2010,kentucky,
+Rasmussen Reports,2010/05/19,2010/05/19,500,LV,59,34,,2010,kentucky,
+R2000/Daily Kos (D)**,2010/05/10,2010/05/12,600,LV,42,39,,2010,kentucky,
+PPP (D),2010/05/01,2010/05/02,946,RV,41,40,,2010,kentucky,
+Rasmussen Reports,2010/04/28,2010/04/28,500,LV,47,38,,2010,kentucky,
+Rasmussen Reports,2010/03/31,2010/03/31,500,LV,50,36,,2010,kentucky,
+R2000/Daily Kos (D)**,2010/03/15,2010/03/17,600,LV,45,39,,2010,kentucky,
+Rasmussen Reports,2010/03/02,2010/03/02,500,LV,49,34,,2010,kentucky,
+Rasmussen Reports,2010/02/02,2010/02/02,500,LV,47,39,,2010,kentucky,
+Rasmussen Reports,2010/01/06,2010/01/06,500,LV,46,38,,2010,kentucky,
+PPP (D),2009/12/18,2009/12/21,1199,RV,42,36,,2010,kentucky,
+R2000/Daily Kos (D)**,2009/08/31,2009/09/02,600,LV,37,41,,2010,kentucky,
+PPP (D),2010/10/30,2010/10/31,1059,LV,49,48,,2010,colorado,
+FOX News/POR-Rasmussen,2010/10/30,2010/10/30,1000,LV,50,46,,2010,colorado,
+McClatchy/Marist,2010/10/26,2010/10/28,615,LV,49,45,,2010,colorado,
+Rasmussen Reports,2010/10/25,2010/10/25,750,LV,48,44,,2010,colorado,
+CNN/Time,2010/10/20,2010/10/26,829,LV,47,46,,2010,colorado,
+PPP (D),2010/10/21,2010/10/23,818,LV,47,47,,2010,colorado,
+Denver Post/SurveyUSA,2010/10/19,2010/10/21,621,LV,47,47,,2010,colorado,
+Reuters/Ipsos,2010/10/15,2010/10/17,405,LV,48,45,,2010,colorado,
+FOX News/POR-Rasmussen,2010/10/16,2010/10/16,1000,LV,46,45,,2010,colorado,
+Rasmussen Reports,2010/10/14,2010/10/14,750,LV,47,45,,2010,colorado,
+Rasmussen Reports,2010/10/03,2010/10/03,750,LV,50,45,,2010,colorado,
+PPP (D),2010/09/30,2010/10/02,834,LV,45,46,,2010,colorado,
+Denver Post/SurveyUSA,2010/09/28,2010/09/30,647,LV,48,43,,2010,colorado,
+McClatchy/Marist,2010/09/26,2010/09/28,537,LV,50,42,,2010,colorado,
+Rasmussen Reports,2010/09/27,2010/09/27,750,LV,51,43,,2010,colorado,
+FOX News/POR-Rasmussen,2010/09/25,2010/09/25,1000,LV,47,43,,2010,colorado,
+CNN/Time,2010/09/17,2010/09/21,860,LV,49,44,,2010,colorado,
+Rasmussen Reports,2010/09/14,2010/09/14,750,LV,49,45,,2010,colorado,
+POS/FM3,2010/08/28,2010/09/01,473,LV,40,43,,2010,colorado,
+Rasmussen Reports,2010/08/29,2010/08/29,750,LV,49,45,,2010,colorado,
+Reuters/Ipsos,2010/08/20,2010/08/22,453,LV,49,40,,2010,colorado,
+Rasmussen Reports,2010/08/11,2010/08/11,750,LV,46,41,,2010,colorado,
+PPP (D),2010/08/07,2010/08/08,1015,RV,43,46,,2010,colorado,
+Denver Post/SurveyUSA,2010/07/27,2010/07/29,950,RV,43,43,,2010,colorado,
+Rasmussen Reports,2010/07/26,2010/07/26,500,LV,48,42,,2010,colorado,
+Rasmussen Reports,2010/07/08,2010/07/08,500,LV,48,39,,2010,colorado,
+Denver Post/SurveyUSA,2010/06/15,2010/06/17,1565,RV,46,43,,2010,colorado,
+Rasmussen Reports,2010/06/07,2010/06/07,500,LV,46,41,,2010,colorado,
+PPP (D),2010/05/14,2010/05/16,1060,LV,39,45,,2010,colorado,
+Rasmussen Reports,2010/05/03,2010/05/03,500,LV,48,41,,2010,colorado,
+Rasmussen Reports,2010/04/05,2010/04/05,500,LV,44,40,,2010,colorado,
+PPP (D),2010/03/05,2010/03/08,580,LV,40,46,,2010,colorado,
+Rasmussen Reports,2010/03/02,2010/03/02,500,LV,44,38,,2010,colorado,
+Rasmussen Reports,2010/02/02,2010/02/02,500,LV,45,41,,2010,colorado,
+Rasmussen Reports,2010/01/13,2010/01/13,500,LV,43,38,,2010,colorado,
+R2000/Daily Kos (D)**,2010/01/11,2010/01/13,600,LV,38,41,,2010,colorado,
+Rasmussen Reports,2009/12/08,2009/12/08,500,LV,42,38,,2010,colorado,
+Rasmussen Reports,2009/09/09,2009/09/09,500,LV,37,43,,2010,colorado,
+PPP (D),2009/08/14,2009/08/16,969,LV,35,39,,2010,colorado,
+PPP (D),2009/04/17,2009/04/19,1050,LV,34,40,,2010,colorado,
+Downs Center/SUSA,2010/10/21,2010/10/25,1600,LV,54,32,,2010,indiana,
+Rasmussen Reports,2010/10/20,2010/10/21,500,LV,52,34,,2010,indiana,
+WISH-TV/EPIC-MRA,2010/10/19,2010/10/21,500,LV,53,35,,2010,indiana,
+WISH-TV/EPIC-MRA,2010/09/29,2010/10/01,500,LV,51,33,,2010,indiana,
+Rasmussen Reports,2010/09/14,2010/09/15,500,LV,50,34,,2010,indiana,
+Rasmussen Reports,2010/08/04,2010/08/07,500,LV,50,29,,2010,indiana,
+Rasmussen Reports,2010/07/07,2010/07/08,500,LV,51,30,,2010,indiana,
+Rasmussen Reports,2010/06/02,2010/06/03,500,LV,47,33,,2010,indiana,
+Rasmussen Reports,2010/05/05,2010/05/06,500,LV,51,36,,2010,indiana,
+Downs Center/SUSA,2010/04/22,2010/04/26,1250,LV,47,31,,2010,indiana,
+Rasmussen Reports,2010/04/13,2010/04/14,500,LV,54,33,,2010,indiana,
+Rasmussen Reports,2010/03/17,2010/03/18,500,LV,49,34,,2010,indiana,
+R2000/Daily Kos (D)**,2010/02/22,2010/02/24,600,LV,37,36,,2010,indiana,
+Rasmussen Reports,2010/02/16,2010/02/17,500,LV,46,32,,2010,indiana,
+Rasmussen Reports,2010/10/13,2010/10/13,500,LV,40,53,,2010,hawaii,
+Daily Kos/PPP (D),2010/10/02,2010/10/03,1326,LV,29,65,,2010,hawaii,
+KSN3/Missouri State Univ.,2010/10/20,2010/10/27,672,LV,54,41,,2010,missouri,
+Post-Dispatch/Mason-Dixon,2010/10/18,2010/10/20,625,LV,49,40,,2010,missouri,
+Rasmussen Reports,2010/10/19,2010/10/19,750,LV,52,43,,2010,missouri,
+FOX News/POR-Rasmussen,2010/10/16,2010/10/16,1000,LV,49,43,,2010,missouri,
+Rasmussen Reports,2010/10/05,2010/10/05,750,LV,51,43,,2010,missouri,
+CNN/Time,2010/10/01,2010/10/05,832,LV,53,40,,2010,missouri,
+FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,50,42,,2010,missouri,
+Rasmussen Reports,2010/09/21,2010/09/21,750,LV,52,44,,2010,missouri,
+Rasmussen Reports,2010/09/07,2010/09/07,750,LV,53,43,,2010,missouri,
+Rasmussen Reports,2010/08/23,2010/08/23,750,LV,54,41,,2010,missouri,
+Daily Kos/PPP (D),2010/08/14,2010/08/15,690,LV,45,38,,2010,missouri,
+KY3/Missouri State Univ.,2010/08/06,2010/08/22,785,RV,49,48,,2010,missouri,
+Rasmussen Reports,2010/08/10,2010/08/10,750,LV,50,43,,2010,missouri,
+Rasmussen Reports,2010/07/27,2010/07/27,750,LV,49,43,,2010,missouri,
+Post-Dispatch/Mason-Dixon,2010/07/19,2010/07/21,625,LV,48,42,,2010,missouri,
+Rasmussen Reports,2010/07/13,2010/07/13,500,LV,47,45,,2010,missouri,
+Rasmussen Reports,2010/06/28,2010/06/28,500,LV,48,43,,2010,missouri,
+Rasmussen Reports,2010/06/02,2010/06/02,500,LV,45,44,,2010,missouri,
+Rasmussen Reports,2010/05/03,2010/05/03,500,LV,50,42,,2010,missouri,
+Rasmussen Reports,2010/04/06,2010/04/06,500,LV,48,42,,2010,missouri,
+PPP (D),2010/03/27,2010/03/28,495,LV,45,41,,2010,missouri,
+Rasmussen Reports,2010/03/09,2010/03/09,500,LV,47,41,,2010,missouri,
+Rasmussen Reports,2010/02/10,2010/02/10,500,LV,49,42,,2010,missouri,
+Rasmussen Reports,2010/01/19,2010/01/19,500,LV,49,43,,2010,missouri,
+Rasmussen Reports,2009/12/15,2009/12/15,500,LV,44,46,,2010,missouri,
+PPP (D),2009/11/13,2009/11/15,763,LV,42,43,,2010,missouri,
+Momentum Analysis (D),2009/09/15,2009/09/19,802,LV,45,48,,2010,missouri,
+Rasmussen Reports,2009/09/21,2009/09/21,500,LV,46,46,,2010,missouri,
+Democracy Corps (D),2009/04/28,2009/04/30,800,LV,44,53,,2010,missouri,
+Wilson Research (R),2009/03/07,2009/03/09,600,LV,44,47,,2010,missouri,
+PPP (D),2009/01/10,2009/01/11,867,LV,44,45,,2010,missouri,
+Rasmussen Reports,2010/10/28,2010/10/28,500,LV,52,32,,2010,arizona,
+Daily Kos/PPP (D),2010/10/23,2010/10/24,664,LV,56,38,,2010,arizona,
+Behavior Research Center,2010/10/01,2010/10/10,450,LV,56,22,,2010,arizona,
+Rasmussen Reports,2010/10/03,2010/10/03,500,LV,54,33,,2010,arizona,
+Rasmussen Reports,2010/09/07,2010/09/07,500,LV,51,37,,2010,arizona,
+Rasmussen Reports,2010/08/25,2010/08/25,500,LV,53,31,,2010,arizona,
+Rasmussen Reports,2010/07/29,2010/07/29,500,LV,53,34,,2010,arizona,
+Rasmussen Reports,2010/05/17,2010/05/17,1000,LV,57,28,,2010,arizona,
+R2000/Daily Kos (D)**,2010/05/03,2010/05/05,600,LV,48,35,,2010,arizona,
+PPP (D),2010/04/23,2010/04/25,813,LV,49,33,,2010,arizona,
+Behavior Research Center,2010/04/12,2010/04/25,666,RV,46,24,,2010,arizona,
+R2000/Daily Kos (D)**,2010/03/29,2010/03/31,600,LV,52,33,,2010,arizona,
+PPP (D),2010/10/30,2010/10/31,682,LV,47,46,,2010,nevada,
+FOX News/POR-Rasmussen,2010/10/30,2010/10/30,1000,LV,48,45,,2010,nevada,
+LVRJ/Mason-Dixon,2010/10/25,2010/10/27,625,LV,49,45,,2010,nevada,
+Rasmussen Reports,2010/10/25,2010/10/25,750,LV,49,45,,2010,nevada,
+CNN/Time,2010/10/20,2010/10/26,773,LV,49,45,,2010,nevada,
+Rasmussen Reports,2010/10/17,2010/10/17,750,LV,50,47,,2010,nevada,
+LVRJ/Mason-Dixon,2010/10/11,2010/10/12,625,LV,48,46,,2010,nevada,
+Rasmussen Reports,2010/10/11,2010/10/11,750,LV,49,48,,2010,nevada,
+Suffolk University,2010/10/08,2010/10/11,500,LV,43,46,,2010,nevada,
+FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,49,47,,2010,nevada,
+PPP (D),2010/10/07,2010/10/09,504,LV,45,47,,2010,nevada,
+Rasmussen Reports,2010/10/05,2010/10/05,750,LV,50,46,,2010,nevada,
+CNN/Time,2010/10/01,2010/10/05,789,LV,42,40,,2010,nevada,
+FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,49,46,,2010,nevada,
+Rasmussen Reports,2010/09/28,2010/09/28,750,LV,47,48,,2010,nevada,
+Retail Assoc. of Nevada/POS (R),2010/09/21,2010/09/23,500,LV,40,45,,2010,nevada,
+LVRJ/Mason-Dixon,2010/09/20,2010/09/22,625,LV,43,43,,2010,nevada,
+FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,46,45,,2010,nevada,
+CNN/Time,2010/09/10,2010/09/14,789,LV,42,41,,2010,nevada,
+Rasmussen Reports,2010/09/13,2010/09/13,750,LV,48,48,,2010,nevada,
+Reuters/Ipsos,2010/09/10,2010/09/12,463,LV,44,46,,2010,nevada,
+FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,45,44,,2010,nevada,
+LVRJ/Mason-Dixon,2010/09/07,2010/09/09,625,LV,44,46,,2010,nevada,
+Rasmussen Reports,2010/09/01,2010/09/01,750,LV,47,50,,2010,nevada,
+LVRJ/Mason-Dixon,2010/08/23,2010/08/25,625,LV,44,45,,2010,nevada,
+Rasmussen Reports,2010/08/16,2010/08/16,750,LV,50,48,,2010,nevada,
+LVRJ/Mason-Dixon,2010/08/09,2010/08/11,625,LV,44,46,,2010,nevada,
+Reuters/Ipsos,2010/07/30,2010/08/01,462,LV,44,48,,2010,nevada,
+LVRJ/Mason-Dixon,2010/07/26,2010/07/28,625,RV,42,43,,2010,nevada,
+Rasmussen Reports,2010/07/27,2010/07/27,750,LV,43,45,,2010,nevada,
+PPP (D),2010/07/16,2010/07/18,630,RV,46,48,,2010,nevada,
+LVRJ/Mason-Dixon,2010/07/12,2010/07/14,625,LV,37,44,,2010,nevada,
+Rasmussen Reports,2010/07/12,2010/07/12,750,LV,46,43,,2010,nevada,
+Rasmussen Reports,2010/06/22,2010/06/22,500,LV,48,41,,2010,nevada,
+Rasmussen Reports,2010/06/09,2010/06/09,500,LV,50,39,,2010,nevada,
+LVRJ/Mason-Dixon,2010/06/01,2010/06/03,625,LV,44,41,,2010,nevada,
+R2000/Daily Kos (D)**,2010/05/31,2010/06/02,600,LV,37,43,,2010,nevada,
+Mason-Dixon,2010/05/24,2010/05/26,625,LV,39,42,,2010,nevada,
+Rasmussen Reports,2010/04/27,2010/04/27,500,LV,48,40,,2010,nevada,
+Rasmussen Reports,2010/03/31,2010/03/31,500,LV,51,40,,2010,nevada,
+Rasmussen Reports,2010/03/03,2010/03/03,500,LV,46,38,,2010,nevada,
+LVRJ/Mason-Dixon,2010/02/22,2010/02/24,625,LV,44,42,,2010,nevada,
+Rasmussen Reports,2010/02/03,2010/02/03,500,LV,44,40,,2010,nevada,
+Rasmussen Reports,2010/01/11,2010/01/11,500,LV,44,40,,2010,nevada,
+Mason-Dixon,2010/01/05,2010/01/07,625,RV,45,40,,2010,nevada,
+Rasmussen Reports,2009/12/09,2009/12/09,500,LV,47,43,,2010,nevada,
+PPP (D),2010/10/30,2010/10/31,814,LV,46,42,,2010,illinois,
+FOX News/POR-Rasmussen,2010/10/30,2010/10/30,1000,LV,46,42,,2010,illinois,
+Chicago Tribune,2010/10/18,2010/10/22,700,LV,44,41,,2010,illinois,
+Post-Dispatch/Mason-Dixon,2010/10/18,2010/10/20,625,LV,43,41,,2010,illinois,
+Rasmussen Reports,2010/10/26,2010/10/26,750,LV,46,42,,2010,illinois,
+FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,43,41,,2010,illinois,
+Rasmussen Reports,2010/10/18,2010/10/18,750,LV,44,40,,2010,illinois,
+PPP (D),2010/10/14,2010/10/16,557,LV,42,40,,2010,illinois,
+Rasmussen Reports,2010/10/11,2010/10/11,750,LV,43,44,,2010,illinois,
+The Simon Poll/SIU,2010/09/30,2010/10/10,758,LV,37,37,,2010,illinois,
+Rasmussen Reports,2010/10/04,2010/10/04,750,LV,45,41,,2010,illinois,
+Suffolk University,2010/09/30,2010/10/03,500,LV,42,41,,2010,illinois,
+Chicago Tribune,2010/09/24,2010/09/28,600,LV,36,38,,2010,illinois,
+CNN/Time,2010/09/24,2010/09/28,828,LV,42,43,,2010,illinois,
+FOX News/POR-Rasmussen,2010/09/25,2010/09/25,1000,LV,42,40,,2010,illinois,
+PPP (D),2010/09/23,2010/09/26,470,LV,40,36,,2010,illinois,
+Rasmussen Reports,2010/09/21,2010/09/21,750,LV,44,41,,2010,illinois,
+WeAskAmerica,2010/09/13,2010/09/13,1379,LV,39,36,,2010,illinois,
+Rasmussen Reports,2010/09/07,2010/09/07,750,LV,41,37,,2010,illinois,
+Chicago Tribune,2010/08/28,2010/09/01,600,LV,34,34,,2010,illinois,
+Rasmussen Reports,2010/08/23,2010/08/23,750,LV,45,45,,2010,illinois,
+PPP (D),2010/08/14,2010/08/15,576,LV,35,37,,2010,illinois,
+Rasmussen Reports,2010/08/09,2010/08/09,750,LV,40,40,,2010,illinois,
+WeAskAmerica,2010/08/04,2010/08/04,998,RV,39,33,,2010,illinois,
+PPP (D),2010/06/12,2010/06/13,591,RV,30,31,,2010,illinois,
+Rasmussen Reports,2010/07/26,2010/07/26,750,LV,41,43,,2010,illinois,
+Rasmussen Reports,2010/07/07,2010/07/07,500,LV,39,40,,2010,illinois,
+Rasmussen Reports,2010/06/07,2010/06/07,500,LV,42,39,,2010,illinois,
+R2000/Daily Kos (D)**,2010/05/03,2010/05/05,600,LV,41,38,,2010,illinois,
+Rasmussen Reports,2010/04/28,2010/04/28,500,LV,46,38,,2010,illinois,
+Rasmussen Reports,2010/04/05,2010/04/05,500,LV,41,37,,2010,illinois,
+PPP (D),2010/04/01,2010/04/05,591,LV,37,33,,2010,illinois,
+Rasmussen Reports,2010/03/08,2010/03/08,500,LV,41,44,,2010,illinois,
+R2000/Daily Kos (D)**,2010/02/22,2010/02/24,600,LV,36,43,,2010,illinois,
+Rasmussen Reports,2010/02/03,2010/02/03,500,LV,46,40,,2010,illinois,
+PPP (D),2010/01/22,2010/01/25,1062,LV,34,42,,2010,illinois,
+Rasmussen Reports,2009/12/09,2009/12/09,500,LV,39,42,,2010,illinois,
+Rasmussen Reports,2009/10/14,2009/10/14,500,LV,41,41,,2010,illinois,
+Rasmussen Reports,2009/08/12,2009/08/12,500,LV,41,38,,2010,illinois,
+PPP (D),2009/04/24,2009/04/26,991,RV,35,35,,2010,illinois,
+R2000/Daily Kos (D)**,2009/01/26,2009/01/28,600,LV,30,38,,2010,illinois,
+Rasmussen Reports,2010/09/21,2010/09/21,500,LV,58,30,,2010,alabama,
+Rasmussen Reports,2010/08/19,2010/08/19,500,LV,60,28,,2010,alabama,
+Rasmussen Reports,2010/07/22,2010/07/22,500,LV,59,29,,2010,alabama,
+Rasmussen Reports,2010/06/03,2010/06/03,500,LV,58,31,,2010,alabama,
+Rasmussen Reports,2010/05/25,2010/05/25,500,LV,58,31,,2010,alabama,
+R2000/Daily Kos (D)**,2010/05/17,2010/05/19,600,LV,57,33,,2010,alabama,
+Rasmussen Reports,2010/03/29,2010/03/29,500,LV,59,32,,2010,alabama,
+Monmouth,2010/10/25,2010/10/27,1171,LV,41,51,,2010,delaware,
+Fairleigh Dickinson,2010/10/20,2010/10/26,797,LV,36,57,,2010,delaware,
+Rasmussen Reports,2010/10/14,2010/10/14,500,LV,40,51,,2010,delaware,
+SurveyUSA,2010/10/11,2010/10/12,2355,LV,33,54,,2010,delaware,
+CNN/Time,2010/10/08,2010/10/12,834,LV,38,57,,2010,delaware,
+Magellan Strategies (R),2010/10/10,2010/10/10,928,LV,36,54,,2010,delaware,
+Monmouth,2010/10/08,2010/10/11,790,LV,38,57,,2010,delaware,
+FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,38,54,,2010,delaware,
+Fairleigh Dickinson,2010/09/27,2010/10/03,801,LV,36,53,,2010,delaware,
+CNN/Time,2010/09/17,2010/09/21,703,LV,39,55,,2010,delaware,
+FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,39,54,,2010,delaware,
+Rasmussen Reports,2010/09/15,2010/09/15,500,LV,42,53,,2010,delaware,
+PPP (D),2010/09/11,2010/09/12,958,LV,34,50,,2010,delaware,
+Rasmussen Reports,2010/09/02,2010/09/02,500,LV,36,47,,2010,delaware,
+Daily Kos/PPP (D),2010/08/07,2010/08/08,620,RV,37,44,,2010,delaware,
+Rasmussen Reports,2010/08/05,2010/08/05,500,LV,36,46,,2010,delaware,
+Rasmussen Reports,2010/07/14,2010/07/14,500,LV,41,39,,2010,delaware,
+Magellan Strategies (R),2010/10/24,2010/10/24,1347,LV,52,35,,2010,louisiana,
+WWL-TV/Clarus Research,2010/10/21,2010/10/24,700,LV,50,38,,2010,louisiana,
+Rasmussen Reports,2010/08/30,2010/08/30,500,LV,54,33,,2010,louisiana,
+PPP (D),2010/08/21,2010/08/22,403,LV,51,41,,2010,louisiana,
+Magellan Strategies (R),2010/10/10,2010/10/10,1107,LV,51,35,,2010,louisiana,
+Magellan Strategies (R),2010/09/19,2010/09/19,1232,LV,52,34,,2010,louisiana,
+WWL-TV/Clarus Research,2010/08/15,2010/08/16,600,RV,48,36,,2010,louisiana,
+Rasmussen Reports,2010/06/24,2010/06/24,500,LV,53,35,,2010,louisiana,
+PPP (D),2010/06/12,2010/06/13,492,LV,46,37,,2010,louisiana,
+Magellan Strategies (R),2010/06/10,2010/06/13,1030,LV,51,31,,2010,louisiana,
+SMOR/Grigsby (R),2010/04/19,2010/04/23,600,RV,49,31,,2010,louisiana,
+Rasmussen Reports,2010/04/07,2010/04/07,500,LV,52,36,,2010,louisiana,
+Rasmussen Reports,2010/02/10,2010/02/10,500,LV,57,33,,2010,louisiana,
+Rasmussen Reports,2010/01/14,2010/01/14,500,LV,53,35,,2010,louisiana,
+SMOR/Grigsby (R),2009/10/12,2009/10/15,600,LV,48,36,,2010,louisiana,
+Rasmussen Reports,2009/10/05,2009/10/05,500,LV,46,36,,2010,louisiana,
+PPP (D),2009/07/17,2009/07/19,727,LV,44,32,,2010,louisiana,
+SurveyUSA,2010/10/22,2010/10/26,561,LV,66,26,,2010,kansas,
+SurveyUSA,2010/10/10,2010/10/12,619,LV,67,27,,2010,kansas,
+SurveyUSA,2010/09/14,2010/09/16,602,LV,66,24,,2010,kansas,
+SurveyUSA,2010/08/12,2010/08/15,588,LV,69,23,,2010,kansas,
+Rasmussen Reports,2010/08/04,2010/08/04,500,LV,61,28,,2010,kansas,
+Rasmussen Reports,2010/06/30,2010/06/30,500,LV,59,23,,2010,kansas,
+Rasmussen Reports,2010/05/11,2010/05/11,500,LV,61,25,,2010,kansas,
+Sooner Poll,2010/10/03,2010/10/07,352,LV,62,22,,2010,oklahoma,
+Rasmussen Reports,2010/09/23,2010/09/23,500,LV,68,26,,2010,oklahoma,
+Rasmussen Reports,2010/08/26,2010/08/26,500,LV,67,24,,2010,oklahoma,
+Rasmussen Reports,2010/07/28,2010/07/28,500,LV,65,31,,2010,oklahoma,
+Rasmussen Reports,2010/06/30,2010/06/30,500,LV,65,26,,2010,oklahoma,
+Rasmussen Reports,2010/10/28,2010/10/28,500,LV,55,36,,2010,arkansas,
+Mason-Dixon,2010/10/15,2010/10/19,625,LV,55,34,,2010,arkansas,
+The Arkansas Poll,2010/10/08,2010/10/20,566,LV,54,35,,2010,arkansas,
+CNN/Time,2010/10/15,2010/10/19,809,LV,55,41,,2010,arkansas,
+Rasmussen Reports,2010/09/30,2010/09/30,500,LV,55,37,,2010,arkansas,
+Reuters/Ipsos,2010/09/17,2010/09/19,436,LV,53,39,,2010,arkansas,
+Talk Business Poll,2010/09/16,2010/09/16,573,LV,56,29,,2010,arkansas,
+Mason-Dixon,2010/09/12,2010/09/14,625,LV,51,34,,2010,arkansas,
+Rasmussen Reports,2010/08/18,2010/08/18,500,LV,65,27,,2010,arkansas,
+Rasmussen Reports,2010/07/20,2010/07/20,500,LV,60,35,,2010,arkansas,
+Reuters/Ipsos,2010/07/16,2010/07/18,600,RV,54,35,,2010,arkansas,
+Talk Business Poll,2010/07/17,2010/07/17,793,LV,57,32,,2010,arkansas,
+Magellan Strategies (R),2010/07/12,2010/07/12,897,LV,60,29,,2010,arkansas,
+Rasmussen Reports,2010/06/15,2010/06/15,500,LV,61,32,,2010,arkansas,
+R2000/Daily Kos (D)**,2010/05/24,2010/05/26,600,LV,58,38,,2010,arkansas,
+Rasmussen Reports,2010/05/19,2010/05/19,500,LV,66,28,,2010,arkansas,
+R2000/Daily Kos (D)**,2010/05/10,2010/05/12,600,LV,54,40,,2010,arkansas,
+Mason-Dixon,2010/05/03,2010/05/05,625,LV,52,35,,2010,arkansas,
+R2000/Daily Kos (D)**,2010/04/26,2010/04/28,600,LV,52,42,,2010,arkansas,
+Rasmussen Reports,2010/04/26,2010/04/26,500,LV,57,29,,2010,arkansas,
+R2000/Daily Kos (D)**,2010/04/12,2010/04/14,600,LV,50,43,,2010,arkansas,
+Rasmussen Reports,2010/03/30,2010/03/30,500,LV,51,36,,2010,arkansas,
+R2000/Daily Kos (D)**,2010/03/22,2010/03/24,600,LV,49,42,,2010,arkansas,
+Rasmussen Reports,2010/03/01,2010/03/01,500,LV,48,39,,2010,arkansas,
+Rasmussen Reports,2010/02/01,2010/02/01,500,LV,54,35,,2010,arkansas,
+PPP (D),2009/01/29,2010/01/31,810,RV,56,33,,2010,arkansas,
+Mason-Dixon,2010/10/26,2010/10/28,625,LV,56,33,,2010,georgia,
+Rasmussen Reports,2010/10/24,2010/10/24,750,LV,59,29,,2010,georgia,
+SurveyUSA,2010/10/21,2010/10/24,601,LV,58,34,,2010,georgia,
+Landmark (R),2010/10/19,2010/10/19,3277,LV,56,35,,2010,georgia,
+Rasmussen Reports,2010/10/06,2010/10/06,750,LV,53,38,,2010,georgia,
+Insider Advantage,2010/09/27,2010/09/27,412,LV,61,29,,2010,georgia,
+Rasmussen Reports,2010/09/21,2010/09/21,500,LV,52,36,,2010,georgia,
+Insider Advantage,2010/09/16,2010/09/16,632,LV,52,34,,2010,georgia,
+Mason-Dixon,2010/09/13,2010/09/15,625,LV,52,33,,2010,georgia,
+SurveyUSA,2010/09/10,2010/09/12,599,LV,56,34,,2010,georgia,
+Insider Advantage,2010/08/18,2010/08/18,554,RV,47,35,,2010,georgia,
+Rasmussen Reports,2010/08/11,2010/08/11,500,LV,55,41,,2010,georgia,
+Rasmussen Reports,2010/05/20,2010/05/20,500,LV,57,30,,2010,georgia,
+Rasmussen Reports,2010/04/22,2010/04/22,500,LV,51,35,,2010,georgia,
+R2000/Daily Kos (D)**,2010/04/05,2010/04/07,600,LV,53,26,,2010,georgia,
+Rasmussen Reports,2010/10/31,2010/10/31,750,LV,46,53,,2010,connecticut,
+Quinnipiac,2010/10/25,2010/10/31,930,LV,44,53,,2010,connecticut,
+PPP (D),2010/10/27,2010/10/29,759,LV,43,54,,2010,connecticut,
+CT Capitol Report/MRG,2010/10/24,2010/10/26,1846,LV,44,52,,2010,connecticut,
+Rasmussen Reports,2010/10/24,2010/10/24,750,LV,43,56,,2010,connecticut,
+Quinnipiac,2010/10/18,2010/10/24,702,LV,42,54,,2010,connecticut,
+FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,42,53,,2010,connecticut,
+Suffolk University*,2010/10/19,2010/10/20,500,LV,39,57,,2010,connecticut,
+Rasmussen Reports,2010/10/14,2010/10/14,750,LV,46,51,,2010,connecticut,
+Quinnipiac,2010/10/07,2010/10/11,1119,LV,43,54,,2010,connecticut,
+FOX News/POR-Rasmussen,2010/10/09,2010/10/09,1000,LV,43,49,,2010,connecticut,
+Rasmussen Reports,2010/10/05,2010/10/05,750,LV,43,54,,2010,connecticut,
+CT Capitol Report/MRG,2010/10/03,2010/10/03,1623,LV,45,52,,2010,connecticut,
+CNN/Time,2010/10/01,2010/10/05,773,LV,41,54,,2010,connecticut,
+FOX News/POR-Rasmussen,2010/10/02,2010/10/02,1000,LV,42,52,,2010,connecticut,
+PPP (D),2010/09/30,2010/10/02,810,LV,41,53,,2010,connecticut,
+Rasmussen Reports,2010/09/26,2010/09/26,500,LV,45,50,,2010,connecticut,
+Quinnipiac,2010/09/21,2010/09/26,1083,LV,46,49,,2010,connecticut,
+Quinnipiac,2010/09/08,2010/09/12,875,LV,45,51,,2010,connecticut,
+Rasmussen Reports,2010/09/09,2010/09/09,500,LV,44,53,,2010,connecticut,
+Rasmussen Reports,2010/08/11,2010/08/11,500,LV,40,47,,2010,connecticut,
+Quinnipiac,2010/07/28,2010/08/02,1299,RV,40,50,,2010,connecticut,
+Rasmussen Reports,2010/07/15,2010/07/15,500,LV,40,53,,2010,connecticut,
+Quinnipiac,2010/07/07,2010/07/13,1367,RV,37,54,,2010,connecticut,
+Quinnipiac,2010/06/02,2010/06/08,1350,RV,35,55,,2010,connecticut,
+Rasmussen Reports,2010/06/01,2010/06/01,500,LV,33,56,,2010,connecticut,
+R2000/Daily Kos (D)**,2010/05/24,2010/05/26,600,LV,33,52,,2010,connecticut,
+Quinnipiac,2010/05/24,2010/05/25,1159,RV,31,56,,2010,connecticut,
+Rasmussen Reports,2010/05/18,2010/05/18,500,LV,45,48,,2010,connecticut,
+Rasmussen Reports,2010/05/04,2010/05/04,500,LV,39,52,,2010,connecticut,
+Rasmussen Reports,2010/04/07,2010/04/07,500,LV,35,55,,2010,connecticut,
+Quinnipiac,2010/03/09,2010/03/15,1451,RV,28,61,,2010,connecticut,
+Rasmussen Reports,2010/03/02,2010/03/02,500,LV,31,60,,2010,connecticut,
+Rasmussen Reports,2010/02/01,2010/02/01,500,LV,36,56,,2010,connecticut,
+R2000/Daily Kos (D)**,2010/01/11,2010/01/13,600,LV,34,56,,2010,connecticut,
+Quinnipiac,2010/01/08,2010/01/12,1430,RV,23,64,,2010,connecticut,
+Rasmussen Reports,2010/01/06,2010/01/06,500,LV,34,58,,2010,connecticut,
+PPP (D),2010/01/04,2010/01/05,522,LV,28,60,,2010,connecticut,
+PPP (D),2010/10/29,2010/10/31,882,LV,46,50,,2010,california,
+SurveyUSA,2010/10/26,2010/10/31,587,LV,38,46,,2010,california,
+Rasmussen Reports,2010/10/27,2010/10/27,750,LV,46,49,,2010,california,
+CNN/Time,2010/10/20,2010/10/26,888,LV,45,50,,2010,california,
+SurveyUSA,2010/10/21,2010/10/25,594,LV,40,45,,2010,california,
+FOX News/POR-Rasmussen,2010/10/23,2010/10/23,1000,LV,44,48,,2010,california,
+Suffolk University,2010/10/21,2010/10/24,600,LV,43,52,,2010,california,
+PPP (D),2010/10/21,2010/10/23,622,LV,43,52,,2010,california,
+Field,2010/10/14,2010/10/26,1092,LV,41,49,,2010,california,
+Rasmussen Reports,2010/10/21,2010/10/21,750,LV,46,48,,2010,california,
+SurveyUSA,2010/10/15,2010/10/18,621,LV,44,46,,2010,california,
+LA Times/USC,2010/10/13,2010/10/20,922,LV,42,50,,2010,california,
+FOX News/POR-Rasmussen,2010/10/16,2010/10/16,1000,LV,44,48,,2010,california,
+PPIC,2010/10/10,2010/10/17,1067,LV,38,43,,2010,california,
+Wilson Research (R),2010/10/13,2010/10/14,800,LV,46,43,,2010,california,
+Reuters/Ipsos,2010/10/12,2010/10/14,448,LV,45,46,,2010,california,
+Rasmussen Reports,2010/10/13,2010/10/13,750,LV,46,49,,2010,california,
+Reuters/Ipsos,2010/10/02,2010/10/04,448,LV,45,49,,2010,california,
+Rasmussen Reports,2010/10/03,2010/10/03,750,LV,45,49,,2010,california,
+SurveyUSA,2010/09/30,2010/10/03,670,LV,43,46,,2010,california,
+CNN/Time,2010/09/24,2010/09/28,786,LV,43,52,,2010,california,
+PPIC,2010/09/19,2010/09/26,1104,LV,35,42,,2010,california,
+SurveyUSA,2010/09/19,2010/09/21,610,LV,43,49,,2010,california,
+Rasmussen Reports,2010/09/20,2010/09/20,750,LV,43,47,,2010,california,
+LA Times/USC,2010/09/15,2010/09/22,887,LV,43,51,,2010,california,
+Field,2010/09/14,2010/09/21,599,LV,41,47,,2010,california,
+FOX News/POR-Rasmussen,2010/09/18,2010/09/18,1000,LV,46,47,,2010,california,
+PPP (D),2010/09/14,2010/09/16,630,LV,42,50,,2010,california,
+FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,44,46,,2010,california,
+CNN/Time,2010/09/02,2010/09/07,866,RV,44,48,,2010,california,
+Rasmussen Reports,2010/09/06,2010/09/06,750,LV,48,47,,2010,california,
+SurveyUSA,2010/08/31,2010/09/01,569,LV,48,46,,2010,california,
+Rasmussen Reports,2010/08/24,2010/08/24,750,LV,44,49,,2010,california,
+SurveyUSA,2010/08/09,2010/08/11,602,LV,47,42,,2010,california,
+Rasmussen Reports,2010/08/03,2010/08/03,750,LV,40,45,,2010,california,
+PPP (D),2010/07/23,2010/07/25,614,RV,40,49,,2010,california,
+PPIC,2010/07/06,2010/07/20,1321,LV,34,39,,2010,california,
+Rasmussen Reports,2010/07/12,2010/07/12,500,LV,42,49,,2010,california,
+SurveyUSA,2010/07/08,2010/07/11,614,LV,47,45,,2010,california,
+Field,2010/06/22,2010/07/05,1005,LV,44,47,,2010,california,
+Reuters/Ipsos,2010/06/25,2010/06/27,600,RV,41,45,,2010,california,
+Rasmussen Reports,2010/06/09,2010/06/09,500,LV,43,48,,2010,california,
+LA Times/USC,2010/05/19,2010/05/26,1506,RV,38,44,,2010,california,
+PPP (D),2010/05/21,2010/05/23,921,RV,42,45,,2010,california,
+R2000/Daily Kos (D)**,2010/05/17,2010/05/19,600,LV,39,48,,2010,california,
+PPIC,2010/05/09,2010/05/16,1168,LV,39,48,,2010,california,
+Rasmussen Reports,2010/05/12,2010/05/12,500,LV,38,45,,2010,california,
+Rasmussen Reports,2010/04/12,2010/04/12,500,LV,38,42,,2010,california,
+PPIC,2010/03/09,2010/03/16,1102,LV,43,44,,2010,california,
+Field,2010/03/09,2010/03/15,748,LV,44,45,,2010,california,
+Rasmussen Reports,2010/03/11,2010/03/11,500,LV,40,46,,2010,california,
+R2000/Daily Kos (D)**,2010/03/08,2010/03/10,600,LV,40,49,,2010,california,
+Rasmussen Reports,2010/02/11,2010/02/11,500,LV,42,46,,2010,california,
+PPIC,2010/01/12,2010/01/19,1223,LV,40,48,,2010,california,
+Rasmussen Reports,2010/01/14,2010/01/14,500,LV,43,46,,2010,california,
+Field,2010/01/05,2010/01/17,958,LV,35,50,,2010,california,
+Rasmussen Reports,2009/11/17,2009/11/17,500,LV,37,46,,2010,california,
+Field,2009/09/18,2009/10/06,1005,RV,35,49,,2010,california,
+Rasmussen Reports,2009/09/23,2009/09/23,500,LV,39,49,,2010,california,
+R2000/Daily Kos (D)**,2009/08/09,2009/08/12,600,LV,31,52,,2010,california,
+Rasmussen Reports,2009/07/22,2009/07/22,500,LV,41,45,,2010,california,
+Field,2009/02/20,2009/03/01,761,RV,25,55,,2010,california,
+WMUR/UNH,2010/10/27,2010/10/31,885,LV,54,36,,2010,new-hampshire,
+PPP (D),2010/10/27,2010/10/29,1308,LV,56,41,,2010,new-hampshire,
+Rasmussen Reports,2010/10/27,2010/10/27,750,LV,56,41,,2010,new-hampshire,
+WMUR/UNH,2010/10/07,2010/10/12,709,LV,50,35,,2010,new-hampshire,
+Rasmussen Reports,2010/10/10,2010/10/10,750,LV,51,44,,2010,new-hampshire,
+ARG,2010/10/03,2010/10/05,600,LV,47,42,,2010,new-hampshire,
+WMUR/UNH,2010/09/23,2010/09/29,466,LV,50,35,,2010,new-hampshire,
+ARG,2010/09/22,2010/09/26,800,LV,46,32,,2010,new-hampshire,
+Rasmussen Reports,2010/09/15,2010/09/15,500,LV,51,44,,2010,new-hampshire,
+PPP (D),2010/09/11,2010/09/12,1959,LV,47,43,,2010,new-hampshire,
+Rasmussen Reports,2010/08/05,2010/08/05,500,LV,51,38,,2010,new-hampshire,
+WMUR/UNH,2010/07/19,2010/07/27,446,LV,45,37,,2010,new-hampshire,
+PPP (D),2010/07/23,2010/07/25,900,RV,45,42,,2010,new-hampshire,
+Rasmussen Reports,2010/07/12,2010/07/12,500,LV,49,37,,2010,new-hampshire,
+Rasmussen Reports,2010/05/11,2010/05/11,500,LV,50,38,,2010,new-hampshire,
+WMUR/UNH,2010/04/12,2010/04/21,462,LV,47,32,,2010,new-hampshire,
+PPP (D),2010/04/17,2010/04/18,1474,LV,47,40,,2010,new-hampshire,
+Rasmussen Reports,2010/04/07,2010/04/07,500,LV,50,35,,2010,new-hampshire,
+Rasmussen Reports,2010/03/08,2010/03/08,500,LV,47,37,,2010,new-hampshire,
+Rasmussen Reports,2010/02/10,2010/02/10,500,LV,46,39,,2010,new-hampshire,
+R2000/Daily Kos (D)**,2010/02/01,2010/02/03,600,LV,46,39,,2010,new-hampshire,
+WMUR/UNH,2010/01/27,2010/02/03,444,LV,41,33,,2010,new-hampshire,
+Rasmussen Reports,2010/01/12,2010/01/12,500,LV,49,40,,2010,new-hampshire,
+ARG,2009/12/26,2009/12/29,566,RV,43,36,,2010,new-hampshire,
+WMUR/UNH,2009/09/25,2009/10/02,503,A,40,33,,2010,new-hampshire,
+ARG,2009/09/25,2009/09/29,572,LV,41,34,,2010,new-hampshire,
+Rasmussen Reports,2009/09/14,2009/09/14,500,LV,46,38,,2010,new-hampshire,
+R2000/Daily Kos (D)**,2009/07/13,2009/07/15,600,LV,39,38,,2010,new-hampshire,
+University of New Hampshire,2009/06/24,2009/07/01,558,A,39,35,,2010,new-hampshire,
+Rasmussen Reports,2010/10/21,2010/10/21,500,LV,72,25,,2010,north-dakota,
+Rasmussen Reports,2010/09/20,2010/09/21,500,LV,68,25,,2010,north-dakota,
+Rasmussen Reports,2010/08/10,2010/08/11,500,LV,69,25,,2010,north-dakota,
+Rasmussen Reports,2010/07/21,2010/07/21,500,LV,69,22,,2010,north-dakota,
+Rasmussen Reports,2010/06/15,2010/06/16,500,LV,73,19,,2010,north-dakota,
+Rasmussen Reports,2010/05/18,2010/05/19,500,LV,72,23,,2010,north-dakota,
+Rasmussen Reports,2010/04/20,2010/04/20,500,LV,69,24,,2010,north-dakota,
+Rasmussen Reports,2010/03/23,2010/03/23,500,LV,68,25,,2010,north-dakota,
+PPP (D),2010/10/29,2010/10/31,847,LV,52,40,,2010,north-carolina,
+SurveyUSA,2010/10/22,2010/10/25,590,LV,53,38,,2010,north-carolina,
+Civitas (R),2010/10/18,2010/10/20,600,LV,44,34,,2010,north-carolina,
+Rasmussen Reports,2010/10/12,2010/10/12,500,LV,52,38,,2010,north-carolina,
+PPP (D),2010/10/15,2010/10/17,597,LV,48,40,,2010,north-carolina,
+PPP (D),2010/09/23,2010/09/26,681,LV,49,36,,2010,north-carolina,
+Civitas (R),2010/09/15,2010/09/17,600,LV,49,29,,2010,north-carolina,
+SurveyUSA,2010/09/10,2010/09/13,582,LV,58,34,,2010,north-carolina,
+Rasmussen Reports,2010/09/08,2010/09/08,500,LV,54,38,,2010,north-carolina,
+PPP (D),2010/08/27,2010/08/29,724,LV,43,38,,2010,north-carolina,
+Rasmussen Reports,2010/08/03,2010/08/03,500,LV,49,40,,2010,north-carolina,
+PPP (D),2010/07/27,2010/07/31,624,RV,39,37,,2010,north-carolina,
+Civitas (R),2010/07/19,2010/07/21,600,LV,44,37,,2010,north-carolina,
+SurveyUSA,2010/07/08,2010/07/11,560,LV,46,36,,2010,north-carolina,
+Rasmussen Reports,2010/07/06,2010/07/06,500,LV,52,37,,2010,north-carolina,
+PPP (D),2010/06/26,2010/06/27,601,LV,38,33,,2010,north-carolina,
+SurveyUSA,2010/06/23,2010/06/24,617,LV,50,40,,2010,north-carolina,
+Rasmussen Reports,2010/06/23,2010/06/23,500,LV,44,43,,2010,north-carolina,
+PPP (D),2010/06/04,2010/06/06,601,LV,46,39,,2010,north-carolina,
+Rasmussen Reports,2010/06/03,2010/06/03,500,LV,50,36,,2010,north-carolina,
+PPP (D),2010/05/08,2010/05/10,631,LV,43,42,,2010,north-carolina,
+Rasmussen Reports,2010/05/05,2010/05/05,1200,LV,48,40,,2010,north-carolina,
+Rasmussen Reports,2010/04/19,2010/04/19,500,LV,50,32,,2010,north-carolina,
+PPP (D),2010/04/08,2010/04/11,742,LV,43,37,,2010,north-carolina,
+Rasmussen Reports,2010/03/22,2010/03/22,500,LV,51,35,,2010,north-carolina,
+PPP (D),2010/03/12,2010/03/15,878,LV,41,36,,2010,north-carolina,
+Rasmussen Reports,2010/02/23,2010/02/23,500,LV,50,34,,2010,north-carolina,
+Mason-Dixon,2010/02/15,2010/02/17,625,RV,54,29,,2010,north-carolina,
+PPP (D),2010/02/12,2010/02/15,788,LV,43,33,,2010,north-carolina,
+Rasmussen Reports,2010/01/27,2010/01/27,500,LV,47,37,,2010,north-carolina,
+PPP (D),2009/12/11,2009/12/13,593,LV,42,37,,2010,north-carolina,
+Civitas (R),2009/12/01,2009/12/03,600,LV,40,32,,2010,north-carolina,
+PPP (D),2009/11/09,2009/11/11,711,LV,45,34,,2010,north-carolina,
+Change Congress (D),2009/10/31,2009/11/01,600,LV,42,35,,2010,north-carolina,
+Civitas (R),2009/10/20,2009/10/21,600,LV,44,33,,2010,north-carolina,
+Rasmussen Reports,2009/09/15,2009/09/15,500,LV,48,38,,2010,north-carolina,
+PPP (D),2009/09/02,2009/09/08,600,LV,42,31,,2010,north-carolina,
+PPP (D),2009/08/04,2009/08/10,749,LV,43,31,,2010,north-carolina,
+PPP (D),2009/03/12,2009/03/15,1000,RV,43,35,,2010,north-carolina,
+Siena,2010/10/27,2010/10/30,603,LV,32,64,,2010,new-york,1
+Marist,2010/10/26,2010/10/28,415,LV,36,60,,2010,new-york,1
+SurveyUSA,2010/10/25,2010/10/28,544,LV,32,62,,2010,new-york,1
+Quinnipiac,2010/10/18,2010/10/24,672,LV,32,64,,2010,new-york,1
+Rasmussen Reports,2010/10/19,2010/10/19,500,LV,31,59,,2010,new-york,1
+Marist,2010/10/18,2010/10/20,505,LV,35,63,,2010,new-york,1
+Siena,2010/10/14,2010/10/18,647,LV,28,67,,2010,new-york,1
+New York Times,2010/10/10,2010/10/15,LV,,21,61,,2010,new-york,1
+SurveyUSA,2010/10/11,2010/10/13,633,LV,30,63,,2010,new-york,1
+SurveyUSA,2010/10/05,2010/10/07,627,LV,30,60,,2010,new-york,1
+CNN/Time,2010/10/01,2010/10/05,585,LV,41,57,,2010,new-york,1
+Quinnipiac,2010/10/01,2010/10/05,1141,LV,32,63,,2010,new-york,1
+PPP (D),2010/10/01,2010/10/03,592,LV,37,59,,2010,new-york,1
+Marist,2010/09/19,2010/09/22,617,LV,37,58,,2010,new-york,1
+SurveyUSA,2010/09/20,2010/09/21,572,LV,33,54,,2010,new-york,1
+Siena,2010/09/16,2010/09/21,801,RV,30,63,,2010,new-york,1
+Quinnipiac,2010/09/16,2010/09/20,751,LV,38,54,,2010,new-york,1
+Rasmussen Reports,2010/09/16,2010/09/16,500,LV,36,58,,2010,new-york,1
+Siena,2010/07/06,2010/07/12,760,RV,26,63,,2010,new-york,1
+Rasmussen Reports,2010/06/16,2010/06/16,500,LV,33,54,,2010,new-york,1
+Siena,2010/06/07,2010/06/09,808,RV,26,60,,2010,new-york,1
+Marist,2010/05/03,2010/05/05,686,RV,27,66,,2010,new-york,1
+PPP (D),2010/10/30,2010/10/31,1539,LV,37,30,30,2010,alaska,
+Dittman Research (R),2010/10/23,2010/10/28,421,LV,27,23,37,2010,alaska,
+CNN/Time,2010/10/15,2010/10/19,946,LV,37,23,37,2010,alaska,
+Rasmussen Reports,2010/10/13,2010/10/13,500,LV,35,27,34,2010,alaska,
+Daily Kos/PPP (D),2010/10/09,2010/10/10,1678,LV,35,26,33,2010,alaska,
+CNN/Time,2010/09/24,2010/09/28,927,LV,38,22,36,2010,alaska,
+Rasmussen Reports,2010/09/19,2010/09/19,500,LV,42,25,27,2010,alaska,
+PPP (D),2010/10/30,2010/10/31,773,LV,47,21,30,2010,florida,
+Sunshine State News/VSS,2010/10/29,2010/10/31,1527,LV,48,20,31,2010,florida,
+Quinnipiac,2010/10/25,2010/10/31,925,LV,45,18,31,2010,florida,
+Rasmussen Reports,2010/10/27,2010/10/27,750,LV,50,16,30,2010,florida,
+Mason-Dixon,2010/10/25,2010/10/27,625,LV,45,21,28,2010,florida,
+Sunshine State News/VSS,2010/10/26,2010/10/27,1576,LV,47,23,27,2010,florida,
+Quinnipiac,2010/10/18,2010/10/24,784,LV,42,15,35,2010,florida,
+TCPalm.com/Zogby,2010/10/18,2010/10/21,802,LV,40,18,33,2010,florida,
+St. Petersburg Times,2010/10/15,2010/10/19,577,LV,41,20,26,2010,florida,
+CNN/Time,2010/10/15,2010/10/19,798,LV,46,20,32,2010,florida,
+Rasmussen Reports,2010/10/18,2010/10/18,750,LV,43,20,32,2010,florida,
+Suffolk University,2010/10/14,2010/10/17,500,LV,39,22,31,2010,florida,
+PPP (D),2010/10/09,2010/10/10,448,LV,44,21,33,2010,florida,
+Quinnipiac,2010/10/06,2010/10/10,1055,LV,44,22,30,2010,florida,
+Sunshine State News/VSS,2010/10/06,2010/10/10,1151,LV,45,22,29,2010,florida,
+Rasmussen Reports,2010/10/07,2010/10/07,750,LV,50,19,25,2010,florida,
+Mason-Dixon,2010/10/04,2010/10/06,625,LV,42,21,27,2010,florida,
+FL CoC/POS (R),2010/09/27,2010/09/30,800,LV,40,16,33,2010,florida,
+Rasmussen Reports,2010/09/28,2010/09/28,750,LV,41,21,30,2010,florida,
+TCPalm.com/Zogby,2010/09/27,2010/09/29,802,LV,39,18,33,2010,florida,
+CNN/Time,2010/09/24,2010/09/28,786,LV,42,23,31,2010,florida,
+Quinnipiac,2010/09/23,2010/09/26,1151,LV,46,18,33,2010,florida,
+Mason-Dixon,2010/09/20,2010/09/22,625,LV,40,23,28,2010,florida,
+Rasmussen Reports,2010/09/14,2010/09/14,750,LV,41,23,30,2010,florida,
+Reuters/Ipsos,2010/09/10,2010/09/12,486,LV,40,21,26,2010,florida,
+FOX News/POR-Rasmussen,2010/09/11,2010/09/11,1000,LV,43,21,27,2010,florida,
+CNN/Time,2010/09/02,2010/09/07,899,RV,36,24,34,2010,florida,
+Sunshine State News/VSS,2010/09/01,2010/09/07,1016,LV,43,23,29,2010,florida,
+Rasmussen Reports,2010/08/25,2010/08/25,750,LV,40,21,30,2010,florida,
+PPP (D),2010/08/21,2010/08/22,567,LV,40,17,32,2010,florida,
+Quinnipiac,2010/08/11,2010/08/16,1096,RV,32,16,39,2010,florida,
+Mason-Dixon,2010/08/09,2010/08/11,625,LV,38,18,33,2010,florida,
+Rasmussen Reports,2010/08/09,2010/08/09,750,LV,38,21,33,2010,florida,
+St. Petersburg Times,2010/08/06,2010/08/10,602,RV,29,17,33,2010,florida,
+AIF/McLaughlin (R),2010/07/31,2010/08/01,600,LV,36,16,38,2010,florida,
+Florida Poll/NYT-USF,2010/07/24,2010/07/28,590,LV,30,12,41,2010,florida,
+Quinnipiac,2010/07/22,2010/07/27,969,RV,33,13,39,2010,florida,
+Rasmussen Reports,2010/07/21,2010/07/21,750,LV,35,20,33,2010,florida,
+PPP (D),2010/07/16,2010/07/18,900,RV,29,17,35,2010,florida,
+Reuters/Ipsos,2010/07/09,2010/07/11,600,RV,28,17,35,2010,florida,
+Rasmussen Reports,2010/07/06,2010/07/06,500,LV,36,15,34,2010,florida,
+FL Chamber of Commerce,2010/06/09,2010/06/13,607,LV,31,14,42,2010,florida,
+Rasmussen Reports,2010/06/07,2010/06/07,500,LV,37,15,37,2010,florida,
+Quinnipiac,2010/06/01,2010/06/07,1133,RV,33,17,37,2010,florida,
+St. Petersburg Times,2010/05/14,2010/05/18,607,RV,27,15,30,2010,florida,
+Rasmussen Reports,2010/05/16,2010/05/16,500,LV,39,18,31,2010,florida,
+Mason-Dixon,2010/05/03,2010/05/05,625,LV,32,19,38,2010,florida,
+Rasmussen Reports,2010/05/03,2010/05/03,500,LV,34,17,38,2010,florida,
+Rasmussen Reports,2010/04/21,2010/04/21,500,LV,37,22,30,2010,florida,
+Quinnipiac,2010/04/08,2010/04/13,1250,RV,30,24,32,2010,florida,
+Rasmussen Reports,2010/03/18,2010/03/18,1000,LV,42,25,22,2010,florida,
+R2000/Daily Kos (D)**,2010/03/15,2010/03/17,600,LV,32,27,29,2010,florida,
+PPP (D),2010/03/05,2010/03/08,849,LV,34,25,27,2010,florida,
+Fabrizio (R),2010/01/27,2010/01/28,800,LV,31,24,26,2010,florida,
+R2000/Daily Kos (D)**,2009/11/16,2009/11/18,600,LV,27,31,32,2010,florida,

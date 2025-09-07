@@ -1,347 +1,347 @@
-pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state
-Trafalgar Group (R)*,2022/11/05,2022/11/07,1094,LV,48,47,,2022,arizona
-Data for Progress (D)**,2022/11/02,2022/11/06,1359,LV,50,49,,2022,arizona
-FOX 10/InsiderAdvantage*,2022/11/02,2022/11/02,550,LV,48,48,,2022,arizona
-Remington Research (R)*,2022/11/01,2022/11/02,1075,LV,47,48,,2022,arizona
-Marist,2022/10/31,2022/11/02,1015,LV,47,50,,2022,arizona
-Emerson,2022/10/30,2022/11/01,1000,LV,48,48,,2022,arizona
-FOX News,2022/10/26,2022/10/30,,LV,46,47,,2022,arizona
-OH Predictive Insights*,2022/10/24,2022/10/26,600,LV,46,48,,2022,arizona
-NY Times/Siena*,2022/10/24,2022/10/26,604,LV,45,51,,2022,arizona
-FOX 10/InsiderAdvantage*,2022/10/24,2022/10/25,550,LV,43,45,,2022,arizona
-Univision/Shaw \u0026amp; Co.,2022/10/19,2022/10/26,1000,RV,40,44,,2022,arizona
-Daily Wire/Trafalgar,2022/10/16,2022/10/17,1078,LV,46,47,,2022,arizona
-Data for Progress (D)**,2022/10/11,2022/10/17,893,LV,47,47,,2022,arizona
-Federalist/Susquehanna*,2022/10/14,2022/10/18,600,LV,45,48,,2022,arizona
-KPHO-TV/HighGround*,2022/10/12,2022/10/13,500,LV,40,42,,2022,arizona
-FOX 10/InsiderAdvantage*,2022/10/11,2022/10/11,550,LV,42,46,,2022,arizona
-CBS News/YouGov,2022/09/30,2022/10/04,1164,LV,48,51,,2022,arizona
-CNN,2022/09/26,2022/10/02,795,LV,45,51,,2022,arizona
-FOX News,2022/09/22,2022/09/26,,LV,42,47,,2022,arizona
-Arizona Republic/Suffolk*,2022/09/21,2022/09/25,500,LV,42,49,,2022,arizona
-Marist,2022/09/17,2022/09/22,1076,LV,45,50,,2022,arizona
-Data for Progress (D)**,2022/09/15,2022/09/19,768,LV,47,48,,2022,arizona
-Trafalgar Group (R)*,2022/09/14,2022/09/17,1080,LV,45,47,,2022,arizona
-Fabrizio/Anzalone*,2022/09/08,2022/09/15,500,LV,42,50,,2022,arizona
-Emerson,2022/09/06,2022/09/07,627,LV,45,47,,2022,arizona
-FOX 10/InsiderAdvantage*,2022/09/06,2022/09/07,550,LV,39,45,,2022,arizona
-Trafalgar Group (R)*,2022/08/24,2022/08/27,1074,LV,44,48,,2022,arizona
-FOX News,2022/08/12,2022/08/16,1012,RV,42,50,,2022,arizona
-Quinnipiac,2022/10/19,2022/10/23,1879,LV,41,56,,2022,connecticut
-The Hill/Emerson,2022/10/19,2022/10/21,1000,LV,40,53,,2022,connecticut
- CT Examiner/Fabrizio,2022/10/10,2022/10/13,1200,LV,44,49,,2022,connecticut
-WFSB-TV/CT Insider,2022/09/15,2022/09/21,626,LV,40,53,,2022,connecticut
-Quinnipiac,2022/09/15,2022/09/19,1911,LV,40,57,,2022,connecticut
-The Hill/Emerson,2022/09/07,2022/09/09,1000,LV,36,49,,2022,connecticut
-The Hill/Emerson,2022/05/10,2022/05/11,1000,RV,36,52,,2022,connecticut
-Trafalgar Group (R),2022/11/03,2022/11/05,1123,LV,54,44,,2022,ohio
-Data for Progress (D)**,2022/11/02,2022/11/05,1413,LV,55,45,,2022,ohio
-Cygnal (Tracking),2022/11/01,2022/11/03,1498,LV,49,43,,2022,ohio
-Remington Research (R)*,2022/11/01,2022/11/02,1125,LV,48,43,,2022,ohio
-Emerson,2022/10/30,2022/11/01,1000,LV,53,44,,2022,ohio
-Marist,2022/10/17,2022/10/20,942,LV,47,47,,2022,ohio
-Spectrum News/Siena,2022/10/14,2022/10/19,644,LV,46,46,,2022,ohio
-USA Today/Suffolk,2022/10/11,2022/10/15,500,LV,47,45,,2022,ohio
-Trafalgar Group (R),2022/10/10,2022/10/12,1081,LV,47,44,,2022,ohio
-Data for Progress (D)**,2022/10/07,2022/10/12,1016,LV,49,46,,2022,ohio
-AmGreatness/Cygnal,2022/10/06,2022/10/08,640,LV,46,44,,2022,ohio
-The Hill/Emerson,2022/10/06,2022/10/07,1000,LV,46,45,,2022,ohio
-Spectrum News/Siena,2022/09/18,2022/09/22,642,LV,43,46,,2022,ohio
-Marist,2022/09/12,2022/09/15,1009,LV,48,47,,2022,ohio
-The Hill/Emerson,2022/09/12,2022/09/13,1000,LV,44,40,,2022,ohio
-Cincinnati Enquirer/Suffolk,2022/09/05,2022/09/07,500,LV,46,47,,2022,ohio
-Trafalgar Group (R),2022/08/16,2022/08/19,1087,LV,50,45,,2022,ohio
-Emerson,2022/08/15,2022/08/16,925,LV,45,42,,2022,ohio
-Columbus Dispatch/Suffolk,2022/05/22,2022/05/24,500,LV,42,39,,2022,ohio
-The Hill/Emerson*,2022/10/20,2022/10/24,1000,LV,39,49,,2022,illinois
-Chicago Sun-Times/PPP*,2022/10/10,2022/10/11,770,LV,36,50,,2022,illinois
-WGN-TV/Emerson,2022/09/21,2022/09/23,1000,RV,31,50,,2022,illinois
-Data for Progress (D)**,2022/11/02,2022/11/05,1504,LV,53,47,,2022,wisconsin
-Trafalgar Group (R),2022/11/02,2022/11/04,1095,LV,50,47,,2022,wisconsin
-Spectrum News/Siena,2022/10/27,2022/10/31,655,LV,47,45,,2022,wisconsin
-Marquette,2022/10/24,2022/11/01,679,LV,50,48,,2022,wisconsin
-The Hill/Emerson,2022/10/27,2022/10/29,1000,LV,51,46,,2022,wisconsin
-FOX News,2022/10/26,2022/10/30,,LV,48,46,,2022,wisconsin
-Data for Progress (D)**,2022/10/14,2022/10/22,1376,LV,51,46,,2022,wisconsin
-CNN,2022/10/13,2022/10/17,714,LV,50,49,,2022,wisconsin
-Marquette,2022/10/03,2022/10/09,652,LV,52,46,,2022,wisconsin
-CBS News/YouGov,2022/10/03,2022/10/06,1137,LV,50,49,,2022,wisconsin
-PPP (D),2022/09/26,2022/09/27,574,LV,47,47,,2022,wisconsin
-FOX News,2022/09/22,2022/09/26,,LV,50,45,,2022,wisconsin
-Data for Progress (D)**,2022/09/20,2022/09/22,999,LV,50,48,,2022,wisconsin
-Fabrizio/Anzalone,2022/09/18,2022/09/25,500,LV,51,46,,2022,wisconsin
-Trafalgar Group (R),2022/09/15,2022/09/19,1087,LV,49,47,,2022,wisconsin
-Emerson,2022/09/16,2022/09/18,860,LV,48,44,,2022,wisconsin
-Spectrum News/Siena,2022/09/14,2022/09/15,651,LV,47,48,,2022,wisconsin
-Marquette,2022/09/06,2022/09/11,632,LV,49,48,,2022,wisconsin
-Trafalgar Group (R),2022/08/22,2022/08/25,1091,LV,47,49,,2022,wisconsin
-FOX News,2022/08/12,2022/08/16,1006,RV,46,50,,2022,wisconsin
-Marquette,2022/08/10,2022/08/15,811,RV,44,51,,2022,wisconsin
-Marquette,2022/06/14,2022/06/20,803,RV,44,46,,2022,wisconsin
-Goucher College,2022/09/08,2022/09/12,748,LV,33,56,,2022,maryland
-The Hill/Emerson,2022/10/27,2022/10/29,1000,LV,54,33,,2022,kansas
-The Hill/Emerson,2022/09/15,2022/09/18,1000,LV,45,33,,2022,kansas
-Data for Progress (D)**,2022/10/21,2022/10/26,1039,LV,32,63,,2022,vermont
-Trafalgar Group (R),2022/09/03,2022/09/07,1072,LV,43,50,,2022,vermont
-USC Schwarzenegger,2022/10/30,2022/11/02,802,RV,37,63,,2022,california
-KGTV-TV/SurveyUSA,2022/10/07,2022/10/10,1013,LV,34,56,,2022,california
-KOCO-TV*,2022/10/26,2022/10/28,501,LV,52,38,,2022,oklahoma
-Emerson,2022/10/25,2022/10/28,1000,LV,62,34,,2022,oklahoma
-KOCO-TV*,2022/10/13,2022/10/15,500,LV,52,36,,2022,oklahoma
-Sooner Poll*,2022/10/03,2022/10/06,301,LV,52,40,,2022,oklahoma
-Sooner Poll*,2022/09/02,2022/09/07,402,LV,52,35,,2022,oklahoma
-Data for Progress (D)**,2022/11/02,2022/11/06,1436,LV,55,43,,2022,florida
-FOX 35/InsiderAdvantage,2022/11/01,2022/11/01,550,LV,51,45,,2022,florida
-Spectrum News/Siena,2022/10/30,2022/11/01,659,LV,51,43,,2022,florida
-Florida St./YouGov,2022/10/20,2022/10/31,1117,RV,51,44,,2022,florida
-Univ. of North Florida,2022/10/17,2022/10/24,622,LV,54,43,,2022,florida
-Data for Progress (D)**,2022/10/19,2022/10/23,1251,LV,51,44,,2022,florida
-Florida Atlantic University,2022/10/12,2022/10/16,719,LV,48,42,,2022,florida
-Mason-Dixon,2022/09/26,2022/09/28,800,LV,47,41,,2022,florida
-Spectrum News/Siena,2022/09/18,2022/09/25,669,LV,48,41,,2022,florida
-USA Today/Suffolk*,2022/09/15,2022/09/18,500,LV,45,41,,2022,florida
-FOX 35/InsiderAdvantage,2022/09/05,2022/09/06,550,LV,46,44,,2022,florida
-Susquehanna,2022/08/29,2022/09/04,500,LV,47,44,,2022,florida
-Fabrizio/Anzalone,2022/08/24,2022/08/31,500,LV,49,47,,2022,florida
-Univ. of North Florida**,2022/08/08,2022/08/12,1624,RV,44,48,,2022,florida
-Univ. of North Florida,2022/02/07,2022/02/20,685,RV,46,34,,2022,florida
-Mason-Dixon,2022/02/07,2022/02/10,625,RV,49,42,,2022,florida
-USA Today/Suffolk,2022/01/26,2022/01/29,500,LV,49,41,,2022,florida
-St. Pete Polls,2021/11/18,2021/11/19,2896,RV,51,44,,2022,florida
-St. Pete Polls,2021/08/16,2021/08/17,2068,RV,48,46,,2022,florida
-Susquehanna,2021/08/04,2021/08/10,700,LV,50,39,,2022,florida
-Emerson*,2022/10/25,2022/10/28,825,LV,50,,40,2022,utah
-OH Predictive Insights*,2022/10/25,2022/10/27,600,LV,53,,34,2022,utah
-OH Predictive Insights*,2022/10/05,2022/10/06,483,LV,47,,32,2022,utah
-Deseret News/Hinckley Inst.*,2022/10/03,2022/10/06,773,LV,42,,37,2022,utah
-Deseret News/Hinckley Inst.*,2022/09/03,2022/09/21,786,LV,37,,34,2022,utah
-Deseret News/Hinckley Inst.,2022/07/13,2022/07/18,801,RV,41,,36,2022,utah
-Deseret News/Hinckley Inst.,2022/05/24,2022/06/15,803,RV,41,,35,2022,utah
-Deseret News/Hinckley Inst.,2022/05/24,2022/06/04,810,RV,41,,36,2022,utah
-FOX 5 Atlanta/InsiderAdvantage*,2022/11/06,2022/11/06,550,LV,49,47,,2022,georgia
-WANF-TV/Landmark*,2022/11/04,2022/11/07,1214,LV,47,46,,2022,georgia
-Trafalgar Group (R)*,2022/11/04,2022/11/06,1103,LV,50,47,,2022,georgia
-Data for Progress (D)**,2022/11/02,2022/11/06,1474,LV,49,48,,2022,georgia
-East Carolina U.*,2022/11/02,2022/11/05,1077,LV,49,49,,2022,georgia
-Remington Research (R)*,2022/11/01,2022/11/02,1150,LV,49,45,,2022,georgia
-Marist,2022/10/31,2022/11/02,1009,LV,48,48,,2022,georgia
-WXIA-TV/SurveyUSA*,2022/10/29,2022/11/02,1171,LV,43,49,,2022,georgia
-The Hill/Emerson,2022/10/28,2022/10/31,1000,LV,48,50,,2022,georgia
-FOX News,2022/10/26,2022/10/30,,LV,46,45,,2022,georgia
-FOX 5 Atlanta/InsiderAdvantage*,2022/10/27,2022/10/27,550,LV,48,45,,2022,georgia
-NY Times/Siena*,2022/10/24,2022/10/27,604,LV,46,49,,2022,georgia
-Rasmussen Reports,2022/10/23,2022/10/24,1053,LV,48,43,,2022,georgia
-Daily Wire/Trafalgar*,2022/10/21,2022/10/23,1076,LV,49,47,,2022,georgia
-Atlanta Journal-Constitution*,2022/10/16,2022/10/27,1022,LV,46,45,,2022,georgia
-InsiderAdvantage*,2022/10/16,2022/10/16,550,LV,44,46,,2022,georgia
-Landmark Communications*,2022/10/15,2022/10/17,500,LV,46,46,,2022,georgia
-East Carolina U.,2022/10/13,2022/10/18,905,LV,47,49,,2022,georgia
-Data for Progress (D)**,2022/10/13,2022/10/17,984,LV,47,48,,2022,georgia
-Trafalgar Group (R)*,2022/10/08,2022/10/11,1084,LV,45,46,,2022,georgia
-Quinnipiac,2022/10/07,2022/10/10,1157,LV,45,52,,2022,georgia
-The Hill/Emerson,2022/10/06,2022/10/07,1000,LV,46,48,,2022,georgia
-FOX 5 Atlanta/InsiderAdvantage*,2022/10/04,2022/10/04,550,LV,44,47,,2022,georgia
-WXIA-TV/SurveyUSA,2022/09/30,2022/10/04,1076,LV,38,50,,2022,georgia
-Atlanta Journal-Constitution*,2022/09/25,2022/10/04,1030,LV,43,46,,2022,georgia
-FOX News,2022/09/22,2022/09/26,,LV,43,47,,2022,georgia
-Data for Progress (D)**,2022/09/16,2022/09/20,1006,LV,46,46,,2022,georgia
-CBS News/YouGov,2022/09/14,2022/09/19,1178,LV,49,51,,2022,georgia
-Marist*,2022/09/12,2022/09/15,992,LV,45,47,,2022,georgia
-Atlanta Journal-Constitution*,2022/09/05,2022/09/16,861,LV,46,44,,2022,georgia
-Quinnipiac,2022/09/08,2022/09/12,1287,LV,46,52,,2022,georgia
-FOX 5 Atlanta/InsiderAdvantage*,2022/09/06,2022/09/07,550,LV,47,44,,2022,georgia
-Emerson,2022/08/28,2022/08/29,600,LV,46,44,,2022,georgia
-Trafalgar Group (R)*,2022/08/24,2022/08/27,1079,LV,48,47,,2022,georgia
-FOX 5 Atlanta/InsiderAdvantage*,2022/07/26,2022/07/27,750,LV,45,48,,2022,georgia
-FOX News,2022/07/22,2022/07/26,901,RV,42,46,,2022,georgia
-WXIA-TV/SurveyUSA,2022/07/21,2022/07/24,604,LV,39,48,,2022,georgia
-Atlanta Journal-Constitution*,2022/07/14,2022/07/22,902,LV,43,46,,2022,georgia
-Fabrizio/Anzalone,2022/07/05,2022/07/11,1197,LV,47,50,,2022,georgia
-Data for Progress (D)**,2022/07/01,2022/07/06,1131,LV,49,47,,2022,georgia
-Quinnipiac,2022/06/23,2022/06/27,1497,RV,44,54,,2022,georgia
-East Carolina U.,2022/06/06,2022/06/09,868,RV,46,46,,2022,georgia
-WXIA-TV/SurveyUSA,2022/04/22,2022/04/27,1278,LV,45,50,,2022,georgia
-The Hill/Emerson,2022/04/01,2022/04/03,1013,RV,49,45,,2022,georgia
-Quinnipiac,2022/01/19,2022/01/24,1702,RV,49,48,,2022,georgia
-Atlanta Journal-Constitution,2022/01/13,2022/01/24,872,RV,47,44,,2022,georgia
-PPP (D),2021/08/04,2021/08/05,622,RV,46,48,,2022,georgia
-Trafalgar/InsiderAdvantage,2021/03/07,2021/03/09,1093,LV,48,46,,2022,georgia
-Trafalgar Group (R)*,2022/10/30,2022/11/01,1079,LV,53,42,,2022,missouri
-KMOV-TV/SurveyUSA*,2022/10/27,2022/11/01,791,LV,50,41,,2022,missouri
-The Hill/Emerson,2022/10/26,2022/10/28,1000,LV,54,40,,2022,missouri
-Missouri Scout*,2022/10/24,2022/10/25,1011,LV,51,42,,2022,missouri
-The Hill/Emerson,2022/09/23,2022/09/27,1160,LV,49,38,,2022,missouri
-KMOV-TV/SurveyUSA,2022/09/14,2022/09/18,670,LV,47,36,,2022,missouri
-Missouri Scout*,2022/08/24,2022/08/25,1011,LV,51,40,,2022,missouri
-SLU/YouGov,2022/08/08,2022/08/16,900,LV,49,38,,2022,missouri
-KMOV-TV/SurveyUSA*,2022/07/24,2022/07/27,1591,LV,36,30,,2022,missouri
-KMOV-TV/SurveyUSA,2022/05/11,2022/05/15,1412,LV,47,34,,2022,missouri
-Des Moines Register,2022/10/31,2022/11/03,801,LV,53,41,,2022,iowa
-Des Moines Register,2022/10/09,2022/10/12,620,LV,46,43,,2022,iowa
-Emerson,2022/10/04,2022/10/03,959,LV,49,38,,2022,iowa
-Des Moines Register,2022/07/10,2022/07/13,597,LV,47,39,,2022,iowa
-Mason-Dixon,2022/01/19,2022/01/22,625,RV,55,39,,2022,kentucky
-FOX 29/InsiderAdvantage*,2022/11/03,2022/11/03,750,LV,48,46,,2022,pennsylvania
-Trafalgar Group (R)*,2022/11/01,2022/11/03,1097,LV,48,46,,2022,pennsylvania
-Remington Research (R)*,2022/11/01,2022/11/02,1180,LV,47,44,,2022,pennsylvania
-Marist,2022/10/31,2022/11/02,1021,LV,45,51,,2022,pennsylvania
-Susquehanna,2022/10/28,2022/11/01,700,LV,48,47,,2022,pennsylvania
-The Hill/Emerson,2022/10/28,2022/10/31,1000,LV,48,47,,2022,pennsylvania
-USA Today/Suffolk*,2022/10/27,2022/10/30,500,LV,45,47,,2022,pennsylvania
-FOX News,2022/10/26,2022/10/30,,LV,43,47,,2022,pennsylvania
-InsiderAdvantage*,2022/10/26,2022/10/26,750,LV,48,45,,2022,pennsylvania
-Morning Call,2022/10/24,2022/10/28,460,LV,47,47,,2022,pennsylvania
-NY Times/Siena*,2022/10/24,2022/10/26,620,LV,44,49,,2022,pennsylvania
-CBS News/YouGov,2022/10/21,2022/10/24,1084,LV,49,51,,2022,pennsylvania
-Rasmussen Reports,2022/10/19,2022/10/20,972,LV,43,45,,2022,pennsylvania
-FOX 29/InsiderAdvantage*,2022/10/19,2022/10/19,550,LV,46,46,,2022,pennsylvania
-Franklin \u0026amp; Marshall**,2022/10/14,2022/10/23,384,LV,45,49,,2022,pennsylvania
-CNN,2022/10/13,2022/10/17,703,LV,46,51,,2022,pennsylvania
-Daily Wire/Trafalgar*,2022/10/08,2022/10/11,1078,LV,45,47,,2022,pennsylvania
-Fabrizio/Anzalone,2022/10/04,2022/10/12,1400,LV,46,48,,2022,pennsylvania
-USA Today/Suffolk*,2022/09/27,2022/09/30,500,LV,40,46,,2022,pennsylvania
-The Hill/Emerson,2022/09/23,2022/09/26,1000,LV,43,45,,2022,pennsylvania
-FOX News,2022/09/22,2022/09/26,,LV,44,48,,2022,pennsylvania
-WTXF-TV/InsiderAdvantage*,2022/09/23,2022/09/24,550,LV,42,45,,2022,pennsylvania
-Marist,2022/09/19,2022/09/22,1043,LV,44,51,,2022,pennsylvania
-Franklin \u0026amp; Marshall**,2022/09/09,2022/09/25,,LV,43,47,,2022,pennsylvania
-Morning Call,2022/09/13,2022/09/16,420,LV,44,49,,2022,pennsylvania
-Trafalgar Group (R)*,2022/09/13,2022/09/15,1078,LV,46,48,,2022,pennsylvania
-CBS News/YouGov,2022/09/06,2022/09/12,1188,LV,47,52,,2022,pennsylvania
-Susquehanna,2022/08/20,2022/08/28,718,LV,44,49,,2022,pennsylvania
-Emerson,2022/08/22,2022/08/23,1034,LV,44,48,,2022,pennsylvania
-Franklin \u0026amp; Marshall**,2022/08/15,2022/08/21,522,RV,30,43,,2022,pennsylvania
-Trafalgar Group (R)*,2022/08/15,2022/08/18,1096,LV,44,48,,2022,pennsylvania
-FOX News*,2022/07/22,2022/07/26,908,RV,36,47,,2022,pennsylvania
-Fabrizio/Anzalone,2022/06/12,2022/06/19,1382,LV,44,50,,2022,pennsylvania
-USA Today/Suffolk*,2022/06/10,2022/06/13,500,LV,37,46,,2022,pennsylvania
-Alabama Daily News*,2022/10/27,2022/10/29,616,LV,57,28,,2022,alabama
-AmGreatness/InsiderAdvantage,2022/10/31,2022/10/31,550,LV,46,48,,2022,washington
-Trafalgar Group (R),2022/10/25,2022/10/28,1207,LV,48,49,,2022,washington
-KHQ-TV,2022/10/26,2022/10/27,506,LV,45,51,,2022,washington
-KING-TV/SurveyUSA,2022/10/14,2022/10/19,589,LV,41,49,,2022,washington
-Emerson,2022/09/30,2022/10/01,782,LV,42,51,,2022,washington
-PPP (D),2022/09/27,2022/09/28,770,LV,40,52,,2022,washington
-KOMO/Strategies 360,2022/09/23,2022/09/26,370,LV,40,52,,2022,washington
-Trafalgar Group (R),2022/09/21,2022/09/24,1091,LV,47,49,,2022,washington
-Elway Poll,2022/09/12,2022/09/15,403,LV,38,50,,2022,washington
-PPP (D),2022/09/06,2022/09/07,620,RV,39,48,,2022,washington
-Trafalgar Group (R),2022/08/30,2022/09/01,1087,LV,46,49,,2022,washington
-Elway Poll,2022/07/07,2022/07/11,400,LV,33,53,,2022,washington
-KING-TV/SurveyUSA,2022/07/06,2022/07/10,596,LV,33,51,,2022,washington
-KING-TV/SurveyUSA,2021/10/25,2021/10/28,542,RV,31,49,,2022,washington
-Trafalgar Group (R)*,2022/11/05,2022/11/07,1089,LV,50,45,,2022,nevada
-AmGreatness/InsiderAdvantage,2022/11/04,2022/11/04,550,LV,50,44,,2022,nevada
-Data for Progress (D)**,2022/11/02,2022/11/06,1100,LV,49,47,,2022,nevada
-The Hill/Emerson,2022/10/26,2022/10/29,2000,LV,51,46,,2022,nevada
-USA Today/Suffolk*,2022/10/24,2022/10/28,500,LV,44,45,,2022,nevada
-Susquehanna,2022/10/24,2022/10/27,500,LV,48,43,,2022,nevada
-Nevada Independent,2022/10/24,2022/10/27,600,LV,41,43,,2022,nevada
-Trafalgar Group (R)*,2022/10/21,2022/10/24,1100,LV,50,46,,2022,nevada
-NY Times/Siena*,2022/10/19,2022/10/24,885,LV,47,47,,2022,nevada
-AmGreatness/InsiderAdvantage,2022/10/20,2022/10/20,550,LV,48,46,,2022,nevada
-Univision/Shaw \u0026amp; Co.,2022/10/17,2022/10/19,1000,RV,42,44,,2022,nevada
-CBS News/YouGov,2022/10/14,2022/10/19,1049,LV,49,48,,2022,nevada
-Data for Progress (D)**,2022/10/13,2022/10/19,819,LV,49,48,,2022,nevada
-USA Today/Suffolk*,2022/10/04,2022/10/07,500,LV,44,46,,2022,nevada
-CNN,2022/09/26,2022/10/02,828,LV,48,46,,2022,nevada
-Nevada Independent,2022/09/20,2022/09/29,741,LV,45,43,,2022,nevada
-AmGreatness/InsiderAdvantage,2022/09/20,2022/09/20,550,LV,46,43,,2022,nevada
-Trafalgar Group (R)*,2022/09/17,2022/09/20,1086,LV,47,43,,2022,nevada
-Data for Progress (D)**,2022/09/14,2022/09/19,874,LV,47,46,,2022,nevada
-The Hill/Emerson,2022/09/08,2022/09/10,1000,LV,42,41,,2022,nevada
-Fabrizio/Anzalone,2022/08/16,2022/08/24,1332,LV,47,48,,2022,nevada
-Trafalgar Group (R)*,2022/08/15,2022/08/18,1082,LV,47,44,,2022,nevada
-Reno Gazette-Journal/Suffolk*,2022/08/14,2022/08/17,500,RV,38,45,,2022,nevada
-The Hill/Emerson,2022/07/07,2022/07/10,2000,RV,41,44,,2022,nevada
-Nevada Independent,2022/04/01,2022/04/09,748,RV,35,43,,2022,nevada
-Reno Gazette-Journal/Suffolk,2022/04/02,2022/04/06,500,LV,43,40,,2022,nevada
-Nevada Independent,2022/01/19,2022/01/26,755,RV,35,44,,2022,nevada
-Trafalgar Group (R),2021/11/24,2021/11/29,1034,LV,44,41,,2022,nevada
-Nevada Independent,2021/09/15,2021/09/22,600,LV,41,46,,2022,nevada
-Univ. of Arkansas,2022/10/13,2022/10/31,557,LV,63,30,,2022,arkansas
-Talk Business/Hendrix College*,2022/10/17,2022/10/18,835,LV,44,31,,2022,arkansas
-Talk Business/Hendrix College*,2022/09/12,2022/09/12,835,LV,44,31,,2022,arkansas
-Data for Progress (D)**,2022/11/01,2022/11/06,1393,LV,42,56,,2022,oregon
-Emerson*,2022/10/31,2022/11/01,975,LV,34,51,,2022,oregon
-Data for Progress (D)**,2022/10/16,2022/10/18,1021,LV,40,51,,2022,oregon
-Emerson,2022/09/30,2022/10/01,796,LV,32,51,,2022,oregon
-South Dakota St.,2022/09/28,2022/10/10,565,LV,53,28,,2022,south-dakota
-Trafalgar Group (R),2022/11/04,2022/11/06,1098,LV,51,45,,2022,north-carolina
-Data for Progress (D)**,2022/11/02,2022/11/06,1322,LV,51,45,,2022,north-carolina
-East Carolina U.,2022/11/01,2022/11/03,1183,LV,52,46,,2022,north-carolina
-Remington Research (R)*,2022/11/01,2022/11/02,1140,LV,50,43,,2022,north-carolina
-The Hill/Emerson,2022/10/27,2022/10/29,1000,LV,51,46,,2022,north-carolina
-Civitas/Cygnal*,2022/10/20,2022/10/22,600,LV,47,43,,2022,north-carolina
-Marist,2022/10/17,2022/10/20,899,LV,49,45,,2022,north-carolina
-Trafalgar Group (R)*,2022/10/16,2022/10/19,1081,LV,48,44,,2022,north-carolina
-East Carolina U.,2022/10/10,2022/10/13,902,LV,50,44,,2022,north-carolina
-WRAL-TV/SurveyUSA*,2022/09/28,2022/10/02,677,LV,43,42,,2022,north-carolina
-Civitas/Cygnal*,2022/09/24,2022/09/26,650,LV,44,44,,2022,north-carolina
-The Hill/Emerson,2022/09/15,2022/09/16,1000,LV,46,43,,2022,north-carolina
-East Carolina U.,2022/09/07,2022/09/10,1020,LV,49,46,,2022,north-carolina
-Trafalgar Group (R)*,2022/09/01,2022/09/04,1079,LV,47,44,,2022,north-carolina
-PPP (D)**,2022/08/29,2022/08/30,601,RV,41,42,,2022,north-carolina
-Civitas/Cygnal*,2022/08/13,2022/08/15,615,LV,42,42,,2022,north-carolina
-Trafalgar Group (R)*,2022/06/29,2022/07/01,1068,LV,48,45,,2022,north-carolina
-Civitas/Cygnal (R)*,2022/06/17,2022/06/19,600,LV,45,40,,2022,north-carolina
-WRAL-TV/SurveyUSA*,2022/06/08,2022/06/12,650,LV,40,44,,2022,north-carolina
-Civitas/Cygnal*,2022/05/21,2022/05/22,600,LV,44,42,,2022,north-carolina
-East Carolina U.,2022/05/19,2022/05/20,635,RV,47,39,,2022,north-carolina
-The Hill/Emerson,2022/05/07,2022/05/09,1000,RV,48,41,,2022,north-carolina
-The Hill/Emerson,2022/04/02,2022/04/04,1047,RV,50,43,,2022,north-carolina
-UNH*,2022/11/02,2022/11/06,2077,LV,48,50,,2022,new-hampshire
-AmGreatness/InsiderAdvantage,2022/11/05,2022/11/05,700,LV,48,49,,2022,new-hampshire
-Data for Progress (D)**,2022/11/02,2022/11/05,1995,LV,47,50,,2022,new-hampshire
-Daily Wire/Trafalgar*,2022/10/30,2022/11/01,1241,LV,47,46,,2022,new-hampshire
-Emerson,2022/10/30,2022/11/01,850,LV,46,50,,2022,new-hampshire
-St. Anselm,2022/10/28,2022/10/29,1541,LV,48,47,,2022,new-hampshire
-AmGreatness/InsiderAdvantage,2022/10/23,2022/10/23,600,LV,47,48,,2022,new-hampshire
-UMass Lowell*,2022/10/14,2022/10/25,600,LV,41,51,,2022,new-hampshire
-WHDH-TV/Emerson*,2022/10/18,2022/10/19,727,LV,45,48,,2022,new-hampshire
-Data for Progress (D)**,2022/10/14,2022/10/19,1392,LV,44,50,,2022,new-hampshire
-Fabrizio/Anzalone,2022/10/02,2022/10/06,500,LV,45,52,,2022,new-hampshire
-Trafalgar Group (R)*,2022/09/26,2022/09/30,1081,LV,45,48,,2022,new-hampshire
-St. Anselm,2022/09/27,2022/09/28,901,RV,43,49,,2022,new-hampshire
-Data for Progress (D)**,2022/09/23,2022/09/30,1147,LV,43,50,,2022,new-hampshire
-Boston Globe/Suffolk*,2022/09/23,2022/09/26,500,LV,41,50,,2022,new-hampshire
-UNH*,2022/09/15,2022/09/19,870,LV,41,49,,2022,new-hampshire
-WHDH-TV/Emerson,2022/09/14,2022/09/15,800,LV,40,51,,2022,new-hampshire
-UNH,2022/04/14,2022/04/18,868,LV,46,47,,2022,new-hampshire
-St. Anselm,2022/03/23,2022/03/24,1265,RV,39,44,,2022,new-hampshire
-St. Anselm,2022/01/11,2022/01/12,1215,RV,36,43,,2022,new-hampshire
-Trafalgar Group (R),2021/12/10,2021/12/12,1041,LV,40,46,,2022,new-hampshire
-UNH,2021/10/14,2021/10/18,979,LV,42,47,,2022,new-hampshire
-UNH,2021/07/15,2021/07/19,1540,LV,41,51,,2022,new-hampshire
-The Hill/Emerson,2022/10/28,2022/10/31,1000,LV,39,57,,2022,new-york
-Trafalgar Group (R)*,2022/10/27,2022/10/31,1198,LV,40,51,,2022,new-york
-Data for Progress (D)**,2022/10/26,2022/10/28,818,LV,39,56,,2022,new-york
-The Hill/Emerson,2022/10/20,2022/10/24,1000,LV,40,53,,2022,new-york
-WNYT-TV/SurveyUSA,2022/10/14,2022/10/18,702,LV,38,52,,2022,new-york
-Quinnipiac,2022/10/12,2022/10/16,1617,LV,42,54,,2022,new-york
-Marist,2022/10/03,2022/10/06,900,LV,39,52,,2022,new-york
-Siena,2022/09/16,2022/09/25,655,LV,36,55,,2022,new-york
-Emerson,2022/07/26,2022/07/28,1000,RV,31,53,,2022,new-york
-Siena,2022/07/24,2022/07/28,806,LV,35,56,,2022,new-york
-Fabrizio/Anzalone,2022/09/06,2022/09/11,500,LV,50,,,2022,alaska
-FOX 5 Atlanta/InsiderAdvantage,2022/10/27,2022/10/27,550,LV,48,45,2,2022,georgia
-Daily Wire/Trafalgar,2022/10/21,2022/10/23,1076,LV,49,47,5,2022,georgia
-Atlanta Journal-Constitution,2022/10/16,2022/10/27,1022,LV,46,45,5,2022,georgia
-Landmark Communications,2022/10/15,2022/10/17,500,LV,46,46,3,2022,georgia
-InsiderAdvantage*,2022/10/16,2022/10/16,550,LV,46,44,4,2022,georgia
-Trafalgar Group (R),2022/10/08,2022/10/11,1084,LV,45,46,4,2022,georgia
-FOX 5 Atlanta/InsiderAdvantage*,2022/10/04,2022/10/04,550,LV,44,47,3,2022,georgia
-Atlanta Journal-Constitution,2022/09/25,2022/10/04,1030,LV,43,46,4,2022,georgia
-Marist,2022/09/12,2022/09/15,992,LV,45,47,4,2022,georgia
-Atlanta Journal-Constitution,2022/09/05,2022/09/16,861,LV,46,44,3,2022,georgia
-FOX 5 Atlanta/InsiderAdvantage,2022/09/06,2022/09/07,550,LV,47,44,4,2022,georgia
-Trafalgar Group (R),2022/08/24,2022/08/27,1079,LV,48,47,3,2022,georgia
-FOX 5 Atlanta/InsiderAdvantage,2022/07/26,2022/09/27,750,LV,45,48,3,2022,georgia
-Atlanta Journal-Constitution,2022/07/14,2022/07/22,902,LV,43,46,3,2022,georgia
-Fabrizio/Anzalone,2022/09/06,2022/09/11,500,LV,38,14,,2022,alaska
-USA Today/Suffolk*,2022/10/04,2022/10/07,500,LV,44,46,1,2022,nevada
-Trafalgar Group (R)*,2022/09/17,2022/09/20,1086,LV,47,43,2,2022,nevada
-Fabrizio/Anzalone,2022/08/16,2022/08/24,1332,LV,40,44,1,2022,nevada
-Trafalgar Group (R)*,2022/08/15,2022/08/18,1082,LV,47,44,2,2022,nevada
-Reno Gazette-Journal/Suffolk,2022/08/14,2022/08/17,500,RV,38,45,0,2022,nevada
-USA Today/Suffolk,2022/09/15,2022/09/18,500,LV,45,41,1,2022,florida
+pollster,start_date,end_date,sample_size,sample_type,rep,dem,other,year,state,overlapping_special_election
+Trafalgar Group (R)*,2022/11/05,2022/11/07,1094,LV,48,47,,2022,arizona,
+Data for Progress (D)**,2022/11/02,2022/11/06,1359,LV,50,49,,2022,arizona,
+FOX 10/InsiderAdvantage*,2022/11/02,2022/11/02,550,LV,48,48,,2022,arizona,
+Remington Research (R)*,2022/11/01,2022/11/02,1075,LV,47,48,,2022,arizona,
+Marist,2022/10/31,2022/11/02,1015,LV,47,50,,2022,arizona,
+Emerson,2022/10/30,2022/11/01,1000,LV,48,48,,2022,arizona,
+FOX News,2022/10/26,2022/10/30,,LV,46,47,,2022,arizona,
+OH Predictive Insights*,2022/10/24,2022/10/26,600,LV,46,48,,2022,arizona,
+NY Times/Siena*,2022/10/24,2022/10/26,604,LV,45,51,,2022,arizona,
+FOX 10/InsiderAdvantage*,2022/10/24,2022/10/25,550,LV,43,45,,2022,arizona,
+Univision/Shaw \u0026amp; Co.,2022/10/19,2022/10/26,1000,RV,40,44,,2022,arizona,
+Daily Wire/Trafalgar,2022/10/16,2022/10/17,1078,LV,46,47,,2022,arizona,
+Data for Progress (D)**,2022/10/11,2022/10/17,893,LV,47,47,,2022,arizona,
+Federalist/Susquehanna*,2022/10/14,2022/10/18,600,LV,45,48,,2022,arizona,
+KPHO-TV/HighGround*,2022/10/12,2022/10/13,500,LV,40,42,,2022,arizona,
+FOX 10/InsiderAdvantage*,2022/10/11,2022/10/11,550,LV,42,46,,2022,arizona,
+CBS News/YouGov,2022/09/30,2022/10/04,1164,LV,48,51,,2022,arizona,
+CNN,2022/09/26,2022/10/02,795,LV,45,51,,2022,arizona,
+FOX News,2022/09/22,2022/09/26,,LV,42,47,,2022,arizona,
+Arizona Republic/Suffolk*,2022/09/21,2022/09/25,500,LV,42,49,,2022,arizona,
+Marist,2022/09/17,2022/09/22,1076,LV,45,50,,2022,arizona,
+Data for Progress (D)**,2022/09/15,2022/09/19,768,LV,47,48,,2022,arizona,
+Trafalgar Group (R)*,2022/09/14,2022/09/17,1080,LV,45,47,,2022,arizona,
+Fabrizio/Anzalone*,2022/09/08,2022/09/15,500,LV,42,50,,2022,arizona,
+Emerson,2022/09/06,2022/09/07,627,LV,45,47,,2022,arizona,
+FOX 10/InsiderAdvantage*,2022/09/06,2022/09/07,550,LV,39,45,,2022,arizona,
+Trafalgar Group (R)*,2022/08/24,2022/08/27,1074,LV,44,48,,2022,arizona,
+FOX News,2022/08/12,2022/08/16,1012,RV,42,50,,2022,arizona,
+Quinnipiac,2022/10/19,2022/10/23,1879,LV,41,56,,2022,connecticut,
+The Hill/Emerson,2022/10/19,2022/10/21,1000,LV,40,53,,2022,connecticut,
+ CT Examiner/Fabrizio,2022/10/10,2022/10/13,1200,LV,44,49,,2022,connecticut,
+WFSB-TV/CT Insider,2022/09/15,2022/09/21,626,LV,40,53,,2022,connecticut,
+Quinnipiac,2022/09/15,2022/09/19,1911,LV,40,57,,2022,connecticut,
+The Hill/Emerson,2022/09/07,2022/09/09,1000,LV,36,49,,2022,connecticut,
+The Hill/Emerson,2022/05/10,2022/05/11,1000,RV,36,52,,2022,connecticut,
+Trafalgar Group (R),2022/11/03,2022/11/05,1123,LV,54,44,,2022,ohio,
+Data for Progress (D)**,2022/11/02,2022/11/05,1413,LV,55,45,,2022,ohio,
+Cygnal (Tracking),2022/11/01,2022/11/03,1498,LV,49,43,,2022,ohio,
+Remington Research (R)*,2022/11/01,2022/11/02,1125,LV,48,43,,2022,ohio,
+Emerson,2022/10/30,2022/11/01,1000,LV,53,44,,2022,ohio,
+Marist,2022/10/17,2022/10/20,942,LV,47,47,,2022,ohio,
+Spectrum News/Siena,2022/10/14,2022/10/19,644,LV,46,46,,2022,ohio,
+USA Today/Suffolk,2022/10/11,2022/10/15,500,LV,47,45,,2022,ohio,
+Trafalgar Group (R),2022/10/10,2022/10/12,1081,LV,47,44,,2022,ohio,
+Data for Progress (D)**,2022/10/07,2022/10/12,1016,LV,49,46,,2022,ohio,
+AmGreatness/Cygnal,2022/10/06,2022/10/08,640,LV,46,44,,2022,ohio,
+The Hill/Emerson,2022/10/06,2022/10/07,1000,LV,46,45,,2022,ohio,
+Spectrum News/Siena,2022/09/18,2022/09/22,642,LV,43,46,,2022,ohio,
+Marist,2022/09/12,2022/09/15,1009,LV,48,47,,2022,ohio,
+The Hill/Emerson,2022/09/12,2022/09/13,1000,LV,44,40,,2022,ohio,
+Cincinnati Enquirer/Suffolk,2022/09/05,2022/09/07,500,LV,46,47,,2022,ohio,
+Trafalgar Group (R),2022/08/16,2022/08/19,1087,LV,50,45,,2022,ohio,
+Emerson,2022/08/15,2022/08/16,925,LV,45,42,,2022,ohio,
+Columbus Dispatch/Suffolk,2022/05/22,2022/05/24,500,LV,42,39,,2022,ohio,
+The Hill/Emerson*,2022/10/20,2022/10/24,1000,LV,39,49,,2022,illinois,
+Chicago Sun-Times/PPP*,2022/10/10,2022/10/11,770,LV,36,50,,2022,illinois,
+WGN-TV/Emerson,2022/09/21,2022/09/23,1000,RV,31,50,,2022,illinois,
+Data for Progress (D)**,2022/11/02,2022/11/05,1504,LV,53,47,,2022,wisconsin,
+Trafalgar Group (R),2022/11/02,2022/11/04,1095,LV,50,47,,2022,wisconsin,
+Spectrum News/Siena,2022/10/27,2022/10/31,655,LV,47,45,,2022,wisconsin,
+Marquette,2022/10/24,2022/11/01,679,LV,50,48,,2022,wisconsin,
+The Hill/Emerson,2022/10/27,2022/10/29,1000,LV,51,46,,2022,wisconsin,
+FOX News,2022/10/26,2022/10/30,,LV,48,46,,2022,wisconsin,
+Data for Progress (D)**,2022/10/14,2022/10/22,1376,LV,51,46,,2022,wisconsin,
+CNN,2022/10/13,2022/10/17,714,LV,50,49,,2022,wisconsin,
+Marquette,2022/10/03,2022/10/09,652,LV,52,46,,2022,wisconsin,
+CBS News/YouGov,2022/10/03,2022/10/06,1137,LV,50,49,,2022,wisconsin,
+PPP (D),2022/09/26,2022/09/27,574,LV,47,47,,2022,wisconsin,
+FOX News,2022/09/22,2022/09/26,,LV,50,45,,2022,wisconsin,
+Data for Progress (D)**,2022/09/20,2022/09/22,999,LV,50,48,,2022,wisconsin,
+Fabrizio/Anzalone,2022/09/18,2022/09/25,500,LV,51,46,,2022,wisconsin,
+Trafalgar Group (R),2022/09/15,2022/09/19,1087,LV,49,47,,2022,wisconsin,
+Emerson,2022/09/16,2022/09/18,860,LV,48,44,,2022,wisconsin,
+Spectrum News/Siena,2022/09/14,2022/09/15,651,LV,47,48,,2022,wisconsin,
+Marquette,2022/09/06,2022/09/11,632,LV,49,48,,2022,wisconsin,
+Trafalgar Group (R),2022/08/22,2022/08/25,1091,LV,47,49,,2022,wisconsin,
+FOX News,2022/08/12,2022/08/16,1006,RV,46,50,,2022,wisconsin,
+Marquette,2022/08/10,2022/08/15,811,RV,44,51,,2022,wisconsin,
+Marquette,2022/06/14,2022/06/20,803,RV,44,46,,2022,wisconsin,
+Goucher College,2022/09/08,2022/09/12,748,LV,33,56,,2022,maryland,
+The Hill/Emerson,2022/10/27,2022/10/29,1000,LV,54,33,,2022,kansas,
+The Hill/Emerson,2022/09/15,2022/09/18,1000,LV,45,33,,2022,kansas,
+Data for Progress (D)**,2022/10/21,2022/10/26,1039,LV,32,63,,2022,vermont,
+Trafalgar Group (R),2022/09/03,2022/09/07,1072,LV,43,50,,2022,vermont,
+USC Schwarzenegger,2022/10/30,2022/11/02,802,RV,37,63,,2022,california,
+KGTV-TV/SurveyUSA,2022/10/07,2022/10/10,1013,LV,34,56,,2022,california,
+KOCO-TV*,2022/10/26,2022/10/28,501,LV,52,38,,2022,oklahoma,1
+Emerson,2022/10/25,2022/10/28,1000,LV,62,34,,2022,oklahoma,1
+KOCO-TV*,2022/10/13,2022/10/15,500,LV,52,36,,2022,oklahoma,1
+Sooner Poll*,2022/10/03,2022/10/06,301,LV,52,40,,2022,oklahoma,1
+Sooner Poll*,2022/09/02,2022/09/07,402,LV,52,35,,2022,oklahoma,1
+Data for Progress (D)**,2022/11/02,2022/11/06,1436,LV,55,43,,2022,florida,
+FOX 35/InsiderAdvantage,2022/11/01,2022/11/01,550,LV,51,45,,2022,florida,
+Spectrum News/Siena,2022/10/30,2022/11/01,659,LV,51,43,,2022,florida,
+Florida St./YouGov,2022/10/20,2022/10/31,1117,RV,51,44,,2022,florida,
+Univ. of North Florida,2022/10/17,2022/10/24,622,LV,54,43,,2022,florida,
+Data for Progress (D)**,2022/10/19,2022/10/23,1251,LV,51,44,,2022,florida,
+Florida Atlantic University,2022/10/12,2022/10/16,719,LV,48,42,,2022,florida,
+Mason-Dixon,2022/09/26,2022/09/28,800,LV,47,41,,2022,florida,
+Spectrum News/Siena,2022/09/18,2022/09/25,669,LV,48,41,,2022,florida,
+USA Today/Suffolk*,2022/09/15,2022/09/18,500,LV,45,41,,2022,florida,
+FOX 35/InsiderAdvantage,2022/09/05,2022/09/06,550,LV,46,44,,2022,florida,
+Susquehanna,2022/08/29,2022/09/04,500,LV,47,44,,2022,florida,
+Fabrizio/Anzalone,2022/08/24,2022/08/31,500,LV,49,47,,2022,florida,
+Univ. of North Florida**,2022/08/08,2022/08/12,1624,RV,44,48,,2022,florida,
+Univ. of North Florida,2022/02/07,2022/02/20,685,RV,46,34,,2022,florida,
+Mason-Dixon,2022/02/07,2022/02/10,625,RV,49,42,,2022,florida,
+USA Today/Suffolk,2022/01/26,2022/01/29,500,LV,49,41,,2022,florida,
+St. Pete Polls,2021/11/18,2021/11/19,2896,RV,51,44,,2022,florida,
+St. Pete Polls,2021/08/16,2021/08/17,2068,RV,48,46,,2022,florida,
+Susquehanna,2021/08/04,2021/08/10,700,LV,50,39,,2022,florida,
+Emerson*,2022/10/25,2022/10/28,825,LV,50,,40,2022,utah,
+OH Predictive Insights*,2022/10/25,2022/10/27,600,LV,53,,34,2022,utah,
+OH Predictive Insights*,2022/10/05,2022/10/06,483,LV,47,,32,2022,utah,
+Deseret News/Hinckley Inst.*,2022/10/03,2022/10/06,773,LV,42,,37,2022,utah,
+Deseret News/Hinckley Inst.*,2022/09/03,2022/09/21,786,LV,37,,34,2022,utah,
+Deseret News/Hinckley Inst.,2022/07/13,2022/07/18,801,RV,41,,36,2022,utah,
+Deseret News/Hinckley Inst.,2022/05/24,2022/06/15,803,RV,41,,35,2022,utah,
+Deseret News/Hinckley Inst.,2022/05/24,2022/06/04,810,RV,41,,36,2022,utah,
+FOX 5 Atlanta/InsiderAdvantage*,2022/11/06,2022/11/06,550,LV,49,47,,2022,georgia,
+WANF-TV/Landmark*,2022/11/04,2022/11/07,1214,LV,47,46,,2022,georgia,
+Trafalgar Group (R)*,2022/11/04,2022/11/06,1103,LV,50,47,,2022,georgia,
+Data for Progress (D)**,2022/11/02,2022/11/06,1474,LV,49,48,,2022,georgia,
+East Carolina U.*,2022/11/02,2022/11/05,1077,LV,49,49,,2022,georgia,
+Remington Research (R)*,2022/11/01,2022/11/02,1150,LV,49,45,,2022,georgia,
+Marist,2022/10/31,2022/11/02,1009,LV,48,48,,2022,georgia,
+WXIA-TV/SurveyUSA*,2022/10/29,2022/11/02,1171,LV,43,49,,2022,georgia,
+The Hill/Emerson,2022/10/28,2022/10/31,1000,LV,48,50,,2022,georgia,
+FOX News,2022/10/26,2022/10/30,,LV,46,45,,2022,georgia,
+FOX 5 Atlanta/InsiderAdvantage*,2022/10/27,2022/10/27,550,LV,48,45,,2022,georgia,
+NY Times/Siena*,2022/10/24,2022/10/27,604,LV,46,49,,2022,georgia,
+Rasmussen Reports,2022/10/23,2022/10/24,1053,LV,48,43,,2022,georgia,
+Daily Wire/Trafalgar*,2022/10/21,2022/10/23,1076,LV,49,47,,2022,georgia,
+Atlanta Journal-Constitution*,2022/10/16,2022/10/27,1022,LV,46,45,,2022,georgia,
+InsiderAdvantage*,2022/10/16,2022/10/16,550,LV,44,46,,2022,georgia,
+Landmark Communications*,2022/10/15,2022/10/17,500,LV,46,46,,2022,georgia,
+East Carolina U.,2022/10/13,2022/10/18,905,LV,47,49,,2022,georgia,
+Data for Progress (D)**,2022/10/13,2022/10/17,984,LV,47,48,,2022,georgia,
+Trafalgar Group (R)*,2022/10/08,2022/10/11,1084,LV,45,46,,2022,georgia,
+Quinnipiac,2022/10/07,2022/10/10,1157,LV,45,52,,2022,georgia,
+The Hill/Emerson,2022/10/06,2022/10/07,1000,LV,46,48,,2022,georgia,
+FOX 5 Atlanta/InsiderAdvantage*,2022/10/04,2022/10/04,550,LV,44,47,,2022,georgia,
+WXIA-TV/SurveyUSA,2022/09/30,2022/10/04,1076,LV,38,50,,2022,georgia,
+Atlanta Journal-Constitution*,2022/09/25,2022/10/04,1030,LV,43,46,,2022,georgia,
+FOX News,2022/09/22,2022/09/26,,LV,43,47,,2022,georgia,
+Data for Progress (D)**,2022/09/16,2022/09/20,1006,LV,46,46,,2022,georgia,
+CBS News/YouGov,2022/09/14,2022/09/19,1178,LV,49,51,,2022,georgia,
+Marist*,2022/09/12,2022/09/15,992,LV,45,47,,2022,georgia,
+Atlanta Journal-Constitution*,2022/09/05,2022/09/16,861,LV,46,44,,2022,georgia,
+Quinnipiac,2022/09/08,2022/09/12,1287,LV,46,52,,2022,georgia,
+FOX 5 Atlanta/InsiderAdvantage*,2022/09/06,2022/09/07,550,LV,47,44,,2022,georgia,
+Emerson,2022/08/28,2022/08/29,600,LV,46,44,,2022,georgia,
+Trafalgar Group (R)*,2022/08/24,2022/08/27,1079,LV,48,47,,2022,georgia,
+FOX 5 Atlanta/InsiderAdvantage*,2022/07/26,2022/07/27,750,LV,45,48,,2022,georgia,
+FOX News,2022/07/22,2022/07/26,901,RV,42,46,,2022,georgia,
+WXIA-TV/SurveyUSA,2022/07/21,2022/07/24,604,LV,39,48,,2022,georgia,
+Atlanta Journal-Constitution*,2022/07/14,2022/07/22,902,LV,43,46,,2022,georgia,
+Fabrizio/Anzalone,2022/07/05,2022/07/11,1197,LV,47,50,,2022,georgia,
+Data for Progress (D)**,2022/07/01,2022/07/06,1131,LV,49,47,,2022,georgia,
+Quinnipiac,2022/06/23,2022/06/27,1497,RV,44,54,,2022,georgia,
+East Carolina U.,2022/06/06,2022/06/09,868,RV,46,46,,2022,georgia,
+WXIA-TV/SurveyUSA,2022/04/22,2022/04/27,1278,LV,45,50,,2022,georgia,
+The Hill/Emerson,2022/04/01,2022/04/03,1013,RV,49,45,,2022,georgia,
+Quinnipiac,2022/01/19,2022/01/24,1702,RV,49,48,,2022,georgia,
+Atlanta Journal-Constitution,2022/01/13,2022/01/24,872,RV,47,44,,2022,georgia,
+PPP (D),2021/08/04,2021/08/05,622,RV,46,48,,2022,georgia,
+Trafalgar/InsiderAdvantage,2021/03/07,2021/03/09,1093,LV,48,46,,2022,georgia,
+Trafalgar Group (R)*,2022/10/30,2022/11/01,1079,LV,53,42,,2022,missouri,
+KMOV-TV/SurveyUSA*,2022/10/27,2022/11/01,791,LV,50,41,,2022,missouri,
+The Hill/Emerson,2022/10/26,2022/10/28,1000,LV,54,40,,2022,missouri,
+Missouri Scout*,2022/10/24,2022/10/25,1011,LV,51,42,,2022,missouri,
+The Hill/Emerson,2022/09/23,2022/09/27,1160,LV,49,38,,2022,missouri,
+KMOV-TV/SurveyUSA,2022/09/14,2022/09/18,670,LV,47,36,,2022,missouri,
+Missouri Scout*,2022/08/24,2022/08/25,1011,LV,51,40,,2022,missouri,
+SLU/YouGov,2022/08/08,2022/08/16,900,LV,49,38,,2022,missouri,
+KMOV-TV/SurveyUSA*,2022/07/24,2022/07/27,1591,LV,36,30,,2022,missouri,
+KMOV-TV/SurveyUSA,2022/05/11,2022/05/15,1412,LV,47,34,,2022,missouri,
+Des Moines Register,2022/10/31,2022/11/03,801,LV,53,41,,2022,iowa,
+Des Moines Register,2022/10/09,2022/10/12,620,LV,46,43,,2022,iowa,
+Emerson,2022/10/04,2022/10/03,959,LV,49,38,,2022,iowa,
+Des Moines Register,2022/07/10,2022/07/13,597,LV,47,39,,2022,iowa,
+Mason-Dixon,2022/01/19,2022/01/22,625,RV,55,39,,2022,kentucky,
+FOX 29/InsiderAdvantage*,2022/11/03,2022/11/03,750,LV,48,46,,2022,pennsylvania,
+Trafalgar Group (R)*,2022/11/01,2022/11/03,1097,LV,48,46,,2022,pennsylvania,
+Remington Research (R)*,2022/11/01,2022/11/02,1180,LV,47,44,,2022,pennsylvania,
+Marist,2022/10/31,2022/11/02,1021,LV,45,51,,2022,pennsylvania,
+Susquehanna,2022/10/28,2022/11/01,700,LV,48,47,,2022,pennsylvania,
+The Hill/Emerson,2022/10/28,2022/10/31,1000,LV,48,47,,2022,pennsylvania,
+USA Today/Suffolk*,2022/10/27,2022/10/30,500,LV,45,47,,2022,pennsylvania,
+FOX News,2022/10/26,2022/10/30,,LV,43,47,,2022,pennsylvania,
+InsiderAdvantage*,2022/10/26,2022/10/26,750,LV,48,45,,2022,pennsylvania,
+Morning Call,2022/10/24,2022/10/28,460,LV,47,47,,2022,pennsylvania,
+NY Times/Siena*,2022/10/24,2022/10/26,620,LV,44,49,,2022,pennsylvania,
+CBS News/YouGov,2022/10/21,2022/10/24,1084,LV,49,51,,2022,pennsylvania,
+Rasmussen Reports,2022/10/19,2022/10/20,972,LV,43,45,,2022,pennsylvania,
+FOX 29/InsiderAdvantage*,2022/10/19,2022/10/19,550,LV,46,46,,2022,pennsylvania,
+Franklin \u0026amp; Marshall**,2022/10/14,2022/10/23,384,LV,45,49,,2022,pennsylvania,
+CNN,2022/10/13,2022/10/17,703,LV,46,51,,2022,pennsylvania,
+Daily Wire/Trafalgar*,2022/10/08,2022/10/11,1078,LV,45,47,,2022,pennsylvania,
+Fabrizio/Anzalone,2022/10/04,2022/10/12,1400,LV,46,48,,2022,pennsylvania,
+USA Today/Suffolk*,2022/09/27,2022/09/30,500,LV,40,46,,2022,pennsylvania,
+The Hill/Emerson,2022/09/23,2022/09/26,1000,LV,43,45,,2022,pennsylvania,
+FOX News,2022/09/22,2022/09/26,,LV,44,48,,2022,pennsylvania,
+WTXF-TV/InsiderAdvantage*,2022/09/23,2022/09/24,550,LV,42,45,,2022,pennsylvania,
+Marist,2022/09/19,2022/09/22,1043,LV,44,51,,2022,pennsylvania,
+Franklin \u0026amp; Marshall**,2022/09/09,2022/09/25,,LV,43,47,,2022,pennsylvania,
+Morning Call,2022/09/13,2022/09/16,420,LV,44,49,,2022,pennsylvania,
+Trafalgar Group (R)*,2022/09/13,2022/09/15,1078,LV,46,48,,2022,pennsylvania,
+CBS News/YouGov,2022/09/06,2022/09/12,1188,LV,47,52,,2022,pennsylvania,
+Susquehanna,2022/08/20,2022/08/28,718,LV,44,49,,2022,pennsylvania,
+Emerson,2022/08/22,2022/08/23,1034,LV,44,48,,2022,pennsylvania,
+Franklin \u0026amp; Marshall**,2022/08/15,2022/08/21,522,RV,30,43,,2022,pennsylvania,
+Trafalgar Group (R)*,2022/08/15,2022/08/18,1096,LV,44,48,,2022,pennsylvania,
+FOX News*,2022/07/22,2022/07/26,908,RV,36,47,,2022,pennsylvania,
+Fabrizio/Anzalone,2022/06/12,2022/06/19,1382,LV,44,50,,2022,pennsylvania,
+USA Today/Suffolk*,2022/06/10,2022/06/13,500,LV,37,46,,2022,pennsylvania,
+Alabama Daily News*,2022/10/27,2022/10/29,616,LV,57,28,,2022,alabama,
+AmGreatness/InsiderAdvantage,2022/10/31,2022/10/31,550,LV,46,48,,2022,washington,
+Trafalgar Group (R),2022/10/25,2022/10/28,1207,LV,48,49,,2022,washington,
+KHQ-TV,2022/10/26,2022/10/27,506,LV,45,51,,2022,washington,
+KING-TV/SurveyUSA,2022/10/14,2022/10/19,589,LV,41,49,,2022,washington,
+Emerson,2022/09/30,2022/10/01,782,LV,42,51,,2022,washington,
+PPP (D),2022/09/27,2022/09/28,770,LV,40,52,,2022,washington,
+KOMO/Strategies 360,2022/09/23,2022/09/26,370,LV,40,52,,2022,washington,
+Trafalgar Group (R),2022/09/21,2022/09/24,1091,LV,47,49,,2022,washington,
+Elway Poll,2022/09/12,2022/09/15,403,LV,38,50,,2022,washington,
+PPP (D),2022/09/06,2022/09/07,620,RV,39,48,,2022,washington,
+Trafalgar Group (R),2022/08/30,2022/09/01,1087,LV,46,49,,2022,washington,
+Elway Poll,2022/07/07,2022/07/11,400,LV,33,53,,2022,washington,
+KING-TV/SurveyUSA,2022/07/06,2022/07/10,596,LV,33,51,,2022,washington,
+KING-TV/SurveyUSA,2021/10/25,2021/10/28,542,RV,31,49,,2022,washington,
+Trafalgar Group (R)*,2022/11/05,2022/11/07,1089,LV,50,45,,2022,nevada,
+AmGreatness/InsiderAdvantage,2022/11/04,2022/11/04,550,LV,50,44,,2022,nevada,
+Data for Progress (D)**,2022/11/02,2022/11/06,1100,LV,49,47,,2022,nevada,
+The Hill/Emerson,2022/10/26,2022/10/29,2000,LV,51,46,,2022,nevada,
+USA Today/Suffolk*,2022/10/24,2022/10/28,500,LV,44,45,,2022,nevada,
+Susquehanna,2022/10/24,2022/10/27,500,LV,48,43,,2022,nevada,
+Nevada Independent,2022/10/24,2022/10/27,600,LV,41,43,,2022,nevada,
+Trafalgar Group (R)*,2022/10/21,2022/10/24,1100,LV,50,46,,2022,nevada,
+NY Times/Siena*,2022/10/19,2022/10/24,885,LV,47,47,,2022,nevada,
+AmGreatness/InsiderAdvantage,2022/10/20,2022/10/20,550,LV,48,46,,2022,nevada,
+Univision/Shaw \u0026amp; Co.,2022/10/17,2022/10/19,1000,RV,42,44,,2022,nevada,
+CBS News/YouGov,2022/10/14,2022/10/19,1049,LV,49,48,,2022,nevada,
+Data for Progress (D)**,2022/10/13,2022/10/19,819,LV,49,48,,2022,nevada,
+USA Today/Suffolk*,2022/10/04,2022/10/07,500,LV,44,46,,2022,nevada,
+CNN,2022/09/26,2022/10/02,828,LV,48,46,,2022,nevada,
+Nevada Independent,2022/09/20,2022/09/29,741,LV,45,43,,2022,nevada,
+AmGreatness/InsiderAdvantage,2022/09/20,2022/09/20,550,LV,46,43,,2022,nevada,
+Trafalgar Group (R)*,2022/09/17,2022/09/20,1086,LV,47,43,,2022,nevada,
+Data for Progress (D)**,2022/09/14,2022/09/19,874,LV,47,46,,2022,nevada,
+The Hill/Emerson,2022/09/08,2022/09/10,1000,LV,42,41,,2022,nevada,
+Fabrizio/Anzalone,2022/08/16,2022/08/24,1332,LV,47,48,,2022,nevada,
+Trafalgar Group (R)*,2022/08/15,2022/08/18,1082,LV,47,44,,2022,nevada,
+Reno Gazette-Journal/Suffolk*,2022/08/14,2022/08/17,500,RV,38,45,,2022,nevada,
+The Hill/Emerson,2022/07/07,2022/07/10,2000,RV,41,44,,2022,nevada,
+Nevada Independent,2022/04/01,2022/04/09,748,RV,35,43,,2022,nevada,
+Reno Gazette-Journal/Suffolk,2022/04/02,2022/04/06,500,LV,43,40,,2022,nevada,
+Nevada Independent,2022/01/19,2022/01/26,755,RV,35,44,,2022,nevada,
+Trafalgar Group (R),2021/11/24,2021/11/29,1034,LV,44,41,,2022,nevada,
+Nevada Independent,2021/09/15,2021/09/22,600,LV,41,46,,2022,nevada,
+Univ. of Arkansas,2022/10/13,2022/10/31,557,LV,63,30,,2022,arkansas,
+Talk Business/Hendrix College*,2022/10/17,2022/10/18,835,LV,44,31,,2022,arkansas,
+Talk Business/Hendrix College*,2022/09/12,2022/09/12,835,LV,44,31,,2022,arkansas,
+Data for Progress (D)**,2022/11/01,2022/11/06,1393,LV,42,56,,2022,oregon,
+Emerson*,2022/10/31,2022/11/01,975,LV,34,51,,2022,oregon,
+Data for Progress (D)**,2022/10/16,2022/10/18,1021,LV,40,51,,2022,oregon,
+Emerson,2022/09/30,2022/10/01,796,LV,32,51,,2022,oregon,
+South Dakota St.,2022/09/28,2022/10/10,565,LV,53,28,,2022,south-dakota,
+Trafalgar Group (R),2022/11/04,2022/11/06,1098,LV,51,45,,2022,north-carolina,
+Data for Progress (D)**,2022/11/02,2022/11/06,1322,LV,51,45,,2022,north-carolina,
+East Carolina U.,2022/11/01,2022/11/03,1183,LV,52,46,,2022,north-carolina,
+Remington Research (R)*,2022/11/01,2022/11/02,1140,LV,50,43,,2022,north-carolina,
+The Hill/Emerson,2022/10/27,2022/10/29,1000,LV,51,46,,2022,north-carolina,
+Civitas/Cygnal*,2022/10/20,2022/10/22,600,LV,47,43,,2022,north-carolina,
+Marist,2022/10/17,2022/10/20,899,LV,49,45,,2022,north-carolina,
+Trafalgar Group (R)*,2022/10/16,2022/10/19,1081,LV,48,44,,2022,north-carolina,
+East Carolina U.,2022/10/10,2022/10/13,902,LV,50,44,,2022,north-carolina,
+WRAL-TV/SurveyUSA*,2022/09/28,2022/10/02,677,LV,43,42,,2022,north-carolina,
+Civitas/Cygnal*,2022/09/24,2022/09/26,650,LV,44,44,,2022,north-carolina,
+The Hill/Emerson,2022/09/15,2022/09/16,1000,LV,46,43,,2022,north-carolina,
+East Carolina U.,2022/09/07,2022/09/10,1020,LV,49,46,,2022,north-carolina,
+Trafalgar Group (R)*,2022/09/01,2022/09/04,1079,LV,47,44,,2022,north-carolina,
+PPP (D)**,2022/08/29,2022/08/30,601,RV,41,42,,2022,north-carolina,
+Civitas/Cygnal*,2022/08/13,2022/08/15,615,LV,42,42,,2022,north-carolina,
+Trafalgar Group (R)*,2022/06/29,2022/07/01,1068,LV,48,45,,2022,north-carolina,
+Civitas/Cygnal (R)*,2022/06/17,2022/06/19,600,LV,45,40,,2022,north-carolina,
+WRAL-TV/SurveyUSA*,2022/06/08,2022/06/12,650,LV,40,44,,2022,north-carolina,
+Civitas/Cygnal*,2022/05/21,2022/05/22,600,LV,44,42,,2022,north-carolina,
+East Carolina U.,2022/05/19,2022/05/20,635,RV,47,39,,2022,north-carolina,
+The Hill/Emerson,2022/05/07,2022/05/09,1000,RV,48,41,,2022,north-carolina,
+The Hill/Emerson,2022/04/02,2022/04/04,1047,RV,50,43,,2022,north-carolina,
+UNH*,2022/11/02,2022/11/06,2077,LV,48,50,,2022,new-hampshire,
+AmGreatness/InsiderAdvantage,2022/11/05,2022/11/05,700,LV,48,49,,2022,new-hampshire,
+Data for Progress (D)**,2022/11/02,2022/11/05,1995,LV,47,50,,2022,new-hampshire,
+Daily Wire/Trafalgar*,2022/10/30,2022/11/01,1241,LV,47,46,,2022,new-hampshire,
+Emerson,2022/10/30,2022/11/01,850,LV,46,50,,2022,new-hampshire,
+St. Anselm,2022/10/28,2022/10/29,1541,LV,48,47,,2022,new-hampshire,
+AmGreatness/InsiderAdvantage,2022/10/23,2022/10/23,600,LV,47,48,,2022,new-hampshire,
+UMass Lowell*,2022/10/14,2022/10/25,600,LV,41,51,,2022,new-hampshire,
+WHDH-TV/Emerson*,2022/10/18,2022/10/19,727,LV,45,48,,2022,new-hampshire,
+Data for Progress (D)**,2022/10/14,2022/10/19,1392,LV,44,50,,2022,new-hampshire,
+Fabrizio/Anzalone,2022/10/02,2022/10/06,500,LV,45,52,,2022,new-hampshire,
+Trafalgar Group (R)*,2022/09/26,2022/09/30,1081,LV,45,48,,2022,new-hampshire,
+St. Anselm,2022/09/27,2022/09/28,901,RV,43,49,,2022,new-hampshire,
+Data for Progress (D)**,2022/09/23,2022/09/30,1147,LV,43,50,,2022,new-hampshire,
+Boston Globe/Suffolk*,2022/09/23,2022/09/26,500,LV,41,50,,2022,new-hampshire,
+UNH*,2022/09/15,2022/09/19,870,LV,41,49,,2022,new-hampshire,
+WHDH-TV/Emerson,2022/09/14,2022/09/15,800,LV,40,51,,2022,new-hampshire,
+UNH,2022/04/14,2022/04/18,868,LV,46,47,,2022,new-hampshire,
+St. Anselm,2022/03/23,2022/03/24,1265,RV,39,44,,2022,new-hampshire,
+St. Anselm,2022/01/11,2022/01/12,1215,RV,36,43,,2022,new-hampshire,
+Trafalgar Group (R),2021/12/10,2021/12/12,1041,LV,40,46,,2022,new-hampshire,
+UNH,2021/10/14,2021/10/18,979,LV,42,47,,2022,new-hampshire,
+UNH,2021/07/15,2021/07/19,1540,LV,41,51,,2022,new-hampshire,
+The Hill/Emerson,2022/10/28,2022/10/31,1000,LV,39,57,,2022,new-york,
+Trafalgar Group (R)*,2022/10/27,2022/10/31,1198,LV,40,51,,2022,new-york,
+Data for Progress (D)**,2022/10/26,2022/10/28,818,LV,39,56,,2022,new-york,
+The Hill/Emerson,2022/10/20,2022/10/24,1000,LV,40,53,,2022,new-york,
+WNYT-TV/SurveyUSA,2022/10/14,2022/10/18,702,LV,38,52,,2022,new-york,
+Quinnipiac,2022/10/12,2022/10/16,1617,LV,42,54,,2022,new-york,
+Marist,2022/10/03,2022/10/06,900,LV,39,52,,2022,new-york,
+Siena,2022/09/16,2022/09/25,655,LV,36,55,,2022,new-york,
+Emerson,2022/07/26,2022/07/28,1000,RV,31,53,,2022,new-york,
+Siena,2022/07/24,2022/07/28,806,LV,35,56,,2022,new-york,
+Fabrizio/Anzalone,2022/09/06,2022/09/11,500,LV,50,,,2022,alaska,
+FOX 5 Atlanta/InsiderAdvantage,2022/10/27,2022/10/27,550,LV,48,45,2,2022,georgia,
+Daily Wire/Trafalgar,2022/10/21,2022/10/23,1076,LV,49,47,5,2022,georgia,
+Atlanta Journal-Constitution,2022/10/16,2022/10/27,1022,LV,46,45,5,2022,georgia,
+Landmark Communications,2022/10/15,2022/10/17,500,LV,46,46,3,2022,georgia,
+InsiderAdvantage*,2022/10/16,2022/10/16,550,LV,46,44,4,2022,georgia,
+Trafalgar Group (R),2022/10/08,2022/10/11,1084,LV,45,46,4,2022,georgia,
+FOX 5 Atlanta/InsiderAdvantage*,2022/10/04,2022/10/04,550,LV,44,47,3,2022,georgia,
+Atlanta Journal-Constitution,2022/09/25,2022/10/04,1030,LV,43,46,4,2022,georgia,
+Marist,2022/09/12,2022/09/15,992,LV,45,47,4,2022,georgia,
+Atlanta Journal-Constitution,2022/09/05,2022/09/16,861,LV,46,44,3,2022,georgia,
+FOX 5 Atlanta/InsiderAdvantage,2022/09/06,2022/09/07,550,LV,47,44,4,2022,georgia,
+Trafalgar Group (R),2022/08/24,2022/08/27,1079,LV,48,47,3,2022,georgia,
+FOX 5 Atlanta/InsiderAdvantage,2022/07/26,2022/09/27,750,LV,45,48,3,2022,georgia,
+Atlanta Journal-Constitution,2022/07/14,2022/07/22,902,LV,43,46,3,2022,georgia,
+Fabrizio/Anzalone,2022/09/06,2022/09/11,500,LV,38,14,,2022,alaska,
+USA Today/Suffolk*,2022/10/04,2022/10/07,500,LV,44,46,1,2022,nevada,
+Trafalgar Group (R)*,2022/09/17,2022/09/20,1086,LV,47,43,2,2022,nevada,
+Fabrizio/Anzalone,2022/08/16,2022/08/24,1332,LV,40,44,1,2022,nevada,
+Trafalgar Group (R)*,2022/08/15,2022/08/18,1082,LV,47,44,2,2022,nevada,
+Reno Gazette-Journal/Suffolk,2022/08/14,2022/08/17,500,RV,38,45,0,2022,nevada,
+USA Today/Suffolk,2022/09/15,2022/09/18,500,LV,45,41,1,2022,florida,
